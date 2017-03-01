@@ -29,9 +29,7 @@ Yeap, you are right! Now let's talks about LXC :-)
 
 ## What's LXC
 
-LXC is about "what resources you want to isolate" and is currently made up of a few separate components and was created by engineers from IBM:
-
-Let's take a look how we can isolate the SSHD -  [http://lxc.sourceforge.net/man/lxc.html](http://lxc.sourceforge.net/man/lxc.html).
+LXC is about "what resources you want to isolate" so let's take a look how we can isolate the SSHD service -  [http://lxc.sourceforge.net/man/lxc.html](http://lxc.sourceforge.net/man/lxc.html).
 
 > The default configuration is to isolate the pids, the sysv ipc and the mount points. If you want to run a simple shell inside a container, a basic configuration is needed, especially if you want to share the rootfs. If you want to run an application like sshd, you should provide a new network stack and a new hostname. If you want to avoid conflicts with some files eg. /var/run/httpd.pid, you should remount /var/run with an empty directory. If you want to avoid the conflicts in all the cases, you can specify a rootfs for the container. The rootfs can be a directory tree, previously bind mounted with the initial rootfs, so you can still use your distro but with your own /etc and /home
 
