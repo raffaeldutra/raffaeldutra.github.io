@@ -1,4 +1,4 @@
-baseurl = "http://raffaeldutra.github.io"
+baseurl = "https://raffaeldutra.github.io"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "beautifulhugo"
@@ -37,6 +37,12 @@ pygmentCodeFences = true
   url = "/page/about"
   weight = 2
 
+  [[Languages.en.menu.main]]
+  name = "CV"
+  url = "/page/cv"
+  weight = 2
+
+
   [Languages.ptbr]
   title = "#/usr/bin/share beer"
   weight = 1
@@ -50,4 +56,9 @@ pygmentCodeFences = true
   [[Languages.ptbr.menu.main]]
   name = "SOBRE MIM"
   url = "/ptbr/page/about/"
-  weight = 2
+  weight = 3
+
+  [[Languages.ptbr.menu.main]]
+  name = "CV"
+  url = "/ptbr/page/cv"
+  weight = 3
