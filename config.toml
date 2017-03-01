@@ -1,0 +1,53 @@
+baseurl = "http://raffaeldutra.github.io.local"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+theme = "beautifulhugo"
+pygmentsuseclasses = true
+pygmentCodeFences = true
+
+[Params]
+  subtitle = "knowledgement and ideas"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  commit = false
+
+[Author]
+  name = "Rafael Dutra"
+  email = "raffaeldutra@gmail.com"
+  facebook = "sysrafaeldutra"
+  googleplus = "+RafaelDutra"
+  github = "raffaeldutra"
+  twitter = "rafaeldutra"
+  linkedin = "raffaeldutra"
+  instagram = "raff4eldutra"
+
+  [Languages]
+  [Languages.en]
+  title = "#/usr/bin/share beer"
+  weight = 1
+  languageName = "English"
+
+  [[Languages.en.menu.main]]
+  name = "MAIN"
+  url = "/"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  name = "ABOUT"
+  url = "/page/about"
+  weight = 2
+
+  [Languages.ptbr]
+  title = "#/usr/bin/share beer"
+  weight = 1
+  languageName = "Português"
+
+  [[Languages.ptbr.menu.main]]
+  url    = "/ptbr"
+  name   = "PRINCIPAL"
+  weight = 1
+
+  [[Languages.ptbr.menu.main]]
+  name = "SOBRE MIM"
+  url = "/ptbr/page/about/"
+  weight = 2
