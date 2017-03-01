@@ -1,7 +1,30 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
+
 Vagrant.configure(2) do |config|
+
+  module OS
+    def OS.windows?
+      (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
+    end
+
+    def OS.mac?
+      (/darwin/ =~ RUBY_PLATFORM) != nil
+    end
+
+    def OS.unix?
+      !OS.windows?
+    end
+
+    def OS.linux?
+      OS.unix? and not OS.mac?
+    end
+  end
+
+  mount   = __dir__
+  mountDirectory = "/var/www/html"
+
   config.vm.box = "ubuntu/trusty64"
   config.vm.network "forwarded_port", guest: 80, host: 80
   config.vm.network "private_network", ip: "192.168.33.130"
@@ -14,9 +37,9 @@ Vagrant.configure(2) do |config|
     sudo snap install hugo
   SHELL
 
-    config.vm.synced_folder ".", "/var/www/html",
-    id: "v-root",
-    mount_options: ["rw", "tcp", "nolock", "noacl", "async"],
-    type: "nfs",
-    nfs_udp: false
+    if OS.linux?
+      config.vm.synced_folder "#{mount}", "#{mountDirectory}", id: "v-root", mount_options: ["rw", "tcp", "nolock", "noacl", "async"], type: "nfs", nfs_udp: false
+    else
+      config.vm.synced_folder "#{mount}", "#{mountDirectory}", type: "nfs"
+    end
 end
