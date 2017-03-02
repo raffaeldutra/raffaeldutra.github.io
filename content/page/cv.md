@@ -1,13 +1,13 @@
 +++
 date = "2017-03-02T12:15:24-03:00"
 title = "Rafael Dutra"
-draft = true
 
 +++
 
 Brazilian, single, 30 years old.  
 Bento Amaral, 26/206 - Partenon - Porto Alegre/RS  
-Mobile: (51) 9 9972 7599  
+Mobile: (51) 9 9972 7599
+Email: raffaeldutra@gmail.com
 
 ### Personal Statement  
 10+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.

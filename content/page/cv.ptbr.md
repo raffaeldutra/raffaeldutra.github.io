@@ -1,6 +1,5 @@
 +++
-bigimg = ""
-date = "2014-07-11T10:54:24+02:00"
+date = "2017-03-02T12:15:24-03:00"
 title = "Rafael Dutra"
 
 +++
@@ -8,6 +7,7 @@ title = "Rafael Dutra"
 Brasileiro, solteiro, 30 anos.  
 Bento Amaral, 26/206 - Partenon - Porto Alegre/RS  
 Mobile: (51) 9 9972 7599  
+Email: raffaeldutra@gmail.com
 
 ### Resumo Profissional
 Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
@@ -48,7 +48,7 @@ Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configur
 
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  
-Ago/2015 - present
+Ago/2015 - Set/2016
 
 * Serviços em Cloud (Google Cloud, AWS e Digital Ocean).
 * Gerenciamento de DNS. Shell Script (nível avançado).
