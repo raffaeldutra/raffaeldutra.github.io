@@ -33,14 +33,14 @@ Trabalhando alocado para AGCO (Agriculture Corporation).
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-*Projetos na AGCO*
-* Automação para desenvolvimento em Oracle
+##### Projetos na AGCO
+**Automação para desenvolvimento em Oracle**
 Neste caso, a demanda era criar uma ferramenta para desenvolvedores criarem scripts para Oracle, onde estes scripts tinham que passar por alguns "pipelines de validação" até chegar em produção.
 
-* Bamboo usando Docker
+**Bamboo usando Docker**
 Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplicação que eram desenvolvidas por outras empresas. Nosso principal problema era ter o mesmo ambiente de desenvolvimento em produção. Usando Docker conseguimos resolver este problema.
 
-* Ambientes em Shell Script
+**Ambientes em Shell Script**
 Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash e OpenJDK.
 
 * VMI (Vendor management Inventory)

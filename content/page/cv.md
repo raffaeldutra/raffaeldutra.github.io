@@ -21,7 +21,7 @@ Oct/2016 - Present
 
 I was working on site for AGCO (Agriculture Corporation).
 
-###### AGCO - IT Specialist
+##### AGCO - IT Specialist
 * Deployment and infrastructure automation (Docker, Docker Compose, Bash and Puppet).
 * Continuous integration (Git, Bitbucket, Bamboo and Confluence)
 * Logs and metrics monitoring (Elasticsearch, Logstash).
@@ -31,16 +31,16 @@ I was working on site for AGCO (Agriculture Corporation).
 * Linux server administration (Ubuntu Server and Debian).
 * Documents processes and procedures required for developers.
 * Learns new applications and functionalities as required.
-* Participates in special projects, usually involving implementation of a new tool or application.
+* Participates in special projects, usually involving implementation of a new tool or application.  
 
-*AGCO Projects*
-* Oracle automation using Docker for development
+##### AGCO Projects
+**Oracle automation using Docker for development**  
 On this case, the demand was build a tool for developers create scripts for Oracle, where this scripts have to pass for some "pipelines" until it get to production.
 
-* Bamboo using Docker
+**Bamboo using Docker**  
 Many of our projects we use Docker for build the application developed by other companies. Our main problem was to have the same environment used in development to production, using Docker the problem was solved.
 
-* Shell Script environments
+**Shell Script environments**  
 In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash and OpenJDK.
 
 * VMI (Vendor management Inventory)
