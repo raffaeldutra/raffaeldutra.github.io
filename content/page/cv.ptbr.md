@@ -15,23 +15,61 @@ Mais de 10 anos de experiência em tecnologia da informação, administração d
 Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e CodeIgniter), Vagrant, Bower, Composer e Git.
 
 ### Experiência Profissional
+#### PoaTek IT Consulting (http://poatek.com)
+Empresa de tecnologia - Porto Alegre/RS  
+Oct/2016 - Present
+
+Trabalhando alocado para AGCO (Agriculture Corporation).
+
+###### AGCO - TI Especialista
+* Deploy e automação de infraestrutura (Docker, Docker Compose, Bash e Puppet).
+* Integração contínua (Git, Bitbucket, Bamboo e Confluence)
+* Logs e metricas de monitoramento (Elasticsearch, Logstash).
+* Automação para ambientes de desenvolvimento (VirtualBox, Vagrant, Packer, Linux, Preseed).
+* Agendadores de Jobs (Rundeck).
+* Ferramentas para build (Gradle e Apache Maven).
+* Administração de servidores Linux (Ubuntu Server e Debian).
+* Documentção de processos para desenvolvedores.
+* Aprender novas aplicações e funcionalidades quando requiridas.
+* Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
+
+*Projetos na AGCO*
+* Automação para desenvolvimento em Oracle
+Neste caso, a demanda era criar uma ferramenta para desenvolvedores criarem scripts para Oracle, onde estes scripts tinham que passar por alguns "pipelines de validação" até chegar em produção.
+
+* Bamboo usando Docker
+Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplicação que eram desenvolvidas por outras empresas. Nosso principal problema era ter o mesmo ambiente de desenvolvimento em produção. Usando Docker conseguimos resolver este problema.
+
+* Ambientes em Shell Script
+Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash e OpenJDK.
+
+* VMI (Vendor management Inventory)
+* IMA (Implements Mobile Application)
+
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  
 Ago/2015 - present
 
-Serviços em Cloud (Google Cloud, AWS e Digital Ocean). Gerenciamento de DNS. Shell Script (nível avançado). Desenvolvimento de micro aplicações com PHP para uso interno. Backup de plataformas usando Rsync e Bacula. Docker para testes de ambientes e gerenciamento de configuração com Ansible e Puppet.
+* Serviços em Cloud (Google Cloud, AWS e Digital Ocean).
+* Gerenciamento de DNS. Shell Script (nível avançado).
+* Desenvolvimento de micro aplicações com PHP para uso interno. Backup de plataformas usando Rsync e Bacula.
+* Docker para testes de ambientes e gerenciamento de configuração com Ansible e Puppet.
 
 #### Toshyro.net Processamento de dados Ltda (http://toshyro.net)
 Empresa de desenvolvimento - Lajeado/RS, (51) 9696-2080  
 Abr/2014 - Dez/2014
 
-Desenvolvimento de sistemas com PHP (Framework CodeIgniter) e bancos MySQL. Jquery/Jquery Mobile. Administração de servidores em Cloud e virtualização interna para homologação de projetos.
+* Desenvolvimento de sistemas com PHP (Framework CodeIgniter) e bancos MySQL.
+* Jquery/Jquery Mobile.
+* Administração de servidores em Cloud e virtualização interna para homologação de projetos.
 
 #### Oxigênnio Soluções em TI (http://oxigennio.com.br)
 Empresa de desenvolvimento de websites e sistemas - Lajeado/RS, (51) 3714-1410  
 Dez/2012 - Abr/2014
 
-Desenvolvimento de páginas web com PHP. Bancos MySQL. Administração de servidores.
+* Desenvolvimento de páginas web com PHP.
+* Bancos MySQL.
+* Administração de servidores.
 
 ### Educação
 2010/1 – 2011/2 – Redes de computadores  

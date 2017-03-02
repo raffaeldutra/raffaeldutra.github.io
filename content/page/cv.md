@@ -1,7 +1,7 @@
 +++
-bigimg = ""
-date = "2014-07-11T10:54:24+02:00"
+date = "2017-03-02T12:15:24-03:00"
 title = "Rafael Dutra"
+draft = true
 
 +++
 
@@ -15,23 +15,60 @@ Mobile: (51) 9 9972 7599
 3+ years working with PHP development and frameworks (Laravel and Codeigniter), Vagrant, Bower, Composer and Git.
 
 ### Work Experience
+#### PoaTek IT Consulting (http://poatek.com)
+Technology Company - Porto Alegre/RS  
+Oct/2016 - Present
+
+I was working on site for AGCO (Agriculture Corporation).
+
+###### AGCO - IT Specialist
+* Deployment and infrastructure automation (Docker, Docker Compose, Bash and Puppet).
+* Continuous integration (Git, Bitbucket, Bamboo and Confluence)
+* Logs and metrics monitoring (Elasticsearch, Logstash).
+* Development environment automation (VirtualBox, Vagrant, Packer, Linux, Preseed).
+* Job Scheduler (Rundeck).
+* Build tools (Gradle and Apache Maven).
+* Linux server administration (Ubuntu Server and Debian).
+* Documents processes and procedures required for developers.
+* Learns new applications and functionalities as required.
+* Participates in special projects, usually involving implementation of a new tool or application.
+
+*AGCO Projects*
+* Oracle automation using Docker for development
+On this case, the demand was build a tool for developers create scripts for Oracle, where this scripts have to pass for some "pipelines" until it get to production.
+
+* Bamboo using Docker
+Many of our projects we use Docker for build the application developed by other companies. Our main problem was to have the same environment used in development to production, using Docker the problem was solved.
+
+* Shell Script environments
+In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash and OpenJDK.
+
+* VMI (Vendor management Inventory)
+* IMA (Implements Mobile Application)
+
 #### Dev4you (http://dev4you.com.br)
 Technology Company - Porto Alegre/RS  
 Aug/2015 - Sep/2016
 
-Cloud Services (Google Cloud, Amazon Web Services and Digital Ocean). DNS management. Shell Scripting (advanced level) to automate tasks. Internal micro applications development with PHP. Platform backups using rsync and Bacula. Docker containers tests for use in production and management configuration with Ansible and Puppet.
+* Cloud Services (Google Cloud, Amazon Web Services and Digital Ocean).
+* DNS management. Shell Scripting (advanced level) to automate tasks. Internal micro applications development with PHP.
+* Platform backups using rsync and Bacula.
+* Docker containers tests for use in production and management configuration with Ansible and Puppet.
 
 #### Toshyro.net Processamento de dados Ltda (http://toshyro.net)
-Development Company - Lajeado/RS, (51) 9696-2080  
+Development Company - Lajeado/RS  
 Apr/2014 - Dec/2014
 
-Systems development in PHP with CodeIgniter Framework and MySQL databases. Jquery/Jquery Mobile. Cloud Servers Administration and internal virtualization to host homologation projects.
+* Systems development in PHP with CodeIgniter Framework and MySQL databases. Jquery/Jquery Mobile.
+* Cloud Servers Administration and internal virtualization to host homologation projects.
 
 #### Oxigênnio Soluções em TI (http://oxigennio.com.br)  
-Systems and websites Company - Lajeado/RS, (51) 3714-1410  
+Systems and websites Company - Lajeado/RS  
 Dec/2012 - Apr/2014
 
-Webpages using PHP. MySQL databases. Jquery/Jquery Mobile and System Administration.  
+* Webpages using PHP.
+* MySQL databases. Jquery/Jquery Mobile.
+* System Administration.  
 
 ### Education
 2010/1 – 2011/2 – Network Computers  
