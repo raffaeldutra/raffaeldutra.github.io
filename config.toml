@@ -4,6 +4,7 @@ languageCode = "en-us"
 theme = "beautifulhugo"
 pygmentsuseclasses = true
 pygmentCodeFences = true
+googleAnalytics = "UA-92899338-1"
 
 [Params]
 subtitle = "knowledgement and ideas"
@@ -12,7 +13,7 @@ favicon = "img/favicon.ico"
 commit = false
 
 [Params.cv]
-age = 30  
+age = 30
 
 [Author]
 name = "Rafael Dutra"
