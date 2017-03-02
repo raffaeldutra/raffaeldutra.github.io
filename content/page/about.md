@@ -27,7 +27,7 @@ So, here is not only about technology in general, but about everything that I li
 Here's a list that I like mostly.
 
 - Beard, if I could, it will be like Gimli at Lord Of The Rings.
-- I love my girlfriend [Danielle Pagani](http://danillepagani.me), who will be a PhD.
+- I love my girlfriend [Danielle Pagani](http://daniellepagani.me), who will be a PhD.
 - Music!
 - Travel as much as possible
 - Tracks
