@@ -6,59 +6,62 @@ pygmentsuseclasses = true
 pygmentCodeFences = true
 
 [Params]
-  subtitle = "knowledgement and ideas"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  commit = false
+subtitle = "knowledgement and ideas"
+logo = "img/avatar-icon.png"
+favicon = "img/favicon.ico"
+commit = false
+
+[Params.cv]
+age = 30  
 
 [Author]
-  name = "Rafael Dutra"
-  email = "raffaeldutra@gmail.com"
-  facebook = "sysrafaeldutra"
-  googleplus = "+RafaelDutra"
-  github = "raffaeldutra"
-  twitter = "rafaeldutra"
-  linkedin = "raffaeldutra"
-  instagram = "raff4eldutra"
+name = "Rafael Dutra"
+email = "raffaeldutra@gmail.com"
+facebook = "sysrafaeldutra"
+googleplus = "+RafaelDutra"
+github = "raffaeldutra"
+twitter = "rafaeldutra"
+linkedin = "raffaeldutra"
+instagram = "raff4eldutra"
 
-  [Languages]
-  [Languages.en]
-  title = "#/usr/bin/share beer"
-  weight = 1
-  languageName = "English"
+[Languages]
+[Languages.en]
+title = "#/usr/bin/share beer"
+weight = 1
+languageName = "English"
 
-  [[Languages.en.menu.main]]
-  name = "MAIN"
-  url = "/"
-  weight = 1
+[[Languages.en.menu.main]]
+name = "MAIN"
+url = "/"
+weight = 1
 
-  [[Languages.en.menu.main]]
-  name = "ABOUT"
-  url = "/page/about"
-  weight = 2
+[[Languages.en.menu.main]]
+name = "ABOUT"
+url = "/page/about"
+weight = 2
 
-  [[Languages.en.menu.main]]
-  name = "CV"
-  url = "/page/cv"
-  weight = 2
+[[Languages.en.menu.main]]
+name = "CV"
+url = "/page/cv"
+weight = 2
 
 
-  [Languages.ptbr]
-  title = "#/usr/bin/share beer"
-  weight = 1
-  languageName = "Português"
+[Languages.ptbr]
+title = "#/usr/bin/share beer"
+weight = 1
+languageName = "Português"
 
-  [[Languages.ptbr.menu.main]]
-  url    = "/ptbr"
-  name   = "PRINCIPAL"
-  weight = 1
+[[Languages.ptbr.menu.main]]
+url    = "/ptbr"
+name   = "PRINCIPAL"
+weight = 1
 
-  [[Languages.ptbr.menu.main]]
-  name = "SOBRE MIM"
-  url = "/ptbr/page/about/"
-  weight = 3
+[[Languages.ptbr.menu.main]]
+name = "SOBRE MIM"
+url = "/ptbr/page/about/"
+weight = 3
 
-  [[Languages.ptbr.menu.main]]
-  name = "CV"
-  url = "/ptbr/page/cv"
-  weight = 3
+[[Languages.ptbr.menu.main]]
+name = "CV"
+url = "/ptbr/page/cv"
+weight = 3
