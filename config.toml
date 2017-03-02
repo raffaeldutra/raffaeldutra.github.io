@@ -5,6 +5,7 @@ theme = "beautifulhugo"
 pygmentsuseclasses = true
 pygmentCodeFences = true
 googleAnalytics = "UA-92899338-1"
+#disqusShortname = "raffaeldutra-github-io"
 
 [Params]
 subtitle = "knowledgement and ideas"
@@ -27,7 +28,7 @@ instagram = "raff4eldutra"
 
 [Languages]
 [Languages.en]
-title = "#/usr/bin/share beer"
+title = "#/share beer"
 weight = 1
 languageName = "English"
 
@@ -48,7 +49,7 @@ weight = 2
 
 
 [Languages.ptbr]
-title = "#/usr/bin/share beer"
+title = "#/share beer"
 weight = 1
 languageName = "Português"
 
