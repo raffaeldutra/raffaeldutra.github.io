@@ -19,7 +19,7 @@ Email: raffaeldutra@gmail.com
 Technology Company - Porto Alegre/RS  
 Oct/2016 - Present
 
-I was working on site for AGCO (Agriculture Corporation).
+Working on site for AGCO (Agriculture Corporation).
 
 ##### AGCO - IT Specialist
 * Deployment and infrastructure automation (Docker, Docker Compose, Bash and Puppet).
