@@ -91,5 +91,3 @@ LXC is currently made of a few separate components:
 * Distribution container templates
 
 Docker until version 0.9 has been used LXC as default driver to communicate with API Kernel, but since them, it is been using libcontainer, a pure Go library which was developed to access the Kernel’s container APIs directly, without any other dependencies.
-
-Docker now is using libcontainer as I mentioned before.
