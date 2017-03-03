@@ -6,7 +6,7 @@ title = "Rafael Dutra"
 +++
 
 Brasileiro, solteiro, 30 anos.  
-Bento Amaral, 26/206 - Partenon - Porto Alegre/RS  
+Porto Alegre/RS  
 Mobile: (51) 9 9972 7599  
 
 ### Resumo Profissional
