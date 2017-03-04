@@ -25,7 +25,7 @@ Working on site for AGCO (Agriculture Corporation).
 * Deployment and infrastructure automation (Docker, Docker Compose, Bash and Puppet).
 * Continuous integration (Git, Bitbucket, Bamboo and Confluence)
 * Logs and metrics monitoring (Elasticsearch, Logstash).
-* Development environment automation (VirtualBox, Vagrant, Packer, Linux, Preseed).
+* Development environment automation (VirtualBox, [Vagrant](https://atlas.hashicorp.com/raffaeldutra), [Packer](https://github.com/raffaeldutra/packer), Linux, Preseed).
 * Job Scheduler (Rundeck).
 * Build tools (Gradle and Apache Maven).
 * Linux server administration (Ubuntu Server and Debian).

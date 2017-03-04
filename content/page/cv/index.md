@@ -1,14 +1,12 @@
 +++
-date = "2014-07-11T10:54:24+02:00"
-subtitle = ""
-title = ""
-bigimg = ""
+date = "2017-03-04T12:54:24-03:00"
+title = "Curriculum"
 
 +++
 
 I'm leaving here some pages and downloads to see what I do.
 
-You will see different page versions, each one of them with more ou less informations due to the tools and links mentioned on the page.
+You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
 
 So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
 
