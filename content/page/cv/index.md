@@ -1,0 +1,22 @@
++++
+date = "2014-07-11T10:54:24+02:00"
+subtitle = ""
+title = ""
+bigimg = ""
+
++++
+
+I'm leaving here some pages and downloads to see what I do.
+
+You will see different page versions, each one of them with more ou less informations due to the tools and links mentioned on the page.
+
+So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
+
+[English](/page/cv/resume)  
+[Download PDF format](https://docs.google.com/document/d/1JmTWhfuiP6VPAfj2H2S6BpPBBw852mDDVMtS9lPumb8/export?format=pdf)  
+[Download DOC format](https://docs.google.com/document/d/1JmTWhfuiP6VPAfj2H2S6BpPBBw852mDDVMtS9lPumb8/export?format=doc)
+
+
+[Português](/ptbr/page/cv/resume)  
+[Download PDF format](https://docs.google.com/document/d/1R0NZdjbuIEMw4mhGMMBMNdVcgc71lrzX0eEIhW7bHUM/export?format=pdf)  
+[Download DOC format](https://docs.google.com/document/d/1R0NZdjbuIEMw4mhGMMBMNdVcgc71lrzX0eEIhW7bHUM/export?format=doc)
