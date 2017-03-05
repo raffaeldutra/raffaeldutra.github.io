@@ -29,41 +29,59 @@ instagram = "raff4eldutra"
 [Languages]
 [Languages.en]
 title = "#/share beer"
-weight = 1
 languageName = "English"
+
+[[Languages.en.menu.main]]
+name = "PTBR"
+url = "/ptbr"
+weight = 1
 
 [[Languages.en.menu.main]]
 name = "MAIN"
 url = "/"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "ABOUT"
-url = "/page/about"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "CV"
 url = "/page/cv"
-weight = 2
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "PRESENTATIONS"
+url = "/page/presentations"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "ABOUT"
+url = "/page/about"
+weight = 5
 
 
 [Languages.ptbr]
 title = "#/share beer"
-weight = 1
 languageName = "Português"
+
+[[Languages.ptbr.menu.main]]
+url    = "/"
+name   = "EN"
+weight = 1
 
 [[Languages.ptbr.menu.main]]
 url    = "/ptbr"
 name   = "PRINCIPAL"
-weight = 1
-
-[[Languages.ptbr.menu.main]]
-name = "SOBRE MIM"
-url = "/ptbr/page/about/"
-weight = 3
+weight = 2
 
 [[Languages.ptbr.menu.main]]
 name = "CV"
 url = "/ptbr/page/cv"
 weight = 3
+
+[[Languages.ptbr.menu.main]]
+name = "PALESTRAS"
+url = "/ptbr/page/presentations"
+weight = 4
+
+[[Languages.ptbr.menu.main]]
+name = "SOBRE MIM"
+url = "/ptbr/page/about/"
+weight = 5
