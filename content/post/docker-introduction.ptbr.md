@@ -18,7 +18,7 @@ Por definição em [https://opensource.com/resources/what-docker](https://openso
 
 Aqui está uma imagem que representa a "pilha" de tecnologia do Docker.
 
-![Docker](https://www.docker.com/sites/default/files/WhatIsDocker_2_VMs_0-2_1.png)
+![Docker](https://calm.io/wp-content/uploads/2016/webinar/deploying_docker_containers_in_production/img/what-is-vm-diagram.png)
 
 Então, isso signifia que você pode colocar toda a tecnologia necesária em um container, pelo menos você deveria, e por qual motivo você deveria? Pelo motivo que isso é um dos "pilares" da conternerização.
 
