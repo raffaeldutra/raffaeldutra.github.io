@@ -9,6 +9,7 @@ title = "Palestras"
 
 ### Resumo da palestra
 Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
+
 * Aplicação auto contida
 * Ambientes iguais
 * Padronização com melhores práticas

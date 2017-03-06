@@ -9,6 +9,7 @@ title = "Talks"
 
 ### Summary of the lecture
 Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+
 * Embedded application
 * Same environments
 * Patterns as best practices
