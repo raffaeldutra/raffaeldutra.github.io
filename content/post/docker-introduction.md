@@ -23,13 +23,13 @@ So, that means you can put all the necessary technology into a container, at lea
 
 ## Okay, but how it works?
 
-Docker is nothing new, but the opposite, it exists since the first release on August/2008, but before that (Kernel 2.6.27) LXC exists and it was full functional at Kernel 2.6.29. Okay, but we are talking about Docker, not LXC.
+Docker is nothing new in terms of containers, but the opposite, containers exists since the first release on August/2008, but before that (Kernel 2.6.27) LXC exists and it was full functional at Kernel 2.6.29. Okay, but we are talking about Docker, not LXC.
 
 Yeap, you are right! Now let's talks about LXC :-)
 
-## What's LXC
+## What's LXC?
 
-LXC is about "what resources you want to isolate" so let's take a look how we can isolate the SSHD service -  [http://lxc.sourceforge.net/man/lxc.html](http://lxc.sourceforge.net/man/lxc.html).
+LXC is about "what resources you want to isolate", so let's take a look how we can isolate the SSHD service -  [http://lxc.sourceforge.net/man/lxc.html](http://lxc.sourceforge.net/man/lxc.html).
 
 > The default configuration is to isolate the pids, the sysv ipc and the mount points. If you want to run a simple shell inside a container, a basic configuration is needed, especially if you want to share the rootfs. If you want to run an application like sshd, you should provide a new network stack and a new hostname. If you want to avoid conflicts with some files eg. /var/run/httpd.pid, you should remount /var/run with an empty directory. If you want to avoid the conflicts in all the cases, you can specify a rootfs for the container. The rootfs can be a directory tree, previously bind mounted with the initial rootfs, so you can still use your distro but with your own /etc and /home
 
