@@ -35,10 +35,9 @@ LXC is about "what resources you want to isolate", so let's take a look how we c
 
 Here is an example of directory tree for sshd:
 
-{{< highlight shell >}}
+<pre class="prettyprint">
 [root@lxc sshd]$ tree -d rootfs
-
-rootfs
+|rootfs
 |-- bin
 |-- dev
 |   |-- pts
@@ -60,12 +59,11 @@ rootfs
     |       `-- sshd
     `-- run
         `-- sshd
-
-{{</ highlight >}}
+</pre>
 
 And here the mount points associate with it:
 
-{{< highlight shell >}}
+<pre class="prettyprint">
 [root@lxc sshd]$ cat fstab
 
 /lib /home/root/sshd/rootfs/lib none ro,bind 0 0
@@ -73,7 +71,7 @@ And here the mount points associate with it:
 /usr /home/root/sshd/rootfs/usr none ro,bind 0 0
 /sbin /home/root/sshd/rootfs/sbin none ro,bind 0 0
 
-{{</ highlight >}}
+</pre>
 
 ## LXC components
 
