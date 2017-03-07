@@ -4,6 +4,20 @@ title = "Palestras"
 
 +++
 
+
+## Introdução ao Docker
+#### Poatek - 2017-02-22
+
+### Resumo
+Tópicos
+
+* O que é Docker
+* Motivos para utilizar
+* Demo
+
+### Slides utilizados
+<iframe src="https://docs.google.com/presentation/d/1-2StfxZVM5UChe2z4dqiPhtLZMDdzWPK18k5yJB62EA/embed?start=true&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Introdução ao Docker
 #### Tchê Linux - 2017-04-29
 
