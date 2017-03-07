@@ -53,7 +53,7 @@ weight = 4
 
 [[Languages.en.menu.main]]
 name = "ABOUT"
-url = "/page/about"
+url = "/page/about/me"
 weight = 5
 
 
@@ -83,5 +83,5 @@ weight = 4
 
 [[Languages.ptbr.menu.main]]
 name = "SOBRE MIM"
-url = "/ptbr/page/about/"
+url = "/ptbr/page/about/me"
 weight = 5
