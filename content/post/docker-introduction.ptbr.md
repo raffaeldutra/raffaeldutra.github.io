@@ -1,7 +1,6 @@
 +++
 date = "2017-02-27"
-draft = true
-title = "Docker Introduction"
+title = "Introdução ao Docker"
 tags = [ "docker", "infraestrutura", "automação", "desenvolvimento" ]
 categories = [
   "development",
