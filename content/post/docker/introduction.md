@@ -6,7 +6,6 @@ categories = [
   "development",
   "docker"
 ]
-slug = "docker-introduction"
 +++
 
 ## What's Docker?
