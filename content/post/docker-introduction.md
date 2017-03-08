@@ -88,3 +88,7 @@ LXC is currently made of a few separate components:
 * Distribution container templates
 
 Docker until version 0.9 has been used LXC as default driver to communicate with API Kernel, but since them, it is been using libcontainer, a pure Go library which was developed to access the Kernel’s container APIs directly, without any other dependencies.
+
+So, LXC is a Kernel "component/module/technology" that allow us to creat a virtual environment closed and limited. As LXC executes that process isolated, an "abstraction", that process when need to runs again in other machine with LXC support, the process will be executed normally and behaving as same way as originally.
+
+Process is what we calling isolation whom we're talking about until now, like in the SSHD example before. SSH was isolated/closed like it was a process and it is independent (just dependent from LXC), so it could be execute from anywhere
