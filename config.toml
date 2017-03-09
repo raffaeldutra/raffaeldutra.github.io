@@ -37,17 +37,29 @@ url = "/ptbr"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "MAIN"
+name = "HOME"
 url = "/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "CV"
-url = "/page/cv"
+identifier = "cv"
+name = "CURRICULUM"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "PRESENTATIONS"
+parent = "cv"
+name = "Resume"
+url = "/page/cv/resume"
+weight = 30
+
+[[Languages.en.menu.main]]
+parent = "cv"
+name = "Mini"
+url = "/page/cv/mini"
+weight = 31
+
+[[Languages.en.menu.main]]
+name = "TALKS"
 url = "/page/presentations"
 weight = 4
 
@@ -68,13 +80,25 @@ weight = 1
 
 [[Languages.ptbr.menu.main]]
 url    = "/ptbr"
-name   = "PRINCIPAL"
+name   = "HOME"
 weight = 2
 
 [[Languages.ptbr.menu.main]]
-name = "CV"
-url = "/ptbr/page/cv"
+identifier = "cv"
+name = "Curriculo"
 weight = 3
+
+[[Languages.ptbr.menu.main]]
+parent = "cv"
+name = "Resume"
+url = "/ptbr/page/cv/resume"
+weight = 30
+
+[[Languages.ptbr.menu.main]]
+parent = "cv"
+name = "Mini"
+url = "/ptbr/page/cv/mini"
+weight = 31
 
 [[Languages.ptbr.menu.main]]
 name = "PALESTRAS"
