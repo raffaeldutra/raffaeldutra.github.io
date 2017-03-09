@@ -1,7 +1,7 @@
 +++
 date = "2017-02-27"
 title = "Introdução ao Docker"
-tags = [ "docker", "infraestrutura", "automação", "desenvolvimento" ]
+tags = [ "docker", "infraestrutura", "automacao", "desenvolvimento" ]
 categories = [
   "development",
   "docker"
