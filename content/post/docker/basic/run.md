@@ -19,7 +19,7 @@ Como mencionado, verifique que na saída ele não conseguiu encontrar a imagem l
 Unable to find image 'hello-world:latest' locally
 latest: Pulling from library/hello-world
 78445dd45222: Pull complete
-Digest: sha256:c5515758d4c5e1e838e9cd307f6c6a0d620b5e07e6f927b07d05f6d12a1ac8d7
+Digest: sha256:c5515758d4 ...
 Status: Downloaded newer image for hello-world:latest
 
 Hello from Docker!
@@ -88,4 +88,4 @@ Status: Downloaded newer image for debian:latest
 1927699cdcdfd76afe94b6596149205e85abe32cb27a632328250e0d8554d9b5
 </pre>
 
-Pronto, temos uma nova imagem em localhost onde o container que foi levantado é o com id número: *1927699cdcdfd76afe94b6596149205e85abe32cb27a632328250e0d8554d9b5*
+Pronto, temos uma nova imagem em localhost onde o container que foi levantado é o com id número: *1927699cdcdfd76afe94b659614* (e o hash continua).
