@@ -22,8 +22,8 @@ email = "raffaeldutra@gmail.com"
 facebook = "sysrafaeldutra"
 googleplus = "+RafaelDutra"
 github = "raffaeldutra"
-twitter = "rafaeldutra"
-linkedin = "raffaeldutra"
+twitter = "raffaeldutra"
+linkedin = "rafaeldutra"
 instagram = "raff4eldutra"
 
 [Languages]
@@ -48,15 +48,21 @@ weight = 3
 
 [[Languages.en.menu.main]]
 parent = "cv"
+name = "Index/Downloads"
+url = "/page/cv"
+weight = 30
+
+[[Languages.en.menu.main]]
+parent = "cv"
 name = "Resume"
 url = "/page/cv/resume"
-weight = 30
+weight = 31
 
 [[Languages.en.menu.main]]
 parent = "cv"
 name = "Mini"
 url = "/page/cv/mini"
-weight = 31
+weight = 32
 
 [[Languages.en.menu.main]]
 name = "TALKS"
@@ -90,15 +96,21 @@ weight = 3
 
 [[Languages.ptbr.menu.main]]
 parent = "cv"
+name = "Index/Downloads"
+url = "/ptbr/page/cv"
+weight = 30
+
+[[Languages.ptbr.menu.main]]
+parent = "cv"
 name = "Resume"
 url = "/ptbr/page/cv/resume"
-weight = 30
+weight = 31
 
 [[Languages.ptbr.menu.main]]
 parent = "cv"
 name = "Mini"
 url = "/ptbr/page/cv/mini"
-weight = 31
+weight = 32
 
 [[Languages.ptbr.menu.main]]
 name = "PALESTRAS"
