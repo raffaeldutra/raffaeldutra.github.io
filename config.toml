@@ -5,6 +5,7 @@ theme = "beautifulhugo"
 pygmentsuseclasses = true
 pygmentCodeFences = true
 googleAnalytics = "UA-92899338-1"
+publishDir = "public"
 #disqusShortname = "raffaeldutra-github-io"
 
 [Params]
