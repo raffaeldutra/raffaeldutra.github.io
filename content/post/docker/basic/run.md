@@ -12,6 +12,8 @@ draft = true
 ## docker run  
 Ao rodar uma opção do comando docker, como por exemplo o comando abaixo *docker run hello-world*, caso a imagem não se encontre em seu computador local, ele automaticamente tenta baixar a imagem de um repositório, que neste contexto, se localiza em [https://hub.docker.com/explore/](https://hub.docker.com/explore/).
 
+<!--more-->
+
 Como mencionado, verifique que na saída ele não conseguiu encontrar a imagem localmente *Unable to find image 'hello-world:latest' locally*, portando, foi baixar ela remotamente.
 
 <pre class="prettyprint">

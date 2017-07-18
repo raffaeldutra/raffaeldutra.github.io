@@ -14,6 +14,8 @@ Por definição em [https://opensource.com/resources/what-docker](https://openso
 
 > Docker é uma ferramenta feita para rapidamente, criar, fazer deploy e roda aplicações ussando containers. Containers deixam o desenvolvedor para fazer o pacote da aplicação com todas suas partes necessárias, como bibliotecas e outras dependências, e lançar tudo isso como um único pacote.
 
+<!--more-->
+
 Aqui está uma imagem que representa a "pilha" de tecnologia do Docker.
 
 ![Docker](https://calm.io/wp-content/uploads/2016/webinar/deploying_docker_containers_in_production/img/what-is-vm-diagram.png)
