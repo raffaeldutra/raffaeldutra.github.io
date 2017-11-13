@@ -17,7 +17,9 @@ By definition on [https://opensource.com/resources/what-docker](https://opensour
 
 Here is an image that represent the Docker "stack" technology.
 
-![Docker](https://calm.io/wp-content/uploads/2016/webinar/deploying_docker_containers_in_production/img/what-is-vm-diagram.png)
+<!--more-->
+
+![Docker](http://19yw4b240vb03ws8qm25h366.wpengine.netdna-cdn.com/wp-content/uploads/Docker-API-infographic-container-devops-nordic-apis.png)
 
 So, that means you can put all the necessary technology into a container, at least you should, and why you should? Because that's on the "pillars" of containerization.
 

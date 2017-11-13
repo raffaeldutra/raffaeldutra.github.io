@@ -14,37 +14,64 @@ Mais de 10 anos de experiência em tecnologia da informação, administração d
 
 Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e CodeIgniter), Vagrant, Bower, Composer e Git.
 
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização  com Docker.
+
 ### Experiência Profissional
 #### PoaTek IT Consulting (http://poatek.com)
 Empresa de tecnologia - Porto Alegre/RS  
-Oct/2016 - Present
+Out/2016 - Presente
 
 Trabalhando alocado para AGCO (Agriculture Corporation).
 
 ###### AGCO - TI Especialista
 * Deploy e automação de infraestrutura (Docker, Docker Compose, Bash e Puppet).
 * Integração contínua (Git, Bitbucket, Bamboo e Confluence)
-* Logs e metricas de monitoramento (Elasticsearch, Logstash).
+* Logs e métricas de monitoramento (Elasticsearch, Logstash, Grafana + Telegraf and InfluxDB).
 * Automação para ambientes de desenvolvimento (VirtualBox, [Vagrant](https://atlas.hashicorp.com/raffaeldutra), [Packer](https://github.com/raffaeldutra/packer), Linux, Preseed).
 * Agendadores de Jobs (Rundeck).
 * Ferramentas para build (Gradle e Apache Maven).
-* Administração de servidores Linux (Ubuntu Server e Debian).
+* Administração de servidores Linux (Ubuntu Server).
 * Documentção de processos para desenvolvedores.
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
 ##### Projetos na AGCO
+**Puppet - Gerenciamento de Configuração**
+Este projeto foi desenvolvido completamente do zero, desde criação de um ambiente funcional em localhost para que programadores e operadores pudessem recriar toda infraestrutra que é gerenciada via Puppet até o código que realmente é enviado para todos os ambientes, como desenvolvimento, staging e produção.
+
+Documentação de processos como:
+
+* Novos pontos de montagem
+* Criar novos environments
+* Deploy de código por operadores em produção com puppet apply, utilizando Continuous Delivery
+* Criar novas máquinas com módulos específicos
+* Deploy de código com r10k
+* Como criar novos servidores Puppet utilizando Puppet
+
+Códigos desenvolvidos:
+
+* Módulo para Spring Boot (Java)
+* Estrutura de Scripts para nodes em formato YAML escritos em Ruby
+* Scripts em Shell para instaladores de agentes e configuração dos agentes
+
+Ferramentas como Vagrant, Scripts em Shell e Ruby foram os grandes pilares para que o projeto se tornasse viável.
+Todo código desenvolvido para automação era pensado em como trazer benefícios tanto para o time de desenvolvimento como de
+operações pudessem realizar mais em menos tempo.
+
 **Automação para desenvolvimento em Oracle**  
 Neste caso, a demanda era criar uma ferramenta para desenvolvedores criarem scripts para Oracle, onde estes scripts tinham que passar por alguns "pipelines de validação" até chegar em produção.
 
 **Bamboo usando Docker**  
-Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplicação que eram desenvolvidas por outras empresas. Nosso principal problema era ter o mesmo ambiente de desenvolvimento em produção. Usando Docker conseguimos resolver este problema.
+Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplicação que eram desenvolvidas por outras empresas como plugins e dependência de pacotes.
 
 **Ambientes em Shell Script**  
 Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash e OpenJDK.
 
+##### Alguns projetos que trabalhei desde o início
 * VMI (Vendor management Inventory)
 * IMA (Implements Mobile Application)
+* SNC
+* HIS
 
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  
@@ -72,6 +99,9 @@ Dez/2012 - Abr/2014
 * Administração de servidores.
 
 ### Educação
+2017/1 – Segurança da Tecnologia da Infomação  
+UNISINOS - São Leopoldo/RS. Em andamento.
+
 2010/1 – 2011/2 – Redes de computadores  
 Centro de Tecnologia em Automação e Informática - Florianópolis/SC, SENAI/SC. Não finalizado.
 
@@ -86,9 +116,16 @@ Inglês intermediário para escrita e conversação.
 Inglês avançado para leitura e escuta.
 
 ### Cursos e eventos
+
+* 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 – Lean Software Development – WildTech – Porto Alegre/RS.
-* 2011/2 – Accessing the WAN, Cisco Networking Academy, Florianópolis/SC
-* 2011/1 – Lan Switching and Wireless, Cisco Networking Academy (carta de recomendação), Florianópolis/SC.
-* 2010/2 – Routing Protocols and Concepts, Cisco Networking Academy, (carta de recomendação), Florianópolis/SC.
-* 2010/1 – Network Fundamentals, Cisco Networking Academy (carta de recomendação), Florianópolis/SC.
-* 2006-2010,2012 – 7º ao 11°, 13º Fórum Internacional de Software Livre (FISL), Porto Alegre/RS.
+* 2011/2 – Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
+* 2011/1 – Lan Switching and Wireless - Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
+* 2010/2 – Routing Protocols and Concepts, Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
+* 2010/1 – Network Fundamentals, Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
+
+
+### Eventos/Conferências
+* 2017/2 - The Developers Conference - DevOps e Containers - Porto Alegre/RS.
+* 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - Porto Alegre/RS.
+* 2006-2010,2012 – 7º ao 11° e 13º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
