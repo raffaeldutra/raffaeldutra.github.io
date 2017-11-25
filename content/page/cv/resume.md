@@ -119,8 +119,13 @@ Advanced English for listening and reading.
 * 2010/2 - Routing Protocols and Concepts - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 * 2010/1 - Network Fundamentals - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 
-
 ### Events/Conferences
-* 2017/2 - The Developers Conference - DevOps and Containers - Porto Alegre/RS.
+* 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - Porto Alegre/RS.
+* 2017/2 - [The Developers Conference - Containers](https://drive.google.com/open?id=14E-KturDexfAsZz-RQUYKPMOHI2Ny6ZO) - Porto Alegre/RS.
 * 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - Porto Alegre/RS.
-* 2006-2010,2012 – 7º ao 11° and 13º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
+* 2010/2 - [5º Solisc - Congresso Catarinense de Software Livre](https://drive.google.com/open?id=0B51KxqHg_vABaUpqWXlSbTdGVUk) - Florianópolis/SC.
+* 2010/1 - [11º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABZk04NnZGcGRfQlU) - Porto Alegre/RS.
+* 2009/1 - [10º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABUmtHd29IYnN1Z1U) - Porto Alegre/RS.
+* 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - Porto Alegre/RS.
+* 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - Porto Alegre/RS.
+* 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
