@@ -85,14 +85,7 @@ Apr/2014 - Dec/2014
 
 * Systems development in PHP with CodeIgniter Framework and MySQL databases. Jquery/Jquery Mobile.
 * Cloud Servers Administration and internal virtualization to host homologation projects.
-
-#### Oxigênnio Soluções em TI (http://oxigennio.com.br)  
-Systems and websites Company - Lajeado/RS  
-Dec/2012 - Apr/2014
-
-* Webpages using PHP.
-* MySQL databases. Jquery/Jquery Mobile.
-* System Administration.  
+  
 
 ### Education
 2017/1 – Information Technology Security  
@@ -129,3 +122,9 @@ Advanced English for listening and reading.
 * 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - Porto Alegre/RS.
 * 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - Porto Alegre/RS.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
+
+### Meetups
+* 2017/07/26 - Microservices and Docker - PUC - Porto Alegre/RS
+* 2017/06/20 - 10º Docker Meetup - PUC - Porto Alegre/RS
+* 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
+* 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS

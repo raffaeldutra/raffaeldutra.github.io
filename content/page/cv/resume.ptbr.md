@@ -90,14 +90,6 @@ Abr/2014 - Dez/2014
 * Jquery/Jquery Mobile.
 * Administração de servidores em Cloud e virtualização interna para homologação de projetos.
 
-#### Oxigênnio Soluções em TI (http://oxigennio.com.br)
-Empresa de desenvolvimento de websites e sistemas - Lajeado/RS, (51) 3714-1410  
-Dez/2012 - Abr/2014
-
-* Desenvolvimento de páginas web com PHP.
-* Bancos MySQL.
-* Administração de servidores.
-
 ### Educação
 2017/1 – Segurança da Tecnologia da Infomação  
 UNISINOS - São Leopoldo/RS. Em andamento.
@@ -134,3 +126,9 @@ Inglês avançado para leitura e escuta.
 * 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - Porto Alegre/RS.
 * 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - Porto Alegre/RS.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
+
+### Meetups
+* 2017/07/26 - Microservices and Docker - PUC - Porto Alegre/RS
+* 2017/06/20 - 10º Docker Meetup - PUC - Porto Alegre/RS
+* 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
+* 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
