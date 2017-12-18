@@ -1,8 +1,8 @@
----
-layout: page
-title: About me
-subtitle: Why I'm so great
----
++++
+date = "2017-03-01"
+title = "About me"
+subtitle = "Why I'm so great"
++++
 
 Hi, my name is Rafael Dutra, yes, just Rafael Dutra, no middle nsme.
 
@@ -21,24 +21,3 @@ Backing in 2012 at Estrela/RS, I start to work by there, until in 2015 I have th
 Death and Black Metal are my favorite music gender, but like everything I really enjoy others genders, like Medieval, Orchestres and Japanese musics, especially when the subject is RPG.
 
 I'm a Linux Sysadmin and a DevOps Enthusiast. I work trying to act on DevOps culture and process/systems automation since 2015.
-
-So, here is not only about technology in general, but about everything that I likes.
-
-Here's a list that I like mostly.
-
-- Beard, if I could, it will be like Gimli at Lord Of The Rings.
-- I love my girlfriend [Danielle Pagani](http://daniellepagani.me), who will be a PhD.
-- Music!
-- Travel as much as possible
-- Tracks
-- Speed
-- Popcorn
-- Peanut
-- Ice Cream
-- Orange juice
-
-#### Top list
-- Best movei: Lord of the rings
-- Best TV Shows: House, The Office, X Files, Vikings
-- Best game ever: Chrono Cross (Playstation)
-- Bands: So complicated, I'll leave just some of them: Iron Maiden, Immortal, Cannibal Corpse, Carcass

@@ -1,8 +1,9 @@
----
-layout: page
-title: Sobre mim
-subtitle: O motivo de eu ser um guri bom
----
++++
+date = "2017-03-01"
+title = "Sobre mim"
+subtitle = "O motivo de eu ser um guri bom"
+
++++
 
 Meu nome é Rafael Dutra, sim, apenas Rafael Dutra.
 
@@ -21,25 +22,3 @@ Voltando para Estrela em 2012, trabalhei pela região até que 2015, tive a opor
 Gosto de Death e Black Metal na maioria, mas sempre tem alguns outros estilos musicais que nos chamam atenção, como música medieval, orquestras e japonesas, especialmente quando se trata de RPG.
 
 Sou SysAdmin Linux, que é o meu ponto forte. Trabalho tentando atuar na cultura DevOps e automação de processos/sistemas desde 2015.
-
-Ah, e aqui não é apenas sobre tecnologias, aqui entra também cotidianos :)
-
-Segue uma lista do que eu realmente gosto
-
-- Barba, se pudesse, amarrava no cinto como anão
-- Eu amo minha namorada [Danielle Pagani](http://daniellepagani.me), que é Doutoranda em Biologia Marinha
-- Música!
-- Viajar sempre que possível
-- Fazer trilhas
-- Odeio altura.
-- Velocidade
-- Pipoca
-- Amendoim
-- Sorvete
-- Suco de laranja
-
-#### Top lista
-- Melhor filme: Senhor dos Anéis
-- Melhores seriados: House, The Office, X Files, Vikings
-- Melhor game: Chrono Cross (Playstation)
-- Bandas: Aqui complica, vou deixar apenas essas: Iron Maiden, Immortal, Cannibal Corpse, Carcass

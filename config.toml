@@ -2,10 +2,12 @@ baseurl = "https://raffaeldutra.github.io"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "beautifulhugo"
-pygmentsuseclasses = true
+pygmentsUseClassic = false
 pygmentCodeFences = true
 googleAnalytics = "UA-92899338-1"
 publishDir = "public"
+layoutDir = "/src/layouts"
+defaultExtension = "html"
 #disqusShortname = "raffaeldutra-github-io"
 
 [Params]
@@ -14,13 +16,13 @@ logo = "img/avatar-icon.png"
 favicon = "img/favicon.ico"
 commit = false
 
-[Params.cv]
-age = 30
+[permalinks]
+post = "/:year/:month/:day/:slug"
+blog = "/blog/:year/:month/:day/:slug"
 
 [Author]
 name = "Rafael Dutra"
 email = "raffaeldutra@gmail.com"
-facebook = "sysrafaeldutra"
 googleplus = "+RafaelDutra"
 github = "raffaeldutra"
 twitter = "raffaeldutra"
@@ -33,13 +35,8 @@ title = "#/share beer"
 languageName = "English"
 
 [[Languages.en.menu.main]]
-name = "PTBR"
-url = "/ptbr"
-weight = 1
-
-[[Languages.en.menu.main]]
 name = "HOME"
-url = "/"
+url = "/blog"
 weight = 2
 
 [[Languages.en.menu.main]]
@@ -66,9 +63,10 @@ url = "/page/cv/mini"
 weight = 32
 
 [[Languages.en.menu.main]]
-name = "TALKS"
+parent = "cv"
+name = "Talks"
 url = "/page/presentations"
-weight = 4
+weight = 33
 
 [[Languages.en.menu.main]]
 name = "ABOUT"
@@ -79,14 +77,10 @@ weight = 5
 [Languages.ptbr]
 title = "#/share beer"
 languageName = "Português"
+url = "/ptbr/blog"
 
 [[Languages.ptbr.menu.main]]
-url    = "/"
-name   = "EN"
-weight = 1
-
-[[Languages.ptbr.menu.main]]
-url    = "/ptbr"
+url    = "/ptbr/blog"
 name   = "HOME"
 weight = 2
 
@@ -114,9 +108,10 @@ url = "/ptbr/page/cv/mini"
 weight = 32
 
 [[Languages.ptbr.menu.main]]
-name = "PALESTRAS"
+parent = "cv"
+name = "Palestras"
 url = "/ptbr/page/presentations"
-weight = 4
+weight = 33
 
 [[Languages.ptbr.menu.main]]
 name = "SOBRE MIM"

@@ -1,12 +1,12 @@
 #!/usr/bin/env sh
 
 if [ "${1}" = "-p" ]; then
-    /go/bin/hugo --config /src/config.toml --themesDir /src/themes --contentDir /src/content --destination /src/public
+    /go/bin/hugo --layoutDir /src/layouts --config /src/config.toml --themesDir /src/themes --contentDir /src/content --ignoreCache --destination /src/public
 
 elif [ "${1}" = "-s" ]; then
     while [ true ]
     do
-        /go/bin/hugo server --watch true --bind 0.0.0.0 --config /src/config.toml --themesDir /src/themes --contentDir /src/content
+        /go/bin/hugo server --watch true --bind 0.0.0.0 --config /src/config.toml --layoutDir /src/layouts --themesDir /src/themes --contentDir /src/content  --ignoreCache --disableFastRender --noHHTPCache
     
         sleep 1
     done
