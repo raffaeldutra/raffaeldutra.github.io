@@ -114,6 +114,6 @@ url = "/ptbr/page/presentations"
 weight = 33
 
 [[Languages.ptbr.menu.main]]
-name = "SOBRE MIM"
+name = "Sobre"
 url = "/ptbr/page/about/me"
 weight = 5

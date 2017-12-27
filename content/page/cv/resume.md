@@ -85,7 +85,7 @@ Apr/2014 - Dec/2014
 
 * Systems development in PHP with CodeIgniter Framework and MySQL databases. Jquery/Jquery Mobile.
 * Cloud Servers Administration and internal virtualization to host homologation projects.
-  
+
 
 ### Education
 2017/1 – Information Technology Security  
@@ -112,19 +112,23 @@ Advanced English for listening and reading.
 * 2010/2 - Routing Protocols and Concepts - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 * 2010/1 - Network Fundamentals - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 
+### Lectures
+* [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
+
 ### Events/Conferences
-* 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - Porto Alegre/RS.
+* 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
 * 2017/2 - [The Developers Conference - Containers](https://drive.google.com/open?id=14E-KturDexfAsZz-RQUYKPMOHI2Ny6ZO) - Porto Alegre/RS.
-* 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - Porto Alegre/RS.
+* 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://goo.gl/photos/Y85CFFJczHamSA8J8).
+* 2016/1 - [1º TcheLinux Lajeado](https://goo.gl/photos/LDU37mWwkTgLAGUb6)
 * 2010/2 - [5º Solisc - Congresso Catarinense de Software Livre](https://drive.google.com/open?id=0B51KxqHg_vABaUpqWXlSbTdGVUk) - Florianópolis/SC.
-* 2010/1 - [11º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABZk04NnZGcGRfQlU) - Porto Alegre/RS.
+* 2010/1 - [11º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABZk04NnZGcGRfQlU) - [Porto Alegre/RS](https://photos.app.goo.gl/WHuBv3F67X4SBSl33).
 * 2009/1 - [10º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABUmtHd29IYnN1Z1U) - Porto Alegre/RS.
-* 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - Porto Alegre/RS.
-* 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - Porto Alegre/RS.
-* 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
+* 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - [Porto Alegre/RS](https://photos.app.goo.gl/TR3X05ZakoBJgdJL2).
+* 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - [Porto Alegre/RS](https://photos.app.goo.gl/rY3smS8hdX1sSWXX2).
+* 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
-* 2017/07/26 - Microservices and Docker - PUC - Porto Alegre/RS
-* 2017/06/20 - 10º Docker Meetup - PUC - Porto Alegre/RS
+* 2017/07/26 - [Microservices and Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
+* 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
 * 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
 * 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
