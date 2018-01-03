@@ -6,7 +6,7 @@ if [ "${1}" = "-p" ]; then
 elif [ "${1}" = "-s" ]; then
     while [ true ]
     do
-        /go/bin/hugo server --watch true --bind 0.0.0.0 --config /src/config.toml --layoutDir /src/layouts --themesDir /src/themes --contentDir /src/content  --ignoreCache --disableFastRender --noHHTPCache
+        /go/bin/hugo server --watch true --bind 0.0.0.0 --config /src/config.toml --layoutDir /src/layouts --themesDir /src/themes --contentDir /src/content  --ignoreCache --disableFastRender
     
         sleep 1
     done
