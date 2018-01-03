@@ -132,3 +132,8 @@ Advanced English for listening and reading.
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
 * 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
 * 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
+
+### Videos on Youtube
+* [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
+    * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
+    * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
