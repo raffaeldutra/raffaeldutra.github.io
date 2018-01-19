@@ -13,11 +13,11 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
 * Português
   * [Currículo](/ptbr/page/cv/resume)
   * [Mini Currículo](/ptbr/page/cv/mini)
-  * [Download para formato PDF](https://docs.google.com/document/d/1R0NZdjbuIEMw4mhGMMBMNdVcgc71lrzX0eEIhW7bHUM/export?format=pdf)
-  * [Download para formato DOC](https://docs.google.com/document/d/1R0NZdjbuIEMw4mhGMMBMNdVcgc71lrzX0eEIhW7bHUM/export?format=doc)
+  * [Download para formato PDF](https://docs.google.com/document/d/1UyS_hzIhHGMx8A8AkDZ_c4sDSitF7K9ufg9WYr4UnVc/export?format=pdf)
+  * [Download para formato DOC](https://docs.google.com/document/d/1UyS_hzIhHGMx8A8AkDZ_c4sDSitF7K9ufg9WYr4UnVc/export?format=doc)
 
 * Inglês
     * [Currículo](/page/cv/resume)
     * [Mini Currículo](/page/cv/mini)
-    * [Download para formato PDF](https://docs.google.com/document/d/1JmTWhfuiP6VPAfj2H2S6BpPBBw852mDDVMtS9lPumb8/export?format=pdf)
-    * [Download para formato DOC](https://docs.google.com/document/d/1JmTWhfuiP6VPAfj2H2S6BpPBBw852mDDVMtS9lPumb8/export?format=doc)
+    * [Download para formato PDF](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=pdf)
+    * [Download para formato DOC](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=doc)
