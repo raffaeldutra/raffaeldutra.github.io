@@ -1,7 +1,7 @@
-+++
-date = "2017-03-02T12:15:24-03:00"
-title = "Rafael Dutra"
-+++
+---
+date: "2017-03-02T12:15:24-03:00"
+title: "Rafael Dutra"
+---
 
 Brasileiro, solteiro, 31 anos.  
 <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
