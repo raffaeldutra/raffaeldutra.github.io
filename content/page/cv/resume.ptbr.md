@@ -1,13 +1,12 @@
 +++
 date = "2017-03-02T12:15:24-03:00"
 title = "Rafael Dutra"
-
 +++
 
-Brasileiro, solteiro, 30 anos.  
-Porto Alegre/RS  
-Mobile: (51) 9 9972 7599  
-Email: raffaeldutra@gmail.com
+Brasileiro, solteiro, 31 anos.  
+<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
+Mobile: <a href="tel:+55 51 9 9972 7599">51 9 9972 7599</a>  
+Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Resumo Profissional
 Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
@@ -66,12 +65,6 @@ Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplica
 
 **Ambientes em Shell Script**  
 Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash e OpenJDK.
-
-##### Alguns projetos que trabalhei desde o início
-* VMI (Vendor management Inventory)
-* IMA (Implements Mobile Application)
-* SNC
-* HIS
 
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  

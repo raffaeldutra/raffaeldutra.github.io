@@ -1,12 +1,12 @@
 +++
-date = "2017-03-02T12:15:24-03:00"
+date = "2017-03-02"
 title = "Rafael Dutra"
 +++
 
-Brazilian, single, 30 years old.  
-Porto Alegre/RS  
-Mobile: (51) 9 9972 7599  
-Email: raffaeldutra@gmail.com
+Brazilian, single, 31 years old.  
+<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
+Mobile: <a href="tel:+55 51 9 9972 7599">51 9 9972 7599</a>  
+Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
 10+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
@@ -65,10 +65,6 @@ Many of our projects uses Docker for build the application developed by other co
 
 **Shell Script environments**  
 In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash and OpenJDK.
-
-###### Some projects that I worked since the it starts
-* VMI (Vendor management Inventory)
-* IMA (Implements Mobile Application)
 
 #### Dev4you (http://dev4you.com.br)
 Technology Company - Porto Alegre/RS  

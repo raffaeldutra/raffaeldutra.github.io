@@ -4,6 +4,10 @@ languageCode = "en-us"
 theme = "beautifulhugo"
 pygmentsUseClassic = false
 pygmentCodeFences = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+pygmentOptions = "linenos=table"
 googleAnalytics = "UA-92899338-1"
 publishDir = "public"
 layoutDir = "/src/layouts"
@@ -22,12 +26,12 @@ blog = "/blog/:year/:month/:day/:slug"
 
 [Author]
 name = "Rafael Dutra"
+website = "rafaeldutra.me"
 email = "raffaeldutra@gmail.com"
 googleplus = "+RafaelDutra"
 github = "raffaeldutra"
 twitter = "raffaeldutra"
 linkedin = "rafaeldutra"
-instagram = "raff4eldutra"
 
 [Languages]
 [Languages.en]
@@ -46,8 +50,8 @@ weight = 3
 
 [[Languages.en.menu.main]]
 parent = "cv"
-name = "Index/Downloads"
-url = "/page/cv"
+name = "Downloads"
+url = "/page/cv/downloads"
 weight = 30
 
 [[Languages.en.menu.main]]
@@ -91,8 +95,8 @@ weight = 3
 
 [[Languages.ptbr.menu.main]]
 parent = "cv"
-name = "Index/Downloads"
-url = "/ptbr/page/cv"
+name = "Downloads"
+url = "/ptbr/page/cv/Downloads"
 weight = 30
 
 [[Languages.ptbr.menu.main]]

@@ -7,7 +7,14 @@ else
 fi
 
 if [ "${1}" = "-p" ]; then
-    /go/bin/hugo --layoutDir /src/layouts --config /src/config.toml --themesDir /src/themes --contentDir /src/content --ignoreCache --destination /src/public
+    /go/bin/hugo \
+    --layoutDir \
+    /src/layouts \
+    --config /src/config.toml \
+    --themesDir /src/themes \
+    --contentDir /src/content \
+    --ignoreCache \
+    --destination /src/public
 
 elif [ "${1}" = "-s" ]; then
     while [ true ]
