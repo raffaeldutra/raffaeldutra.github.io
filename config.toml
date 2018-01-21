@@ -33,10 +33,11 @@ googleplus = "+RafaelDutra"
 github = "raffaeldutra"
 twitter = "raffaeldutra"
 linkedin = "rafaeldutra"
+youtube = "watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz"
 
 [Languages]
 [Languages.en]
-title = "#/share beer"
+title = "#/share"
 languageName = "English"
 
 [[Languages.en.menu.main]]

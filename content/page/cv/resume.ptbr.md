@@ -11,26 +11,26 @@ Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" targ
 ### Resumo Profissional
 Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
 
-Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e CodeIgniter), Vagrant, Bower, Composer e Git.
+Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
 
-Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização  com Docker.
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
 #### PoaTek IT Consulting (http://poatek.com)
 Empresa de tecnologia - Porto Alegre/RS  
 Out/2016 - Presente
 
-Trabalhando alocado para AGCO (Agriculture Corporation).
+Trabalhando alocado para AGCO [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 ###### AGCO - TI Especialista
-* Deploy e automação de infraestrutura (Docker, Docker Compose, Bash e Puppet).
+* Deploy e automação de infraestrutura ([Docker](https://www.docker.com), Docker Compose, Bash e Puppet).
 * Integração contínua (Git, Bitbucket, Bamboo e Confluence)
-* Logs e métricas de monitoramento (Elasticsearch, Logstash, Grafana + Telegraf and InfluxDB).
-* Automação para ambientes de desenvolvimento (VirtualBox, [Vagrant](https://atlas.hashicorp.com/raffaeldutra), [Packer](https://github.com/raffaeldutra/packer), Linux, Preseed).
-* Agendadores de Jobs (Rundeck).
-* Ferramentas para build (Gradle e Apache Maven).
+* Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
+* Automação para ambientes de desenvolvimento ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), Linux, Preseed).
+* Agendadores de Jobs ([Rundeck](http://rundeck.org)).
+* Ferramentas para build ([Gradle](https://gradle.org) and [Apache Maven](https://maven.apache.org)).
 * Administração de servidores Linux (Ubuntu Server).
-* Documentção de processos para desenvolvedores.
+* Documentação de processos para desenvolvedores.
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
@@ -49,7 +49,7 @@ Documentação de processos como:
 
 Códigos desenvolvidos:
 
-* Módulo para Spring Boot (Java)
+* [Módulo para Spring Boot](https://projects.spring.io/spring-boot)
 * Estrutura de Scripts para nodes em formato YAML escritos em Ruby
 * Scripts em Shell para instaladores de agentes e configuração dos agentes
 
@@ -61,25 +61,25 @@ operações pudessem realizar mais em menos tempo.
 Neste caso, a demanda era criar uma ferramenta para desenvolvedores criarem scripts para Oracle, onde estes scripts tinham que passar por alguns "pipelines de validação" até chegar em produção.
 
 **Bamboo usando Docker**  
-Muitos dos nossos projetos eram utilizados com Docker para fazer build da aplicação que eram desenvolvidas por outras empresas como plugins e dependência de pacotes.
+Muitos dos nossos projetos eram utilizados com [Docker](https://www.docker.com) para fazer build da aplicação que eram desenvolvidas por outras empresas como plugins e dependência de pacotes.
 
 **Ambientes em Shell Script**  
-Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: Nginx, CouchDB, Spring Boot environment, ActiveMQ, MongoDB, Logstash e OpenJDK.
+Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
 
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  
 Ago/2015 - Set/2016
 
-* Serviços em Cloud (Google Cloud, AWS e Digital Ocean).
+* Serviços em Cloud ([Google Cloud](https://cloud.google.com), [Amazon Web Services](https://aws.amazon.com) and [Digital Ocean](https://www.digitalocean.com)).
 * Gerenciamento de DNS. Shell Script (nível avançado).
-* Desenvolvimento de micro aplicações com PHP para uso interno. Backup de plataformas usando Rsync e Bacula.
-* Docker para testes de ambientes e gerenciamento de configuração com Ansible e Puppet.
+* Desenvolvimento de micro aplicações com [PHP](https://secure.php.net) para uso interno. Backup de plataformas usando Rsync e [Bacula](http://blog.bacula.org)..
+* [Docker](https://www.docker.com) para testes de ambientes e gerenciamento de configuração com [Ansible](https://www.ansible.com) e [Puppet](https://puppet.com).
 
 #### Toshyro.net Processamento de dados Ltda (http://toshyro.net)
 Empresa de desenvolvimento - Lajeado/RS, (51) 9696-2080  
 Abr/2014 - Dez/2014
 
-* Desenvolvimento de sistemas com PHP (Framework CodeIgniter) e bancos MySQL.
+* Desenvolvimento de sistemas com [PHP](https://secure.php.net) (Framework CodeIgniter) e bancos MySQL.
 * Jquery/Jquery Mobile.
 * Administração de servidores em Cloud e virtualização interna para homologação de projetos.
 
