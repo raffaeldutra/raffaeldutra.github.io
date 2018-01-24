@@ -1,7 +1,8 @@
-## Experiência
-Abaixo detalho tecnologias e métodos que utilizei — instalando, configurando e mantendo — nos últimos 17 anos em diversos projetos pelo Brasil.
+# Experiência
+Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
 
 ## Reverse proxy e cache
+Utilizei Varnish Cache e Squid e com proxy reverso Nginx
 
 ## Domínios
 Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
@@ -22,8 +23,11 @@ Configurei Nagios, Cacti e trabalhei um pouco com SolarWinds (neste caso apenas 
 Configurei InfluxDB + Telegraf + Grafana em Docker Compose.
 
 ## Gerência de Configuração e orquestração
+Tenho bons conhecimentos em Puppet e Ansible.
 
 ## Virtualização
+Um dos últimos projetos que participei utilizando virtualização foi ao criar uma solução com Vagrant + Puppet.
+Já utilizei XEN Server, VMware ESXI e OpenVirt.
 
 ## Linguagens
 * Nível intermediário/avançado em PHP
@@ -31,7 +35,7 @@ Configurei InfluxDB + Telegraf + Grafana em Docker Compose.
 * Nível básico Ruby
 
 ## Sistemas de controle de versão
+Git e SVN. Bitbucket, GitLab e Github
 
 ## Especialidades
-
-Além das especialidades técnicas, tenho grande facilidade para propor, documentar e apresentar projetos, coordenar execução de demandas e ministrar treinamentos para equipes de TI.
+Tenho alto conhecimento em linha de comando Linux, principalmente e criar scripts e parsear arquivos e tratar outputs.
