@@ -7,6 +7,11 @@ Utilizei Varnish Cache e Squid e com proxy reverso Nginx
 ## Domínios
 Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
 
+## Containers
+Utilizo Docker desde 2015/1, alguns projetos realizados mas nenhum em total produção até o momento.
+
+Utilizei em sua maioria para pipelines em ferramentas de CI.
+
 ## DNS
 Configurei e mantive BIND em uma das empresas que trabalhei.
 

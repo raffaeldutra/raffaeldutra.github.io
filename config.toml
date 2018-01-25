@@ -70,6 +70,12 @@ weight = 32
 
 [[Languages.en.menu.main]]
 parent = "cv"
+name = "Experience"
+url = "/page/cv/experience"
+weight = 32
+
+[[Languages.en.menu.main]]
+parent = "cv"
 name = "Talks"
 url = "/page/presentations"
 weight = 33
@@ -111,6 +117,12 @@ weight = 31
 parent = "cv"
 name = "Mini"
 url = "/ptbr/page/cv/mini"
+weight = 32
+
+[[Languages.ptbr.menu.main]]
+parent = "cv"
+name = "Experience"
+url = "/page/cv/Experience"
 weight = 32
 
 [[Languages.ptbr.menu.main]]
