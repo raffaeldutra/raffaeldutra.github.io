@@ -21,5 +21,5 @@ Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeld
 Slideshare: <a href="https://www.slideshare.net/raffaeldutra">https://www.slideshare.net/raffaeldutra</a>  
 Google Plus = <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
 Github = <a href="https://github.com/raffaeldutra">https://github.com/raffaeldutra</a>
-Linkedin = <a href="https://linkedin.com/in/rafaeldutra"></a>
+Linkedin = <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
 Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
