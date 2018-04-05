@@ -94,7 +94,7 @@ Com poucos comandos podemos ter nossa aplicação online na maioria das grandes 
 Durante a palestra, vamos utilizar os comandos básicos de gerenciamento de Docker.
 
 ### Slides utilizados
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmoRlIbWTRYCMU93fZ2YY6wejB36La89JWy05NHdPIuV4mCms4xVCMmxNve1fFvWqKJ4Km-rNkYTLi/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Introdução ao Docker
