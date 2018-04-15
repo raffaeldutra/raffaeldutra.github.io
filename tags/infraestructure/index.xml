@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infraestructure on #/share</title>
+    <link>http://rafaeldutra.me/tags/infraestructure/</link>
+    <description>Recent content in Infraestructure on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rafaeldutra.me/tags/infraestructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker Introduction</title>
+      <link>http://rafaeldutra.me/blog/2017/02/27/docker-introduction/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/blog/2017/02/27/docker-introduction/</guid>
+      <description>&lt;h2 id=&#34;what-s-docker&#34;&gt;What&amp;rsquo;s Docker?&lt;/h2&gt;
+
+&lt;p&gt;By definition on &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

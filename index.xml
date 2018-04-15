@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#/share</title>
+    <link>http://rafaeldutra.me/</link>
+    <description>Recent content on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Thu, 06 Apr 2017 22:34:24 -0300</lastBuildDate>
+    
+	<atom:link href="http://rafaeldutra.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>http://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/cv/training/puppet/fundamentals/</guid>
+      <description>In the training, the studens will learn to manage infrastructure in the right way. They will learn the best pratices and use Puppet to write classes and modules, in addition to using existents modules. The learning is to use a production environment workflow infrastructure, using source control management with git exhaustively.
+Agenda  Fundamental components of Puppet Enterprise (and Puppet Open Source). Using Puppet on Linux and Windows. Fundamental conceps of the language and modeling of Puppet, like:  Modules and classes.</description>
+    </item>
+    
+    <item>
+      <title>Mini Curriculum</title>
+      <link>http://rafaeldutra.me/page/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/cv/mini/</guid>
+      <description>DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus, always believing that exists a better way to resolve problems, from the simple ones to complex ones, but mainly, knows that right way is the better way.
+Has 13 years of IT experience acting as SysAdmin Linux.
+Currently lives at Porto Alegre/RS and studies Security Information in UNISINOS.
+Listens to Heavy Metal and other variations and likes to help who wants to learn.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://rafaeldutra.me/page/cv/downloads/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/cv/downloads/</guid>
+      <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
+You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
+So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
+ English
+ Resume
+ Mini Currículum
+ Download PDF format Download DOC format  Portuguese
+ Resume
+ Mini Currículum</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://rafaeldutra.me/page/presentations/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/presentations/</guid>
+      <description>Docker introduction Poatek - Porto Alegre - 2017/02/22 Summary  Community Breve história What&amp;rsquo;s Docker Container is NOT VM Why should used it Demo  Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>http://rafaeldutra.me/page/cv/resume/</link>
+      <pubDate>Thu, 02 Mar 2017 12:15:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/cv/resume/</guid>
+      <description>Brazilian, single, 31 years old.
+Porto Alegre/RS
+Mobile: 51 9 9972 7599
+Email: raffaeldutra@gmail.com
+Personal Statement 10+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+3+ years working with PHP development and frameworks (Laravel and Codeigniter), Vagrant, Bower, Composer and Git.
+In the last 2 years, I&amp;rsquo;ve been working mainly on Infrastructure automation (Infra as Code) and containerization with Docker.
+Work Experience PoaTek IT Consulting (http://poatek.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://rafaeldutra.me/page/about/me/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/about/me/</guid>
+      <description>+++ date = &amp;ldquo;2017-03-01&amp;rdquo; title = &amp;ldquo;Um pouco sobre mim&amp;rdquo;
++++
+My name is Rafael Dutra and I&amp;rsquo;m a nice guy. I was born at 29&amp;frasl;01 from some year and I&amp;rsquo;m a Sysadmin and DevOps enthusiast.
+Currently I&amp;rsquo;m living at Porto Alegre/RS but I&amp;rsquo;m from Lajeado/RS and I lived my whole life at Estrela/RS that is 120km far from Porto Alegre/RS.
+I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX and that time I just remember good stuff.</description>
+    </item>
+    
+    <item>
+      <title>Docker Introduction</title>
+      <link>http://rafaeldutra.me/blog/2017/02/27/docker-introduction/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/blog/2017/02/27/docker-introduction/</guid>
+      <description>&lt;h2 id=&#34;what-s-docker&#34;&gt;What&amp;rsquo;s Docker?&lt;/h2&gt;
+
+&lt;p&gt;By definition on &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

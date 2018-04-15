@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on #/share beer</title>
+    <link>http://rafaeldutra.me/ptbr/categories/</link>
+    <description>Recent content in Categories on #/share beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    
+	<atom:link href="http://rafaeldutra.me/ptbr/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://rafaeldutra.me/ptbr/categories/development/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://rafaeldutra.me/ptbr/categories/docker/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://rafaeldutra.me/ptbr/categories/php/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/categories/php/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

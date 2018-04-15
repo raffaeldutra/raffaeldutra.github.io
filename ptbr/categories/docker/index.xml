@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on #/share beer</title>
+    <link>http://rafaeldutra.me/ptbr/categories/docker/</link>
+    <description>Recent content in Docker on #/share beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rafaeldutra.me/ptbr/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuração de ambiente PHP em Docker</title>
+      <link>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</guid>
+      <description>&lt;p&gt;Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &amp;ldquo;funciona na minha máquina&amp;rdquo; não funciona naquele deploy em produção, não é mesmo?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Docker</title>
+      <link>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</guid>
+      <description>&lt;h2 id=&#34;o-que-é-docker&#34;&gt;O que é Docker?&lt;/h2&gt;
+
+&lt;p&gt;Por definição em &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker é uma ferramenta feita para rapidamente, criar, fazer deploy e roda aplicações ussando containers. Containers deixam o desenvolvedor para fazer o pacote da aplicação com todas suas partes necessárias, como bibliotecas e outras dependências, e lançar tudo isso como um único pacote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

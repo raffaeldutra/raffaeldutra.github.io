@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#/share beer</title>
+    <link>http://rafaeldutra.me/ptbr/</link>
+    <description>Recent content on #/share beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rafaeldutra.me/ptbr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuração de ambiente PHP em Docker</title>
+      <link>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</guid>
+      <description>&lt;p&gt;Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &amp;ldquo;funciona na minha máquina&amp;rdquo; não funciona naquele deploy em produção, não é mesmo?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>http://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</guid>
+      <description>No treinamento, os alunos vão aprender a gerenciar uma infraestrutura da maneira correta. Vão aprender as melhores práticas e usar o Puppet para escrever classes e módulos, além de utilizar módulos já existentes. O aprendizado é muito voltado a um workflow de produção de uma infraestrutura, utilizando controle de versão com Git ostensivamente.
+Ementa  Componentes fundamentais do Puppet Enterprise (e Puppet Open Source). Utilizando o Puppet em Linux e Windows.</description>
+    </item>
+    
+    <item>
+      <title>Mini Currículo</title>
+      <link>http://rafaeldutra.me/ptbr/page/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/cv/mini/</guid>
+      <description>Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código e automação, sempre acreditando que existem formas melhores de resolver problemas, dos simples aos complexos, mas principalmente, sabe que o jeito certo é o melhor jeito.
+Possui 13 anos de experiência em TI atuando como SysAdmin em ambientes Linux nas mais variadas distribuições.
+Atualmente mora em Porto Alegre/RS e estudante de Segurança da Informação pela UNISINOS.</description>
+    </item>
+    
+    <item>
+      <title>Currículo</title>
+      <link>http://rafaeldutra.me/ptbr/page/cv/downloads/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/cv/downloads/</guid>
+      <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
+Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
+Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
+ Português
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC  Inglês
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC   </description>
+    </item>
+    
+    <item>
+      <title>Palestras</title>
+      <link>http://rafaeldutra.me/ptbr/page/presentations/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/presentations/</guid>
+      <description>Introdução ao Docker Poatek - 22/02/2017 Resumo  Comunidade Breve história O que é? Container não é VM Por que utilizar Demo  Slides utilizados  Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
+ Aplicação auto contida Ambientes iguais Padronização com melhores práticas Comunidade  Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>http://rafaeldutra.me/ptbr/page/cv/resume/</link>
+      <pubDate>Thu, 02 Mar 2017 12:15:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/cv/resume/</guid>
+      <description>Brasileiro, solteiro, 31 anos.
+Porto Alegre/RS
+Mobile: 51 9 9972 7599
+Email: raffaeldutra@gmail.com
+Resumo Profissional Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.</description>
+    </item>
+    
+    <item>
+      <title>Um pouco sobre mim</title>
+      <link>http://rafaeldutra.me/ptbr/page/about/me/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/about/me/</guid>
+      <description>Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29&amp;frasl;01 de algum ano e sou Sysadmin e entusiasta DevOps.
+Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX e desse tempo só realmente lembro de coisas boas, como era legal aquela vida de só ter como responsabilidade passar de ano e jogar video-game.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Docker</title>
+      <link>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</guid>
+      <description>&lt;h2 id=&#34;o-que-é-docker&#34;&gt;O que é Docker?&lt;/h2&gt;
+
+&lt;p&gt;Por definição em &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker é uma ferramenta feita para rapidamente, criar, fazer deploy e roda aplicações ussando containers. Containers deixam o desenvolvedor para fazer o pacote da aplicação com todas suas partes necessárias, como bibliotecas e outras dependências, e lançar tudo isso como um único pacote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rafaeldutra.me/ptbr/page/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/ptbr/page/cv/experience/</guid>
+      <description>Experiência Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
+Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
+Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
+Containers Utilizo Docker desde 2015&amp;frasl;1, alguns projetos realizados mas nenhum em total produção até o momento.
+Utilizei em sua maioria para pipelines em ferramentas de CI.</description>
+    </item>
+    
+  </channel>
+</rss>
