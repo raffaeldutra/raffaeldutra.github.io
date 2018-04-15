@@ -4,20 +4,50 @@ title = "About me"
 subtitle = "Why I'm so great"
 +++
 
-Hi, my name is Rafael Dutra, yes, just Rafael Dutra, no middle nsme.
++++
+date = "2017-03-01"
+title = "Um pouco sobre mim"
 
-I'm 30 years old (January 87) and I grew up in the inland of Rio Grande do Sul state. I was born in a little city called Marques de Souza, but I was naturalized Lajeadense (Lajeado/RS), where I lived until 5 years old, more or less.
++++
 
-My real history is in Estrela/RS, where I met my good friends, one of them still live in there, but another one lives in Mato Grosso do Sul (at least 15 years). This person who lives there was the responsible for made me to like video-game, what in that time was a great console Dynavision 4 (or it was 2?).
+My name is Rafael Dutra and I'm a nice guy. I was born at 29/01 from some year and I'm a Sysadmin and DevOps enthusiast.
 
-Later, we have a Mega Drive console, whom was my first console and soon later a Playstation 1 -- what a time, miss that time that will never come back again.
+Currently I'm living at Porto Alegre/RS but I'm from Lajeado/RS and I lived my whole life at Estrela/RS that is 120km far from Porto Alegre/RS.
 
-In 2008, I started back college in Security Information in UNISINOS and I stopped it in middle 2009 to live in Florianópolis/SC.
+I'm single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX and that time I just remember good stuff.
 
-At Florianópolis, I made a big step for improve myself as a man at some points, but the opposite in another cases (I'll never again get lines to buy something or go to somewhere). I met new people, new colleagues at college, that I made good partners/budies on that 3 years being there.
+I've been working or I had been worked with that we called: a little bit from everything, but what I really enjoy is to automate e see things working with just a command or a mouse click.
 
-Backing in 2012 at Estrela/RS, I start to work by there, until in 2015 I have the opportunity to live at Porto Alegre/RS where I live at the moment and work in Canoas/RS and Porto Alegre.
+I listening basically Heavy Metal, Dark Orchestral and musics from games and movies.
 
-Death and Black Metal are my favorite music gender, but like everything I really enjoy others genders, like Medieval, Orchestres and Japanese musics, especially when the subject is RPG.
+I have currently 13 tattoss, here is the list (I know, no one ask me):
 
-I'm a Linux Sysadmin and a DevOps Enthusiast. I work trying to act on DevOps culture and process/systems automation since 2015.
+- Arm:
+  - Jelly fish
+  - Turtle
+  - Kraken
+  - Ship
+  - Shark
+- Leg:
+  - Vivi (Final Fantasy IX)
+  - Meg (my dog, dead in 2013)
+  - Red Baron plane
+  - Plane (World War I)
+  - Predator (movie)
+  - Debian logo
+  - Tux
+  - Kratos (God of War)
+
+Here's my contacts:
+
+- E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  
+- Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeldutra</a>  
+- Slideshare: <a href="https://www.slideshare.net/raffaeldutra">https://www.slideshare.net/raffaeldutra</a>  
+- Google Plus = <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
+- Github = <a href="https://github.com/raffaeldutra">Github</a>
+- Linkedin = <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
+- Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
+
+Thank you.
+
+Rafael Dutra.

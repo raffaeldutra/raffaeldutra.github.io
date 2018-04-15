@@ -4,22 +4,46 @@ title = "Um pouco sobre mim"
 
 +++
 
-Me chamo Rafael Dutra e sou um cara legal.
+Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29/01 de algum ano e sou Sysadmin e entusiasta DevOps.
 
 Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
 
-Sou solteiro e realmente amo video games, principalmente RPG e FPS. Alguns games prefiro jogar no console, como RPG e FPS no computador.
-Alguns clássicos, como Chrono Cross e Final Fantasy 8 e 9, são meus grandes jogos de coração e até hoje nenhum outro RPG consegui me prender tanto.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX e desse tempo só realmente lembro de coisas boas, como era legal aquela vida de só ter como responsabilidade passar de ano e jogar video-game.
 
-Sou também um grande fã de música, principalmente de Heavy Metal e derivados, porém para trabalhar prefixo uma banda que já escutei bastante, pois assim não me prendo
-tanto no som e consigo me focar no trabalho.
+Trabalho ou trabalhei com um "pouco de tudo", portanto eu não sou especialista em nada, mas o que eu realmente gosto de fazer é automatizar e ver as coisas funcionando com um comando ou um clique do mouse.
 
-Vou tentar aqui colocar coisas variadas, mas pelo que me conheço, provavelmente será técnico.
+Escuto basicamente Heavy Metal, Dark Orchestral e trilhas sonoras de games e filmes.
 
-E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  
-Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeldutra</a>  
-Slideshare: <a href="https://www.slideshare.net/raffaeldutra">https://www.slideshare.net/raffaeldutra</a>  
-Google Plus = <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
-Github = <a href="https://github.com/raffaeldutra">Github</a>
-Linkedin = <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
-Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
+Tenho atualmente 13 tatuagens, vou listar (como se alguém tivesse perguntado):
+
+- No braço:
+  - Jelly fish
+  - Turtle
+  - Kraken
+  - Ship
+  - Shark
+- Na perna:
+  - Vivi (Final Fantasy IX)
+  - Meg (minha cadela falecida em 2013, uma salsicha)
+  - Red Baron plane
+  - Plane (World War I)
+  - Predator (movie)
+  - Debian logo
+  - Tux
+  - Kratos (God of War)
+
+Vou tentar aqui colocar coisas variadas neste site/blog, mas pelo que me conheço, provavelmente será técnico.
+
+Segue meus contatos:
+
+- E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  
+- Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeldutra</a>  
+- Slideshare: <a href="https://www.slideshare.net/raffaeldutra">https://www.slideshare.net/raffaeldutra</a>  
+- Google Plus = <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
+- Github = <a href="https://github.com/raffaeldutra">Github</a>
+- Linkedin = <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
+- Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
+
+Obrigado.
+
+Rafael Dutra.
