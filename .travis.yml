@@ -1,0 +1,21 @@
+# Rafael Dutra
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker build --no-cache -t fossday/gohugo .
+  - docker run --rm -v $(pwd)/site:/src -v $(pwd)/public:/src/public fossday/gohugo
+
+deploy:
+  name: "FOSS Team Deployment"
+  provider: pages
+  local_dir: public
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  verbose: true
+  target_branch: master
+  on:
+    branch: develop
