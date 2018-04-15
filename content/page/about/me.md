@@ -4,12 +4,6 @@ title = "About me"
 subtitle = "Why I'm so great"
 +++
 
-+++
-date = "2017-03-01"
-title = "Um pouco sobre mim"
-
-+++
-
 My name is Rafael Dutra and I'm a nice guy. I was born at 29/01 from some year and I'm a Sysadmin and DevOps enthusiast.
 
 Currently I'm living at Porto Alegre/RS but I'm from Lajeado/RS and I lived my whole life at Estrela/RS that is 120km far from Porto Alegre/RS.
