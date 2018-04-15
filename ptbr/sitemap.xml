@@ -114,6 +114,16 @@
   
   <url>
     <loc>http://rafaeldutra.me/ptbr/page/cv/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://rafaeldutra.me/page/cv/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="http://rafaeldutra.me/ptbr/page/cv/experience/"
+                />
   </url>
   
   <url>

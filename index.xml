@@ -106,5 +106,18 @@ I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://rafaeldutra.me/page/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>http://rafaeldutra.me/page/cv/experience/</guid>
+      <description>Experiência Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
+Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
+Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
+Containers Utilizo Docker desde 2015&amp;frasl;1, alguns projetos realizados mas nenhum em total produção até o momento.
+Utilizei em sua maioria para pipelines em ferramentas de CI.</description>
+    </item>
+    
   </channel>
 </rss>

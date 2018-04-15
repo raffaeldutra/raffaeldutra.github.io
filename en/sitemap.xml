@@ -108,6 +108,20 @@
   </url>
   
   <url>
+    <loc>http://rafaeldutra.me/page/cv/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="http://rafaeldutra.me/ptbr/page/cv/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://rafaeldutra.me/page/cv/experience/"
+                />
+  </url>
+  
+  <url>
     <loc>http://rafaeldutra.me/</loc>
     <lastmod>2017-04-06T22:34:24-03:00</lastmod>
     <priority>0</priority>
@@ -171,22 +185,6 @@
   </url>
   
   <url>
-    <loc>http://rafaeldutra.me/tags/development/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="http://rafaeldutra.me/ptbr/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://rafaeldutra.me/tags/development/"
-                />
-  </url>
-  
-  <url>
     <loc>http://rafaeldutra.me/categories/development/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -203,18 +201,18 @@
   </url>
   
   <url>
-    <loc>http://rafaeldutra.me/tags/docker/</loc>
+    <loc>http://rafaeldutra.me/tags/development/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ptbr"
-                href="http://rafaeldutra.me/ptbr/tags/docker/"
+                href="http://rafaeldutra.me/ptbr/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://rafaeldutra.me/tags/docker/"
+                href="http://rafaeldutra.me/tags/development/"
                 />
   </url>
   
@@ -231,6 +229,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://rafaeldutra.me/categories/docker/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://rafaeldutra.me/tags/docker/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="http://rafaeldutra.me/ptbr/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://rafaeldutra.me/tags/docker/"
                 />
   </url>
   
