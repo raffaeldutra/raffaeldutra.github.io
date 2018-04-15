@@ -1,4 +1,4 @@
-baseurl = "https://raffaeldutra.github.io"
+baseurl = "http://rafaeldutra.me"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "beautifulhugo"
