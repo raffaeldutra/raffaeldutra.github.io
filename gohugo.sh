@@ -18,9 +18,8 @@ fi
 # transforma para  HTML
 if [ "${1}" = "-p" ]; then
     hugo \
-    --layoutDir \
-    /src/layouts \
-    --config /src/config.yml \
+    --config /src/config.toml \
+    --layoutDir /src/layouts \
     --themesDir /src/themes \
     --contentDir /src/content \
     --ignoreCache \
@@ -31,7 +30,7 @@ elif [ "${1}" = "-s" ]; then
     hugo server \
     --watch true \
     --bind 0.0.0.0 \
-    --config /src/config.yml \
+    --config /src/config.toml \
     --layoutDir /src/layouts \
     --themesDir /src/themes \
     --contentDir /src/content \
