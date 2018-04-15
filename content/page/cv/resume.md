@@ -1,8 +1,6 @@
 ---
-
 date: "2017-03-02T12:15:24-03:00"
 title: "Rafael Dutra"
-
 ---
 
 Brazilian, single, 31 years old.  
