@@ -5,11 +5,11 @@ services:
   - docker
 
 script:
-  - docker build --no-cache -t fossday/gohugo .
-  - docker run --rm -v $(pwd)/site:/src -v $(pwd)/public:/src/public fossday/gohugo
+  - docker build --no-cache -t raffaeldutra/gohugo .
+  - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/gohugo
 
 deploy:
-  name: "FOSS Team Deployment"
+  name: "rafaeldutra.me deployment"
   provider: pages
   local_dir: public
   skip_cleanup: true
