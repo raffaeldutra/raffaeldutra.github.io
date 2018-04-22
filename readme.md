@@ -1,6 +1,6 @@
 # Página pessoal
 
-![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) [![pipeline status](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/badges/develop/pipeline.svg)](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/commits/develop)
+[![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg)](https://travis-ci.org/raffaeldutra/raffaeldutra.github.io.svg?branch=develop) [![pipeline status](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/badges/develop/pipeline.svg)](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/commits/develop)
 
 Olá, se alguma coisa no meu site te interessou, como o modelo do meu currículo, páginas e etc, sinta-se a vontade para clonar este repositório e adaptar para suas necessidadaes.  
 
