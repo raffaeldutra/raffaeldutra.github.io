@@ -6,6 +6,7 @@ title = "Palestras"
 
 * [2018-08-10 - Introdução ao Vagrant](/pt-br/page/presentations/2018-08-10-vagrant-introduction)
 * [2018-08-10 - Introdução ao Puppet](/pt-br/page/presentations/2018-08-10-puppet-introduction)
+* [2018-05-05 - Docker Workshop](/pt-br/page/presentations/2018-05-05-docker-workshop)
 
 ## Introdução ao Vagrant
 #### Stefanini Solutions - Porto Alegre - 2018/08/10

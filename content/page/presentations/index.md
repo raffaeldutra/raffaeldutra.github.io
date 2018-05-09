@@ -6,6 +6,7 @@ title = "Talks"
 
 * [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
 * [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
+* [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-docker-workshop)
 
 ## Vagrant Introduction
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
