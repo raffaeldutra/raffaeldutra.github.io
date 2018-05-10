@@ -3,9 +3,8 @@ date: "2017-03-02T12:15:24-03:00"
 title: "Rafael Dutra"
 ---
 
-Brazilian, single, 31 years old.  
+Brazilian, single.  
 <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
-Mobile: <a href="tel:+55 51 9 9972 7599">51 9 9972 7599</a>  
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
