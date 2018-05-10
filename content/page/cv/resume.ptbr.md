@@ -20,7 +20,7 @@ Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraes
 Empresa de tecnologia - Porto Alegre/RS  
 Out/2016 - Presente
 
-Trabalhando alocado para AGCO [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
+Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 ###### AGCO - TI Especialista
 * Deploy e automação de infraestrutura ([Docker](https://www.docker.com), Docker Compose, Bash e Puppet).

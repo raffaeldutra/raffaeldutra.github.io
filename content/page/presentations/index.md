@@ -63,3 +63,16 @@ Brief introduction of how we can use Puppet to managem things.
 
 ### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPU4Foq_7_cVu4bpR_x7lRWLFfjN-BZ-Ou0ZHSJfT9Urw6FwkPRygu9zAAPdgFauhdnUshxbu7wJHi/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+## Docker Workshop - FOSS Day 2018
+#### Fossday - Lakeado - 2018/05/05
+
+* First workshop presented about how to use Docker in a "minimum way"
+* Dockerfile
+* Volumes
+* Docker Compose
+
+### Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFwP-bT78vkYG8_tFGm3QHt2BG44QXwcVhc-_bRQuh-vWCCE0k9GR6K_5xqXwvB3FXn0-lMsvyqyWU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
