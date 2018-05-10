@@ -21,9 +21,9 @@ Segue meus contatos:
 - E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  
 - Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeldutra</a>  
 - Slideshare: <a href="https://www.slideshare.net/raffaeldutra">https://www.slideshare.net/raffaeldutra</a>  
-- Google Plus = <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
-- Github = <a href="https://github.com/raffaeldutra">Github</a>
-- Linkedin = <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
+- Google Plus: <a href="https://plus.google.com/+RafaelDutra">https://plus.google.com/+RafaelDutra</a>  
+- Github: <a href="https://github.com/raffaeldutra">Github</a>
+- Linkedin: <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
 - Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
 
 Obrigado.
