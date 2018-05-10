@@ -8,29 +8,11 @@ Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29/01 de algum ano e sou Sy
 
 Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
 
-Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX e desse tempo só realmente lembro de coisas boas, como era legal aquela vida de só ter como responsabilidade passar de ano e jogar video-game.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX.
 
 Trabalho ou trabalhei com um "pouco de tudo", portanto eu não sou especialista em nada, mas o que eu realmente gosto de fazer é automatizar e ver as coisas funcionando com um comando ou um clique do mouse.
 
 Escuto basicamente Heavy Metal, Dark Orchestral e trilhas sonoras de games e filmes.
-
-Tenho atualmente 13 tatuagens, vou listar (como se alguém tivesse perguntado):
-
-- No braço:
-  - Jelly fish
-  - Turtle
-  - Kraken
-  - Ship
-  - Shark
-- Na perna:
-  - Vivi (Final Fantasy IX)
-  - Meg (minha cadela falecida em 2013, uma salsicha)
-  - Red Baron plane
-  - Plane (World War I)
-  - Predator (movie)
-  - Debian logo
-  - Tux
-  - Kratos (God of War)
 
 Vou tentar aqui colocar coisas variadas neste site/blog, mas pelo que me conheço, provavelmente será técnico.
 

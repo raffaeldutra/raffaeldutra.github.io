@@ -6,31 +6,13 @@ subtitle = "Why I'm so great"
 
 My name is Rafael Dutra and I'm a nice guy. I was born at 29/01 from some year and I'm a Sysadmin and DevOps enthusiast.
 
-Currently I'm living at Porto Alegre/RS but I'm from Lajeado/RS and I lived my whole life at Estrela/RS that is 120km far from Porto Alegre/RS.
+Currently I'm living at Porto Alegre/RS but I'm from Lajeado/RS and I lived my whole life at Estrela/RS, that is 120km far from Porto Alegre/RS.
 
-I'm single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX and that time I just remember good stuff.
+I'm single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX.
 
 I've been working or I had been worked with that we called: a little bit from everything, but what I really enjoy is to automate e see things working with just a command or a mouse click.
 
 I listening basically Heavy Metal, Dark Orchestral and musics from games and movies.
-
-I have currently 13 tattoss, here is the list (I know, no one ask me):
-
-- Arm:
-  - Jelly fish
-  - Turtle
-  - Kraken
-  - Ship
-  - Shark
-- Leg:
-  - Vivi (Final Fantasy IX)
-  - Meg (my dog, dead in 2013)
-  - Red Baron plane
-  - Plane (World War I)
-  - Predator (movie)
-  - Debian logo
-  - Tux
-  - Kratos (God of War)
 
 Here's my contacts:
 
