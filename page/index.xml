@@ -58,8 +58,8 @@ So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmai
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>http://rafaeldutra.me/page/presentations/</guid>
-      <description>Docker introduction Poatek - Porto Alegre - 2017/02/22 Summary  Community Breve história What&amp;rsquo;s Docker Container is NOT VM Why should used it Demo  Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
- Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.</description>
+      <description>Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &amp;ldquo;minimum way&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  Configuration Management Poatek - Porto Alegre - 2017/10/03 Brief introduction of how we can use Puppet to managem things.
+ Changing granulatiry Imutable environment What is the real motive to use configuration management  Slides  Introduction to Puppet AGCO Canoas - Canoas - 2017/09/02 The ideia is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.</description>
     </item>
     
     <item>

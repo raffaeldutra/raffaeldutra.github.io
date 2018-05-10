@@ -2,16 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://rafaeldutra.me/en/sitemap.xml</loc>
+	   	<loc>http://rafaeldutra.me/ptbr/sitemap.xml</loc>
 		
-	   	<lastmod>2017-04-06T22:34:24-03:00</lastmod>
+	   	<lastmod>2017-12-05T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://rafaeldutra.me/ptbr/sitemap.xml</loc>
+	   	<loc>http://rafaeldutra.me/en/sitemap.xml</loc>
 		
-	   	<lastmod>2017-12-05T00:00:00+00:00</lastmod>
+	   	<lastmod>2017-04-06T22:34:24-03:00</lastmod>
 		
 	</sitemap>
 	
