@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on #/share</title>
-    <link>http://rafaeldutra.me/page/</link>
+    <link>https://rafaeldutra.me/page/</link>
     <description>Recent content in Pages on #/share</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,25 +10,25 @@
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
     <lastBuildDate>Thu, 06 Apr 2017 22:34:24 -0300</lastBuildDate>
     
-	<atom:link href="http://rafaeldutra.me/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rafaeldutra.me/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Puppet Fundamentals</title>
-      <link>http://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
+      <link>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
       <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/cv/training/puppet/fundamentals/</guid>
+      <guid>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</guid>
       <description>In the training, the studens will learn to manage infrastructure in the right way. They will learn the best pratices and use Puppet to write classes and modules, in addition to using existents modules. The learning is to use a production environment workflow infrastructure, using source control management with git exhaustively.
 Agenda  Fundamental components of Puppet Enterprise (and Puppet Open Source). Using Puppet on Linux and Windows. Fundamental conceps of the language and modeling of Puppet, like:  Modules and classes.</description>
     </item>
     
     <item>
       <title>Mini Curriculum</title>
-      <link>http://rafaeldutra.me/page/cv/mini/</link>
+      <link>https://rafaeldutra.me/page/cv/mini/</link>
       <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/cv/mini/</guid>
+      <guid>https://rafaeldutra.me/page/cv/mini/</guid>
       <description>DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus, always believing that exists a better way to resolve problems, from the simple ones to complex ones, but mainly, knows that right way is the better way.
 Has 13 years of IT experience acting as SysAdmin Linux.
 Currently lives at Porto Alegre/RS and studies Security Information in UNISINOS.
@@ -37,10 +37,10 @@ Listens to Heavy Metal and other variations and likes to help who wants to learn
     
     <item>
       <title>Curriculum</title>
-      <link>http://rafaeldutra.me/page/cv/downloads/</link>
+      <link>https://rafaeldutra.me/page/cv/downloads/</link>
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/cv/downloads/</guid>
+      <guid>https://rafaeldutra.me/page/cv/downloads/</guid>
       <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
 You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
 So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
@@ -54,20 +54,20 @@ So, fell free to reach me at social networks, or, directly at: raffaeldutra@gmai
     
     <item>
       <title>Talks</title>
-      <link>http://rafaeldutra.me/page/presentations/</link>
+      <link>https://rafaeldutra.me/page/presentations/</link>
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/presentations/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/</guid>
       <description>Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &amp;ldquo;minimum way&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  Configuration Management Poatek - Porto Alegre - 2017/10/03 Brief introduction of how we can use Puppet to managem things.
  Changing granulatiry Imutable environment What is the real motive to use configuration management  Slides  Introduction to Puppet AGCO Canoas - Canoas - 2017/09/02 The ideia is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.</description>
     </item>
     
     <item>
       <title>Rafael Dutra</title>
-      <link>http://rafaeldutra.me/page/cv/resume/</link>
+      <link>https://rafaeldutra.me/page/cv/resume/</link>
       <pubDate>Thu, 02 Mar 2017 12:15:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/cv/resume/</guid>
+      <guid>https://rafaeldutra.me/page/cv/resume/</guid>
       <description>Brazilian, single.
 Porto Alegre/RS
 Email: raffaeldutra@gmail.com
@@ -79,10 +79,10 @@ Work Experience PoaTek IT Consulting (http://poatek.com) Technology company - Po
     
     <item>
       <title>About me</title>
-      <link>http://rafaeldutra.me/page/about/me/</link>
+      <link>https://rafaeldutra.me/page/about/me/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/about/me/</guid>
+      <guid>https://rafaeldutra.me/page/about/me/</guid>
       <description>My name is Rafael Dutra and I&amp;rsquo;m a nice guy. I was born at 29&amp;frasl;01 from some year and I&amp;rsquo;m a Sysadmin and DevOps enthusiast.
 Currently I&amp;rsquo;m living at Porto Alegre/RS but I&amp;rsquo;m from Lajeado/RS and I lived my whole life at Estrela/RS, that is 120km far from Porto Alegre/RS.
 I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX.</description>
@@ -90,10 +90,10 @@ I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have 
     
     <item>
       <title></title>
-      <link>http://rafaeldutra.me/page/cv/experience/</link>
+      <link>https://rafaeldutra.me/page/cv/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/page/cv/experience/</guid>
+      <guid>https://rafaeldutra.me/page/cv/experience/</guid>
       <description>Experiência Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
 Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
 Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.

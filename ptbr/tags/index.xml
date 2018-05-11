@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on #/share beer</title>
-    <link>http://rafaeldutra.me/ptbr/tags/</link>
+    <link>https://rafaeldutra.me/ptbr/tags/</link>
     <description>Recent content in Tags on #/share beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,78 +10,78 @@
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
     <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rafaeldutra.me/ptbr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rafaeldutra.me/ptbr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automacao</title>
-      <link>http://rafaeldutra.me/ptbr/tags/automacao/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/automacao/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/automacao/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/automacao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://rafaeldutra.me/ptbr/tags/automation/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/automation/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/automation/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento</title>
-      <link>http://rafaeldutra.me/ptbr/tags/desenvolvimento/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/desenvolvimento/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/desenvolvimento/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/desenvolvimento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://rafaeldutra.me/ptbr/tags/development/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/development/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/development/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://rafaeldutra.me/ptbr/tags/docker/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/docker/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/docker/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infraestructure</title>
-      <link>http://rafaeldutra.me/ptbr/tags/infraestructure/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/infraestructure/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/infraestructure/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/infraestructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infraestrutura</title>
-      <link>http://rafaeldutra.me/ptbr/tags/infraestrutura/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/infraestrutura/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/infraestrutura/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/infraestrutura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>http://rafaeldutra.me/ptbr/tags/php/</link>
+      <link>https://rafaeldutra.me/ptbr/tags/php/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/tags/php/</guid>
+      <guid>https://rafaeldutra.me/ptbr/tags/php/</guid>
       <description></description>
     </item>
     

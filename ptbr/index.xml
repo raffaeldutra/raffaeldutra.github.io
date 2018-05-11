@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#/share beer</title>
-    <link>http://rafaeldutra.me/ptbr/</link>
+    <link>https://rafaeldutra.me/ptbr/</link>
     <description>Recent content on #/share beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rafaeldutra.me/ptbr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rafaeldutra.me/ptbr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configuração de ambiente PHP em Docker</title>
-      <link>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
+      <link>https://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</guid>
+      <guid>https://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</guid>
       <description>&lt;p&gt;Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &amp;ldquo;funciona na minha máquina&amp;rdquo; não funciona naquele deploy em produção, não é mesmo?&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -26,20 +26,20 @@
     
     <item>
       <title>Puppet Fundamentals</title>
-      <link>http://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</link>
+      <link>https://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</link>
       <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/</guid>
       <description>No treinamento, os alunos vão aprender a gerenciar uma infraestrutura da maneira correta. Vão aprender as melhores práticas e usar o Puppet para escrever classes e módulos, além de utilizar módulos já existentes. O aprendizado é muito voltado a um workflow de produção de uma infraestrutura, utilizando controle de versão com Git ostensivamente.
 Ementa  Componentes fundamentais do Puppet Enterprise (e Puppet Open Source). Utilizando o Puppet em Linux e Windows.</description>
     </item>
     
     <item>
       <title>Mini Currículo</title>
-      <link>http://rafaeldutra.me/ptbr/page/cv/mini/</link>
+      <link>https://rafaeldutra.me/ptbr/page/cv/mini/</link>
       <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/cv/mini/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/mini/</guid>
       <description>Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código e automação, sempre acreditando que existem formas melhores de resolver problemas, dos simples aos complexos, mas principalmente, sabe que o jeito certo é o melhor jeito.
 Possui 13 anos de experiência em TI atuando como SysAdmin em ambientes Linux nas mais variadas distribuições.
 Atualmente mora em Porto Alegre/RS e estudante de Segurança da Informação pela UNISINOS.</description>
@@ -47,10 +47,10 @@ Atualmente mora em Porto Alegre/RS e estudante de Segurança da Informação pel
     
     <item>
       <title>Currículo</title>
-      <link>http://rafaeldutra.me/ptbr/page/cv/downloads/</link>
+      <link>https://rafaeldutra.me/ptbr/page/cv/downloads/</link>
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/cv/downloads/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/downloads/</guid>
       <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
 Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
 Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
@@ -61,20 +61,20 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
     
     <item>
       <title>Palestras</title>
-      <link>http://rafaeldutra.me/ptbr/page/presentations/</link>
+      <link>https://rafaeldutra.me/ptbr/page/presentations/</link>
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/presentations/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/presentations/</guid>
       <description>Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 05/05/2018  Primeiro workshop apresentado sobre como usar Docker em uma &amp;ldquo;versão miníma&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  Gerenciamento de configuração Poatek - Porto Alegre - 03/10/2017 Breve introdução do que podemos gerenciar com Puppet.
  Mudança granular Ambientes imutáveis Qual o motivo real de utilizarmos gerência de configuração.  Slides utilizados  Introdução ao Puppet AGCO Canoas - 02/09/2017 A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel de ambientes, tendo como foco a mudança com confiabilidade.</description>
     </item>
     
     <item>
       <title>Rafael Dutra</title>
-      <link>http://rafaeldutra.me/ptbr/page/cv/resume/</link>
+      <link>https://rafaeldutra.me/ptbr/page/cv/resume/</link>
       <pubDate>Thu, 02 Mar 2017 12:15:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/cv/resume/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/resume/</guid>
       <description>Brasileiro, solteiro.
 Porto Alegre/RS
 Email: raffaeldutra@gmail.com
@@ -86,10 +86,10 @@ Experiência Profissional PoaTek IT Consulting (http://poatek.</description>
     
     <item>
       <title>Um pouco sobre mim</title>
-      <link>http://rafaeldutra.me/ptbr/page/about/me/</link>
+      <link>https://rafaeldutra.me/ptbr/page/about/me/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/about/me/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/about/me/</guid>
       <description>Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29&amp;frasl;01 de algum ano e sou Sysadmin e entusiasta DevOps.
 Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
 Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX.</description>
@@ -97,10 +97,10 @@ Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho algun
     
     <item>
       <title>Introdução ao Docker</title>
-      <link>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</link>
+      <link>https://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</guid>
+      <guid>https://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</guid>
       <description>&lt;h2 id=&#34;o-que-é-docker&#34;&gt;O que é Docker?&lt;/h2&gt;
 
 &lt;p&gt;Por definição em &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
@@ -114,10 +114,10 @@ Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho algun
     
     <item>
       <title></title>
-      <link>http://rafaeldutra.me/ptbr/page/cv/experience/</link>
+      <link>https://rafaeldutra.me/ptbr/page/cv/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/ptbr/page/cv/experience/</guid>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/experience/</guid>
       <description>Experiência Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
 Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
 Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.

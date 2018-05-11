@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on #/share</title>
-    <link>http://rafaeldutra.me/tags/</link>
+    <link>https://rafaeldutra.me/tags/</link>
     <description>Recent content in Tags on #/share</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,42 +10,42 @@
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
     <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rafaeldutra.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rafaeldutra.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automation</title>
-      <link>http://rafaeldutra.me/tags/automation/</link>
+      <link>https://rafaeldutra.me/tags/automation/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/tags/automation/</guid>
+      <guid>https://rafaeldutra.me/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://rafaeldutra.me/tags/development/</link>
+      <link>https://rafaeldutra.me/tags/development/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/tags/development/</guid>
+      <guid>https://rafaeldutra.me/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://rafaeldutra.me/tags/docker/</link>
+      <link>https://rafaeldutra.me/tags/docker/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/tags/docker/</guid>
+      <guid>https://rafaeldutra.me/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infraestructure</title>
-      <link>http://rafaeldutra.me/tags/infraestructure/</link>
+      <link>https://rafaeldutra.me/tags/infraestructure/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>http://rafaeldutra.me/tags/infraestructure/</guid>
+      <guid>https://rafaeldutra.me/tags/infraestructure/</guid>
       <description></description>
     </item>
     
