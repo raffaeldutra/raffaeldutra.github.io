@@ -1,4 +1,4 @@
-baseurl = "http://rafaeldutra.me"
+baseurl = "https://rafaeldutra.me"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "beautifulhugo"
