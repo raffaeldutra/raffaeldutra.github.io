@@ -85,6 +85,11 @@ name = "ABOUT"
 url = "/page/about/me"
 weight = 5
 
+[[Languages.en.menu.main]]
+name = "Docker"
+url = "https://docker.rafaeldutra.me"
+weight = 5
+
 
 [Languages.ptbr]
 title = "#/share beer"
@@ -134,4 +139,9 @@ weight = 33
 [[Languages.ptbr.menu.main]]
 name = "Sobre"
 url = "/ptbr/page/about/me"
+weight = 5
+
+[[Languages.ptbr.menu.main]]
+name = "Docker"
+url = "https://docker.rafaeldutra.me"
 weight = 5
