@@ -1,5 +1,5 @@
 ---
-date: "2017-03-02T12:15:24-03:00"
+date: "2018-03-02T12:15:24-03:00"
 title: "Rafael Dutra"
 ---
 
@@ -83,24 +83,25 @@ Abr/2014 - Dez/2014
 * Administração de servidores em Cloud e virtualização interna para homologação de projetos.
 
 ### Educação
-2017/1 – Segurança da Tecnologia da Infomação  
+* 2017/1 – Segurança da Tecnologia da Infomação  
 UNISINOS - São Leopoldo/RS. Em andamento.
 
-2010/1 – 2011/2 – Redes de computadores  
+* 2010/1 – 2011/2 – Redes de computadores  
 Centro de Tecnologia em Automação e Informática - Florianópolis/SC, SENAI/SC. Não finalizado.
 
-2008/1 – 2009/1 – Segurança da Tecnologia da Informação  
+* 2008/1 – 2009/1 – Segurança da Tecnologia da Informação  
 UNISINOS - São Leopoldo/RS. Não finalizado.
 
-2004/1 – 2007/1 – Técnico em Redes de computadores  
+* 2004/1 – 2007/1 – Técnico em Redes de computadores  
 Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 
 ### Idiomas
-Inglês intermediário para escrita e conversação.  
-Inglês avançado para leitura e escuta.
+* Inglês intermediário para escrita e conversação.  
+* Inglês avançado para leitura e escuta.
 
 ### Cursos e eventos
 
+* 2018/1 - Cloud Onboard - Google - Porto Alegre/RS (4 horas) - [Agenda](/ptbr/page/cv/training/google/cloud).
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 – Lean Software Development – WildTech – Porto Alegre/RS.
 * 2011/2 – Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
@@ -111,7 +112,11 @@ Inglês avançado para leitura e escuta.
 ### Palestras
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
+### Workshops
+* [1º FOSS Day Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - iniciante e intermediário](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
+
 ### Eventos/Conferências
+* 2018/1 - [1º FOSS Day Lajeado](https://drive.google.com/file/d/1cCh2VtTjxqU0JApey-68VaMeV5o9MmYH/view?usp=sharing) - [Lajeado/RS](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2).
 * 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
 * 2017/2 - [The Developers Conference - Containers](https://drive.google.com/open?id=14E-KturDexfAsZz-RQUYKPMOHI2Ny6ZO) - Porto Alegre/RS.
 * 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://goo.gl/photos/Y85CFFJczHamSA8J8).
