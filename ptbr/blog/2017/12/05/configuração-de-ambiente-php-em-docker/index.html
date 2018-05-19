@@ -26,7 +26,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="#/share beer" />
 
-  <meta name="generator" content="Hugo 0.26" />
+  <meta name="generator" content="Hugo 0.40" />
   <link rel="canonical" href="https://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/" />
   <link rel="alternate" href="" type="application/rss+xml" title="#/share beer">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -247,9 +247,7 @@ ga('send', 'pageview');
 
 <p>Então vamos iniciar baixando a imagem para PHP 7.2 trabalhando em modo FPM, com o comando:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">docker pull php:7.2-fpm-alpine3.6
-</code></pre></div>
-
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">docker pull php:7.2-fpm-alpine3.6</code></pre></div>
 
 <p>As imagens para PHP você poderá visualizar neste endereço: <a href="https://hub.docker.com/_/php">https://hub.docker.com/_/php</a></p>
 
@@ -261,9 +259,7 @@ ga('send', 'pageview');
 
 <p>Nginx tem um footprint super baixo e funciona em qualquer máquina simples. Primeiramente vamos baixar a imagem Docker do serviço.</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">docker pull nginx:1.13.7-alpine
-</code></pre></div>
-
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">docker pull nginx:1.13.7-alpine</code></pre></div>
 
 <h3 id="criando-arquivos">Criando arquivos</h3>
 
@@ -271,30 +267,25 @@ ga('send', 'pageview');
 
 <p>Crie a seguinte estrutura de diretórios em sua máquina</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">mkdir -p <span class="o">{</span>php,nginx/conf.d<span class="o">}</span>
-</code></pre></div>
-
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">mkdir -p <span class="o">{</span>php,nginx/conf.d<span class="o">}</span></code></pre></div>
 
 <p>O comando acima irá resultar na seguinte estrutura:</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>tree
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ tree
 .
 ├── nginx
 │   └── conf.d
 └── php
 
-<span class="m">3</span> directories, <span class="m">0</span> files
-</code></pre></div>
-
+<span class="m">3</span> directories, <span class="m">0</span> files</code></pre></div>
 
 <h4 id="arquivo-php">arquivo.php</h4>
 
 <p>Vamos criar o arquivo.php com o conteúdo</p>
 
-<div class="highlight"><pre><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
-<span class="nb">phpinfo</span><span class="p">();</span>
+<div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
+<span class="nx">phpinfo</span><span class="p">();</span>
 </code></pre></div>
-
 
 <p>e salvar em php/arquivo.php</p>
 
@@ -303,8 +294,8 @@ ga('send', 'pageview');
 <p>Arquivo de configuração necessário para o PHP rodar no nginx.
 Salve este arquivo em nginx/php/php.conf</p>
 
-<div class="highlight"><pre><code class="language-bash" data-lang="bash">server <span class="o">{</span>
-    listen       80<span class="p">;</span>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">server <span class="o">{</span>
+    listen       <span class="m">80</span><span class="p">;</span>
     server_name  localhost<span class="p">;</span>
 
     root   /usr/share/nginx/html<span class="p">;</span>
@@ -319,30 +310,26 @@ Salve este arquivo em nginx/php/php.conf</p>
         root   /usr/share/nginx/html<span class="p">;</span>
     <span class="o">}</span>
 
-    location ~ <span class="se">\.</span>php<span class="nv">$ </span><span class="o">{</span>
-        try_files <span class="nv">$uri</span> /index.php <span class="o">=</span>404<span class="p">;</span>
-        fastcgi_split_path_info ^<span class="o">(</span>.+<span class="se">\.</span>php<span class="o">)(</span>/.+<span class="o">)</span><span class="nv">$;</span>
+    location ~ <span class="se">\.</span>php$ <span class="o">{</span>
+        try_files <span class="nv">$uri</span> /index.php <span class="o">=</span><span class="m">404</span><span class="p">;</span>
+        fastcgi_split_path_info ^<span class="o">(</span>.+<span class="se">\.</span>php<span class="o">)(</span>/.+<span class="o">)</span>$<span class="p">;</span>
         fastcgi_pass php72:9000<span class="p">;</span>
         fastcgi_index index.php<span class="p">;</span>
         fastcgi_param SCRIPT_FILENAME <span class="nv">$document_root$fastcgi_script_name</span><span class="p">;</span>
         include fastcgi_params<span class="p">;</span>
     <span class="o">}</span>
-<span class="o">}</span>
-</code></pre></div>
-
+<span class="o">}</span></code></pre></div>
 
 <h3 id="rodando-a-stack">Rodando a Stack</h3>
 
 <p>Para um primeiro momento, iremos executar a stack manualmente.</p>
 
 <p>O comando abaixo irá rodar PHP 7.2 em modo FPM adicionando o arquivo.php que criamos anteriormente.
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1 </span>docker run   <span class="se">\</span>
-<span class="lineno">2 </span>--detach     <span class="se">\</span>
-<span class="lineno">3 </span>--name php72 <span class="se">\</span>
-<span class="lineno">4 </span>--volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\</span>
-<span class="lineno">5 </span>php:7.2-fpm-alpine3.6
-</code></pre></div>
-</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="ln">1</span>docker run   <span class="se">\
+</span><span class="ln">2</span><span class="se"></span>--detach     <span class="se">\
+</span><span class="ln">3</span><span class="se"></span>--name php72 <span class="se">\
+</span><span class="ln">4</span><span class="se"></span>--volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\
+</span><span class="ln">5</span><span class="se"></span>php:7.2-fpm-alpine3.6</code></pre></div></p>
 
 <ul>
 <li>Linha 2: modo detach permite que o container execute em background</li>
@@ -352,16 +339,14 @@ Salve este arquivo em nginx/php/php.conf</p>
 </ul>
 
 <p>O comando abaixo irá levantar outro container com um Webserver Nginx.
-<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1 </span>  docker run <span class="se">\</span>
-<span class="lineno">2 </span>  --detach <span class="se">\</span>
-<span class="lineno">3 </span>  --name nginx <span class="se">\</span>
-<span class="lineno">4 </span>  --link<span class="o">=</span>php72:php72 <span class="se">\</span>
-<span class="lineno">5 </span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/nginx/conf.d/php.conf:/etc/nginx/conf.d/default.conf <span class="se">\</span>
-<span class="lineno">6 </span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\</span>
-<span class="lineno">7 </span>  --publish 20000:80 <span class="se">\</span>
-<span class="lineno">8 </span>  nginx:1.13.7-alpine
-</code></pre></div>
-</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="ln">1</span>  docker run <span class="se">\
+</span><span class="ln">2</span><span class="se"></span>  --detach <span class="se">\
+</span><span class="ln">3</span><span class="se"></span>  --name nginx <span class="se">\
+</span><span class="ln">4</span><span class="se"></span>  --link<span class="o">=</span>php72:php72 <span class="se">\
+</span><span class="ln">5</span><span class="se"></span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/nginx/conf.d/php.conf:/etc/nginx/conf.d/default.conf <span class="se">\
+</span><span class="ln">6</span><span class="se"></span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\
+</span><span class="ln">7</span><span class="se"></span>  --publish <span class="m">20000</span>:80 <span class="se">\
+</span><span class="ln">8</span><span class="se"></span>  nginx:1.13.7-alpine</code></pre></div></p>
 
 <ul>
 <li>Linha 2: modo detach permite que o container execute em background</li>
@@ -481,7 +466,7 @@ Salve este arquivo em nginx/php/php.conf</p>
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.26</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.40</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>

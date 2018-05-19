@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="#/share beer" />
 
-  <meta name="generator" content="Hugo 0.26" />
+  <meta name="generator" content="Hugo 0.40" />
   <link rel="canonical" href="https://rafaeldutra.me/ptbr/categories/docker/" />
   <link rel="alternate" href="https://rafaeldutra.me/ptbr/categories/docker/index.xml" type="application/rss+xml" title="#/share beer">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
@@ -259,96 +259,7 @@ ga('send', 'pageview');
 </blockquote>
 
 <p></p>
-
-<p>Aqui está uma imagem que representa a &ldquo;pilha&rdquo; de tecnologia do Docker.</p>
-
-<p>HUGOMORE42</p>
-
-<p><img src="http://19yw4b240vb03ws8qm25h366.wpengine.netdna-cdn.com/wp-content/uploads/Docker-API-infographic-container-devops-nordic-apis.png" alt="Docker" /></p>
-
-<p>Então, isso signifia que você pode colocar toda a tecnologia necesária em um container, pelo menos você deveria, e por qual motivo você deveria? Pelo motivo que isso é um dos &ldquo;pilares&rdquo; da conternerização.</p>
-
-<h2 id="okay-mas-como-isso-funciona">Okay, mas como isso funciona?</h2>
-
-<p>Docker não é nenhuma novidade em termos de container, mas o oposto, containers existem desde o primeiro release que aconteceu em Agosto de 2008, mas antes disso ainda (Kernel 2.6.27) o LXC existia e ele era totalmente funcional no Kernel 2.6.29.</p>
-
-<p>Okay, mas nós estamos falando de Docker e não LXC. Sim, você está certo! Agora vamos falar sobre LXC :-)</p>
-
-<h2 id="o-que-é-lxc">O que é LXC?</h2>
-
-<p>LXC é sobre &ldquo;quais recursos você quer isolar&rdquo;, então vamos dar uma olhada em como podemos isolar um serviço SSHD -  <a href="http://lxc.sourceforge.net/man/lxc.html">http://lxc.sourceforge.net/man/lxc.html</a>.</p>
-
-<blockquote>
-<p>A configuração padrão é isolar os pids, o sysv ipc a os pontos de montagens (mount points). Se você quer rodar um simples shell dentro de um container, uma básica configuração é necessária, especialmente se você quer compartilhar o rootfs. Se você quer rodr uma aplicação como o sshd, você deve remontar o /var/run com um diretório em branco. Se você quer evitar conflitos de todos os casos, você pode especificar um rootfs para o container. O rootfs pode ser um diretório em árvore, previamente montada com um rootfs inicial, então você pode ainda pode usar su distro mas com seu próprio /etc e /home</p>
-</blockquote>
-
-<p>Aqui temos um exemplo de um diretório listado em formato de árvore para o sshd:</p>
-
-<pre class="prettyprint">
-[root@lxc sshd]$ tree -d rootfs
-
-rootfs
-|-- bin
-|-- dev
-|   |-- pts
-|   `-- shm
-|       `-- network
-|-- etc
-|   `-- ssh
-|-- lib
-|-- proc
-|-- root
-|-- sbin
-|-- sys
-|-- usr
-`-- var
-    |-- empty
-    |   `-- sshd
-    |-- lib
-    |   `-- empty
-    |       `-- sshd
-    `-- run
-        `-- sshd
-
-</pre>
-
-<p>E aqui temos os pontos de montagens associados com ele:</p>
-
-<pre class="prettyprint">
-[root@lxc sshd]$ cat fstab
-
-/lib /home/root/sshd/rootfs/lib none ro,bind 0 0
-/bin /home/root/sshd/rootfs/bin none ro,bind 0 0
-/usr /home/root/sshd/rootfs/usr none ro,bind 0 0
-/sbin /home/root/sshd/rootfs/sbin none ro,bind 0 0
-
-</pre>
-
-<h2 id="lxc-components">LXC components</h2>
-
-<p>LXC é atualmente feito de alguns componentes separados:</p>
-
-<ul>
-<li>A biblioteca liblxc:</li>
-<li>Várias linguagens para API:
-
-<ul>
-<li>python3</li>
-<li>lua</li>
-<li>Go</li>
-<li>ruby</li>
-<li>python2</li>
-<li>Haskell</li>
-</ul></li>
-<li>Um conjunto de ferramentas para controlar containers.</li>
-<li>Distribuição de templates de container.</li>
-</ul>
-
-<p>Docker até a versão 0.9 era baseada em LXC como driver default para comunicar com o Kernel API, mas desde então vem utilizando libcontainer, uma biblioteca em Go puramente desenvolvida para acessar às APIs do container em Kernel, sem qualquer outra dependência.</p>
-
-<p>Portanto, LXC é um &ldquo;componente/módulo/tecnologia&rdquo; do Kernel Linux que permite ciar um ambiente virtual fechado e limitado. Como o LXC executa este processo isolado, uma &ldquo;abstração&rdquo;, este processo quando precisar ser executado novamente em outra máquina com suporte a LXC do kernel, o processo será executado normalmente e se comportando da mesma maneira originalmente.</p>
-
-<p>Processo é o que chamamos do isolamento que estavámos falando até o momento, como foi o exemplo do SSHD acima. SSH foi isolado/fechado como se fosse um processo e como ele fica independente (apenas dependente do LXC), pode ser executado em qualquer lugar.</p>
+                  <a href="https://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/" class="post-read-more">[Read More]</a>
                 
               </div>
 
@@ -447,7 +358,7 @@ rootfs
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.26</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.40</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
