@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/page/cv/training/google/cloud/</loc>
+    <lastmod>2018-05-19T16:00:24-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://rafaeldutra.me/ptbr/page/cv/training/google/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/cv/training/google/cloud/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</loc>
     <lastmod>2017-04-06T22:34:24-03:00</lastmod>
     <xhtml:link
@@ -123,7 +138,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/</loc>
-    <lastmod>2017-04-06T22:34:24-03:00</lastmod>
+    <lastmod>2018-05-19T16:00:24-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -266,7 +281,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/page/</loc>
-    <lastmod>2017-04-06T22:34:24-03:00</lastmod>
+    <lastmod>2018-05-19T16:00:24-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
