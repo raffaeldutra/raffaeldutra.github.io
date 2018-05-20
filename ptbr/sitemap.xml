@@ -243,23 +243,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/ptbr/tags/development/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/development/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/ptbr/categories/development/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -277,19 +260,19 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/ptbr/tags/docker/</loc>
+    <loc>https://rafaeldutra.me/ptbr/tags/development/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rafaeldutra.me/tags/docker/"
+                href="https://rafaeldutra.me/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/docker/"
+                href="https://rafaeldutra.me/ptbr/tags/development/"
                 />
   </url>
   
@@ -307,6 +290,23 @@
                 rel="alternate"
                 hreflang="ptbr"
                 href="https://rafaeldutra.me/ptbr/categories/docker/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/ptbr/tags/docker/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://rafaeldutra.me/ptbr/tags/docker/"
                 />
   </url>
   
@@ -352,14 +352,14 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/ptbr/tags/php/</loc>
+    <loc>https://rafaeldutra.me/ptbr/categories/php/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/ptbr/categories/php/</loc>
+    <loc>https://rafaeldutra.me/ptbr/tags/php/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
