@@ -16,9 +16,9 @@ metaDataFormat = "yaml"
 #disqusShortname = "raffaeldutra-github-io"
 
 [sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [Params]
 subtitle = "knowledgement and ideas"
