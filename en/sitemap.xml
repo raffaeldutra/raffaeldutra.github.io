@@ -222,23 +222,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/categories/development/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/categories/development/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/tags/development/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -256,19 +239,19 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/categories/docker/</loc>
+    <loc>https://rafaeldutra.me/categories/development/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/categories/docker/"
+                href="https://rafaeldutra.me/ptbr/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rafaeldutra.me/categories/docker/"
+                href="https://rafaeldutra.me/categories/development/"
                 />
   </url>
   
@@ -286,6 +269,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/tags/docker/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/categories/docker/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://rafaeldutra.me/ptbr/categories/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/categories/docker/"
                 />
   </url>
   
