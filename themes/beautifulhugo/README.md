@@ -8,7 +8,7 @@
     $ cd themes
     $ git clone https://github.com/halogenica/beautifulhugo.git beautifulhugo
 
-See [the Hugo documentation](http://gohugo.io/themes/installing/) for more information.
+See [the Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
 ## Extra Features
 
@@ -18,46 +18,41 @@ This theme is designed to look great on both large-screen and small-screen (mobi
 
 ### Syntax highlighting
 
-This theme has support for either Hugo's lightning fast Chroma, or both server side and client side highlighting.
+This theme has support for either Hugo's lightning fast Chroma, or both server side and client side highlighting. See [the Hugo docs for more](https://gohugo.io/content-management/syntax-highlighting/).
 
-#### Chroma
+#### Chroma - New server side syntax highlighting
 
 To enable Chroma, add the following to your site parameters:
 
 ```
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-[params]
-    useChroma = true
 ```
 
-Then, you can use a different style by running:
+Then, you can generate a different style by running:
 
 ```
-hugo gen chromastyles --style=manni > static/css/syntax.css
+hugo gen chromastyles --style=trac > static/css/syntax.css
 ```
 
-See [the Hugo docs for more](https://gohugo.io/content-management/syntax-highlighting/).
+#### Pygments - Old server side syntax highlighting
 
-#### Server side syntax highlighting
-
-Use the `highlight` shortcode (with Pygments),
-see [the Hugo documentation](http://gohugo.io/extras/highlighting/) for more information.
-
-To use this feature install Pygments (`pip install Pygments`) and add
+To use this feature install Pygments (`pip install Pygments`) and add the following to your site parameters:
 
 ```
-pygmentsUseClasses = true
+pygmentsStyle = "trac"
 pygmentsUseClassic = true
 ```
 
-to your `config.toml`.
+Pygments is mostly compatable with the newer Chroma. It is slower but has some additional theme options. I recommend Chroma over Pygments.
 
-#### Client side syntax highlighting
+#### Highlight.js - Client side syntax highlighting
+```
+[Params]
+    useHLJS = true
+```
 
-Use triple backticks ( ``` ) or triple tilde ( ~~~ ) around code blocks.
-
-Client side highlighting does not require pygments to be installed. This currently is only active if you have not selected Chroma, because they don't play well together.
+Client side highlighting does not require pygments to be installed. This will use `highlight.min.css` instead of `syntax.css` for highlighting (effectively disabling Chroma). Highlight.js has a wider range of support for languages and themes, and an alternative highlighting engine.
 
 ### Disqus support
 
@@ -107,7 +102,7 @@ comments:
 
 ### Google Analytics
 
-To add Google Analytics, simply sign up to [Google Analytics](http://www.google.com/analytics/) to obtain your Google Tracking ID, and add this tracking ID to the `googleAnalytics` parameter in `config.toml`.
+To add Google Analytics, simply sign up to [Google Analytics](https://www.google.com/analytics/) to obtain your Google Tracking ID, and add this tracking ID to the `googleAnalytics` parameter in `config.toml`.
 
 ### Commit SHA on the footer
 
@@ -128,7 +123,7 @@ See at [xor-gate/xor-gate.org](https://github.com/xor-gate/xor-gate.org) an exam
   
 ## About
 
-This is a port of the Jekyll theme [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) by [Dean Attali](http://deanattali.com/aboutme#contact). It supports most of the features of the original theme.
+This is a port of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) by [Dean Attali](https://deanattali.com/aboutme#contact). It supports most of the features of the original theme.
 
 ## License
 

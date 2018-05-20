@@ -16,137 +16,142 @@ metaDataFormat = "yaml"
 #disqusShortname = "raffaeldutra-github-io"
 
 [sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-priority = 0.5
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [Params]
-subtitle = "knowledgement and ideas"
-logo = "img/avatar-icon.png"
-favicon = "img/favicon.ico"
-commit = false
+  subtitle = "knowledgement and ideas"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  useHLJS = true
+  socialShare = true
 
 [permalinks]
 post = "/:year/:month/:day/:slug"
 blog = "/blog/:year/:month/:day/:slug"
 
 [Author]
-name = "Rafael Dutra"
-website = "rafaeldutra.me"
-email = "raffaeldutra@gmail.com"
-googleplus = "+RafaelDutra"
-github = "raffaeldutra"
-twitter = "raffaeldutra"
-linkedin = "rafaeldutra"
-youtube = "watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz"
+  name = "Rafael Dutra"
+  website = "rafaeldutra.me"
+  email = "raffaeldutra@gmail.com"
+  googleplus = "+RafaelDutra"
+  github = "raffaeldutra"
+  twitter = "raffaeldutra"
+  linkedin = "rafaeldutra"
+  youtube = "watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz"
+  telegram = "raffaeldutra"
 
 [Languages]
 [Languages.en]
-title = "#/share"
-languageName = "English"
+  title = "#/share"
+  languageName = "English"
 
 [[Languages.en.menu.main]]
-name = "HOME"
-url = "/blog"
-weight = 2
+  name = "HOME"
+  url = "/blog"
+  weight = 2
 
 [[Languages.en.menu.main]]
-identifier = "cv"
-name = "CURRICULUM"
-weight = 3
+  identifier = "cv"
+  name = "CURRICULUM"
+  weight = 3
 
 [[Languages.en.menu.main]]
-parent = "cv"
-name = "Downloads"
-url = "/page/cv/downloads"
-weight = 30
+  parent = "cv"
+  name = "Downloads"
+  url = "/page/cv/downloads"
+  weight = 30
 
 [[Languages.en.menu.main]]
-parent = "cv"
-name = "Resume"
-url = "/page/cv/resume"
-weight = 31
+  parent = "cv"
+  name = "Resume"
+  url = "/page/cv/resume"
+  weight = 31
 
 [[Languages.en.menu.main]]
-parent = "cv"
-name = "Mini"
-url = "/page/cv/mini"
-weight = 32
+  parent = "cv"
+  name = "Mini"
+  url = "/page/cv/mini"
+  weight = 32
 
 [[Languages.en.menu.main]]
-parent = "cv"
-name = "Experience"
-url = "/page/cv/experience"
-weight = 32
+  parent = "cv"
+  name = "Experience"
+  url = "/page/cv/experience"
+  weight = 32
 
 [[Languages.en.menu.main]]
-parent = "cv"
-name = "Talks"
-url = "/page/presentations"
-weight = 33
+  parent = "cv"
+  name = "Talks"
+  url = "/page/presentations"
+  weight = 33
 
 [[Languages.en.menu.main]]
-name = "ABOUT"
-url = "/page/about/me"
-weight = 5
+  name = "ABOUT"
+  url = "/page/about/me"
+  weight = 5
 
 [[Languages.en.menu.main]]
-name = "Docker"
-url = "https://docker.rafaeldutra.me"
-weight = 5
-
+  name = "Docker"
+  url = "https://docker.rafaeldutra.me"
+  weight = 5
 
 [Languages.ptbr]
-title = "#/share beer"
-languageName = "Português"
-url = "/ptbr/blog"
+  title = "#/share beer"
+  languageName = "Português"
+  url = "/ptbr/blog"
 
 [[Languages.ptbr.menu.main]]
-url    = "/ptbr/blog"
-name   = "HOME"
-weight = 2
+  url    = "/ptbr/blog"
+  name   = "HOME"
+  weight = 2
 
 [[Languages.ptbr.menu.main]]
-identifier = "cv"
-name = "Curriculo"
-weight = 3
+  identifier = "cv"
+  name = "Curriculo"
+  weight = 3
 
 [[Languages.ptbr.menu.main]]
-parent = "cv"
-name = "Downloads"
-url = "/ptbr/page/cv/Downloads"
-weight = 30
+  parent = "cv"
+  name = "Downloads"
+  url = "/ptbr/page/cv/Downloads"
+  weight = 30
 
 [[Languages.ptbr.menu.main]]
-parent = "cv"
-name = "Resume"
-url = "/ptbr/page/cv/resume"
-weight = 31
+  parent = "cv"
+  name = "Resume"
+  url = "/ptbr/page/cv/resume"
+  weight = 31
 
 [[Languages.ptbr.menu.main]]
-parent = "cv"
-name = "Mini"
-url = "/ptbr/page/cv/mini"
-weight = 32
+  parent = "cv"
+  name = "Mini"
+  url = "/ptbr/page/cv/mini"
+  weight = 32
 
 [[Languages.ptbr.menu.main]]
-parent = "cv"
-name = "Experience"
-url = "/page/cv/Experience"
-weight = 32
+  parent = "cv"
+  name = "Experience"
+  url = "/page/cv/Experience"
+  weight = 32
 
 [[Languages.ptbr.menu.main]]
-parent = "cv"
-name = "Palestras"
-url = "/ptbr/page/presentations"
-weight = 33
+  parent = "cv"
+  name = "Palestras"
+  url = "/ptbr/page/presentations"
+  weight = 33
 
 [[Languages.ptbr.menu.main]]
-name = "Sobre"
-url = "/ptbr/page/about/me"
-weight = 5
+  name = "Sobre"
+  url = "/ptbr/page/about/me"
+  weight = 5
 
 [[Languages.ptbr.menu.main]]
-name = "Docker"
-url = "https://docker.rafaeldutra.me"
-weight = 5
+  name = "Docker"
+  url = "https://docker.rafaeldutra.me"
+  weight = 5
