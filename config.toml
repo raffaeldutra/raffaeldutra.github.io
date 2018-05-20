@@ -29,7 +29,7 @@ metaDataFormat = "yaml"
   comments = false
   readingTime = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
 
 [permalinks]
 post = "/:year/:month/:day/:slug"
