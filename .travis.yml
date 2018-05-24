@@ -15,6 +15,11 @@ script:
     --form from=markdown
     --form to=pdf
     http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
+  - curl
+    --form input_files[]=@content/page/cv/resume.ptbr.md
+    --form from=markdown
+    --form to=pdf
+    http://c.docverter.com/convert > public/resume/rafael-dutra-resume.ptbr.pdf
 
 deploy:
   name: "rafaeldutra.me deployment"
