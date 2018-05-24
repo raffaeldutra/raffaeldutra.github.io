@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 # Rafael Dutra <raffaeldutra@gmail.com>
 # http://rafaeldutra.me
 
@@ -7,11 +7,11 @@
 # faça o Pull Request para abrangermos o maior número possível de Sistemas
 # Operacionais possíveis.
 if [ "${OSTYPE}"  = "msys" ]; then
-    declare url="http://192.168.99.100"
+    url="http://192.168.99.100"
 # Em caso de o Sistema Operacional for algum Linux, Mac, FressBSD e etc
 # utilizamos o localhost
 else
-    declare url="http://localhost:1313"
+    url="http://localhost:1313"
 fi
 
 # -p para Publish (publicar conteúdo), ou seja, pega todos arquivos .md e

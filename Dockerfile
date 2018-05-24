@@ -3,11 +3,11 @@ FROM alpine:3.4
 LABEL description="Docker container for building static sites with the Hugo."
 LABEL maintainer="Rafael Dutra <raffaeldutra@gmail.com>"
 
-ENV HUGO_VERSION 0.40
+ENV HUGO_VERSION 0.40.3
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
 # Install pygments (for syntax highlighting) and bash
-RUN apk update && apk add py-pygments && apk add bash && rm -rf /var/cache/apk/*
+RUN apk update && apk add py-pygments curl && rm -rf /var/cache/apk/*
 
 # Download and Install hugo
 RUN mkdir /usr/local/hugo
