@@ -4,7 +4,7 @@ sudo: required
 services:
   - docker
 
-before_script:
+before_install:
   - mkdir -p public/resume
 
 script:
@@ -14,7 +14,7 @@ script:
     --form input_files[]=@content/page/cv/resume.md \
     --form from=markdown \
     --form to=pdf \
-  http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
+    http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
 
 deploy:
   name: "rafaeldutra.me deployment"
