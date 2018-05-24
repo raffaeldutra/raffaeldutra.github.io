@@ -100,7 +100,6 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * Inglês avançado para leitura e escuta.
 
 ### Cursos e eventos
-
 * 2018/1 - Cloud Onboard - Google - Porto Alegre/RS (4 horas) - [Agenda](/ptbr/page/cv/training/google/cloud).
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 – Lean Software Development – WildTech – Porto Alegre/RS.
@@ -129,6 +128,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
+* 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices and Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
 * 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
