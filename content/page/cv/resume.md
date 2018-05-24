@@ -1,5 +1,4 @@
 ---
-date: "2017-03-02T12:15:24-03:00"
 title: "Rafael Dutra"
 ---
 
@@ -99,7 +98,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * Advanced English for listening and reading.
 
 ### Courses
-* 2018/1 - [Cloud Onboard - Google](https://cloudplatformonline.com/2018-LATAM-OnBoard-POR.html) - Porto Alegre/RS (4 hours) - [Agenda](/page/cv/training/google/cloud).
+* 2018/1 - Cloud Onboard - Google - Porto Alegre/RS (4 hours) - [Agenda](/page/cv/training/google/cloud).
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 - Lean Software Development - WildTech - Porto Alegre/RS.
 * 2011/2 - Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
