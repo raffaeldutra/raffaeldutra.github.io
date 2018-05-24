@@ -24,21 +24,6 @@ Agenda  Módulo 1  Introdução ao Google Cloud Platform  Módulo 2  Começando 
     </item>
     
     <item>
-      <title>Rafael Dutra</title>
-      <link>https://rafaeldutra.me/ptbr/page/cv/resume/</link>
-      <pubDate>Fri, 02 Mar 2018 12:15:24 -0300</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/ptbr/page/cv/resume/</guid>
-      <description>Brasileiro, solteiro.
-Porto Alegre/RS
-Email: raffaeldutra@gmail.com
-Resumo Profissional Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
-Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
-Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
-Experiência Profissional PoaTek IT Consulting (http://poatek.</description>
-    </item>
-    
-    <item>
       <title>Configuração de ambiente PHP em Docker</title>
       <link>https://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
@@ -133,6 +118,21 @@ Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
 Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
 Containers Utilizo Docker desde 2015&amp;frasl;1, alguns projetos realizados mas nenhum em total produção até o momento.
 Utilizei em sua maioria para pipelines em ferramentas de CI.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/ptbr/page/cv/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/ptbr/page/cv/resume/</guid>
+      <description>Brasileiro, solteiro.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Resumo Profissional Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Experiência Profissional PoaTek IT Consulting (http://poatek.</description>
     </item>
     
   </channel>

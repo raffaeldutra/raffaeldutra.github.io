@@ -88,23 +88,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/page/cv/resume/</loc>
-    <lastmod>2017-03-02T12:15:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/resume/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/page/cv/resume/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/page/about/me/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -320,6 +303,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/page/cv/resume/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://rafaeldutra.me/ptbr/page/cv/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/cv/resume/"
                 />
   </url>
   

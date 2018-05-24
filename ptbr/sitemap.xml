@@ -20,23 +20,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/ptbr/page/cv/resume/</loc>
-    <lastmod>2018-03-02T12:15:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/page/cv/resume/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/resume/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/ptbr/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -363,6 +346,22 @@
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/ptbr/page/cv/resume/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/cv/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://rafaeldutra.me/ptbr/page/cv/resume/"
+                />
   </url>
   
   <url>
