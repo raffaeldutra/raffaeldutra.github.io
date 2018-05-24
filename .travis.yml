@@ -10,10 +10,10 @@ before_install:
 script:
   - docker build --no-cache -t raffaeldutra/gohugo .
   - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/gohugo
-  - curl \
-    --form input_files[]=@content/page/cv/resume.md \
-    --form from=markdown \
-    --form to=pdf \
+  - curl
+    --form input_files[]=@content/page/cv/resume.md
+    --form from=markdown
+    --form to=pdf
     http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
 
 deploy:
