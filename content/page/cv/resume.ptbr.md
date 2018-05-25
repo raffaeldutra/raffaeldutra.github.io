@@ -14,6 +14,27 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
+Jive Software is now a part of [Aurea Company](https://aurea.com) (https://aurea.com)  
+Technology company - Portland - Oregon - United States.  
+Jan/2018 - Present
+
+Working remotely as independent contractor for [Crossover](https://crossover.com).
+
+The company is widely spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
+
+Main main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
+
+* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
+* Support internal tools.
+* AWS (Load Balancers, Target Groups, Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Redshit Database).
+* Document internal tools used at AWS.
+* Documents processes and procedures required.
+* Job Scheduler ([Rundeck](http://rundeck.org)).
+* Continuous Integration (Git, Bitbucket, Jenkins)
+* Logs and metrics monitoring (Datadog and Flapjack).
+
+
 #### PoaTek IT Consulting (http://poatek.com)
 Empresa de tecnologia - Porto Alegre/RS  
 Out/2016 - Presente
@@ -64,6 +85,7 @@ Muitos dos nossos projetos eram utilizados com [Docker](https://www.docker.com) 
 **Ambientes em Shell Script**  
 Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
 
+
 #### Dev4you (http://dev4you.com.br)
 Empresa de tecnologia - Porto Alegre/RS  
 Ago/2015 - Set/2016
@@ -72,6 +94,7 @@ Ago/2015 - Set/2016
 * Gerenciamento de DNS. Shell Script (nível avançado).
 * Desenvolvimento de micro aplicações com [PHP](https://secure.php.net) para uso interno. Backup de plataformas usando Rsync e [Bacula](http://blog.bacula.org)..
 * [Docker](https://www.docker.com) para testes de ambientes e gerenciamento de configuração com [Ansible](https://www.ansible.com) e [Puppet](https://puppet.com).
+
 
 #### Toshyro.net Processamento de dados Ltda (http://toshyro.net)
 Empresa de desenvolvimento - Lajeado/RS, (51) 9696-2080  

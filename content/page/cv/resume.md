@@ -14,9 +14,30 @@ Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" tar
 In the last 2 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
+Jive Software is now a part of [Aurea Company](https://aurea.com) (https://aurea.com)  
+Technology company - Portland - Oregon - United States.  
+Jan/2018 - Present
+
+Working remotely as independent contractor for [Crossover](https://crossover.com).
+
+The company is widely spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
+
+Main main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
+
+* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
+* Support internal tools.
+* AWS (Load Balancers, Target Groups, Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Redshit Database).
+* Document internal tools used at AWS.
+* Documents processes and procedures required.
+* Job Scheduler ([Rundeck](http://rundeck.org)).
+* Continuous Integration (Git, Bitbucket, Jenkins)
+* Logs and metrics monitoring (Datadog and Flapjack).
+
+
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
 Technology company - Porto Alegre/RS  
-Oct/2016 - Present
+Oct/2016 - Jan/2018
 
 Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
@@ -64,6 +85,7 @@ Many of our projects uses [Docker](https://www.docker.com) for build the applica
 **Shell Script environments**  
 In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).  
 
+
 #### [Dev4you](http://dev4you.com.br) (http://dev4you.com.br)
 Technology Company - Porto Alegre/RS  
 Aug/2015 - Sep/2016
@@ -72,6 +94,7 @@ Aug/2015 - Sep/2016
 * DNS management. Shell Scripting (advanced level) to automate tasks. Internal micro applications development with [PHP](https://secure.php.net).
 * Platform backups using rsync and [Bacula](http://blog.bacula.org).
 * [Docker](https://www.docker.com) containers tests for use in production and management configuration with [Ansible](https://www.ansible.com) and [Puppet](https://puppet.com).  
+
 
 #### [Toshyro.net Processamento de dados Ltda](http://toshyro.net) (http://toshyro.net)
 Development Company - Lajeado/RS  
