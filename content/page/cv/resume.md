@@ -140,7 +140,8 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
 * 2017/2 - [The Developers Conference - Containers](https://drive.google.com/open?id=14E-KturDexfAsZz-RQUYKPMOHI2Ny6ZO) - Porto Alegre/RS.
 * 2017/2 - [DevOpsDay](https://drive.google.com/file/d/0B51KxqHg_vABTmJSX3hCalZnU2s/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://goo.gl/photos/Y85CFFJczHamSA8J8).
-* 2016/1 - [1º TcheLinux Lajeado](https://goo.gl/photos/LDU37mWwkTgLAGUb6)
+* 2017/1 - [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - Lajeado/RS.
+* 2016/1 - [1º TcheLinux Lajeado](https://goo.gl/photos/LDU37mWwkTgLAGUb6) - Lajeado/RS.
 * 2010/2 - [5º Solisc - Congresso Catarinense de Software Livre](https://drive.google.com/open?id=0B51KxqHg_vABaUpqWXlSbTdGVUk) - Florianópolis/SC.
 * 2010/1 - [11º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABZk04NnZGcGRfQlU) - [Porto Alegre/RS](https://photos.app.goo.gl/WHuBv3F67X4SBSl33).
 * 2009/1 - [10º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABUmtHd29IYnN1Z1U) - Porto Alegre/RS.
