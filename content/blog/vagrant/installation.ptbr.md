@@ -1,11 +1,11 @@
 +++
 title = "Vagrant parte 2"
-date = "2014-06-10"
+date = "2018-05-30"
 
 draft = true
 +++
 
-<span style="font-size: 0.875em; line-height: 1.5;">Para instalar Vagrant, você precisa do Virtual Box, pois é por ele que suas boxes são criadas</span>
+Para instalar Vagrant, você precisa do Virtual Box, pois é por ele que suas boxes são criadas.
 
 ### Instalando em ambiente Gnu/Linux Debian Wheezy
 
