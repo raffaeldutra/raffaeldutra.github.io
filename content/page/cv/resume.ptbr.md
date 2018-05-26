@@ -7,7 +7,7 @@ Brasileiro, solteiro.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Resumo Profissional
-Mais de 10 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 13 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
 
 Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
 
@@ -15,24 +15,25 @@ Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraes
 
 ### Experiência Profissional
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
-Jive Software is now a part of [Aurea Company](https://aurea.com) (https://aurea.com)  
-Technology company - Portland - Oregon - United States.  
+Jive Software é agora parte da [Aurea Company](https://aurea.com) (https://aurea.com)  
+Empresa de tecnologia - Portland - Oregon - United States.  
 Jan/2018 - Present
 
-Working remotely as independent contractor for [Crossover](https://crossover.com).
+Trabalhando remotamente como pessoa juridica para a [Crossover](https://crossover.com).
 
-The company is widely spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
+Os contratados pela empresa estão espalhados pelo mundo, então nós temos/tivemos diferentes culturas para trabalhar, fusos diferentes e momentos virtuais engraçados.
 
-Main main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
+Meu papel principal foi trabalhar em reduzir custos na AWS e para isso eu tive que aprender ferramentas internas para saber o que fazer.
 
-* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
-* Support internal tools.
-* AWS (Load Balancers, Target Groups, Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Redshit Database).
-* Document internal tools used at AWS.
-* Documents processes and procedures required.
+
+* Automação e automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash e [Puppet](https://puppet.com)).
+* Suportar ferramentas internas.
+* AWS ([Load Balancers](https://aws.amazon.com/elasticloadbalancing/), [Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Redshit Database](https://aws.amazon.com/redshift)).
+* Documentar ferramentas internas usadas na AWS.
+* Documentar processos e processos requiridos.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
-* Continuous Integration (Git, Bitbucket, Jenkins)
-* Logs and metrics monitoring (Datadog and Flapjack).
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
+* Logs monitoramento de métricas ([Datadog](https://www.datadoghq.com/) e [Flapjack](http://flapjack.io/)).
 
 
 #### PoaTek IT Consulting (http://poatek.com)

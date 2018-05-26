@@ -7,7 +7,7 @@ Brazilian, single.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
-10+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+13+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
 
 3+ years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
 
@@ -21,18 +21,18 @@ Jan/2018 - Present
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-The company is widely spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
+The company's contractors are spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
 
 Main main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
 * Support internal tools.
-* AWS (Load Balancers, Target Groups, Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Redshit Database).
+* AWS ([Load Balancers](https://aws.amazon.com/elasticloadbalancing/), [Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Redshit Database](https://aws.amazon.com/redshift)).
 * Document internal tools used at AWS.
 * Documents processes and procedures required.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
-* Continuous Integration (Git, Bitbucket, Jenkins)
-* Logs and metrics monitoring (Datadog and Flapjack).
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
+* Logs and metrics monitoring ([Datadog](https://www.datadoghq.com/) and [Flapjack](http://flapjack.io/)).
 
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
