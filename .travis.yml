@@ -4,6 +4,10 @@ sudo: required
 services:
   - docker
 
+branches:
+  only:
+  - develop
+
 before_install:
   - mkdir -p public/resume
 
