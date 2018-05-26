@@ -23,7 +23,7 @@ Working remotely as independent contractor for [Crossover](https://crossover.com
 
 The company's contractors are spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
 
-Main main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
+My main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
 * Support internal tools.
