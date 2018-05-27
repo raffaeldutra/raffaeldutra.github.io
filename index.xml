@@ -24,6 +24,17 @@ Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work
     </item>
     
     <item>
+      <title>Configuração de ambiente PHP em Docker</title>
+      <link>https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</guid>
+      <description>&lt;p&gt;Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &amp;ldquo;funciona na minha máquina&amp;rdquo; não funciona naquele deploy em produção, não é mesmo?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Puppet Fundamentals</title>
       <link>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
       <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>

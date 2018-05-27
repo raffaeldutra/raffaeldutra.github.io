@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Automation</title>
       <link>https://rafaeldutra.me/tags/automation/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/automation/</guid>
       <description></description>
@@ -25,7 +25,7 @@
     <item>
       <title>Development</title>
       <link>https://rafaeldutra.me/tags/development/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/development/</guid>
       <description></description>
@@ -34,7 +34,7 @@
     <item>
       <title>Docker</title>
       <link>https://rafaeldutra.me/tags/docker/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/docker/</guid>
       <description></description>
@@ -43,9 +43,18 @@
     <item>
       <title>Infraestructure</title>
       <link>https://rafaeldutra.me/tags/infraestructure/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/infraestructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://rafaeldutra.me/tags/php/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/php/</guid>
       <description></description>
     </item>
     

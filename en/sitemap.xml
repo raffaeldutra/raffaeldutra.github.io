@@ -9,8 +9,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/training/google/cloud/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/training/google/cloud/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,14 +20,21 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</loc>
     <lastmod>2017-04-06T22:34:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/training/puppet/fundamentals/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/training/puppet/fundamentals/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,8 +50,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/mini/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/mini/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -60,8 +67,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/downloads/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,8 +84,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/presentations/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/presentations/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -94,8 +101,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/about/me/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/about/me/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -111,8 +118,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,8 +134,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/experience/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/experience/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -144,8 +151,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -156,30 +163,20 @@
   
   <url>
     <loc>https://rafaeldutra.me/tags/automation/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/automation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/tags/automation/"
-                />
   </url>
   
   <url>
     <loc>https://rafaeldutra.me/blog/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/blog/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -194,8 +191,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/categories/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -205,14 +202,21 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/tags/development/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/categories/development/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/categories/development/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -222,48 +226,14 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/development/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/tags/development/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rafaeldutra.me/categories/docker/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/categories/docker/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/categories/docker/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/tags/docker/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/docker/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/tags/docker/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -273,20 +243,27 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/infraestructure/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <loc>https://rafaeldutra.me/categories/docker/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/infraestructure/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/categories/docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rafaeldutra.me/tags/infraestructure/"
+                href="https://rafaeldutra.me/categories/docker/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/tags/infraestructure/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -296,8 +273,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -307,13 +284,27 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/tags/php/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/categories/php/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/cv/resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/page/cv/resume/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/resume/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -324,13 +315,13 @@
   
   <url>
     <loc>https://rafaeldutra.me/tags/</loc>
-    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ptbr"
-                href="https://rafaeldutra.me/ptbr/tags/"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
