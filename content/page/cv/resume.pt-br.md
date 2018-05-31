@@ -21,14 +21,11 @@ Jan/2018 - Present
 
 Trabalhando remotamente como pessoa juridica para a [Crossover](https://crossover.com).
 
-Os contratados pela empresa estão espalhados pelo mundo, então nós temos/tivemos diferentes culturas para trabalhar, fusos diferentes e momentos virtuais engraçados.
-
 Meu papel principal foi trabalhar em reduzir custos na AWS e para isso eu tive que aprender ferramentas internas para saber o que fazer.
-
 
 * Automação e automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash e [Puppet](https://puppet.com)).
 * Suportar ferramentas internas.
-* AWS ([Load Balancers](https://aws.amazon.com/elasticloadbalancing/), [Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Redshit Database](https://aws.amazon.com/redshift)).
+* AWS ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
 * Documentar ferramentas internas usadas na AWS.
 * Documentar processos e processos requiridos.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
@@ -123,7 +120,6 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * Inglês avançado para leitura e escuta.
 
 ### Cursos e eventos
-* 2018/1 - Cloud Onboard - Google - Porto Alegre/RS (4 horas) - [Agenda](/ptbr/page/cv/training/google/cloud).
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 – Lean Software Development – WildTech – Porto Alegre/RS.
 * 2011/2 – Accessing the WAN - Cisco Networking Academy - Florianópolis/SC

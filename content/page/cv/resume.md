@@ -21,13 +21,11 @@ Jan/2018 - Present
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-The company's contractors are spread around the world, so we have/had different cultures to work with, timezones and funny virtual moments.
-
 My main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
 * Support internal tools.
-* AWS ([Load Balancers](https://aws.amazon.com/elasticloadbalancing/), [Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Redshit Database](https://aws.amazon.com/redshift)).
+* AWS ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
 * Document internal tools used at AWS.
 * Documents processes and procedures required.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
@@ -121,7 +119,6 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * Advanced English for listening and reading.
 
 ### Courses
-* 2018/1 - Cloud Onboard - Google - Porto Alegre/RS (4 hours) - [Agenda](/page/cv/training/google/cloud).
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 - Lean Software Development - WildTech - Porto Alegre/RS.
 * 2011/2 - Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
