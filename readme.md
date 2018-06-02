@@ -1,8 +1,6 @@
-<p align="center"><img src="static/gohugo.png"></p>
+# Página pessoal
 
 ![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) ![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io/develop.svg)
-
-# Leia
 
 Olá, se alguma coisa no meu site te interessou, como o modelo do meu currículo, páginas e etc, sinta-se a vontade para clonar este repositório e adaptar para suas necessidadaes.  
 
@@ -10,7 +8,7 @@ Utilizei apenas Docker e GoHugo para criar este blog/página e abaixo deixo inst
 
 O deploy fica por sua conta. Eu utilizei o próprio Github pages para hospedagem e um domínio comprado no GoDaddy.
 
-# Sumário
+## Sumário
 
 - [Docker](#docker)
     - [TL;DR (Too Long, Didn't Read)](#tldr-too-long-didnt-read)
@@ -41,7 +39,7 @@ curl -fsSL https://get.docker.com/ | sh
 
 O projeto da imagem se encontra aqui com sua devida documentação: [https://github.com/raffaeldutra/docker-gohugo](https://github.com/raffaeldutra/docker-gohugo).
 
-Esta imagem é buildade com trigger automática diretamente do Github. Atente para a tag que deseja utilizar.
+Esta imagem tem build com trigger automática diretamente do Github. Atente para a tag que deseja utilizar.
 
 <a name="como-publicar-site"></a>
 ## Como publicar o site
