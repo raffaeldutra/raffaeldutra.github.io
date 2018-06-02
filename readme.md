@@ -35,13 +35,11 @@ curl -fsSL https://get.docker.com/ | sh
     - [Instalando em MacOS](https://docs.docker.com/docker-for-mac/install/)
 
 <a name="como-criar-imagem"></a>
-## Como criar uma imagem
+## Imagem utilizada
 
-Construa a imagem que irá rodar com o comando abaixo
+O projeto da imagem se encontra aqui com sua devida documentação: [https://github.com/raffaeldutra/docker-gohugo](https://github.com/raffaeldutra/docker-gohugo).
 
-```bash
-docker build -t raffaeldutra/gohugo .
-```
+Esta imagem é buildade com trigger automática diretamente do Github. Atente para a tag que deseja utilizar.
 
 <a name="como-publicar-site"></a>
 ## Como publicar o site
@@ -49,7 +47,9 @@ docker build -t raffaeldutra/gohugo .
 Publicação de código, ou seja, transforma todos os arquivos.md para HTML
 
 ```bash
-docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/gohugo
+docker run -it \
+-v $(pwd):/src \
+-v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
 ```
 
 <a name="como-rodar-um-servidor"></a>
@@ -58,5 +58,8 @@ docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/gohugo
 Aqui é possível rodar Hugo em modo servidor
 
 ```bash
-docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public -p 1313:1313 raffaeldutra/gohugo /gohugo.sh -s
+docker run -it \
+-v $(pwd):/src \
+-v $(pwd)/public:/src/public \
+-p 1313:1313 raffaeldutra/docker-gohugo /gohugo.sh -s
 ```
