@@ -1,6 +1,6 @@
 # Página pessoal
 
-![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) ![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io/develop.svg)
+![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) ![!](https://img.shields.io/github/languages/count/badges/shields.svg) ![!](https://img.shields.io/github/languages/code-size/badges/shields.svg) ![!](https://img.shields.io/github/repo-size/badges/shields.svg)
 
 Olá, se alguma coisa no meu site te interessou, como o modelo do meu currículo, páginas e etc, sinta-se a vontade para clonar este repositório e adaptar para suas necessidadaes.  
 
