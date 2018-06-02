@@ -1,5 +1,7 @@
 <p align="center"><img src="static/gohugo.png"></p>
 
+![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) ![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io/develop.svg)
+
 # Leia
 
 Olá, se alguma coisa no meu site te interessou, como o modelo do meu currículo, páginas e etc, sinta-se a vontade para clonar este repositório e adaptar para suas necessidadaes.  
