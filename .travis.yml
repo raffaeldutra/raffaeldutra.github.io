@@ -12,8 +12,8 @@ before_install:
   - mkdir -p public/resume
 
 script:
-  - docker build --no-cache -t raffaeldutra/gohugo .
-  - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/gohugo
+  - docker build --no-cache -t raffaeldutra/docker-gohugo .
+  - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   - curl
     --form input_files[]=@content/page/cv/resume.md
     --form from=markdown
