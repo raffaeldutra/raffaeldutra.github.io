@@ -60,6 +60,5 @@ Aqui é possível rodar Hugo em modo servidor
 ```bash
 docker run -it \
 -v $(pwd):/src \
--v $(pwd)/public:/src/public \
 -p 1313:1313 raffaeldutra/docker-gohugo /gohugo.sh -s
 ```
