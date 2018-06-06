@@ -157,3 +157,4 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
     * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
     * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
+* [A Microsoft comprou o GitHub e olha no que deu](https://www.youtube.com/watch?v=BX8CoVaqIyk)
