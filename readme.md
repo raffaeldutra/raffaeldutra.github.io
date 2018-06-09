@@ -62,3 +62,11 @@ docker run -it \
 -v $(pwd):/src \
 -p 1313:1313 raffaeldutra/docker-gohugo /gohugo.sh -s
 ```
+
+Você também pode passar a variável BASEURL.
+```bash
+docker run -it \
+-v $(pwd):/src \
+-e BASEURL=192.168.25.55 \
+-p 1313:1313 raffaeldutra/docker-gohugo /gohugo.sh -s
+```
