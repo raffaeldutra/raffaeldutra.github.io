@@ -142,7 +142,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2016/1 - [1º TcheLinux Lajeado](https://goo.gl/photos/LDU37mWwkTgLAGUb6) - Lajeado/RS.
 * 2010/2 - [5º Solisc - Congresso Catarinense de Software Livre](https://drive.google.com/open?id=0B51KxqHg_vABaUpqWXlSbTdGVUk) - Florianópolis/SC.
 * 2010/1 - [11º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABZk04NnZGcGRfQlU) - [Porto Alegre/RS](https://photos.app.goo.gl/WHuBv3F67X4SBSl33).
-* 2009/1 - [10º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABUmtHd29IYnN1Z1U) - Porto Alegre/RS.
+* 2009/1 - [10º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABUmtHd29IYnN1Z1U) - [Porto Alegre/RS](https://photos.app.goo.gl/UynwCXXmAV6mDR8h8).
 * 2008/1 - [9º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABeE51Y1NxZXI5MzQ) - [Porto Alegre/RS](https://photos.app.goo.gl/TR3X05ZakoBJgdJL2).
 * 2007/1 - [8º Fórum Internacional de Software Livre (FISL)](https://drive.google.com/open?id=0B51KxqHg_vABOXVRQjFENS1WMW8) - [Porto Alegre/RS](https://photos.app.goo.gl/rY3smS8hdX1sSWXX2).
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
