@@ -12,8 +12,6 @@ I'm single and really love video games, mainly RPG and FPS and I have some games
 
 I've been working or I had been worked with that we called: a little bit from everything, but what I really enjoy is to automate e see things working with just a command or a mouse click.
 
-I listening basically Heavy Metal, Dark Orchestral and musics from games and movies.
-
 Here's my contacts:
 
 - E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  

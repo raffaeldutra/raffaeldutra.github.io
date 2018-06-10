@@ -12,8 +12,6 @@ Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho algun
 
 Trabalho ou trabalhei com um "pouco de tudo", portanto eu não sou especialista em nada, mas o que eu realmente gosto de fazer é automatizar e ver as coisas funcionando com um comando ou um clique do mouse.
 
-Escuto basicamente Heavy Metal, Dark Orchestral e trilhas sonoras de games e filmes.
-
 Vou tentar aqui colocar coisas variadas neste site/blog, mas pelo que me conheço, provavelmente será técnico.
 
 Segue meus contatos:
