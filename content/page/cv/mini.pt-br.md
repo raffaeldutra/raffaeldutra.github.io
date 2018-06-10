@@ -4,7 +4,7 @@ title = "Mini Currículo"
 
 +++
 
-Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código e automação, sempre acreditando que existem formas melhores de resolver problemas, dos simples aos complexos, mas principalmente, sabe que o jeito certo é o melhor jeito.
+Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código e automação.
 
 Possui 13 anos de experiência em TI atuando como SysAdmin em ambientes Linux nas mais variadas distribuições.
 
