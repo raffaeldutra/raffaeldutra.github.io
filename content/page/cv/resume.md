@@ -155,7 +155,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
 
 ### Videos on Youtube
-* [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
-    * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
-    * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
-* [Microsoft has acquired GitHub and look what happened](https://www.youtube.com/watch?v=BX8CoVaqIyk)
+* [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)(Portuguese content)
+    * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)(Portuguese content)
+    * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)(Portuguese content)
+* [Microsoft has acquired GitHub and look what happened](https://www.youtube.com/watch?v=BX8CoVaqIyk)(Portuguese content)
