@@ -18,7 +18,7 @@ So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldu
 
 
 * Portuguese
-  * [Resume](/pt-br/resume/rafael-dutra-resume.pt-br.pdf)  
+  * [Resume](/resume/rafael-dutra-resume-pt-br.pdf)  
   * [Mini Currículum](/pt-br/page/cv/mini)  
   * [Download PDF format](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=pdf)  
   * [Download DOC format](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=doc)

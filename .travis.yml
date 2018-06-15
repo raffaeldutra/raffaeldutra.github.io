@@ -24,7 +24,7 @@ script:
     --form from=markdown
     --form to=pdf
     --form other_files[]=@content/page/cv/css/resume.css
-    http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pt-br.pdf
+    http://c.docverter.com/convert > public/resume/rafael-dutra-resume-pt-br.pdf
 
 deploy:
   name: "rafaeldutra.me deployment"
