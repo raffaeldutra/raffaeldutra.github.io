@@ -17,11 +17,13 @@ script:
     --form input_files[]=@content/page/cv/resume.md
     --form from=markdown
     --form to=pdf
+    --form other_files[]=@content/page/cv/css/resume.css
     http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
   - curl
     --form input_files[]=@content/page/cv/resume.pt-br.md
     --form from=markdown
     --form to=pdf
+    --form other_files[]=@content/page/cv/css/resume.css
     http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pt-br.pdf
 
 deploy:
