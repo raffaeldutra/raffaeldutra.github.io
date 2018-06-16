@@ -9,5 +9,3 @@ Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura com
 Possui 13 anos de experiência em TI atuando como SysAdmin em ambientes Linux nas mais variadas distribuições.
 
 Atualmente mora em Porto Alegre/RS e estudante de Segurança da Informação pela UNISINOS.
-
-Ouve Heavy Metal e derivados e gosta de ajudar quem quer aprender.
