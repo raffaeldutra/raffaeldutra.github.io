@@ -4,7 +4,8 @@ title = "Palestras"
 
 +++
 
-* [2018-08-10 - Vagrant Introduction](2018-08-10-vagrant-introduction)
+* [2018-08-10 - Introdução ao Vagrant](/pt-br/page/presentations/2018-08-10-vagrant-introduction)
+* [2018-08-10 - Introdução ao Puppet](/pt-br/page/presentations/2018-08-10-puppet-introduction)
 
 ## Introdução ao Vagrant
 #### Stefanini Solutions - Porto Alegre - 2018/08/10

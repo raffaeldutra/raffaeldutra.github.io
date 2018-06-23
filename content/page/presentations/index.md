@@ -4,7 +4,8 @@ title = "Talks"
 
 +++
 
-* [2018-08-10 - Vagrant Introduction](2018-08-10-vagrant-introduction)
+* [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
+* [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
 
 ## Vagrant Introduction
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
