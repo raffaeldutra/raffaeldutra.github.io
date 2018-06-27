@@ -1,3 +1,8 @@
+## Cloud providers
+* Google cloud
+* AWS
+* Digital Ocean
+
 ## Infrastructure as code
 * Terraform
 
