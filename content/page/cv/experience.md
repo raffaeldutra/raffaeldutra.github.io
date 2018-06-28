@@ -1,5 +1,5 @@
 ## Cloud providers
-* Google cloud
+* Google Cloud
 * AWS
 * Digital Ocean
 
