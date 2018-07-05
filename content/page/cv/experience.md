@@ -1,11 +1,11 @@
 # Experiência
-Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
+Below is what I do in different segments since 2005, when I was just a intern in a private school at Rio Grande do Sul.
 
-## Reverse proxy e cache
-Utilizei Varnish Cache e Squid e com proxy reverso Nginx
+## Reverse proxy and cache
+I have used Varnish Cache and Squid and reverse proxy using Nginx.
 
-## Domínios
-Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
+## Domains
+I acted maintaining domain controls using SAMBA with LDAP integration in some projects.
 
 ## Containers
 Utilizo Docker desde 2015/1, alguns projetos realizados mas nenhum em total produção até o momento.
