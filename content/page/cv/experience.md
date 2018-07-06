@@ -8,15 +8,16 @@ I have used Varnish Cache and Squid and reverse proxy using Nginx.
 I acted maintaining domain controls using SAMBA with LDAP integration in some projects.
 
 ## Containers
-Utilizo Docker desde 2015/1, alguns projetos realizados mas nenhum em total produção até o momento.
+I'm using containers since 2015/1, some projects made but none of them in production until this moment.
 
-Utilizei em sua maioria para pipelines em ferramentas de CI.
+I have been using mostly for pipelines using IC tools.
 
 ## DNS
+I configured and maintained BIND for a company that I worked.
 Configurei e mantive BIND em uma das empresas que trabalhei.
 
 ## Databases
-Configurei bancos de dados como MYSQL/MariaDB e PostgreSQL
+I configure databases as MYSQL/MariaDB and PostgreSQL.
 
 ## Email
 Não possuo experiências significativas neste contexto, porém já instalei e configurei Postfix e iRedMail
