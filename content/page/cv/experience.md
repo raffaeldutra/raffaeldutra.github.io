@@ -20,7 +20,7 @@ Configurei e mantive BIND em uma das empresas que trabalhei.
 I configure databases as MYSQL/MariaDB and PostgreSQL.
 
 ## Email
-Não possuo experiências significativas neste contexto, porém já instalei e configurei Postfix e iRedMail
+I can't tell much about this section, but I have already installed and configured Postfix and iRedMail.
 
 ## Monitoramento
 Configurei Nagios, Cacti e trabalhei um pouco com SolarWinds (neste caso apenas utilizei devido ao cliente já ter stack configurada)
