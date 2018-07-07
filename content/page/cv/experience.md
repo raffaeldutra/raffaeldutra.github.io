@@ -22,8 +22,8 @@ I configure databases as MYSQL/MariaDB and PostgreSQL.
 ## Email
 I can't tell much about this section, but I have already installed and configured Postfix and iRedMail.
 
-## Monitoramento
-Configurei Nagios, Cacti e trabalhei um pouco com SolarWinds (neste caso apenas utilizei devido ao cliente já ter stack configurada)
+## Monitoring
+Configure Nagios and Cacti and worked a little bit with SolarWinds (in this case, I only used due to a client have this solution implemented).
 
 ## Métricas
 Configurei InfluxDB + Telegraf + Grafana em Docker Compose.
