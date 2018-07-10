@@ -23,13 +23,13 @@ I configure databases as MYSQL/MariaDB and PostgreSQL.
 I can't tell much about this section, but I have already installed and configured Postfix and iRedMail.
 
 ## Monitoring
-Configure Nagios and Cacti and worked a little bit with SolarWinds (in this case, I only used due to a client have this solution implemented).
+Configured Nagios and Cacti and worked a little bit with SolarWinds (in this case, I only used due to a client have this solution implemented).
 
-## Métricas
-Configurei InfluxDB + Telegraf + Grafana em Docker Compose.
+## Métrics
+Configured InfluxDB + Telegraf + Grafana using Docker Compose.
 
-## Gerência de Configuração e orquestração
-Tenho bons conhecimentos em Puppet e Ansible.
+## Management configuration and orchestration
+I have a good knoledge in Puppet and Ansible.
 
 ## Virtualização
 Um dos últimos projetos que participei utilizando virtualização foi ao criar uma solução com Vagrant + Puppet.
