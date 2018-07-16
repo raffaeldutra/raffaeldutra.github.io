@@ -32,8 +32,8 @@ Configured InfluxDB + Telegraf + Grafana using Docker Compose.
 I have a good knoledge in Puppet and Ansible.
 
 ## Virtualização
-Um dos últimos projetos que participei utilizando virtualização foi ao criar uma solução com Vagrant + Puppet.
-Já utilizei XEN Server, VMware ESXI e OpenVirt.
+My last project using virtualization was creating a solution using Vagrant + Puppet.
+In the past, I have used XEN Server, VMware ESXI and OpenVirt.
 
 ## Linguagens
 * Nível intermediário/avançado em PHP
