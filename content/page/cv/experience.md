@@ -35,10 +35,10 @@ I have a good knoledge in Puppet and Ansible.
 My last project using virtualization was creating a solution using Vagrant + Puppet.
 In the past, I have used XEN Server, VMware ESXI and OpenVirt.
 
-## Linguagens
-* Nível intermediário/avançado em PHP
-* Nível avançado Shell Script
-* Nível básico Ruby
+## Languages
+* PHP - intermediate
+* Shell Script - advanced
+* Ruby - basic
 
 ## Sistemas de controle de versão
 Git e SVN. Bitbucket, GitLab e Github
