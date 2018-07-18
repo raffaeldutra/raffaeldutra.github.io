@@ -40,8 +40,8 @@ In the past, I have used XEN Server, VMware ESXI and OpenVirt.
 * Shell Script - advanced
 * Ruby - basic
 
-## Sistemas de controle de versão
-Git e SVN. Bitbucket, GitLab e Github
+## System control management
+Git and SVN. Bitbucket, GitLab and Github
 
 ## Especialidades
 Tenho alto conhecimento em linha de comando Linux, principalmente e criar scripts e parsear arquivos e tratar outputs.
