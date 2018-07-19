@@ -1,8 +1,11 @@
 +++
 title = "Vagrant parte 2"
-date = "2018-05-30"
-
-draft = true
+date = "2018-07-25"
+tags = [ "vagrant", "infraestrutura", "desenvolvimento" ]
+categories = [
+  "desenvolvimento",
+  "vagrant"
+]
 +++
 
 Para instalar Vagrant, você precisa do Virtual Box, pois é por ele que suas boxes são criadas.
