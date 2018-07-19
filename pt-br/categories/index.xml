@@ -30,5 +30,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Podcasts</title>
+      <link>https://rafaeldutra.me/pt-br/categories/podcasts/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/categories/podcasts/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
