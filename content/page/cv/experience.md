@@ -43,5 +43,5 @@ In the past, I have used XEN Server, VMware ESXI and OpenVirt.
 ## System control management
 Git and SVN. Bitbucket, GitLab and Github
 
-## Especialidades
-Tenho alto conhecimento em linha de comando Linux, principalmente e criar scripts e parsear arquivos e tratar outputs.
+## Skills
+Great knowledge using Linux command line interface to create scripts and to parser files.
