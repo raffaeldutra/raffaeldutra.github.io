@@ -1,3 +1,8 @@
+## Cloud providers
+* Google cloud
+* AWS
+* Digital Ocean
+
 ## Infrastructure as code
 * Terraform
 
@@ -23,7 +28,7 @@
 
 ## DNS
 * Bind
-* Route 53  (AWS)
+* Route 53 (AWS)
 
 ## Databases
 * MYSQL/MariaDB
