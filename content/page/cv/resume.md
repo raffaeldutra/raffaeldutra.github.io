@@ -132,6 +132,10 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 ### Workshops
 * [1º FOSS Day Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 
+### Vagrant Boxes
+* [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
+* [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
+
 ### Docker Hub images
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-ansible/)
 * [Docker Terraform](https://hub.docker.com/r/raffaeldutra/docker-terraform/)
