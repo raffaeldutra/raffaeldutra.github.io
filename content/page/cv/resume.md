@@ -132,6 +132,11 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 ### Workshops
 * [1º FOSS Day Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 
+### Docker Hub images
+* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-ansible/)
+* [Docker Terraform](https://hub.docker.com/r/raffaeldutra/docker-terraform/)
+* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
+
 ### Events/Conferences
 * 2018/1 - [Google Onboard](https://drive.google.com/file/d/1RGwZ10QQ7-DQuZz6t-mDRs09c9302lkj/view?usp=sharing) - [Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9) - [Agenda](/page/cv/training/google/cloud)
 * 2018/1 - [1º FOSS Day Lajeado](https://drive.google.com/file/d/1cCh2VtTjxqU0JApey-68VaMeV5o9MmYH/view?usp=sharing) - [Lajeado/RS](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2).
