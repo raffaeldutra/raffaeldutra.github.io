@@ -7,7 +7,7 @@ Brazilian, single.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
-13+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+13+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
 3+ years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
 
@@ -15,18 +15,18 @@ In the last 2 years, I've been working mainly on Infrastructure automation ([Inf
 
 ### Work Experience
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
-Jive Software is now a part of [Aurea Company](https://aurea.com) (https://aurea.com)  
+Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Technology company - Portland - Oregon - United States.  
 Jan/2018 - Present
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-My main goal was to work on cost reduces at AWS and for that I had to learn internal tools to know what to do.
+My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that I had to learn internal tools to know what to do.
 
-* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), Bash and [Puppet](https://puppet.com)).
+* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Support internal tools.
-* AWS ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
-* Document internal tools used at AWS.
+* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
+* Document internal tools used at [AWS](https://aws.amazon.com/).
 * Documents processes and procedures required.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
@@ -40,37 +40,37 @@ Oct/2016 - Jan/2018
 Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 ##### AGCO - IT Specialist
-* Deployment and infrastructure automation ([Docker](https://www.docker.com), Docker Compose, Bash and Puppet).
-* Continuous integration (Git, Bitbucket, Bamboo and Confluence)
+* Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
+* Continuous integration ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo) and [Confluence](https://www.atlassian.com/software/confluence))
 * Logs and metrics monitoring ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
-* Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), Linux, Preseed).
+* Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * Build tools ([Gradle](https://gradle.org) and [Apache Maven](https://maven.apache.org)).
-* Linux server administration (Ubuntu Server).
+* Linux server administration ([Ubuntu Server](https://www.ubuntu.com/download/server)).
 * Documents processes and procedures required for developers.
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.  
 
 ##### AGCO Projects
 **Puppet - Configuration Management**
-This project was develop from scratch, since the creation of a functional environment in localhost to developers and operator could recreate the whole infrastructure managed using Puppet, until it get to the environments, like development, stagind and production.
+This project was develop from scratch, since the creation of a functional environment in localhost to developers and operator could recreate the whole infrastructure managed using [Puppet](https://puppet.com), until it get to the environments, like development, staging and production.
 
 Documentation of process, like:
 
 * Mounting points
 * Create new environments
-* Code deployment by operators in production with puppet aplly command, using Continuous Delivery
+* Code deployment by operators in production with puppet apply command, using [Continuous Delivery](https://continuousdelivery.com/)
 * Create new machines with specific modules
-* Code deployment with r10k
-* How to create new Puppet servers using Puppet
+* Code deployment with [r10k](https://puppet.com/docs/pe/2018.1/r10k.html)
+* How to create new [Puppet](https://puppet.com) servers using [Puppet](https://puppet.com)
 
 Developed codes:
 
-* [Spring Boot module (Java)](https://projects.spring.io/spring-boot)
-* Structural Scripts for nodes in format YAML written in Ruby
-* Shell Scripts to install agent and configure it
+* [Spring Boot module (Java)](https://projects.spring.io/spring-boot).
+* Structural Scripts for nodes in format [YAML](https://en.wikipedia.org/wiki/YAML) written in [Ruby](https://www.ruby-lang.org/en/).
+* [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) to install agent and configure it.
 
-Tools like Vagrant, Shell Scripts in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
+Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
 All the developed code to automate it, was thinked in how to bring benefits for operators and development team.
 
@@ -78,9 +78,9 @@ All the developed code to automate it, was thinked in how to bring benefits for 
 In this case, the demand was build a tool for developers create scripts for Oracle, where this scripts have to pass for some "pipelines" until it get to production using Bamboo (Continuous integration tool).
 
 **Bamboo using Docker**  
-Many of our projects uses [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to have the same environment used in development to productionm like plugins and packages dependencies.
+Many of our projects uses [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to have the same environment used in development to production like plugins and packages dependencies.
 
-**Shell Script environments**  
+**[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**  
 In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).  
 
 
@@ -89,8 +89,8 @@ Technology Company - Porto Alegre/RS
 Aug/2015 - Sep/2016
 
 * Cloud Services ([Google Cloud](https://cloud.google.com), [Amazon Web Services](https://aws.amazon.com) and [Digital Ocean](https://www.digitalocean.com)).
-* DNS management. Shell Scripting (advanced level) to automate tasks. Internal micro applications development with [PHP](https://secure.php.net).
-* Platform backups using rsync and [Bacula](http://blog.bacula.org).
+* DNS management. [Shell Scripting](https://en.wikipedia.org/wiki/Shell_script) (advanced level) to automate tasks. Internal micro applications development with [PHP](https://secure.php.net).
+* Platform backups using [Rsync](https://rsync.samba.org/) and [Bacula](http://blog.bacula.org).
 * [Docker](https://www.docker.com) containers tests for use in production and management configuration with [Ansible](https://www.ansible.com) and [Puppet](https://puppet.com).  
 
 
