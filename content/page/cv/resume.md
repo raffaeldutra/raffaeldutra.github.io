@@ -53,7 +53,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 ##### AGCO Projects
 **Puppet - Configuration Management**
-This project was develop from scratch, since the creation of a functional environment in localhost to developers and operator could recreate the whole infrastructure managed using [Puppet](https://puppet.com), until it get to the environments, like development, staging and production.
+This project was developed from scratch, since the creation of a functional environment in localhost to developers and operator could recreate the whole infrastructure managed using [Puppet](https://puppet.com), until it get to the environments, like development, staging and production.
 
 Documentation of process, like:
 
