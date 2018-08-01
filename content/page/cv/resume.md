@@ -26,7 +26,7 @@ My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and f
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Support internal tools.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
-* Document internal tools used at [AWS](https://aws.amazon.com/).
+* Documented internal tools used at [AWS](https://aws.amazon.com/).
 * Documents processes and procedures required.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
