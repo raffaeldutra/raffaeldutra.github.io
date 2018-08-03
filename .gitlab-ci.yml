@@ -1,6 +1,9 @@
 # Rafael Dutra
 image: raffaeldutra/docker-gohugo
 
+stages:
+- deploy
+
 pages:
   stage: deploy
   script:
