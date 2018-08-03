@@ -1,4 +1,10 @@
-# Experiência
+# Continuous Integration, Delivery and Deployment
+* GitHub
+* Bit Bucket
+* Jenkins
+* Travis
+
+# Experience
 Below is what I do in different segments since 2005, when I was just a intern in a private school at Rio Grande do Sul.
 
 ## Reverse proxy and cache
@@ -45,4 +51,3 @@ Git and SVN. Bitbucket, GitLab and Github
 
 ## Skills
 Great knowledge using Linux command line interface to create scripts and to parser files.
-Travis for Continuous Integration.

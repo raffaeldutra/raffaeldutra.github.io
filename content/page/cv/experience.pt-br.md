@@ -1,3 +1,9 @@
+# Continuous Integration, Delivery e Deployment
+* GitHub
+* Bit Bucket
+* Jenkins
+* Travis
+
 # Experiência
 Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
 
