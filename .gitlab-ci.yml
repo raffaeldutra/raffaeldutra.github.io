@@ -14,7 +14,7 @@ stages:
 pages:
   stage: deploy
   script:
-    - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
+    - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   artifacts:
     paths:
     - public
