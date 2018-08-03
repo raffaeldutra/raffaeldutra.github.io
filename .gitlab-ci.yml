@@ -1,5 +1,6 @@
 # Rafael Dutra
-image: raffaeldutra/docker-gohugo
+services:
+  - raffaeldutra/docker-gohugo
 
 stages:
   - deploy
