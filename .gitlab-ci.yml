@@ -6,7 +6,7 @@ services:
   - raffaeldutra/docker-gohugo
 
 before_script:
-  - docker info
+  - mkdir -p public/resume
 
 stages:
   - deploy
