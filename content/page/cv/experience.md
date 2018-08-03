@@ -45,3 +45,4 @@ Git and SVN. Bitbucket, GitLab and Github
 
 ## Skills
 Great knowledge using Linux command line interface to create scripts and to parser files.
+Travis for Continuous Integration.
