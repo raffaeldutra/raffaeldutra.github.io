@@ -2,14 +2,14 @@
 image: raffaeldutra/docker-gohugo
 
 stages:
-- deploy
+  - deploy
 
 pages:
   stage: deploy
   script:
-  - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
+    - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   artifacts:
     paths:
     - public
   only:
-  - master
+    - develop
