@@ -8,6 +8,7 @@ stages:
 pages:
   stage: deploy
   script:
+    - ls -la
     - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   artifacts:
     paths:
