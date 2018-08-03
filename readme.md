@@ -1,6 +1,6 @@
 # Página pessoal
 
-![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg)
+![!](https://img.shields.io/travis/raffaeldutra/raffaeldutra.github.io.svg) [![pipeline status](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/badges/develop/pipeline.svg)](https://gitlab.com/raffaeldutra/raffaeldutra.github.io/commits/develop)
 
 Olá, se alguma coisa no meu site te interessou, como o modelo do meu currículo, páginas e etc, sinta-se a vontade para clonar este repositório e adaptar para suas necessidadaes.  
 
@@ -47,7 +47,7 @@ Esta imagem tem build com trigger automática diretamente do Github. Atente para
 Publicação de código, ou seja, transforma todos os arquivos.md para HTML
 
 ```bash
-docker run -it \
+docker run --rm \
 -v $(pwd):/src \
 -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
 ```
