@@ -3,7 +3,6 @@ image: docker:latest
 
 services:
   - docker:dind
-  - raffaeldutra/docker-gohugo
 
 before_script:
   - mkdir -p public/resume
