@@ -1,6 +1,12 @@
 # Rafael Dutra
+image: docker:latest
+
 services:
+  - docker:dind
   - raffaeldutra/docker-gohugo
+
+before_script:
+  - docker info
 
 stages:
   - deploy
@@ -8,7 +14,6 @@ stages:
 pages:
   stage: deploy
   script:
-    - ls -la
     - docker run -it -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   artifacts:
     paths:
