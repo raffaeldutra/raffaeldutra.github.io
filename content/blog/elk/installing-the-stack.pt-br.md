@@ -66,7 +66,7 @@ sudo apt-get install --yes --no-install-recommends elasticsearch
 ### Inicializando Elasticsearch
 
 ```bash
-sudo systemctl start Elasticsearch
+sudo systemctl start elasticsearch
 ```
 
 #### Instalando Kibana

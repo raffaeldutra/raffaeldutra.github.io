@@ -65,19 +65,19 @@ output.elasticsearch:
   ### Filebeat em Ubuntu 16.04
 
   #### Inicializando Logstash
-  {{< highlight bash >}}
+```bash
   sudo systemctl start logstash
-  {{< / highlight >}}
+```
 
   ### Instalando Filebeat
-  {{< highlight bash >}}
+```bash
   sudo apt-get install --yes --no-install-recommends filebeat
-  {{< / highlight >}}
+```
 
   #### Inicializando filebeat
-  {{< highlight bash >}}
+```bash
   sudo systemctl start filebeat
-  {{< / highlight >}}
+```
 
 
 ### Logstash/Filebeat em Ubuntu 14.04
