@@ -1,8 +1,9 @@
-## Continuous Integration and Delivery/Deployment
+## Continuous Integration / Delivery and Deployment
 * GitHub
 * Bit Bucket
 * Jenkins
 * Travis
+* Bamboo
 
 ## Containers
 * Docker
