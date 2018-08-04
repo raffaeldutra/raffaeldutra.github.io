@@ -9,16 +9,12 @@ before_script:
   - apk update && apk add curl
 
 stages:
-  - build
   - deploy
 
 pages:
-  stage: build
-  script:
-    - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
-
   stage: deploy
   script:
+    - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
     - curl
       --form input_files[]=@content/page/cv/resume.md
       --form from=markdown
