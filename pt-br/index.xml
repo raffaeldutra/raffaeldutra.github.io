@@ -121,10 +121,8 @@ Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho algun
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/pt-br/page/cv/experience/</guid>
-      <description>Continuous Integration, Delivery e Deployment  GitHub Bit Bucket Jenkins Travis  Experiência Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
-Reverse proxy e cache Utilizei Varnish Cache e Squid e com proxy reverso Nginx
-Domínios Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
-Containers Utilizo Docker desde 2015&amp;frasl;1, alguns projetos realizados mas nenhum em total produção até o momento.</description>
+      <description> Continuous Integration e Delivery/Deployment  GitHub Bit Bucket Jenkins Travis  Containers  Docker  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integração em alguns projetos.  DNS  Bind  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack usando Docker Compose.
+Gerenciamento de configuração e orquestração  Puppet Ansible  Virtualization  VMWare Server VMWare Esxi VirtualBox Vagrant XEN Server OpenVirt  Languages  PHP - intermediate Shell Script - advanced Ruby - basic  System control management  GitSVN Bitbucket GitLab Github  </description>
     </item>
     
     <item>
