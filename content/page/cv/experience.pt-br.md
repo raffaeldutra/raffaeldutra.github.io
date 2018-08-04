@@ -1,52 +1,64 @@
-# Continuous Integration, Delivery e Deployment
+## Continuous Integration e Delivery/Deployment
 * GitHub
 * Bit Bucket
 * Jenkins
 * Travis
 
-# Experiência
-Segue abaixo um pouco do que fiz em cada área atuando desde 2005, quando era estagiário em uma escola particular do RS.
-
-## Reverse proxy e cache
-Utilizei Varnish Cache e Squid e com proxy reverso Nginx
-
-## Domínios
-Atuei sustentando controladores de domínio com SAMBA c/ integração LDAP em alguns projetos.
-
 ## Containers
-Utilizo Docker desde 2015/1, alguns projetos realizados mas nenhum em total produção até o momento.
+* Docker
 
-Utilizei em sua maioria para pipelines em ferramentas de CI.
+## Proxy
+* Nginx as reverse Proxy
+* Squid
+* Varnish
+
+## Domains
+* Samba
+* LDAP integração em alguns projetos.
 
 ## DNS
-Configurei e mantive BIND em uma das empresas que trabalhei.
+* Bind
 
 ## Databases
-Configurei bancos de dados como MYSQL/MariaDB e PostgreSQL
+* MYSQL/MariaDB
+* PostgreSQL.
 
 ## Email
-Não possuo experiências significativas neste contexto, porém já instalei e configurei Postfix e iRedMail
+* Postfix
+* iRedMail
 
-## Monitoramento
-Configurei Nagios, Cacti e trabalhei um pouco com SolarWinds (neste caso apenas utilizei devido ao cliente já ter stack configurada)
+## Monitoring
+* ELK (Elasticsearch, Logstash, Kibana)
+* Nagios
+* Cacti
+* SolarWinds
 
-## Métricas
-Configurei InfluxDB + Telegraf + Grafana em Docker Compose.
+## Metrics
+* InfluxDB
+* Telegraf
+* Grafana
 
-## Gerência de Configuração e orquestração
-Tenho bons conhecimentos em Puppet e Ansible.
+Stack usando Docker Compose.
 
-## Virtualização
-Um dos últimos projetos que participei utilizando virtualização foi ao criar uma solução com Vagrant + Puppet.
-Já utilizei XEN Server, VMware ESXI e OpenVirt.
+## Gerenciamento de configuração e orquestração
+* Puppet
+* Ansible
 
-## Linguagens
-* Nível intermediário/avançado em PHP
-* Nível avançado Shell Script
-* Nível básico Ruby
+## Virtualization
+* VMWare Server
+* VMWare Esxi
+* VirtualBox
+* Vagrant
+* XEN Server
+* OpenVirt
 
-## Sistemas de controle de versão
-Git e SVN. Bitbucket, GitLab e Github
+## Languages
+* PHP - intermediate
+* Shell Script - advanced
+* Ruby - basic
 
-## Especialidades
-Tenho alto conhecimento em linha de comando Linux, principalmente e criar scripts e parsear arquivos e tratar outputs.
+## System control management
+* GitSVN
+* Bitbucket
+* GitLab
+* Github

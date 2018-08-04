@@ -1,45 +1,56 @@
-# Continuous Integration, Delivery and Deployment
+## Continuous Integration and Delivery/Deployment
 * GitHub
 * Bit Bucket
 * Jenkins
 * Travis
 
-# Experience
-Below is what I do in different segments since 2005, when I was just a intern in a private school at Rio Grande do Sul.
+## Containers
+* Docker
 
-## Reverse proxy and cache
-I have used Varnish Cache and Squid and reverse proxy using Nginx.
+## Proxy
+* Nginx as reverse Proxy
+* Squid
+* Varnish
 
 ## Domains
-I acted maintaining domain controls using SAMBA with LDAP integration in some projects.
-
-## Containers
-I'm using containers since 2015/1, some projects made but none of them in production until this moment.
-
-I have been using mostly for pipelines using IC tools.
+* Samba
+* LDAP integration in some projects.
 
 ## DNS
-I configured and maintained BIND for a company that I worked.
-Configurei e mantive BIND em uma das empresas que trabalhei.
+* Bind
 
 ## Databases
-I configure databases as MYSQL/MariaDB and PostgreSQL.
+* MYSQL/MariaDB
+* PostgreSQL.
 
 ## Email
-I can't tell much about this section, but I have already installed and configured Postfix and iRedMail.
+* Postfix
+* iRedMail.
 
 ## Monitoring
-Configured Nagios and Cacti and worked a little bit with SolarWinds (in this case, I only used due to a client have this solution implemented).
+* ELK (Elasticsearch, Logstash, Kibana)
+* Nagios
+* Cacti
+* SolarWinds
 
-## Métrics
-Configured InfluxDB + Telegraf + Grafana using Docker Compose.
+## Metrics
+* InfluxDB
+* Telegraf
+* Grafana
+
+Stack using Docker Compose.
 
 ## Management configuration and orchestration
-I have a good knoledge in Puppet and Ansible.
+* Puppet
+* Ansible
 
-## Virtualização
-My last project using virtualization was creating a solution using Vagrant + Puppet.
-In the past, I have used XEN Server, VMware ESXI and OpenVirt.
+## Virtualization
+* VMWare Server
+* VMWare Esxi
+* VirtualBox
+* Vagrant
+* XEN Server
+* OpenVirt
 
 ## Languages
 * PHP - intermediate
@@ -47,7 +58,7 @@ In the past, I have used XEN Server, VMware ESXI and OpenVirt.
 * Ruby - basic
 
 ## System control management
-Git and SVN. Bitbucket, GitLab and Github
-
-## Skills
-Great knowledge using Linux command line interface to create scripts and to parser files.
+* GitSVN
+* Bitbucket
+* GitLab
+* Github
