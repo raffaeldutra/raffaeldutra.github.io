@@ -41,7 +41,7 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 
 ###### AGCO - TI Especialista
 * Deploy e automação de infraestrutura ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com, [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
-* Integração contínua ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo) e [Confluence](https://www.atlassian.com/software/confluence))
+* Integração contínua ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
 * Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
 * Automação para ambientes de desenvolvimento ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
 * Agendadores de Jobs ([Rundeck](http://rundeck.org)).
