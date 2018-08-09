@@ -14,10 +14,19 @@ Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" tar
 In the last 2 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
+#### [Stefanini Solutions](http://stefanini.com) (http://stefanini.com)
+Technology company - Porto Alegre/RS  
+Ago/2018 - Present
+
+* Deployment and infrastructure automation [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
+* Continuous integration ([Gitlab](https://gitlab.com/).
+* Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
+* [Linux](https://linux.org) server administration.
+
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Technology company - Portland - Oregon - United States.  
-Jan/2018 - Present
+Jan/2018 - Sep/2018
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
@@ -93,13 +102,6 @@ Aug/2015 - Sep/2016
 * Platform backups using [Rsync](https://rsync.samba.org/) and [Bacula](http://blog.bacula.org).
 * [Docker](https://www.docker.com) containers tests for use in production and management configuration with [Ansible](https://www.ansible.com) and [Puppet](https://puppet.com).  
 
-
-#### [Toshyro.net Processamento de dados Ltda](http://toshyro.net) (http://toshyro.net)
-Development Company - Lajeado/RS  
-Apr/2014 - Dec/2014
-
-* Systems development in [PHP](https://secure.php.net) with CodeIgniter Framework and MySQL databases. Jquery/Jquery Mobile.
-* Cloud Servers Administration and internal virtualization to host homologation projects.
 
 ### Education
 * 2017/1 – Information Technology Security  
