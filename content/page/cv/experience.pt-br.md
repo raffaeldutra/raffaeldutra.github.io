@@ -10,7 +10,7 @@
 * Docker Swarm
 
 ## Proxy
-* Nginx as reverse Proxy
+* Nginx como Proxy reverso
 * Squid
 * Varnish
 
