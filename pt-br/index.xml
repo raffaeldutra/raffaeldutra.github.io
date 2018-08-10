@@ -83,8 +83,7 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/pt-br/page/presentations/</guid>
-      <description>Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 05/05/2018  Primeiro workshop apresentado sobre como usar Docker em uma &amp;ldquo;versão miníma&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  Gerenciamento de configuração Poatek - Porto Alegre - 03/10/2017 Breve introdução do que podemos gerenciar com Puppet.
- Mudança granular Ambientes imutáveis Qual o motivo real de utilizarmos gerência de configuração.  Slides utilizados  Introdução ao Puppet AGCO Canoas - 02/09/2017 A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel de ambientes, tendo como foco a mudança com confiabilidade.</description>
+      <description>Introdução ao Puppet - Stefanini Solutions Fossday - Lajeado - 10/08/2018  O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.  Slides  Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 05/05/2018  Primeiro workshop apresentado sobre como usar Docker em uma &amp;ldquo;versão miníma&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  Gerenciamento de configuração Poatek - Porto Alegre - 03/10/2017 Breve introdução do que podemos gerenciar com Puppet.</description>
     </item>
     
     <item>
