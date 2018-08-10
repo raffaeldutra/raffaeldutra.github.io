@@ -7,6 +7,7 @@
 
 ## Containers
 * Docker
+* Docker Swarm
 
 ## Proxy
 * Nginx as reverse Proxy
