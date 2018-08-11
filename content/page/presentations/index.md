@@ -4,8 +4,8 @@ title = "Talks"
 
 +++
 
-## Puppet Introduction - Stefanini Solutions
-#### Fossday - Lajeado - 2018/08/10
+## Puppet Introduction
+#### Stefanini Solutions - Porto Alegre - 2018/08/10
 
 * The main goal here is to present what is Puppet and what we can do to do our lives better.
 

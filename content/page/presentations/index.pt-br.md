@@ -4,8 +4,8 @@ title = "Palestras"
 
 +++
 
-## Introdução ao  Puppet - Stefanini Solutions
-#### Fossday - Lajeado - 10/08/2018
+## Introdução ao Puppet
+#### Stefanini Solutions - Porto Alegre- 10/08/2018
 
 * O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.
 
