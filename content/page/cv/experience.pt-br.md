@@ -16,14 +16,15 @@
 
 ## Domains
 * Samba
-* LDAP integração em alguns projetos.
+* LDAP - integração em alguns projetos.
 
 ## DNS
 * Bind
+* Route 53  (AWS)
 
 ## Databases
 * MYSQL/MariaDB
-* PostgreSQL.
+* PostgreSQL
 
 ## Email
 * Postfix

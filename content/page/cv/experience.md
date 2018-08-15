@@ -20,6 +20,7 @@
 
 ## DNS
 * Bind
+* Route 53 (AWS)
 
 ## Databases
 * MYSQL/MariaDB
