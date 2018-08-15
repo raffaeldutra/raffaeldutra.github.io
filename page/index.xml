@@ -87,7 +87,7 @@ I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/page/cv/experience/</guid>
-      <description>Continuous Integration / Delivery and Deployment  GitHub Bit Bucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack using Docker Compose.</description>
+      <description>Continuous Integration / Delivery and Deployment  GitHub Bit Bucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack using Docker Compose.</description>
     </item>
     
     <item>
