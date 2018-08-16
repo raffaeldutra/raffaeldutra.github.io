@@ -1,3 +1,6 @@
+## Infrastructure as code
+* Terraform
+
 ## Continuous Integration / Delivery and Deployment
 * GitHub
 * Bit Bucket
