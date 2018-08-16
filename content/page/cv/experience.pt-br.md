@@ -3,7 +3,7 @@
 
 ## Continuous Integration / Delivery e Deployment
 * GitHub
-* Bit Bucket
+* Bitbucket
 * Jenkins
 * Travis
 * Bamboo
@@ -64,7 +64,6 @@ Stack usando Docker Compose.
 * Ruby - basic
 
 ## System control management
-* GitSVN
 * Bitbucket
 * GitLab
 * Github
