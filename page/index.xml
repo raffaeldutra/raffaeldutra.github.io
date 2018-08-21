@@ -81,6 +81,16 @@ Slides  </description>
     </item>
     
     <item>
+      <title>Docker Introduction</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/</guid>
+      <description>Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.</description>
+    </item>
+    
+    <item>
       <title>Puppet Fundamentals</title>
       <link>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
       <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
@@ -124,7 +134,7 @@ So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmai
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/page/presentations/talks/</guid>
-      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
+      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
     </item>
     
     <item>

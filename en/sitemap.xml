@@ -146,6 +146,23 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/</loc>
+    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-docker-introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</loc>
     <lastmod>2017-04-06T22:34:24-03:00</lastmod>
     <changefreq>monthly</changefreq>

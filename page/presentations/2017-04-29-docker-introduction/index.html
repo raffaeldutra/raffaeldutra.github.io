@@ -5,9 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Infraestructure</title>
-  <meta property="og:title" content="Infraestructure" />
-  <meta name="twitter:title" content="Infraestructure" />
+  <title>Docker Introduction</title>
+  <meta property="og:title" content="Docker Introduction" />
+  <meta name="twitter:title" content="Docker Introduction" />
+  <meta name="description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.">
+  <meta property="og:description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.">
+  <meta name="twitter:description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good …">
   <meta name="author" content="Rafael Dutra"/>
   <link href='https://rafaeldutra.me/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
@@ -15,13 +20,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@raffaeldutra" />
   <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/tags/infraestructure/" />
+  <meta property="og:url" content="https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="#/share" />
 
   <meta name="generator" content="Hugo 0.40.3" />
-  <link rel="canonical" href="https://rafaeldutra.me/tags/infraestructure/" />
-  <link rel="alternate" href="https://rafaeldutra.me/tags/infraestructure/index.xml" type="application/rss+xml" title="#/share">
+  <link rel="canonical" href="https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/" />
+  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -178,14 +183,26 @@ ga('send', 'pageview');
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="page-heading">
-              <h1>#Infraestructure</h1>
-              <hr class="small">
+              <h1>Docker Introduction</h1>
+                
+                
             </div>
           </div>
         </div>
@@ -193,120 +210,51 @@ ga('send', 'pageview');
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
         
-        <div class="posts-list">
-          
-            <article class="post-preview">
-              <a href="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/">
-                <h2 class="post-title">Configuração de ambiente PHP em Docker</h2>
 
-                
-              </a>
+<h2 id="docker-introduction">Docker introduction</h2>
 
-              <p class="post-meta">
-                <span class="post-meta">
-  
-  
-  <i class="fa fa-calendar-o"></i>&nbsp;Posted on December 5, 2017
-  
-  
-  &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 4 minutes (777 words)
-  
-  
-</span>
+<h4 id="tchê-linux-lajeado-lajeado-rs-univates-2017-04-29">Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29</h4>
 
+<h3 id="summary-of-the-lecture">Summary of the lecture</h3>
 
-              </p>
-              <div class="post-entry">
-                
-                  <p>Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &ldquo;funciona na minha máquina&rdquo; não funciona naquele deploy em produção, não é mesmo?</p>
+<p>Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:</p>
 
-<p></p>
-                  <a href="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/" class="post-read-more">[Read More]</a>
-                
-              </div>
+<ul>
+<li>Embedded application</li>
+<li>Same environments</li>
+<li>Patterns as best practices</li>
+<li>Community</li>
+</ul>
 
-              
-                <div class="blog-tags">
-                  
-                    <a href="https://rafaeldutra.me/tags/docker/">docker</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/infraestructure/">infraestructure</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/automation/">automation</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/development/">development</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/php/">php</a>&nbsp;
-                  
-                </div>
-              
+<p>With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others. We have an application embedded, so the deployment is very simplified.</p>
 
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://rafaeldutra.me/blog/2017/02/27/docker-introduction/">
-                <h2 class="post-title">Docker Introduction</h2>
+<p>During the lecture, we&rsquo;ll use the basic commands to manage Docker.</p>
 
-                
-              </a>
+<h3 id="slides">Slides</h3>
 
-              <p class="post-meta">
-                <span class="post-meta">
-  
-  
-  <i class="fa fa-calendar-o"></i>&nbsp;Posted on February 27, 2017
-  
-  
-  &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 3 minutes (572 words)
-  
-  &nbsp;&bull;&nbsp; Other languages: <a href="https://rafaeldutra.me/pt-br/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/" lang="pt-br">Português</a>
-</span>
+<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-              </p>
-              <div class="post-entry">
-                
-                  <h2 id="what-s-docker">What&rsquo;s Docker?</h2>
-
-<p>By definition on <a href="https://opensource.com/resources/what-docker">https://opensource.com/resources/what-docker</a>:</p>
-
-<blockquote>
-<p>Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.</p>
-</blockquote>
-
-<p></p>
-                  <a href="https://rafaeldutra.me/blog/2017/02/27/docker-introduction/" class="post-read-more">[Read More]</a>
-                
-              </div>
-
-              
-                <div class="blog-tags">
-                  
-                    <a href="https://rafaeldutra.me/tags/docker/">docker</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/infraestructure/">infraestructure</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/automation/">automation</a>&nbsp;
-                  
-                    <a href="https://rafaeldutra.me/tags/development/">development</a>&nbsp;
-                  
-                </div>
-              
-
-            </article>
-          
-        </div>
         
-      </div>
+
+        
+      </article>
+
+      
+
+
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
@@ -381,7 +329,7 @@ ga('send', 'pageview');
           
           <li>
             
-            <a href="https://rafaeldutra.me/tags/infraestructure/index.xml" title="RSS">
+            <a href="https://rafaeldutra.me/index.xml" title="RSS">
             
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
