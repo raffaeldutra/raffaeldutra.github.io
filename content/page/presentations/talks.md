@@ -7,9 +7,9 @@ title = "Talks"
 * [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
 * [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
 * [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-docker-workshop)
-* [2017-10-03 - Configuration Management](/page/presentations/2018-10-03-configuration-management)
-* [2017-09-02 - Introduction to Puppet](/page/presentations/2018-09-02-introduction-to-puppet)
-* [2017-09-02 - Puppet Administration](/page/presentations/2018-09-02-puppet-administration)
+* [2017-10-03 - Configuration Management](/page/presentations/2017-10-03-configuration-management)
+* [2017-09-02 - Introduction to Puppet](/page/presentations/2017-09-02-introduction-to-puppet)
+* [2017-09-02 - Puppet Administration](/page/presentations/2017-09-02-puppet-administration)
 * [2017-04-29 - Docker Introduction](/page/presentations/2017-04-29-docker-introduction)
 
 ## Vagrant Introduction

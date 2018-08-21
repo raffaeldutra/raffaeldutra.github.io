@@ -7,10 +7,10 @@ title = "Palestras"
 * [10/08/2018 - Introdução ao Vagrant](/pt-br/page/presentations/2018-08-10-vagrant-introduction)
 * [10/08/2018 - Introdução ao Puppet](/pt-br/page/presentations/2018-08-10-puppet-introduction)
 * [05/05/2018 - Docker Workshop](/pt-br/page/presentations/2018-05-05-docker-workshop)
-* [03/10/2017 - Gerenciamento de configuração](/pt-br/page/presentations/2018-10-03-configuration-management)
-* [02/09/2017 - Introdução ao Puppet](/pt-br/page/presentations/2018-09-02-introduction-to-puppet)
-* [02/09/2017 - Administrando Puppet](/page/presentations/2018-09-02-puppet-administration)
-* [29/04/2017 - Introdução ao Docker](/page/presentations/2017-04-29-puppet-administration)
+* [03/10/2017 - Gerenciamento de configuração](/pt-br/page/presentations/2017-10-03-configuration-management)
+* [02/09/2017 - Introdução ao Puppet](/pt-br/page/presentations/2017-09-02-introduction-to-puppet)
+* [02/09/2017 - Administrando Puppet](/page/presentations/2017-09-02-puppet-administration)
+* [29/04/2017 - Introdução ao Docker](/page/presentations/2017-04-29-docker-introduction)
 
 ## Introdução ao Vagrant
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
