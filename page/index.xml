@@ -82,10 +82,10 @@ Slides  </description>
     
     <item>
       <title>Docker Introduction</title>
-      <link>https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/</link>
+      <link>https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/</link>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/presentations/2017-04-29-docker-introduction/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/</guid>
       <description>Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
  Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.</description>
     </item>

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Introdução ao Docker</title>
-  <meta property="og:title" content="Introdução ao Docker" />
-  <meta name="twitter:title" content="Introdução ao Docker" />
-  <meta name="description" content="Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
- Aplicação auto contida Ambientes iguais Padronização com melhores práticas Comunidade  Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.">
-  <meta property="og:description" content="Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
- Aplicação auto contida Ambientes iguais Padronização com melhores práticas Comunidade  Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.">
-  <meta name="twitter:description" content="Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos: …">
+  <title>Docker Introduction</title>
+  <meta property="og:title" content="Docker Introduction" />
+  <meta name="twitter:title" content="Docker Introduction" />
+  <meta name="description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.">
+  <meta property="og:description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.">
+  <meta name="twitter:description" content="Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good …">
   <meta name="author" content="Rafael Dutra"/>
   <link href='https://rafaeldutra.me/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
@@ -20,13 +20,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@raffaeldutra" />
   <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-docker-introduction/" />
+  <meta property="og:url" content="https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="#/share beer" />
+  <meta property="og:site_name" content="#/share" />
 
   <meta name="generator" content="Hugo 0.40.3" />
-  <link rel="canonical" href="https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-docker-introduction/" />
-  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share beer">
+  <link rel="canonical" href="https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/" />
+  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -104,7 +104,7 @@ ga('send', 'pageview');
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://rafaeldutra.me/pt-br/">#/share beer</a>
+      <a class="navbar-brand" href="https://rafaeldutra.me">#/share</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -112,26 +112,32 @@ ga('send', 'pageview');
         
           
             <li>
-              <a title="HOME" href="/pt-br/blog">HOME</a>
+              <a title="HOME" href="/blog">HOME</a>
             </li>
           
         
           
             <li class="navlinks-container">
-              <a class="navlinks-parent" href="javascript:void(0)">Curriculo</a>
+              <a class="navlinks-parent" href="javascript:void(0)">CURRICULUM</a>
               <div class="navlinks-children">
                 
-                  <a href="/pt-br/page/cv/downloads">Downloads</a>
+                  <a href="/page/cv/downloads">Downloads</a>
                 
-                  <a href="/pt-br/page/cv/resume">Resume</a>
+                  <a href="/page/cv/resume">Resume</a>
                 
-                  <a href="/pt-br/page/cv/experience">Experience</a>
+                  <a href="/page/cv/experience">Experience</a>
                 
-                  <a href="/pt-br/page/cv/mini">Mini</a>
+                  <a href="/page/cv/mini">Mini</a>
                 
-                  <a href="/pt-br/page/presentations/talks">Palestras</a>
+                  <a href="/page/presentations/talks">Talks</a>
                 
               </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="ABOUT" href="/page/about/me">ABOUT</a>
             </li>
           
         
@@ -141,12 +147,6 @@ ga('send', 'pageview');
             </li>
           
         
-          
-            <li>
-              <a title="Sobre" href="/pt-br/page/about/me">Sobre</a>
-            </li>
-          
-        
 
         
           
@@ -155,7 +155,7 @@ ga('send', 'pageview');
                 
               
                 
-                  <a href="/en" lang="en">English</a>
+                  <a href="/pt-br" lang="pt-br">Português</a>
                 
               
             </li>
@@ -169,8 +169,8 @@ ga('send', 'pageview');
     <div class="avatar-container">
       <div class="avatar-img-border">
         
-          <a title="#/share beer" href="https://rafaeldutra.me/pt-br/">
-            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share beer" />
+          <a title="#/share" href="https://rafaeldutra.me">
+            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share" />
           </a>
         
       </div>
@@ -200,7 +200,7 @@ ga('send', 'pageview');
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="page-heading">
-              <h1>Introdução ao Docker</h1>
+              <h1>Docker Introduction</h1>
                 
                 
             </div>
@@ -218,28 +218,28 @@ ga('send', 'pageview');
       <article role="main" class="blog-post">
         
 
-<h2 id="introdução-ao-docker">Introdução ao Docker</h2>
+<h2 id="docker-introduction">Docker introduction</h2>
 
-<h4 id="tchê-linux-lajeado-lajeado-rs-univates-29-04-2017">Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017</h4>
+<h4 id="tchê-linux-lajeado-lajeado-rs-univates-2017-04-29">Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29</h4>
 
-<h3 id="resumo-da-palestra">Resumo da palestra</h3>
+<h3 id="summary-of-the-lecture">Summary of the lecture</h3>
 
-<p>Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:</p>
+<p>Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:</p>
 
 <ul>
-<li>Aplicação auto contida</li>
-<li>Ambientes iguais</li>
-<li>Padronização com melhores práticas</li>
-<li>Comunidade</li>
+<li>Embedded application</li>
+<li>Same environments</li>
+<li>Patterns as best practices</li>
+<li>Community</li>
 </ul>
 
-<p>Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.</p>
+<p>With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others. We have an application embedded, so the deployment is very simplified.</p>
 
-<p>Durante a palestra, vamos utilizar os comandos básicos de gerenciamento de Docker.</p>
+<p>During the lecture, we&rsquo;ll use the basic commands to manage Docker.</p>
 
-<h3 id="slides-utilizados">Slides utilizados</h3>
+<h3 id="slides">Slides</h3>
 
-<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
         
@@ -351,7 +351,7 @@ ga('send', 'pageview');
 
           
             &nbsp;&bull;&nbsp;
-            <a href="https://rafaeldutra.me/pt-br/">#/share beer</a>
+            <a href="https://rafaeldutra.me">#/share</a>
           
         </p>
         

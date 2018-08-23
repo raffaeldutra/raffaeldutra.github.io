@@ -101,10 +101,10 @@ Slides utilizados  </description>
     
     <item>
       <title>Introdução ao Docker</title>
-      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-docker-introduction/</link>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-tchelinux-docker-introduction/</link>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-docker-introduction/</guid>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-tchelinux-docker-introduction/</guid>
       <description>Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
  Aplicação auto contida Ambientes iguais Padronização com melhores práticas Comunidade  Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.</description>
     </item>
