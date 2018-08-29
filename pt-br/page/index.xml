@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on #/share beer</title>
+    <link>https://rafaeldutra.me/pt-br/page/</link>
+    <description>Recent content in Pages on #/share beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Fri, 10 Aug 2018 12:54:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao Puppet</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2018-08-10-puppet-introduction/</link>
+      <pubDate>Fri, 10 Aug 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2018-08-10-puppet-introduction/</guid>
+      <description> Introdução ao Puppet Stefanini Solutions - Porto Alegre- 10/08/2018  O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Vagrant</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2018-08-10-vagrant-introduction/</link>
+      <pubDate>Fri, 10 Aug 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2018-08-10-vagrant-introduction/</guid>
+      <description> Introdução ao Vagrant Stefanini Solutions - Porto Alegre - 2018/08/10  Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Onboard</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/training/google/cloud/</link>
+      <pubDate>Sat, 19 May 2018 16:00:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/training/google/cloud/</guid>
+      <description> O Cloud OnBoard é um evento de capacitação desenvolvido para profissionais de negócios técnicos. O conteúdo do curso foi desenhado para profissionais de TI, engenheiros de sistemas e profissionais de operações, desenvolvedores e arquitetos de soluções que estão explorando soluções em nuvem ou são novos no Google Cloud Platform.
+Agenda  Módulo 1  Introdução ao Google Cloud Platform  Módulo 2  Começando a trabalhar no GCP Hierarquia de recursos no GCP Gerenciamento de perfis e acessos (IAM) Interações com GCP Cloud Launcher  Módulo 3: Máquinas virtuais no Google Cloud Platform  Virtual Private Cloud (VPC) Network Compute Engine Operações e ferramentas  Módulo 4: Storage no Google Cloud Platform  Cloud Storage Cloud Big Table Cloud SQL e Cloud Spanner Cloud Datastore Comparando opções de armazenamento Integrações com outros serviços  Módulo 5: Containers no Google Cloud Platform  Introdução a Containers Kubernetes Kubernetes Engine Cloud Datastore  Módulo 6: Aplicações no Google Cloud Platform  Google App Engine Google App Engine ambiente padrão Google App Engine ambiente flexível Google Cloud Endpoints e Apigee Edge  Módulo 7: Desenvolvendo, implementando e monitorando  Implementação na nuvem Infraestrutura como código Monitoramento: instrumentação proativa  Módulo 8: Big Data &amp;amp; Machine Learning  Google Cloud Big Data Google Cloud Machine Learning   </description>
+    </item>
+    
+    <item>
+      <title>Docker Workshop</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2018-05-05-docker-workshop/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2018-05-05-docker-workshop/</guid>
+      <description> Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 05/05/2018  Primeiro workshop apresentado sobre como usar Docker em uma &amp;ldquo;versão miníma&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Gerenciamento de configuração</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-configuration-management/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-configuration-management/</guid>
+      <description> Gerenciamento de configuração Poatek - Porto Alegre - 03/10/2017 Breve introdução do que podemos gerenciar com Puppet.
+ Mudança granular Ambientes imutáveis Qual o motivo real de utilizarmos gerência de configuração.  Slides utilizados  </description>
+    </item>
+    
+    <item>
+      <title>Administrando Puppet</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-puppet-administration/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-puppet-administration/</guid>
+      <description> Administrando Puppet AGCO Canoas - 02/09/2017 Aqui nos atemos a como utilizar o básico de resources, como package, service and file. Apresentação realizada para o time de infraestrutra.
+Slides utilizados  </description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Puppet</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-introduction-to-puppet/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-introduction-to-puppet/</guid>
+      <description> Introdução ao Puppet AGCO Canoas - 02/09/2017 A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel de ambientes, tendo como foco a mudança com confiabilidade.
+Slides utilizados  </description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Docker</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-tchelinux-docker-introduction/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-04-29-tchelinux-docker-introduction/</guid>
+      <description>Introdução ao Docker Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017 Resumo da palestra Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
+ Aplicação auto contida Ambientes iguais Padronização com melhores práticas Comunidade  Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.</description>
+    </item>
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/training/puppet/fundamentals/</guid>
+      <description>No treinamento, os alunos vão aprender a gerenciar uma infraestrutura da maneira correta. Vão aprender as melhores práticas e usar o Puppet para escrever classes e módulos, além de utilizar módulos já existentes. O aprendizado é muito voltado a um workflow de produção de uma infraestrutura, utilizando controle de versão com Git ostensivamente.
+Ementa  Componentes fundamentais do Puppet Enterprise (e Puppet Open Source). Utilizando o Puppet em Linux e Windows.</description>
+    </item>
+    
+    <item>
+      <title>Mini Currículo</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/mini/</guid>
+      <description>Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código e automação.
+Possui 13 anos de experiência em TI atuando como SysAdmin em ambientes Linux nas mais variadas distribuições.
+Atualmente mora em Porto Alegre/RS e estudante de Segurança da Informação pela UNISINOS.</description>
+    </item>
+    
+    <item>
+      <title>Currículo</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/downloads/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/downloads/</guid>
+      <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
+Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
+Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
+ Português
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC  Inglês
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC   </description>
+    </item>
+    
+    <item>
+      <title>Palestras</title>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/talks/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/talks/</guid>
+      <description>10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker  Introdução ao Vagrant Stefanini Solutions - Porto Alegre - 2018/08/10  Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.  Slides  Introdução ao Puppet Stefanini Solutions - Porto Alegre- 10/08/2018  O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.</description>
+    </item>
+    
+    <item>
+      <title>Um pouco sobre mim</title>
+      <link>https://rafaeldutra.me/pt-br/page/about/me/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/about/me/</guid>
+      <description>Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29&amp;frasl;01 de algum ano e sou Sysadmin e entusiasta DevOps.
+Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/experience/</guid>
+      <description>Cloud providers  Google Cloud AWS Digital Ocean  Infrastructure as code  Terraform  Continuous Integration / Delivery e Deployment  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx como Proxy reverso Squid Varnish  Domains  Samba LDAP - integração em alguns projetos.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL  Email  Postfix iRedMail  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack usando Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/resume/</guid>
+      <description>Brasileiro, solteiro.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Resumo Profissional Mais de 13 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Experiência Profissional Jive Software (https://jivesoftware.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/simple/</guid>
+      <description>Brasileiro, solteiro, 31 anos.
+Bento Amaral, 26&amp;frasl;206 - Partenon - Porto Alegre/RS
+https://rafaeldutra.me - raffaeldutra@gmail.com
+Mobile: (51) 9 9972 7599
+Declaração 12+ anos de experiência em Tecnologia da Informação, Administração de Redes e Análise de Infraestrutura, trabalhando especialmente com GNU/Linux.
+Nos últimos dois anos, venho trabalhando principalmente com Automação de Infraestrutura (Infra as Code) e containers com Docker.
+Experiência de trabalho Jive Software (https://jivesoftware.com) Empresa de Tecnologia - Portland/OR/EUA</description>
+    </item>
+    
+  </channel>
+</rss>

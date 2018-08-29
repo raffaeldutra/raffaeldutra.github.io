@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on #/share</title>
+    <link>https://rafaeldutra.me/page/</link>
+    <description>Recent content in Pages on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Fri, 10 Aug 2018 12:54:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puppet Introduction</title>
+      <link>https://rafaeldutra.me/page/presentations/2018-08-10-puppet-introduction/</link>
+      <pubDate>Fri, 10 Aug 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2018-08-10-puppet-introduction/</guid>
+      <description> Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Vagrant Introduction</title>
+      <link>https://rafaeldutra.me/page/presentations/2018-08-10-vagrant-introduction/</link>
+      <pubDate>Fri, 10 Aug 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2018-08-10-vagrant-introduction/</guid>
+      <description> Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Onboard</title>
+      <link>https://rafaeldutra.me/page/cv/training/google/cloud/</link>
+      <pubDate>Sat, 19 May 2018 16:00:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/training/google/cloud/</guid>
+      <description> Cloud Onboard is an event designed to technical business professionals. The content was designed to IT professionals, System Engineers and Operational Professionals, Developers and Solutions Architects that are searching for cloud solutions or are new using Google Cloud.
+Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work with GCP Hierarchical Resources at GCP Profiles and access management (IAM) Interactions with GCP Cloud Launcher  Module 3: Virtual Machines at Google Cloud Platform  Virtual Private Cloud (VPC) Network Compute Engine Operations and tools  Module 4: Storage at Google Cloud Platform  Cloud Storage Cloud Big Table Cloud SQL and Cloud Spanner Cloud Datastore Comparing storage options Integrations with other resources  Module 5: Containers at Google Cloud Platform  Containers introduction Kubernetes Kubernetes Engine Cloud Datastore  Module 6: Applications at Google Cloud Platform  Google App Engine Google App Engine default environment Google App Engine flexible environment Google Cloud Endpoints and Apigee Edge  Module 7: Development, implementation and monitoring  Cloud implementation Infrastructure as code Monitoring: proactive instrumentation  Module 8: Big Data &amp;amp; Machine Learning  Google Cloud Big Data Google Cloud Machine Learning   </description>
+    </item>
+    
+    <item>
+      <title>Docker Workshop</title>
+      <link>https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/</guid>
+      <description> Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &amp;ldquo;minimum way&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Configuration management</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-10-03-configuration-management/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-10-03-configuration-management/</guid>
+      <description> Configuration Management Poatek - Porto Alegre - 2017/10/03 Brief introduction of how we can use Puppet to managem things.
+ Changing granulatiry Imutable environment What is the real motive to use configuration management  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Puppet</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-09-02-introduction-to-puppet/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-introduction-to-puppet/</guid>
+      <description> Introduction to Puppet AGCO Canoas - Canoas - 2017/09/02 The ideia is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.
+Slides  </description>
+    </item>
+    
+    <item>
+      <title>Puppet Administration</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-09-02-puppet-administration/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-puppet-administration/</guid>
+      <description> Puppet Administration AGCO Canoas - Canoas - 2017/09/02 In this apresentation we used the basics of &amp;ldquo;resources&amp;rdquo; statement, like package, service and file. This apresentation was for the infrastructure team.
+Slides  </description>
+    </item>
+    
+    <item>
+      <title>Docker Introduction</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-04-29-tchelinux-docker-introduction/</guid>
+      <description>Docker introduction Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29 Summary of the lecture Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+ Embedded application Same environments Patterns as best practices Community  With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others.</description>
+    </item>
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/training/puppet/fundamentals/</guid>
+      <description>In the training, the studens will learn to manage infrastructure in the right way. They will learn the best pratices and use Puppet to write classes and modules, in addition to using existents modules. The learning is to use a production environment workflow infrastructure, using source control management with git exhaustively.
+Agenda  Fundamental components of Puppet Enterprise (and Puppet Open Source). Using Puppet on Linux and Windows. Fundamental conceps of the language and modeling of Puppet, like:  Modules and classes.</description>
+    </item>
+    
+    <item>
+      <title>Mini Curriculum</title>
+      <link>https://rafaeldutra.me/page/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/mini/</guid>
+      <description>DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus.
+Has 13 years of IT experience acting as SysAdmin Linux.
+Currently lives at Porto Alegre/RS and studies Security Information at UNISINOS.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://rafaeldutra.me/page/cv/downloads/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/downloads/</guid>
+      <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
+You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
+So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
+ English
+ Resume
+ Mini Currículum
+ Download PDF format Download DOC format  Portuguese
+ Resume
+ Mini Currículum</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://rafaeldutra.me/page/presentations/talks/</link>
+      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/talks/</guid>
+      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://rafaeldutra.me/page/about/me/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/about/me/</guid>
+      <description>My name is Rafael Dutra and I&amp;rsquo;m a nice guy. I was born at 29&amp;frasl;01 from some year and I&amp;rsquo;m a Sysadmin and DevOps enthusiast.
+Currently I&amp;rsquo;m living at Porto Alegre/RS but I&amp;rsquo;m from Lajeado/RS and I lived my whole life at Estrela/RS, that is 120km far from Porto Alegre/RS.
+I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rafaeldutra.me/page/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/experience/</guid>
+      <description>Cloud providers  Google Cloud AWS Digital Ocean  Infrastructure as code  Terraform  Continuous Integration / Delivery and Deployment  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack using Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/page/cv/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/resume/</guid>
+      <description>Brazilian, single.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Personal Statement 13+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+3+ years working with PHP development and frameworks (Laravel and Codeigniter), Vagrant, Bower, Composer and Git.
+In the last 2 years, I&amp;rsquo;ve been working mainly on Infrastructure automation (Infra as Code) and containerization with Docker.
+Work Experience Jive Software (https://jivesoftware.com) Jive Software is now a part of Aurea Company (https://aurea.</description>
+    </item>
+    
+  </channel>
+</rss>

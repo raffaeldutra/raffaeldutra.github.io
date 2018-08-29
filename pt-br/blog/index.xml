@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on #/share beer</title>
+    <link>https://rafaeldutra.me/pt-br/blog/</link>
+    <description>Recent content in Blogs on #/share beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://rafaeldutra.me/pt-br/blog/2018/07/18/podcasts/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/blog/2018/07/18/podcasts/</guid>
+      <description>&lt;p&gt;Segue uma lista de podcasts que escuto atualmente. Aos poucos vou acrescentando outras áreas/segmentos.&lt;/p&gt;
+
+&lt;h4 id=&#34;tecnologia-da-informação&#34;&gt;Tecnologia da informação&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hipsters.tech&#34;&gt;Hipsters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/podcasts/aws-podcast/&#34;&gt;AWS&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RSS: &lt;a href=&#34;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&#34;&gt;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Itunes: &lt;a href=&#34;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&#34;&gt;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Docker</title>
+      <link>https://rafaeldutra.me/pt-br/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/</guid>
+      <description>&lt;h2 id=&#34;o-que-é-docker&#34;&gt;O que é Docker?&lt;/h2&gt;
+
+&lt;p&gt;Por definição em &lt;a href=&#34;https://opensource.com/resources/what-docker&#34;&gt;https://opensource.com/resources/what-docker&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker é uma ferramenta feita para rapidamente, criar, fazer deploy e roda aplicações ussando containers. Containers deixam o desenvolvedor para fazer o pacote da aplicação com todas suas partes necessárias, como bibliotecas e outras dependências, e lançar tudo isso como um único pacote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
