@@ -2,7 +2,7 @@
 date = "2017-03-04T12:54:24-03:00"
 title = "Palestras"
 
-+++
+
 
 * [10/08/2018 - Introdução ao Vagrant](/pt-br/page/presentations/2018-08-10-vagrant-introduction)
 * [10/08/2018 - Introdução ao Puppet](/pt-br/page/presentations/2018-08-10-puppet-introduction)
