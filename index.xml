@@ -164,7 +164,7 @@ So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmai
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/page/presentations/talks/</guid>
-      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
+      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
     </item>
     
     <item>
@@ -193,6 +193,15 @@ I&amp;rsquo;m single and really love video games, mainly RPG and FPS and I have 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Docker Introduction</title>
+      <link>https://rafaeldutra.me/page/presentations/2017-02-22-poatek-docker-introduction/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2017-02-22-poatek-docker-introduction/</guid>
+      <description> Docker introduction Poatek - Porto Alegre - 2017/02/22 Summary  Community Breve história What&amp;rsquo;s Docker Container is NOT VM Why should used it Demo  Slides  </description>
     </item>
     
     <item>

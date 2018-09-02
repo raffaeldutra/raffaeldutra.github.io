@@ -265,6 +265,23 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/page/presentations/2017-02-22-poatek-docker-introduction/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/presentations/2017-02-22-poatek-docker-introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/presentations/2017-02-22-poatek-docker-introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/cv/experience/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
