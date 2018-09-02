@@ -4,6 +4,7 @@ title = "Talks"
 
 +++
 
+* [2018-08-30 - Continuous Integration](/page/presentations/2018-08-30-stefanini-solutions-continuous-integration)
 * [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
 * [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
 * [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-docker-workshop)
@@ -20,7 +21,7 @@ title = "Talks"
 
 ### Slides
 
-<iframe src="https://docs.google.com/presentation/d/1cMGxg5N4dReDJ8A6lxR22_vs8YLsP42UlmkQrSylSx0/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18U44dKTgSk-8Mj0PMNPhDIGut-_zihknADPkA_WbHeg/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Puppet Introduction

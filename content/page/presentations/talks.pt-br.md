@@ -4,6 +4,7 @@ title = "Palestras"
 
 +++
 
+* [10/08/2018 - Integração Contínua](/pt-br/page/presentations/2018-08-30-stefanini-solutions-continuous-integration)
 * [10/08/2018 - Introdução ao Vagrant](/pt-br/page/presentations/2018-08-10-vagrant-introduction)
 * [10/08/2018 - Introdução ao Puppet](/pt-br/page/presentations/2018-08-10-puppet-introduction)
 * [05/05/2018 - Docker Workshop](/pt-br/page/presentations/2018-05-05-docker-workshop)
@@ -13,8 +14,18 @@ title = "Palestras"
 * [29/04/2017 - Introdução ao Docker](/page/presentations/2017-04-29-tchelinux-docker-introduction)
 * [22/02/2017 - Introdução ao Docker](/page/presentations/2017-02-22-poatek-docker-introduction)
 
+## Integração Contínua
+#### Stefanini Solutions - Porto Alegre - 30/08/2018
+
+* O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.
+
+### Slides
+
+<iframe src="https://docs.google.com/presentation/d/18U44dKTgSk-8Mj0PMNPhDIGut-_zihknADPkA_WbHeg/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ## Introdução ao Vagrant
-#### Stefanini Solutions - Porto Alegre - 2018/08/10
+#### Stefanini Solutions - Porto Alegre - 10/08/2018
 
 * Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.
 
