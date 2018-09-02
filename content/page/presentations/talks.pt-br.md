@@ -11,6 +11,7 @@ title = "Palestras"
 * [02/09/2017 - Introdução ao Puppet](/pt-br/page/presentations/2017-09-02-introduction-to-puppet)
 * [02/09/2017 - Administrando Puppet](/page/presentations/2017-09-02-puppet-administration)
 * [29/04/2017 - Introdução ao Docker](/page/presentations/2017-04-29-tchelinux-docker-introduction)
+* [22/02/2017 - Introdução ao Docker](/page/presentations/2017-02-22-poatek-docker-introduction)
 
 ## Introdução ao Vagrant
 #### Stefanini Solutions - Porto Alegre - 2018/08/10

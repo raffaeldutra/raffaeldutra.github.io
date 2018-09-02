@@ -11,6 +11,7 @@ title = "Talks"
 * [2017-09-02 - Introduction to Puppet](/page/presentations/2017-09-02-introduction-to-puppet)
 * [2017-09-02 - Puppet Administration](/page/presentations/2017-09-02-puppet-administration)
 * [2017-04-29 - Docker Introduction](/page/presentations/2017-04-29-tchelinux-docker-introduction)
+* [2017-02-22 - Docker Introduction](/page/presentations/2017-02-22-poatek-docker-introduction)
 
 ## Vagrant Introduction
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
