@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Fri, 10 Aug 2018 12:54:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>https://rafaeldutra.me/page/presentations/2018-08-30-stefanini-solutions-continuous-integration/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2018-08-30-stefanini-solutions-continuous-integration/</guid>
+      <description> Continuous Integration Stefanini Solutions - Porto Alegre - 2018-08-30  What is it, how, the why and objectives to reach using Continuous Integration.  Slides  </description>
+    </item>
     
     <item>
       <title>Puppet Introduction</title>
@@ -164,7 +173,7 @@ So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmai
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/page/presentations/talks/</guid>
-      <description>2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
+      <description>2018-08-30 - Continuous Integration 2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
     </item>
     
     <item>

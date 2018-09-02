@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/page/presentations/2018-08-30-stefanini-solutions-continuous-integration/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/presentations/2018-08-30-stefanini-solutions-continuous-integration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/presentations/2018-08-30-stefanini-solutions-continuous-integration/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/presentations/2018-08-10-puppet-introduction/</loc>
     <lastmod>2018-08-10T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -299,7 +316,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/</loc>
-    <lastmod>2018-08-10T12:54:24-03:00</lastmod>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -421,7 +438,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/page/</loc>
-    <lastmod>2018-08-10T12:54:24-03:00</lastmod>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
