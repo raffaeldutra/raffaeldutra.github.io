@@ -169,5 +169,4 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
     * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
     * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
-* [A Microsoft comprou o GitHub e olha no que deu](https://www.youtube.com/watch?v=BX8CoVaqIyk)
 * [OpenCast 89 - Tchelinux, Software Livre e Fotografia, com Rafael Jeffman](https://www.youtube.com/watch?v=dBB_2CB-gAw)
