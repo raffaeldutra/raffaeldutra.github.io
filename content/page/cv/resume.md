@@ -119,6 +119,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * Advanced English for listening and reading.
 
 ### Courses
+* 2018/2 - [AWS hands on](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 - Lean Software Development - WildTech - Porto Alegre/RS.
 * 2011/2 - Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
