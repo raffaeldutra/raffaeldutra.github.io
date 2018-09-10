@@ -71,20 +71,20 @@ Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work
     
     <item>
       <title>Introduction to Puppet</title>
-      <link>https://rafaeldutra.me/page/presentations/2017-09-02-introduction-to-puppet/</link>
+      <link>https://rafaeldutra.me/page/presentations/2017-09-02-agco-introduction-to-puppet/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-introduction-to-puppet/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-agco-introduction-to-puppet/</guid>
       <description> Introduction to Puppet AGCO Canoas - Canoas - 2017/09/02 The ideia is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.
 Slides  </description>
     </item>
     
     <item>
       <title>Puppet Administration</title>
-      <link>https://rafaeldutra.me/page/presentations/2017-09-02-puppet-administration/</link>
+      <link>https://rafaeldutra.me/page/presentations/2017-09-02-agco-puppet-administration/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-puppet-administration/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/2017-09-02-agco-puppet-administration/</guid>
       <description> Puppet Administration AGCO Canoas - Canoas - 2017/09/02 In this apresentation we used the basics of &amp;ldquo;resources&amp;rdquo; statement, like package, service and file. This apresentation was for the infrastructure team.
 Slides  </description>
     </item>

@@ -71,20 +71,20 @@ Agenda  Módulo 1  Introdução ao Google Cloud Platform  Módulo 2  Começando 
     
     <item>
       <title>Administrando Puppet</title>
-      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-puppet-administration/</link>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-agco-puppet-administration/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-puppet-administration/</guid>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-agco-puppet-administration/</guid>
       <description> Administrando Puppet AGCO Canoas - 02/09/2017 Aqui nos atemos a como utilizar o básico de resources, como package, service and file. Apresentação realizada para o time de infraestrutra.
 Slides utilizados  </description>
     </item>
     
     <item>
       <title>Introdução ao Puppet</title>
-      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-introduction-to-puppet/</link>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-agco-introduction-to-puppet/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-introduction-to-puppet/</guid>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-09-02-agco-introduction-to-puppet/</guid>
       <description> Introdução ao Puppet AGCO Canoas - 02/09/2017 A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel de ambientes, tendo como foco a mudança com confiabilidade.
 Slides utilizados  </description>
     </item>
