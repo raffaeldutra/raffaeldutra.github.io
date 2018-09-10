@@ -50,9 +50,9 @@ title = "Talks"
 
 ## Configuration Management
 #### Poatek - Porto Alegre - 2017/10/03
-Brief introduction of how we can use Puppet to managem things.
+Brief introduction of how we can use Puppet to manage things.
 
-* Changing granulatiry
+* Changing infrastrucure in a granular way
 * Imutable environment
 * What is the real motive to use configuration management
 
@@ -63,7 +63,7 @@ Brief introduction of how we can use Puppet to managem things.
 
 ## Introduction to Puppet
 #### AGCO Canoas - Canoas - 2017/09/02
-The ideia is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.
+The idea is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.
 
 ### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrBU9r28ng9suZu6YGPFLPJzdxSSLB65uJcCMTPaJuQ4Q53cY9EfR2zcx1qJYO5qhINI_mUQXDLKtS/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -72,8 +72,8 @@ The ideia is to show how we can delivery better environments using patterns and 
 
 ## Puppet Administration
 #### AGCO Canoas - Canoas - 2017/09/02
-In this apresentation we used the basics of "resources" statement, like package, service and file.
-This apresentation was for the infrastructure team.
+In this apresentation we used the basics of "resources" statements, like packages, services and files.
+This apresentation was made for the infrastructure team.
 
 ### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTdxBe-hmKoo6KKpTPXHKzp8-SNUg6Qu-QGvA33tYU7YQF70Olau3TOaPRzHVRQgURrwZtWedw-I8j/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -105,7 +105,7 @@ During the lecture, we'll use the basic commands to manage Docker.
 
 ### Summary
 * Community
-* Breve história
+* Short history
 * What's Docker
 * Container is NOT VM
 * Why should used it
