@@ -163,8 +163,8 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices and Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
-* 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
-* 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
+* 2017/02/09 - Novidades do Docker 1.13 - PUC - Porto Alegre/RS
+* 2017/01/16 - 12º Entrega Contínua - PUC - Porto Alegre/RS
 
 ### Videos no Youtube
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
