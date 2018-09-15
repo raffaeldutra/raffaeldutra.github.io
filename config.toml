@@ -23,7 +23,7 @@ metaDataFormat = "yaml"
 [Params]
   subtitle = "knowledgement and ideas"
   logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  favicon = "images/favicon.ico"
   commit = false
   rss = true
   comments = false
