@@ -61,10 +61,10 @@ Agenda  Módulo 1  Introdução ao Google Cloud Platform  Módulo 2  Começando 
     
     <item>
       <title>Gerenciamento de configuração</title>
-      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-configuration-management/</link>
+      <link>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-poatek-configuration-management/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-configuration-management/</guid>
+      <guid>https://rafaeldutra.me/pt-br/page/presentations/2017-10-03-poatek-configuration-management/</guid>
       <description> Gerenciamento de configuração Poatek - Porto Alegre - 03/10/2017 Breve introdução do que podemos gerenciar com Puppet.
  Mudança granular Ambientes imutáveis Qual o motivo real de utilizarmos gerência de configuração.  Slides utilizados  </description>
     </item>

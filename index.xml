@@ -91,10 +91,10 @@ Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work
     
     <item>
       <title>Configuration management</title>
-      <link>https://rafaeldutra.me/page/presentations/2017-10-03-configuration-management/</link>
+      <link>https://rafaeldutra.me/page/presentations/2017-10-03-poatek-configuration-management/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/presentations/2017-10-03-configuration-management/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/2017-10-03-poatek-configuration-management/</guid>
       <description> Configuration Management Poatek - Porto Alegre - 2017/10/03 Brief introduction of how we can use Puppet to managem things.
  Changing granulatiry Imutable environment What is the real motive to use configuration management  Slides  </description>
     </item>
