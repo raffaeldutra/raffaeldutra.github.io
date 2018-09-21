@@ -22,6 +22,7 @@ Here's my contacts:
 - Gitlab: <a href="https://gitlab.com/raffaeldutra">Gitlab</a>
 - Linkedin: <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
 - Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
+- Speaker Deck - [https://speakerdeck.com/raffaeldutra/docker-workshop](https://speakerdeck.com/raffaeldutra/docker-workshop)
 
 Thank you.
 
