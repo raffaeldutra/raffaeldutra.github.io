@@ -4,15 +4,31 @@ title = "Talks"
 
 +++
 
+* [2018-09-22 - Docker Workshop](/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop)
 * [2018-08-30 - Continuous Integration](/page/presentations/2018-08-30-stefanini-solutions-continuous-integration)
 * [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
 * [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
-* [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-docker-workshop)
+* [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-fossday-lajeado-docker-workshop)
 * [2017-10-03 - Configuration Management](/page/presentations/2017-10-03-poatek-configuration-management)
 * [2017-09-02 - Introduction to Puppet](/page/presentations/2017-09-02-agco-introduction-to-puppet)
 * [2017-09-02 - Puppet Administration](/page/presentations/2017-09-02-agco-puppet-administration)
 * [2017-04-29 - Docker Introduction](/page/presentations/2017-04-29-tchelinux-docker-introduction)
 * [2017-02-22 - Docker Introduction](/page/presentations/2017-02-22-poatek-docker-introduction)
+
+## Docker Workhop
+#### FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22
+
+Introduction to start using Docker containers.
+
+* Basic commands
+* Dockerfile
+* Containers management
+* Running a CLI (Command Line Interface) "application" using PHP
+* Docker Compose
+
+### Slides
+
+<iframe src="https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Vagrant Introduction
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
