@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker Workshop</title>
+      <link>https://rafaeldutra.me/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</guid>
+      <description> Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+ Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &amp;ldquo;application&amp;rdquo; using PHP Docker Compose  Slides  </description>
+    </item>
     
     <item>
       <title>Continuous Integration</title>
@@ -71,10 +81,10 @@ Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work
     
     <item>
       <title>Docker Workshop</title>
-      <link>https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/</link>
+      <link>https://rafaeldutra.me/page/presentations/2018-05-05-fossday-lajeado-docker-workshop/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/</guid>
+      <guid>https://rafaeldutra.me/page/presentations/2018-05-05-fossday-lajeado-docker-workshop/</guid>
       <description> Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &amp;ldquo;minimum way&amp;rdquo; Dockerfile Volumes Docker Compose  Slides  </description>
     </item>
     
@@ -173,7 +183,8 @@ So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmai
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/page/presentations/talks/</guid>
-      <description>2018-08-30 - Continuous Integration 2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.  Slides  Puppet Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  The main goal here is to present what is Puppet and what we can do to do our lives better.</description>
+      <description>2018-09-22 - Docker Workshop 2018-08-30 - Continuous Integration 2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+ Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &amp;ldquo;application&amp;rdquo; using PHP Docker Compose  Slides  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.</description>
     </item>
     
     <item>

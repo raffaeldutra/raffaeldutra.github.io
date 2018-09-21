@@ -1,18 +1,19 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Palestras</title>
-  <meta property="og:title" content="Palestras" />
-  <meta name="twitter:title" content="Palestras" />
-  <meta name="description" content="22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker 22/02/2017 - Introdução ao Docker  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
- Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &ldquo;application&rdquo; using PHP Docker Compose  Slides  Integração Contínua Stefanini Solutions - Porto Alegre - 30/08/2018  O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.">
-  <meta property="og:description" content="22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker 22/02/2017 - Introdução ao Docker  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
- Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &ldquo;application&rdquo; using PHP Docker Compose  Slides  Integração Contínua Stefanini Solutions - Porto Alegre - 30/08/2018  O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.">
-  <meta name="twitter:description" content="22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de …">
+  <title>Docker Workshop</title>
+  <meta property="og:title" content="Docker Workshop" />
+  <meta name="twitter:title" content="Docker Workshop" />
+  <meta name="description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+ Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &ldquo;application&rdquo; using PHP Docker Compose  Slides  ">
+  <meta property="og:description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+ Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &ldquo;application&rdquo; using PHP Docker Compose  Slides  ">
+  <meta name="twitter:description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+ Basic commands Dockerfile Containers management Running a CLI (Command Line …">
   <meta name="author" content="Rafael Dutra"/>
   <link href='https://rafaeldutra.me/images/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
@@ -20,13 +21,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@raffaeldutra" />
   <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/pt-br/page/presentations/talks/" />
+  <meta property="og:url" content="https://rafaeldutra.me/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="#/share beer" />
+  <meta property="og:site_name" content="#/share" />
 
   <meta name="generator" content="Hugo 0.46" />
-  <link rel="canonical" href="https://rafaeldutra.me/pt-br/page/presentations/talks/" />
-  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share beer">
+  <link rel="canonical" href="https://rafaeldutra.me/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/" />
+  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -108,7 +109,7 @@ if (!doNotTrack) {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://rafaeldutra.me/pt-br/">#/share beer</a>
+      <a class="navbar-brand" href="https://rafaeldutra.me">#/share</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -116,26 +117,32 @@ if (!doNotTrack) {
         
           
             <li>
-              <a title="HOME" href="/pt-br/blog">HOME</a>
+              <a title="HOME" href="/blog">HOME</a>
             </li>
           
         
           
             <li class="navlinks-container">
-              <a class="navlinks-parent" href="javascript:void(0)">Curriculo</a>
+              <a class="navlinks-parent" href="javascript:void(0)">CURRICULUM</a>
               <div class="navlinks-children">
                 
-                  <a href="/pt-br/page/cv/downloads">Downloads</a>
+                  <a href="/page/cv/downloads">Downloads</a>
                 
-                  <a href="/pt-br/page/cv/resume">Resume</a>
+                  <a href="/page/cv/resume">Resume</a>
                 
-                  <a href="/pt-br/page/cv/experience">Experience</a>
+                  <a href="/page/cv/experience">Experience</a>
                 
-                  <a href="/pt-br/page/cv/mini">Mini</a>
+                  <a href="/page/cv/mini">Mini</a>
                 
-                  <a href="/pt-br/page/presentations/talks">Palestras</a>
+                  <a href="/page/presentations/talks">Talks</a>
                 
               </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="ABOUT" href="/page/about/me">ABOUT</a>
             </li>
           
         
@@ -145,21 +152,15 @@ if (!doNotTrack) {
             </li>
           
         
-          
-            <li>
-              <a title="Sobre" href="/pt-br/page/about/me">Sobre</a>
-            </li>
-          
-        
 
         
           
             <li>
               
                 
-                  <a href="/en" lang="en">English</a>
-                
               
+                
+                  <a href="/pt-br" lang="pt-br">Português</a>
                 
               
             </li>
@@ -173,8 +174,8 @@ if (!doNotTrack) {
     <div class="avatar-container">
       <div class="avatar-img-border">
         
-          <a title="#/share beer" href="https://rafaeldutra.me/pt-br/">
-            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share beer" />
+          <a title="#/share" href="https://rafaeldutra.me">
+            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share" />
           </a>
         
       </div>
@@ -204,7 +205,7 @@ if (!doNotTrack) {
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="page-heading">
-              <h1>Palestras</h1>
+              <h1>Docker Workshop</h1>
                 
                 
             </div>
@@ -222,22 +223,9 @@ if (!doNotTrack) {
       <article role="main" class="blog-post">
         
 
-<ul>
-<li><a href="/pt-br/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop">22/09/2018 - Docker Workshop</a></li>
-<li><a href="/pt-br/page/presentations/2018-08-30-stefanini-solutions-continuous-integration">10/08/2018 - Integração Contínua</a></li>
-<li><a href="/pt-br/page/presentations/2018-08-10-vagrant-introduction">10/08/2018 - Introdução ao Vagrant</a></li>
-<li><a href="/pt-br/page/presentations/2018-08-10-puppet-introduction">10/08/2018 - Introdução ao Puppet</a></li>
-<li><a href="/pt-br/page/presentations/2018-05-05-docker-workshop">05/05/2018 - Docker Workshop</a></li>
-<li><a href="/pt-br/page/presentations/2017-10-03-poatek-configuration-management">03/10/2017 - Gerenciamento de configuração</a></li>
-<li><a href="/pt-br/page/presentations/2017-09-02-agco-introduction-to-puppet">02/09/2017 - Introdução ao Puppet</a></li>
-<li><a href="/pt-br//page/presentations/20 17-09-02-agco-puppet-administration">02/09/2017 - Administrando Puppet</a></li>
-<li><a href="/pt-br/page/presentations/2017-04-29-tchelinux-docker-introduction">29/04/2017 - Introdução ao Docker</a></li>
-<li><a href="/pt-br/page/presentations/2017-02-22-poatek-docker-introduction">22/02/2017 - Introdução ao Docker</a></li>
-</ul>
+<h2 id="docker-workshop-fossday-2018">Docker Workshop - FOSSDay 2018</h2>
 
-<h2 id="docker-workhop">Docker Workhop</h2>
-
-<h4 id="fossday-bento-gonçalves-bento-gonçalves-2018-09-22">FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22</h4>
+<h4 id="fossday-bento-gonçalves-2018-09-22">Fossday - Bento Gonçalves - 2018/09/22</h4>
 
 <p>Introduction to start using Docker containers.</p>
 
@@ -251,138 +239,7 @@ if (!doNotTrack) {
 
 <h3 id="slides">Slides</h3>
 
-<iframe src="https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="integração-contínua">Integração Contínua</h2>
-
-<h4 id="stefanini-solutions-porto-alegre-30-08-2018">Stefanini Solutions - Porto Alegre - 30/08/2018</h4>
-
-<ul>
-<li>O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.</li>
-</ul>
-
-<h3 id="slides-1">Slides</h3>
-
-<iframe src="https://docs.google.com/presentation/d/18U44dKTgSk-8Mj0PMNPhDIGut-_zihknADPkA_WbHeg/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="introdução-ao-vagrant">Introdução ao Vagrant</h2>
-
-<h4 id="stefanini-solutions-porto-alegre-10-08-2018">Stefanini Solutions - Porto Alegre - 10/08/2018</h4>
-
-<ul>
-<li>Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.</li>
-</ul>
-
-<h3 id="slides-2">Slides</h3>
-
-<iframe src="https://docs.google.com/presentation/d/1cMGxg5N4dReDJ8A6lxR22_vs8YLsP42UlmkQrSylSx0/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="introdução-ao-puppet">Introdução ao Puppet</h2>
-
-<h4 id="stefanini-solutions-porto-alegre-10-08-2018-1">Stefanini Solutions - Porto Alegre- 10/08/2018</h4>
-
-<ul>
-<li>O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.</li>
-</ul>
-
-<h3 id="slides-3">Slides</h3>
-
-<iframe src="https://docs.google.com/presentation/d/1GVhXFuXwbcxy_p-2g_4tSqcOyCuozh-bJ-2p7qYYx2k/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="docker-workshop-foss-day-2018">Docker Workshop - FOSS Day 2018</h2>
-
-<h4 id="fossday-lajeado-05-05-2018">Fossday - Lajeado - 05/05/2018</h4>
-
-<ul>
-<li>Primeiro workshop apresentado sobre como usar Docker em uma &ldquo;versão miníma&rdquo;</li>
-<li>Dockerfile</li>
-<li>Volumes</li>
-<li>Docker Compose</li>
-</ul>
-
-<h3 id="slides-4">Slides</h3>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFwP-bT78vkYG8_tFGm3QHt2BG44QXwcVhc-_bRQuh-vWCCE0k9GR6K_5xqXwvB3FXn0-lMsvyqyWU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="gerenciamento-de-configuração">Gerenciamento de configuração</h2>
-
-<h4 id="poatek-porto-alegre-03-10-2017">Poatek - Porto Alegre - 03/10/2017</h4>
-
-<p>Breve introdução do que podemos gerenciar com Puppet.</p>
-
-<ul>
-<li>Mudança granular</li>
-<li>Ambientes imutáveis</li>
-<li>Qual o motivo real de utilizarmos gerência de configuração.</li>
-</ul>
-
-<h3 id="slides-utilizados">Slides utilizados</h3>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPU4Foq_7_cVu4bpR_x7lRWLFfjN-BZ-Ou0ZHSJfT9Urw6FwkPRygu9zAAPdgFauhdnUshxbu7wJHi/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="introdução-ao-puppet-1">Introdução ao Puppet</h2>
-
-<h4 id="agco-canoas-02-09-2017">AGCO Canoas - 02/09/2017</h4>
-
-<p>A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel
-de ambientes, tendo como foco a mudança com confiabilidade.</p>
-
-<h3 id="slides-utilizados-1">Slides utilizados</h3>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrBU9r28ng9suZu6YGPFLPJzdxSSLB65uJcCMTPaJuQ4Q53cY9EfR2zcx1qJYO5qhINI_mUQXDLKtS/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="administrando-puppet">Administrando Puppet</h2>
-
-<h4 id="agco-canoas-02-09-2017-1">AGCO Canoas - 02/09/2017</h4>
-
-<p>Aqui nos atemos a como utilizar o básico de resources, como package, service and file.
-Apresentação realizada para o time de infraestrutra.</p>
-
-<h3 id="slides-utilizados-2">Slides utilizados</h3>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTdxBe-hmKoo6KKpTPXHKzp8-SNUg6Qu-QGvA33tYU7YQF70Olau3TOaPRzHVRQgURrwZtWedw-I8j/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="introdução-ao-docker">Introdução ao Docker</h2>
-
-<h4 id="tchê-linux-lajeado-lajeado-rs-univates-29-04-2017">Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017</h4>
-
-<h3 id="resumo-da-palestra">Resumo da palestra</h3>
-
-<p>Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:</p>
-
-<ul>
-<li>Aplicação auto contida</li>
-<li>Ambientes iguais</li>
-<li>Padronização com melhores práticas</li>
-<li>Comunidade</li>
-</ul>
-
-<p>Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.</p>
-
-<p>Durante a palestra, vamos utilizar os comandos básicos de gerenciamento de Docker.</p>
-
-<h3 id="slides-utilizados-3">Slides utilizados</h3>
-
-<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h2 id="introdução-ao-docker-1">Introdução ao Docker</h2>
-
-<h4 id="poatek-22-02-2017">Poatek - 22/02/2017</h4>
-
-<h3 id="resumo">Resumo</h3>
-
-<ul>
-<li>Comunidade</li>
-<li>Breve história</li>
-<li>O que é?</li>
-<li>Container não é VM</li>
-<li>Por que utilizar</li>
-<li>Demo</li>
-</ul>
-
-<h3 id="slides-utilizados-4">Slides utilizados</h3>
-
-<iframe src="https://docs.google.com/presentation/d/1-2StfxZVM5UChe2z4dqiPhtLZMDdzWPK18k5yJB62EA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
         
@@ -494,7 +351,7 @@ Apresentação realizada para o time de infraestrutra.</p>
 
           
             &nbsp;&bull;&nbsp;
-            <a href="https://rafaeldutra.me/pt-br/">#/share beer</a>
+            <a href="https://rafaeldutra.me">#/share</a>
           
         </p>
         

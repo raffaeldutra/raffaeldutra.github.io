@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,9 +8,12 @@
   <title>Docker Workshop</title>
   <meta property="og:title" content="Docker Workshop" />
   <meta name="twitter:title" content="Docker Workshop" />
-  <meta name="description" content=" Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &ldquo;minimum way&rdquo; Dockerfile Volumes Docker Compose  Slides  ">
-  <meta property="og:description" content=" Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &ldquo;minimum way&rdquo; Dockerfile Volumes Docker Compose  Slides  ">
-  <meta name="twitter:description" content=" Docker Workshop - FOSS Day 2018 Fossday - Lajeado - 2018/05/05  First workshop presented about how to use Docker in a &ldquo;minimum way&rdquo; Dockerfile Volumes Docker Compose  Slides  ">
+  <meta name="description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introdução de como iniciar com containers Docker.
+ Comandos básicos Dockerfile Gerenciamento de containers Rodando uma &ldquo;aplicação&rdquo; em CLI (Command Line Interface) com PHP Docker Compose  Slides  ">
+  <meta property="og:description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introdução de como iniciar com containers Docker.
+ Comandos básicos Dockerfile Gerenciamento de containers Rodando uma &ldquo;aplicação&rdquo; em CLI (Command Line Interface) com PHP Docker Compose  Slides  ">
+  <meta name="twitter:description" content=" Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introdução de como iniciar com containers Docker.
+ Comandos básicos Dockerfile Gerenciamento de containers Rodando uma …">
   <meta name="author" content="Rafael Dutra"/>
   <link href='https://rafaeldutra.me/images/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
@@ -18,13 +21,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@raffaeldutra" />
   <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/" />
+  <meta property="og:url" content="https://rafaeldutra.me/pt-br/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="#/share" />
+  <meta property="og:site_name" content="#/share beer" />
 
   <meta name="generator" content="Hugo 0.46" />
-  <link rel="canonical" href="https://rafaeldutra.me/page/presentations/2018-05-05-docker-workshop/" />
-  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
+  <link rel="canonical" href="https://rafaeldutra.me/pt-br/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/" />
+  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share beer">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -106,7 +109,7 @@ if (!doNotTrack) {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://rafaeldutra.me">#/share</a>
+      <a class="navbar-brand" href="https://rafaeldutra.me/pt-br/">#/share beer</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -114,32 +117,26 @@ if (!doNotTrack) {
         
           
             <li>
-              <a title="HOME" href="/blog">HOME</a>
+              <a title="HOME" href="/pt-br/blog">HOME</a>
             </li>
           
         
           
             <li class="navlinks-container">
-              <a class="navlinks-parent" href="javascript:void(0)">CURRICULUM</a>
+              <a class="navlinks-parent" href="javascript:void(0)">Curriculo</a>
               <div class="navlinks-children">
                 
-                  <a href="/page/cv/downloads">Downloads</a>
+                  <a href="/pt-br/page/cv/downloads">Downloads</a>
                 
-                  <a href="/page/cv/resume">Resume</a>
+                  <a href="/pt-br/page/cv/resume">Resume</a>
                 
-                  <a href="/page/cv/experience">Experience</a>
+                  <a href="/pt-br/page/cv/experience">Experience</a>
                 
-                  <a href="/page/cv/mini">Mini</a>
+                  <a href="/pt-br/page/cv/mini">Mini</a>
                 
-                  <a href="/page/presentations/talks">Talks</a>
+                  <a href="/pt-br/page/presentations/talks">Palestras</a>
                 
               </div>
-            </li>
-          
-        
-          
-            <li>
-              <a title="ABOUT" href="/page/about/me">ABOUT</a>
             </li>
           
         
@@ -149,15 +146,21 @@ if (!doNotTrack) {
             </li>
           
         
+          
+            <li>
+              <a title="Sobre" href="/pt-br/page/about/me">Sobre</a>
+            </li>
+          
+        
 
         
           
             <li>
               
                 
-              
+                  <a href="/en" lang="en">English</a>
                 
-                  <a href="/pt-br" lang="pt-br">Português</a>
+              
                 
               
             </li>
@@ -171,8 +174,8 @@ if (!doNotTrack) {
     <div class="avatar-container">
       <div class="avatar-img-border">
         
-          <a title="#/share" href="https://rafaeldutra.me">
-            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share" />
+          <a title="#/share beer" href="https://rafaeldutra.me/pt-br/">
+            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share beer" />
           </a>
         
       </div>
@@ -220,20 +223,23 @@ if (!doNotTrack) {
       <article role="main" class="blog-post">
         
 
-<h2 id="docker-workshop-foss-day-2018">Docker Workshop - FOSS Day 2018</h2>
+<h2 id="docker-workshop-fossday-2018">Docker Workshop - FOSSDay 2018</h2>
 
-<h4 id="fossday-lajeado-2018-05-05">Fossday - Lajeado - 2018/05/05</h4>
+<h4 id="fossday-bento-gonçalves-2018-09-22">Fossday - Bento Gonçalves - 2018/09/22</h4>
+
+<p>Introdução de como iniciar com containers Docker.</p>
 
 <ul>
-<li>First workshop presented about how to use Docker in a &ldquo;minimum way&rdquo;</li>
+<li>Comandos básicos</li>
 <li>Dockerfile</li>
-<li>Volumes</li>
+<li>Gerenciamento de containers</li>
+<li>Rodando uma &ldquo;aplicação&rdquo; em CLI (Command Line Interface) com PHP</li>
 <li>Docker Compose</li>
 </ul>
 
 <h3 id="slides">Slides</h3>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFwP-bT78vkYG8_tFGm3QHt2BG44QXwcVhc-_bRQuh-vWCCE0k9GR6K_5xqXwvB3FXn0-lMsvyqyWU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
         
@@ -345,7 +351,7 @@ if (!doNotTrack) {
 
           
             &nbsp;&bull;&nbsp;
-            <a href="https://rafaeldutra.me">#/share</a>
+            <a href="https://rafaeldutra.me/pt-br/">#/share beer</a>
           
         </p>
         
