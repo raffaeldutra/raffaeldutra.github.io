@@ -146,7 +146,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
 
 ### Eventos/Conferências
-* 2018/2 - DevOpsDay - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
+* 2018/2 - [DevOpsDay](https://drive.google.com/file/d/1dgjyaPCFP9aVfYyFGGUndQKm-oRrJhMu/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
 * 2018/1 - [Google Onboard](https://drive.google.com/file/d/1RGwZ10QQ7-DQuZz6t-mDRs09c9302lkj/view?usp=sharing) - [Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9) - [Agenda](/pt-br/page/cv/training/google/cloud)
 * 2018/1 - [1º FOSS Day Lajeado](https://drive.google.com/file/d/1cCh2VtTjxqU0JApey-68VaMeV5o9MmYH/view?usp=sharing) - [Lajeado/RS](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2).
 * 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
