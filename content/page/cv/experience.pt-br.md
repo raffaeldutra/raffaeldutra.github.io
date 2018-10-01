@@ -1,6 +1,6 @@
 ## Cloud providers
 * Google Cloud
-* AWS
+* AWS (Main)
 * Digital Ocean
 
 ## Infrastructure as code
