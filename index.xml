@@ -8,10 +8,27 @@
     <language>en-us</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://rafaeldutra.me/page/cv/downloads/</link>
+      <pubDate>Sun, 30 Sep 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/page/cv/downloads/</guid>
+      <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
+You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
+So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
+ English
+ Resume
+ Mini Currículum
+ Download PDF format Download DOC format  Portuguese
+ Resume
+ Mini Currículum</description>
+    </item>
     
     <item>
       <title>Docker Workshop</title>
@@ -158,23 +175,6 @@ Agenda  Fundamental components of Puppet Enterprise (and Puppet Open Source). Us
       <description>DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus.
 Has 13 years of IT experience acting as SysAdmin Linux.
 Currently lives at Porto Alegre/RS and studies Security Information at UNISINOS.</description>
-    </item>
-    
-    <item>
-      <title>Curriculum</title>
-      <link>https://rafaeldutra.me/page/cv/downloads/</link>
-      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/page/cv/downloads/</guid>
-      <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
-You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
-So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
- English
- Resume
- Mini Currículum
- Download PDF format Download DOC format  Portuguese
- Resume
- Mini Currículum</description>
     </item>
     
     <item>

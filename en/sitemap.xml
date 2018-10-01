@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/page/cv/downloads/</loc>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/cv/downloads/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -231,23 +248,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/page/cv/downloads/</loc>
-    <lastmod>2017-03-04T12:54:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/pt-br/page/cv/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/page/cv/downloads/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/page/presentations/talks/</loc>
     <lastmod>2017-03-04T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -333,7 +333,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -389,13 +389,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/development/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/categories/development/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -409,6 +402,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/categories/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/tags/development/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/categories/docker/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/categories/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/categories/docker/"
                 />
   </url>
   
@@ -430,23 +447,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/categories/docker/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/pt-br/categories/docker/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/categories/docker/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/tags/infraestructure/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -455,7 +455,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/page/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -471,13 +471,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/php/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/categories/php/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -485,20 +478,10 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/podcasts/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rafaeldutra.me/tags/php/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/pt-br/tags/podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/tags/podcasts/"
-                />
   </url>
   
   <url>
@@ -515,6 +498,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/categories/podcasts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/tags/podcasts/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/tags/podcasts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/tags/podcasts/"
                 />
   </url>
   

@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/pt-br/page/cv/downloads/</loc>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/page/cv/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/pt-br/page/cv/downloads/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/pt-br/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -224,23 +241,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/pt-br/page/cv/downloads/</loc>
-    <lastmod>2017-03-04T12:54:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/page/cv/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/pt-br/page/cv/downloads/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/pt-br/page/presentations/talks/</loc>
     <lastmod>2017-03-04T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -326,7 +326,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/pt-br/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -448,7 +448,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/pt-br/page/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link

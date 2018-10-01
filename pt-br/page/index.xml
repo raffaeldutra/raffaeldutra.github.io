@@ -8,10 +8,24 @@
     <language>en-us</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Currículo</title>
+      <link>https://rafaeldutra.me/pt-br/page/cv/downloads/</link>
+      <pubDate>Sun, 30 Sep 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/pt-br/page/cv/downloads/</guid>
+      <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
+Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
+Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
+ Português
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC  Inglês
+ Currículo Mini Currículo Download para formato PDF Download para formato DOC   </description>
+    </item>
     
     <item>
       <title>Docker Workshop</title>
@@ -128,20 +142,6 @@ Ementa  Componentes fundamentais do Puppet Enterprise (e Puppet Open Source). Ut
       <description>Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código.
 Possui 13 anos de experiência atuando como SysAdmin em ambientes GNU/Linux.
 Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Software.</description>
-    </item>
-    
-    <item>
-      <title>Currículo</title>
-      <link>https://rafaeldutra.me/pt-br/page/cv/downloads/</link>
-      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/pt-br/page/cv/downloads/</guid>
-      <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
-Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
-Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
- Português
- Currículo Mini Currículo Download para formato PDF Download para formato DOC  Inglês
- Currículo Mini Currículo Download para formato PDF Download para formato DOC   </description>
     </item>
     
     <item>
