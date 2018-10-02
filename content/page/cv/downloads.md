@@ -13,12 +13,8 @@ So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldu
 * English
   * [Resume](/resume/rafael-dutra-full-resume.pdf)  
   * [Mini Currículum](/page/cv/mini)  
-  * [Download PDF format](https://docs.google.com/document/d/1UyS_hzIhHGMx8A8AkDZ_c4sDSitF7K9ufg9WYr4UnVc/export?format=pdf)
-  * [Download DOC format](https://docs.google.com/document/d/1UyS_hzIhHGMx8A8AkDZ_c4sDSitF7K9ufg9WYr4UnVc/export?format=doc)
 
 
 * Portuguese
   * [Resume](/resume/rafael-dutra-full-resume-pt-br.pdf)  
   * [Mini Currículum](/pt-br/page/cv/mini)  
-  * [Download PDF format](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=pdf)  
-  * [Download DOC format](https://docs.google.com/document/d/1GGrY88fHLaBTtxFcR5XWRFPbIm-dXJZpBA4kCX8I8cA/export?format=doc)
