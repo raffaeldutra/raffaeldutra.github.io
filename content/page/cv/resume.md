@@ -21,7 +21,7 @@ Jan/2018 - Present
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that I had to learn internal tools to know what to do.
+My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that, I had to learn internal tools to know what to do.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Support internal tools.
