@@ -30,7 +30,7 @@ Jan/2018 - Sep/2018
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that I had to learn internal tools to know what to do.
+My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that, I had to learn internal tools to know what to do.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Support internal tools.
@@ -50,7 +50,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 ##### AGCO - IT Specialist
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
-* Continuous integration ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo) and [Confluence](https://www.atlassian.com/software/confluence))
+* Continuous integration ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
 * Logs and metrics monitoring ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
 * Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
 * Job Scheduler ([Rundeck](http://rundeck.org)).
@@ -121,6 +121,8 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * Advanced English for listening and reading.
 
 ### Courses
+* 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
+* 2018/2 - [AWS hands on](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
 * 2012/2 - Lean Software Development - WildTech - Porto Alegre/RS.
 * 2011/2 - Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
@@ -132,7 +134,8 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
 ### Workshops
-* [1º FOSS Day Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
+* [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
+* [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
 ### Vagrant Boxes
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
@@ -144,6 +147,8 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
 
 ### Events/Conferences
+* 2018/2 - [1º FOSSDay Bento Gonçalves](https://drive.google.com/file/d/1u22kvoPh3vgHwgW9n57i8F2FyrXXPZHF/view?usp=sharing) - [Bento Gonçalves/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
+* 2018/2 - [DevOpsDay](https://drive.google.com/file/d/1dgjyaPCFP9aVfYyFGGUndQKm-oRrJhMu/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
 * 2018/1 - [Google Onboard](https://drive.google.com/file/d/1RGwZ10QQ7-DQuZz6t-mDRs09c9302lkj/view?usp=sharing) - [Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9) - [Agenda](/page/cv/training/google/cloud)
 * 2018/1 - [1º FOSS Day Lajeado](https://drive.google.com/file/d/1cCh2VtTjxqU0JApey-68VaMeV5o9MmYH/view?usp=sharing) - [Lajeado/RS](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2).
 * 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
@@ -169,5 +174,3 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz) (Portuguese content)
     * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q) (Portuguese content)
     * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo) (Portuguese content)
-* [Microsoft has acquired GitHub and look what happened](https://www.youtube.com/watch?v=BX8CoVaqIyk) (Portuguese content)
-* [OpenCast 89 - Tchelinux, Free Software and Photography, with Rafael Jeffman.](https://www.youtube.com/watch?v=dBB_2CB-gAw) (Portuguese content)

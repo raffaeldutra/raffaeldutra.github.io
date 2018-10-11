@@ -23,7 +23,7 @@ metaDataFormat = "yaml"
 [Params]
   subtitle = "knowledgement and ideas"
   logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  favicon = "images/favicon.ico"
   commit = false
   rss = true
   comments = false
@@ -89,7 +89,7 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Talks"
-  url = "/page/presentations"
+  url = "/page/presentations/talks"
   weight = 33
 
 [[Languages.en.menu.main]]
@@ -144,7 +144,7 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Palestras"
-  url = "/pt-br/page/presentations"
+  url = "/pt-br/page/presentations/talks"
   weight = 33
 
 [[Languages.pt-br.menu.main]]

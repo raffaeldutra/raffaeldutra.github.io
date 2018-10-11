@@ -1,12 +1,21 @@
+## Cloud providers
+* Google Cloud
+* AWS (Principal)
+* Digital Ocean
+
+## Infrastructure as code
+* Terraform
+
 ## Continuous Integration / Delivery and Deployment
 * GitHub
-* Bit Bucket
+* Bitbucket
 * Jenkins
 * Travis
 * Bamboo
 
 ## Containers
 * Docker
+* Docker Swarm
 
 ## Proxy
 * Nginx as reverse Proxy
@@ -19,6 +28,7 @@
 
 ## DNS
 * Bind
+* Route 53 (AWS)
 
 ## Databases
 * MYSQL/MariaDB
@@ -59,7 +69,6 @@ Stack using Docker Compose.
 * Ruby - basic
 
 ## System control management
-* GitSVN
 * Bitbucket
 * GitLab
 * Github

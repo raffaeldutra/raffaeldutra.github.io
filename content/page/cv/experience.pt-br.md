@@ -1,28 +1,38 @@
+## Cloud providers
+* Google Cloud
+* AWS (Main)
+* Digital Ocean
+
+## Infrastructure as code
+* Terraform
+
 ## Continuous Integration / Delivery e Deployment
 * GitHub
-* Bit Bucket
+* Bitbucket
 * Jenkins
 * Travis
 * Bamboo
 
 ## Containers
 * Docker
+* Docker Swarm
 
 ## Proxy
-* Nginx as reverse Proxy
+* Nginx como Proxy reverso
 * Squid
 * Varnish
 
 ## Domains
 * Samba
-* LDAP integração em alguns projetos.
+* LDAP - integração em alguns projetos.
 
 ## DNS
 * Bind
+* Route 53 (AWS)
 
 ## Databases
 * MYSQL/MariaDB
-* PostgreSQL.
+* PostgreSQL
 
 ## Email
 * Postfix
@@ -59,7 +69,6 @@ Stack usando Docker Compose.
 * Ruby - basic
 
 ## System control management
-* GitSVN
 * Bitbucket
 * GitLab
 * Github
