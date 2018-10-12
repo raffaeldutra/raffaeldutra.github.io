@@ -14,6 +14,18 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul - .  
+Ago/2018 - Present
+
+Objetivo principal era levar a célula em Porto Alegre para automação e Cloud Computing.
+
+* Automação e automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) e [Puppet](https://puppet.com)).
+* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+* Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
+
+
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Empresa de tecnologia - Portland - Oregon - United States.  

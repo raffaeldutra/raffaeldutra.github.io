@@ -14,14 +14,17 @@ Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" tar
 In the last 2 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
-#### [Stefanini Solutions](http://stefanini.com) (http://stefanini.com)
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
 Technology company - Porto Alegre/RS  
-Ago/2018 - Present
+Aug/2018 - Present
 
-* Deployment and infrastructure automation [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
-* Continuous integration ([Gitlab](https://gitlab.com/).
-* Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
-* [Linux](https://linux.org) server administration.
+The main goal was bring new customers using automation and Cloud Computing.
+
+* Deployment and infrastructure automation using ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) and [Puppet](https://puppet.com)).
+* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+* Document internal tools used at [AWS](https://aws.amazon.com/).
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Gitlab](https://gitlab.com))
+
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)  
