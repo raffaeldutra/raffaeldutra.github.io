@@ -24,6 +24,7 @@ The main goal was bring new customers using automation and Cloud Computing.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Document internal tools used at [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Gitlab](https://gitlab.com))
+* [Created modules for Terraform to manage records at AWS Route 53](https://github.com/raffaeldutra/terraform-module-route53-records)
 
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
