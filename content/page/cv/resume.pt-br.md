@@ -24,8 +24,8 @@ Objetivo principal era levar a célula em Porto Alegre para automação e Cloud 
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
-* [Criado módulo para Terraform para gerenciar registros do AWS Route 53](https://github.com/raffaeldutra/terraform-module-route53-records)
-
+* [Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS) 53](https://github.com/raffaeldutra/terraform-module-route53-records)
+* [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS) 53](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
