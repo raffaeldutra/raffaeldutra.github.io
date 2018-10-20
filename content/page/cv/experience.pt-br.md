@@ -1,12 +1,12 @@
-## Cloud providers
+## Provedores de Cloud
 * Google Cloud
 * AWS (Main)
 * Digital Ocean
 
-## Infrastructure as code
+## Infrastructure como code
 * Terraform
 
-## Continuous Integration / Delivery e Deployment
+## Integração contínua / Entrega
 * GitHub
 * Bitbucket
 * Jenkins
@@ -38,13 +38,13 @@
 * Postfix
 * iRedMail
 
-## Monitoring
+## Monitoramento
 * ELK (Elasticsearch, Logstash, Kibana)
 * Nagios
 * Cacti
 * SolarWinds
 
-## Metrics
+## Métricas
 * InfluxDB
 * Telegraf
 * Grafana
