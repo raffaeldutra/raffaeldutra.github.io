@@ -1,9 +1,9 @@
-## Cloud providers
+## Provedores CLoud
 * Google Cloud
 * AWS (Main)
 * Digital Ocean
 
-## Infrastructure as code
+## Infrastructure como código
 * Terraform
 
 ## Continuous Integration / Delivery e Deployment
