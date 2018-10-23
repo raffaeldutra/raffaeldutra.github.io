@@ -1,9 +1,10 @@
 ## Provedores de Cloud
+>>>>>>> 89fa24adf950f2dea918d6d4448ce8550d3ee5ab
 * Google Cloud
 * AWS (Main)
 * Digital Ocean
 
-## Infrastructure como code
+## Infrastructure como código
 * Terraform
 
 ## Integração contínua / Entrega
