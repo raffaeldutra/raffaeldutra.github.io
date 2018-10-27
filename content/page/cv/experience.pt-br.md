@@ -1,5 +1,4 @@
 ## Provedores de Cloud
->>>>>>> 89fa24adf950f2dea918d6d4448ce8550d3ee5ab
 * Google Cloud
 * AWS (Main)
 * Digital Ocean
@@ -56,7 +55,7 @@ Stack usando Docker Compose.
 * Puppet
 * Ansible
 
-## Virtualization
+## Virtualização
 * VMWare Server
 * VMWare Esxi
 * VirtualBox
@@ -64,12 +63,12 @@ Stack usando Docker Compose.
 * XEN Server
 * OpenVirt
 
-## Languages
+## Linguagens
 * PHP - intermediate
 * Shell Script - advanced
 * Ruby - basic
 
-## System control management
+## Plataformas de Controle de Versão
 * Bitbucket
 * GitLab
 * Github
