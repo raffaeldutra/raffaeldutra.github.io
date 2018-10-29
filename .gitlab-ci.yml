@@ -62,8 +62,8 @@ deploy-resume-s3:
   before_script:
     - pip install awscli
   script:
-    - aws s3 cp public/rafael-dutra-full-resume.pdf s3://${BUCKET_NAME_STATIC_RESUME}/
-    - aws s3 cp public/rafael-dutra-full-resume-pt-br.pdf s3://${BUCKET_NAME_STATIC_RESUME}/
+    - aws s3 cp public/resume/rafael-dutra-full-resume.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-full-resume.pdf
+    - aws s3 cp public/resume/rafael-dutra-full-resume-pt-br.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-full-resume-pt-br.pdf
   environment:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC_RESUME}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
