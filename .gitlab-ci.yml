@@ -14,7 +14,8 @@ before_script:
 
 stages:
   - build
-  - deploy
+  - deploy-page
+  - deploy-s3
   - testing
 
 build-hugo:
@@ -28,7 +29,7 @@ build-hugo:
     - develop
 
 pages:
-  stage: deploy
+  stage: deploy-page
   script:
     - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
     - curl
@@ -56,7 +57,7 @@ testing:
 
 deploy-resume-s3:
   image: python:latest
-  stage: deploy
+  stage: deploy-s3
   tags:
     - gitlab-org
   before_script:
