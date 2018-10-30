@@ -61,6 +61,9 @@ deploy-resume-s3:
     - gitlab-org
   before_script:
     - pip install awscli
+  artifacts:
+    paths:
+    - public
   script:
     - aws s3 cp public/resume/rafael-dutra-full-resume.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-full-resume.pdf
     - aws s3 cp public/resume/rafael-dutra-full-resume-pt-br.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-full-resume-pt-br.pdf
