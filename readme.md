@@ -70,3 +70,44 @@ docker run -it \
 -e BASEURL=192.168.25.55 \
 -p 1313:1313 raffaeldutra/docker-gohugo /gohugo.sh -s
 ```
+
+## AWS Credenciais
+
+```shell
+[rafaeldutra-me]
+aws_access_key_id = XXXXXX
+aws_secret_access_key = YYYYYY
+```
+
+## Terraform backend
+
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": [
+                    "arn:aws:iam::xxxxxx:root"
+                ]
+            },
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject"
+            ],
+            "Resource": "arn:aws:s3:::terraform-rafaeldutra-me/terraform.tfstate"
+        }
+    ]
+}
+```
+
+## Terraform Bucket (S3)
+
+```shell
+terraform plan
+```
+
+```shell
+terraform apply -auto-approve
+```
