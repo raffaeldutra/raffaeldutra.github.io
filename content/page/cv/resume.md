@@ -7,9 +7,9 @@ Brazilian, single.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
-13+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
+More than 13 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
-3+ years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
+More than 3 years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
 
 In the last 2 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
@@ -18,7 +18,7 @@ In the last 2 years, I've been working mainly on Infrastructure automation ([Inf
 Technology company - Porto Alegre/RS  
 Aug/2018 - Present
 
-The main goal was bring new customers using automation and Cloud Computing.
+The main goal is bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
 
 * Deployment and infrastructure automation using ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) and [Puppet](https://puppet.com)).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
@@ -31,16 +31,16 @@ The main goal was bring new customers using automation and Cloud Computing.
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Technology company - Portland - Oregon - United States.  
-Jan/2018 - Sep/2018
+Jan/2018 - Jul/2018
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-My main goal was to work on cost reduces at [AWS](https://aws.amazon.com/) and for that, I had to learn internal tools to know what to do.
+My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn internal tools used in the company to provide support.
 
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
-* Support internal tools.
+* Internal support tools.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
-* Documented internal tools used at [AWS](https://aws.amazon.com/).
+* Documentation of internal tools used at [AWS](https://aws.amazon.com/).
 * Documents processes and procedures required.
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
@@ -57,7 +57,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Continuous integration ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
 * Logs and metrics monitoring ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
-* Development environment automation ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
+* Environment automation development ([VirtualBox](https://www.virtualbox.org), [Vagrant](https://www.vagrantup.com), [Packer](https://github.com/raffaeldutra/packer), [Linux](https://www.linux.org/), [Preseed](https://en.wikipedia.org/wiki/Preseed)).
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * Build tools ([Gradle](https://gradle.org) and [Apache Maven](https://maven.apache.org)).
 * Linux server administration ([Ubuntu Server](https://www.ubuntu.com/download/server)).
@@ -82,35 +82,25 @@ Developed codes:
 
 * [Spring Boot module (Java)](https://projects.spring.io/spring-boot).
 * Structural Scripts for nodes in format [YAML](https://en.wikipedia.org/wiki/YAML) written in [Ruby](https://www.ruby-lang.org/en/).
-* [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) to install agent and configure it.
+* [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) to install agents and configure it.
 
 Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
-All the developed code to automate it, was thinked in how to bring benefits for operators and development team.
+All the developed code to automate environment was thinked in how to bring benefits for operators and development team.
 
 **Oracle automation using Docker for development**  
-In this case, the demand was build a tool for developers create scripts for Oracle, where this scripts have to pass for some "pipelines" until it get to production using Bamboo (Continuous integration tool).
+In this case, the demand was build a tool for developers creating scripts for Oracle, where those scripts had to pass for some pipelines until it get to production using Bamboo (Continuous integration tool).
 
 **Bamboo using Docker**  
-Many of our projects uses [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to have the same environment used in development to production like plugins and packages dependencies.
+Many of our projects used [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to create the same environment used in development to production like plugins and packages dependencies.
 
 **[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**  
-In some cases, we could not use some tools for configuration management, so I build scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).  
-
-
-#### [Dev4you](http://dev4you.com.br) (http://dev4you.com.br)
-Technology Company - Porto Alegre/RS  
-Aug/2015 - Sep/2016
-
-* Cloud Services ([Google Cloud](https://cloud.google.com), [Amazon Web Services](https://aws.amazon.com) and [Digital Ocean](https://www.digitalocean.com)).
-* DNS management. [Shell Scripting](https://en.wikipedia.org/wiki/Shell_script) (advanced level) to automate tasks. Internal micro applications development with [PHP](https://secure.php.net).
-* Platform backups using [Rsync](https://rsync.samba.org/) and [Bacula](http://blog.bacula.org).
-* [Docker](https://www.docker.com) containers tests for use in production and management configuration with [Ansible](https://www.ansible.com) and [Puppet](https://puppet.com).  
+In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).  
 
 
 ### Education
 * 2017/1 – Information Technology Security  
-UNISINOS - São Leopoldo/RS. Current course.
+UNISINOS - São Leopoldo/RS. Not completed.
 
 * 2010/1 – 2011/2 – Network Computers  
 Centro de Tecnologia em Automação e Informática, Florianópolis/SC, SENAI/SC. Not completed.
