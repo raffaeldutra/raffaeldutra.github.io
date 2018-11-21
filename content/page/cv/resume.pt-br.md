@@ -15,40 +15,41 @@ Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraes
 
 ### Experiência Profissional
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
-Empresa de tecnologia - Porto Alegre - Rio Grande do Sul - .  
-Ago/2018 - Present
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
+Ago/2018 - Presente
 
-Objetivo principal era levar a célula em Porto Alegre para automação e Cloud Computing.
+Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 
-* Automação e automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) e [Puppet](https://puppet.com)).
+* Automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) e [Puppet](https://puppet.com)).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
 * [Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-records)
 * [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
+
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Empresa de tecnologia - Portland - Oregon - United States.  
-Jan/2018 - Present
+Jan/2018 - Jul/2018
 
 Trabalhando remotamente como pessoa juridica para a [Crossover](https://crossover.com).
 
 Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.com/) e para isso eu tive que aprender ferramentas internas para saber o que fazer.
 
-* Automação e automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
+* Automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Suportar ferramentas internas.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
 * Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
 * Documentar processos e processos requiridos.
-* Job Scheduler ([Rundeck](http://rundeck.org)).
+* Agendador de tarefas ([Rundeck](http://rundeck.org)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
 * Logs monitoramento de métricas ([Datadog](https://www.datadoghq.com/) e [Flapjack](http://flapjack.io/)).
 
 
 #### PoaTek IT Consulting (http://poatek.com)
 Empresa de tecnologia - Porto Alegre/RS  
-Out/2016 - Presente
+Out/2016 - Jan/2018
 
 Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
@@ -71,7 +72,7 @@ Este projeto foi desenvolvido completamente do zero, desde criação de um ambie
 Documentação de processos como:
 
 * Novos pontos de montagem
-* Criar novos environments
+* Criar novos ambientes para infraestrutura e desenvolvimento
 * Deploy de código por operadores em produção com puppet apply, utilizando [Continuous Delivery](https://continuousdelivery.com/)
 * Criar novas máquinas com módulos específicos
 * Deploy de código com [r10k](https://puppet.com/docs/pe/2018.1/r10k.html)
@@ -88,13 +89,13 @@ Todo código desenvolvido para automação era pensado em como trazer benefício
 operações pudessem realizar mais em menos tempo.
 
 **Automação para desenvolvimento em Oracle**  
-Neste caso, a demanda era criar uma ferramenta para desenvolvedores criarem scripts para Oracle, onde estes scripts tinham que passar por alguns "pipelines de validação" até chegar em produção.
+Neste caso, a demanda foi criar uma ferramenta para desenvolver scripts para Oracle, onde esses scripts passaram por pipelines de validação até chegar em produção.
 
 **[Bamboo](https://www.atlassian.com/software/bamboo) usando [Docker](https://www.docker.com)**  
-Muitos dos nossos projetos eram utilizados com [Docker](https://www.docker.com) para fazer build da aplicação que eram desenvolvidas por outras empresas como plugins e dependência de pacotes.
+Muitos dos nossos projetos foram utilizados com [Docker](https://www.docker.com) para fazer build da aplicação que foram desenvolvidas por outras empresas como plugins e dependência de pacotes.
 
 **Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**  
-Em alguns casos, não podiamos utilizar ferramentas de gerenciamento de configuração, então desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
+Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
 
 
 #### Dev4you (http://dev4you.com.br)
