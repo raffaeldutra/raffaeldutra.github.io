@@ -4,6 +4,10 @@ image: docker:latest
 services:
   - docker:dind
 
+variables:
+  AWS_DEFAULT_REGION: sa-east-1
+  BUCKET_NAME_STATIC_RESUME: rafaeldutra.me/resume
+
 before_script:
   - mkdir -p public/resume
   - apk update && apk add curl
@@ -11,8 +15,9 @@ before_script:
 stages:
   - build
   - deploy
+  - testing
 
-Build Hugo:
+build-hugo:
   stage: build
   script:
     - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
@@ -42,4 +47,25 @@ pages:
     paths:
     - public
   only:
-    - master
+    - develop
+
+testing:
+  stage: testing
+  script:
+    - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
+
+deploy-resume-s3:
+  image: python:latest
+  stage: deploy
+  tags:
+    - gitlab-org
+  before_script:
+    - pip install awscli
+  script:
+    - aws s3 cp public/rafael-dutra-full-resume.pdf s3://${BUCKET_NAME_STATIC_RESUME}/
+    - aws s3 cp public/rafael-dutra-full-resume-pt-br.pdf s3://${BUCKET_NAME_STATIC_RESUME}/
+  environment:
+    name: ${CI_COMMIT_REF_SLUG}
+    url: http://${BUCKET_NAME_STATIC_RESUME}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
+  only:
+    - develop
