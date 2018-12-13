@@ -81,6 +81,10 @@ aws_secret_access_key = YYYYYY
 
 ## Terraform backend
 
+Se quiser guardar o estado do terraform em um bucket, criei primeiramente este bucket "na mão", no caso abaixo foi utilizado o nome de `terraform-rafaeldutra-me` como bucket.
+
+Após criado o bucket, aplique uma política de acesso ao bucket/objeto, como exemplo abaixo:
+
 ```json
 {
     "Version": "2012-10-17",
@@ -103,6 +107,10 @@ aws_secret_access_key = YYYYYY
 ```
 
 ## Terraform Bucket (S3)
+
+Para saber como o `plan` do Terraform abaixo funciona, acesse o fonte do Terraform no diretório que se encontra na raíz do projeto.
+
+Uma vez definido o nome do seu bucket, execute o `plan` e depois o aplique:
 
 ```shell
 terraform plan
