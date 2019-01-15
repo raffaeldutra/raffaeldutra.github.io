@@ -7,15 +7,28 @@ Bento Amaral, 26/206 - Partenon - Porto Alegre/RS
 https://rafaeldutra.me - raffaeldutra@gmail.com  
 Mobile: (51) 9 9972 7599  
 
-### Declaração
-12+ anos de experiência em Tecnologia da Informação, Administração de Redes e Análise de Infraestrutura, trabalhando especialmente com GNU/Linux.
+### Resumo Profissional  
+Mais de 13 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
 
-Nos últimos dois anos, venho trabalhando principalmente com Automação de Infraestrutura (Infra as Code) e containers com Docker.
+Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
 
-### Experiência de trabalho  
+### Experiência Profissional  
+#### Stefanini (https://stefanini.com)  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
+Ago/2018 - Presente
+
+Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
+
+* Automação de infraestrutra com Docker, Docker Compose, Bash, Terraform, Ansible e Puppet.
+* AWS (Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Relational Database Service (RDS).
+* Documentar ferramentas internas usadas na AWS.
+* Continuous Integration (Git com Gitlab).
+* Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS).
+* Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS).
+
 #### Jive Software (https://jivesoftware.com)
 Empresa de Tecnologia - Portland/OR/EUA  
-Jan/2018 - atual  
+Jan/2018 - Jul/2018  
 
 Trabalhando remotamente como pessoa jurídica para a Crossover.
 
@@ -58,9 +71,15 @@ Inglês intermediário para escrita e conversação e avançado para leitura e e
 * 2º TcheLinux Lajeado - Introdução ao Docker - Lajeado/RS.
 
 ### Workshops
-* 1º FOSS Day Lajeado - Docker Workshop - iniciante e intermediário - Lajeado/RS.
+* 1º FOSS Day Bento Gonçalves - Docker Workshop - iniciante e intermediário - UCS - Bento Gonçalves/RS.
+* 1º FOSS Day Lajeado - Docker Workshop - iniciante e intermediário - UNIVATES - Lajeado/RS.
 
 ### Eventos/Conferências
+* 2018/2 - Conexão Kinghost - Online.
+* 2018/2 - 1º FOSSDay Bento Gonçalves - Bento Gonçalves/RS.
+* 2018/2 - DevOpsDay - Porto Alegre/RS.
+* 2018/1 - Google Onboard - Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9)
+* 2018/1 - 1º FOSS Day Lajeado - Lajeado/RS.
 * 2017/2 - The Developers Conference - DevOps - Porto Alegre/RS.
 * 2017/2 - The Developers Conference - Containers - Porto Alegre/RS.
 * 2017/2 - DevOpsDay - Porto Alegre/RS.
@@ -72,7 +91,10 @@ Inglês intermediário para escrita e conversação e avançado para leitura e e
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
 
 ### Cursos
-* 2017/1 - Puppet Fundamentals - Instruct - São Paulo/SP (24 horas).
+* 2018/2 - Docker Crash Course for busy DevOps and Developers - Udemy.
+* 2018/2 - DevOps Foundation - Estabilis - São Paulo/SP.
+* 2018/2 - AWS na prática - Estabilis - São Paulo/SP.
+* 2017/1 - Puppet Fundamentals - Instruct - São Paulo/SP.
 * 2012/2 – Lean Software Development - Porto Alegre/RS.
 * 2011/2 – Accessing the WAN, Cisco Networking Academy - Florianópolis/SC
 * 2011/1 – Lan Switching and Wireless, Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
