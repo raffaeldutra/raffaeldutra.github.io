@@ -74,21 +74,17 @@ Inglês intermediário para escrita e conversação e avançado para leitura e e
 * 1º FOSS Day Bento Gonçalves - Docker Workshop - iniciante e intermediário - UCS - Bento Gonçalves/RS.
 * 1º FOSS Day Lajeado - Docker Workshop - iniciante e intermediário - UNIVATES - Lajeado/RS.
 
-### Eventos/Conferências
+### Participação em eventos
 * 2018/2 - Conexão Kinghost - Online.
 * 2018/2 - 1º FOSSDay Bento Gonçalves - Bento Gonçalves/RS.
 * 2018/2 - DevOpsDay - Porto Alegre/RS.
-* 2018/1 - Google Onboard - Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9)
+* 2018/1 - Google Onboard - Porto Alegre/RS.
 * 2018/1 - 1º FOSS Day Lajeado - Lajeado/RS.
 * 2017/2 - The Developers Conference - DevOps - Porto Alegre/RS.
 * 2017/2 - The Developers Conference - Containers - Porto Alegre/RS.
 * 2017/2 - DevOpsDay - Porto Alegre/RS.
 * 2011/2 - 5º Solisc - Congresso Catarinense de Software Livre - Florianópolis/SC.
-* 2010/1 - 11º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
-* 2009/1 - 10º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
-* 2008/1 - 9º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
-* 2007/1 - 8º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
-* 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
+* 2006-2010 - 7º ao 11º Fórum Internacional de Software Livre (FISL) - Porto Alegre/RS.
 
 ### Cursos
 * 2018/2 - Docker Crash Course for busy DevOps and Developers - Udemy.

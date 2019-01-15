@@ -114,7 +114,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * Inglês intermediário para escrita e conversação.  
 * Inglês avançado para leitura e escuta.
 
-### Cursos e eventos
+### Cursos
 * 2018/2 - [Docker Crash Course for busy DevOps and Developers](https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing) - Udemy
 * 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2018/2 - [AWS na prática](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
