@@ -11,7 +11,7 @@ Mais de 13 anos de experiência em tecnologia da informação, administração d
 
 Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
 
-Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
+Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
@@ -20,7 +20,7 @@ Ago/2018 - Presente
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 
-* Automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io) e [Puppet](https://puppet.com)).
+* Automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/) e [Puppet](https://puppet.com)).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
@@ -97,25 +97,6 @@ Muitos dos nossos projetos foram utilizados com [Docker](https://www.docker.com)
 **Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**  
 Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
 
-
-#### Dev4you (http://dev4you.com.br)
-Empresa de tecnologia - Porto Alegre/RS  
-Ago/2015 - Set/2016
-
-* Serviços em Cloud ([Google Cloud](https://cloud.google.com), [Amazon Web Services](https://aws.amazon.com) and [Digital Ocean](https://www.digitalocean.com)).
-* Gerenciamento de DNS. S[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) (nível avançado).
-* Desenvolvimento de micro aplicações com [PHP](https://secure.php.net) para uso interno. Backup de plataformas usando [Rsync](https://rsync.samba.org/) e [Bacula](http://blog.bacula.org)..
-* [Docker](https://www.docker.com) para testes de ambientes e gerenciamento de configuração com [Ansible](https://www.ansible.com) e [Puppet](https://puppet.com).
-
-
-#### Toshyro.net Processamento de dados Ltda (http://toshyro.net)
-Empresa de desenvolvimento - Lajeado/RS, (51) 9696-2080  
-Abr/2014 - Dez/2014
-
-* Desenvolvimento de sistemas com [PHP](https://secure.php.net) (Framework CodeIgniter) e bancos MySQL.
-* Jquery/Jquery Mobile.
-* Administração de servidores em Cloud e virtualização interna para homologação de projetos.
-
 ### Educação
 * 2017/1 – Segurança da Tecnologia da Infomação  
 UNISINOS - São Leopoldo/RS. Em andamento.
@@ -148,7 +129,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
 ### Workshops
-* [1º FOSS Day Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - iniciante e intermediário](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
+* [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - iniciante e intermediário](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 * [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - Iniciante e intermediário](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
 ### Vagrant Boxes
