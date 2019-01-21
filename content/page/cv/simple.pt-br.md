@@ -14,7 +14,7 @@ Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraes
 
 ### Experiência Profissional  
 #### Stefanini (https://stefanini.com)  
-Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul  
 Ago/2018 - Presente
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
