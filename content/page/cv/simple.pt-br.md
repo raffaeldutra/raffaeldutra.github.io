@@ -19,7 +19,7 @@ Ago/2018 - Presente
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 
-* Automação de infraestrutra com Docker, Docker Compose, Bash, Terraform, Ansible e Puppet.
+* Automação de infraestrutra com Docker, Docker Compose, Bash, Terraform, Ansible Puppet e Cloud-init.
 * AWS (Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Relational Database Service (RDS).
 * Documentar ferramentas internas usadas na AWS.
 * Continuous Integration (Git com Gitlab).

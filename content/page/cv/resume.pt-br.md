@@ -20,7 +20,7 @@ Ago/2018 - Presente
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 
-* Automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/) e [Puppet](https://puppet.com)).
+* Automação de infraestrutra com ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/), [Puppet](https://puppet.com)) e [Cloud-init](https://cloudinit.readthedocs.io).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Documentar ferramentas internas usadas na [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
