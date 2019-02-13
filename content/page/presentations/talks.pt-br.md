@@ -20,10 +20,10 @@ title = "Palestras"
 
 Introduction to start using Docker containers.
 
-* Basic commands
+* Comandos báicos
 * Dockerfile
-* Containers management
-* Running a CLI (Command Line Interface) "application" using PHP
+* Gerenciamento de containers
+* Rodando container em CLI (Command Line Interface) com uma "aplicação" em PHP
 * Docker Compose
 
 ### Slides
