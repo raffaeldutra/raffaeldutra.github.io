@@ -171,7 +171,7 @@ Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Sof
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/pt-br/page/presentations/talks/</guid>
       <description>22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker 22/02/2017 - Introdução ao Docker  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
- Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &amp;ldquo;application&amp;rdquo; using PHP Docker Compose  Slides  Integração Contínua Stefanini Solutions - Porto Alegre - 30/08/2018  O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.</description>
+ Comandos báicos Dockerfile Gerenciamento de containers Rodando container em CLI (Command Line Interface) com uma &amp;ldquo;aplicação&amp;rdquo; em PHP Docker Compose  Slides  Integração Contínua Stefanini Solutions - Porto Alegre - 30/08/2018  O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.</description>
     </item>
     
     <item>
