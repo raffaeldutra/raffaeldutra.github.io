@@ -33,7 +33,7 @@ Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://
 Empresa de tecnologia - Portland - Oregon - United States.  
 Jan/2018 - Jul/2018
 
-Trabalhando remotamente como pessoa juridica para a [Crossover](https://crossover.com).
+Trabalhando remotamente para a [Crossover](https://crossover.com).
 
 Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.com/) e para isso eu tive que aprender ferramentas internas para saber o que fazer.
 

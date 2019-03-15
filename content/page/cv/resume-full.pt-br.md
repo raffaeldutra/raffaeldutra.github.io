@@ -103,7 +103,7 @@ Empresa de tecnologia - Porto Alegre/RS
 Ago/2015 - Set/2016
 
 * Serviços em Cloud ([Google Cloud](https://cloud.google.com), [Amazon Web Services](https://aws.amazon.com) and [Digital Ocean](https://www.digitalocean.com)).
-* Gerenciamento de DNS. S[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) (nível avançado).
+* Gerenciamento de DNS. [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) (nível avançado).
 * Desenvolvimento de micro aplicações com [PHP](https://secure.php.net) para uso interno. Backup de plataformas usando [Rsync](https://rsync.samba.org/) e [Bacula](http://blog.bacula.org)..
 * [Docker](https://www.docker.com) para testes de ambientes e gerenciamento de configuração com [Ansible](https://www.ansible.com) e [Puppet](https://puppet.com).
 
@@ -133,7 +133,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * Inglês intermediário para escrita e conversação.  
 * Inglês avançado para leitura e escuta.
 
-### Cursos e eventos
+### Cursos
 * 2018/2 - [Docker Crash Course for busy DevOps and Developers](https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing) - Udemy
 * 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2018/2 - [AWS na prática](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
