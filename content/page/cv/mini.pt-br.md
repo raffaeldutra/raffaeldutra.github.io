@@ -6,6 +6,6 @@ title = "Mini Currículo"
 
 Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código.
 
-Possui 13 anos de experiência atuando como SysAdmin em ambientes GNU/Linux.
+Possui 14 anos de experiência atuando como SysAdmin em ambientes GNU/Linux.
 
 Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Software.
