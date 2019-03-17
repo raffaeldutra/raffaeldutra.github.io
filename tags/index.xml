@@ -5,13 +5,22 @@
     <link>https://rafaeldutra.me/tags/</link>
     <description>Recent content in Tags on #/share</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automacao</title>
+      <link>https://rafaeldutra.me/tags/automacao/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/automacao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automation</title>
@@ -19,6 +28,15 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento</title>
+      <link>https://rafaeldutra.me/tags/desenvolvimento/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/desenvolvimento/</guid>
       <description></description>
     </item>
     
@@ -46,6 +64,15 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/tags/infraestructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infraestrutura</title>
+      <link>https://rafaeldutra.me/tags/infraestrutura/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/infraestrutura/</guid>
       <description></description>
     </item>
     

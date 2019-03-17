@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on #/share</title>
+    <link>https://rafaeldutra.me/en/cv/</link>
+    <description>Recent content in Cvs on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/en/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://rafaeldutra.me/en/cv/downloads/</link>
+      <pubDate>Sun, 30 Sep 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/downloads/</guid>
+      <description>I&amp;rsquo;m leaving here some pages and downloads to see what I do.
+You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
+So, feel free to reach me at social networks, or, directly at: raffaeldutra@gmail.com
+ English
+ Resume
+ Resume - Backup Link
+ Short Resume
+  Portuguese
+ Resume
+ Resume - Link de backup Mini Currículum</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Onboard</title>
+      <link>https://rafaeldutra.me/en/cv/training/google/cloud/</link>
+      <pubDate>Sat, 19 May 2018 16:00:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/training/google/cloud/</guid>
+      <description> Cloud Onboard is an event designed to technical business professionals. The content was designed to IT professionals, System Engineers and Operational Professionals, Developers and Solutions Architects that are searching for cloud solutions or are new using Google Cloud.
+Agenda  Module 1  Google Cloud Platform introduction  Module 2  Starting to work with GCP Hierarchical Resources at GCP Profiles and access management (IAM) Interactions with GCP Cloud Launcher  Module 3: Virtual Machines at Google Cloud Platform  Virtual Private Cloud (VPC) Network Compute Engine Operations and tools  Module 4: Storage at Google Cloud Platform  Cloud Storage Cloud Big Table Cloud SQL and Cloud Spanner Cloud Datastore Comparing storage options Integrations with other resources  Module 5: Containers at Google Cloud Platform  Containers introduction Kubernetes Kubernetes Engine Cloud Datastore  Module 6: Applications at Google Cloud Platform  Google App Engine Google App Engine default environment Google App Engine flexible environment Google Cloud Endpoints and Apigee Edge  Module 7: Development, implementation and monitoring  Cloud implementation Infrastructure as code Monitoring: proactive instrumentation  Module 8: Big Data &amp;amp; Machine Learning  Google Cloud Big Data Google Cloud Machine Learning   </description>
+    </item>
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>https://rafaeldutra.me/en/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/training/puppet/fundamentals/</guid>
+      <description>In the training, the studens will learn to manage infrastructure in the right way. They will learn the best pratices and use Puppet to write classes and modules, in addition to using existents modules. The learning is to use a production environment workflow infrastructure, using source control management with git exhaustively.
+Agenda  Fundamental components of Puppet Enterprise (and Puppet Open Source). Using Puppet on Linux and Windows. Fundamental conceps of the language and modeling of Puppet, like:  Modules and classes.</description>
+    </item>
+    
+    <item>
+      <title>Mini Curriculum</title>
+      <link>https://rafaeldutra.me/en/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/mini/</guid>
+      <description>DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus.
+Has 13 years of IT experience acting as SysAdmin Linux.
+Currently lives at Porto Alegre/RS and studies Security Information at UNISINOS.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rafaeldutra.me/en/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/experience/</guid>
+      <description>Cloud providers  Google Cloud AWS (Principal) Digital Ocean  Infrastructure as code  Terraform  Continuous Integration / Delivery and Deployment  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack using Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/en/cv/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/me/</guid>
+      <description>Brazilian, single.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Personal Statement More than 14 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+More than 3 years working with PHP development and frameworks (Laravel and Codeigniter), Vagrant, Bower, Composer and Git.
+In the last 2 years, I&amp;rsquo;ve been working mainly on Infrastructure automation (Infra as Code) and containerization with Docker.
+Work Experience Stefanini | IT Solutions and IT Staffing (https://stefanini.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/en/cv/resume-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/en/cv/resume-full/</guid>
+      <description>Brazilian, single.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Personal Statement More than 14 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with GNU/Linux.
+More than 3 years working with PHP development and frameworks (Laravel and Codeigniter), Vagrant, Bower, Composer and Git.
+In the last 2 years, I&amp;rsquo;ve been working mainly on Infrastructure automation (Infra as Code) and containerization with Docker.
+Work Experience Stefanini | IT Solutions and IT Staffing (https://stefanini.</description>
+    </item>
+    
+  </channel>
+</rss>

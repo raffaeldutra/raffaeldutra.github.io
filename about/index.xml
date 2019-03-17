@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on #/share</title>
+    <link>https://rafaeldutra.me/about/</link>
+    <description>Recent content in Abouts on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um pouco sobre mim</title>
+      <link>https://rafaeldutra.me/about/me/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/about/me/</guid>
+      <description>Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29&amp;frasl;01 de algum ano e sou Sysadmin e entusiasta DevOps.
+Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX.</description>
+    </item>
+    
+  </channel>
+</rss>

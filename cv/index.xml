@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on #/share</title>
+    <link>https://rafaeldutra.me/cv/</link>
+    <description>Recent content in Cvs on #/share</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
+    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://rafaeldutra.me/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Currículo</title>
+      <link>https://rafaeldutra.me/cv/downloads/</link>
+      <pubDate>Sun, 30 Sep 2018 12:54:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/downloads/</guid>
+      <description>Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
+Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
+Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: raffaeldutra@gmail.com
+ Português
+ Currículo Resume - Link de backup
+ Mini Currículo  Inglês
+ Currículo Resume - Backup Link</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Onboard</title>
+      <link>https://rafaeldutra.me/cv/training/google/cloud./</link>
+      <pubDate>Sat, 19 May 2018 16:00:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/training/google/cloud./</guid>
+      <description> O Cloud OnBoard é um evento de capacitação desenvolvido para profissionais de negócios técnicos. O conteúdo do curso foi desenhado para profissionais de TI, engenheiros de sistemas e profissionais de operações, desenvolvedores e arquitetos de soluções que estão explorando soluções em nuvem ou são novos no Google Cloud Platform.
+Agenda  Módulo 1  Introdução ao Google Cloud Platform  Módulo 2  Começando a trabalhar no GCP Hierarquia de recursos no GCP Gerenciamento de perfis e acessos (IAM) Interações com GCP Cloud Launcher  Módulo 3: Máquinas virtuais no Google Cloud Platform  Virtual Private Cloud (VPC) Network Compute Engine Operações e ferramentas  Módulo 4: Storage no Google Cloud Platform  Cloud Storage Cloud Big Table Cloud SQL e Cloud Spanner Cloud Datastore Comparando opções de armazenamento Integrações com outros serviços  Módulo 5: Containers no Google Cloud Platform  Introdução a Containers Kubernetes Kubernetes Engine Cloud Datastore  Módulo 6: Aplicações no Google Cloud Platform  Google App Engine Google App Engine ambiente padrão Google App Engine ambiente flexível Google Cloud Endpoints e Apigee Edge  Módulo 7: Desenvolvendo, implementando e monitorando  Implementação na nuvem Infraestrutura como código Monitoramento: instrumentação proativa  Módulo 8: Big Data &amp;amp; Machine Learning  Google Cloud Big Data Google Cloud Machine Learning   </description>
+    </item>
+    
+    <item>
+      <title>Puppet Fundamentals</title>
+      <link>https://rafaeldutra.me/cv/training/puppet/fundamentals/</link>
+      <pubDate>Thu, 06 Apr 2017 22:34:24 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/training/puppet/fundamentals/</guid>
+      <description>No treinamento, os alunos vão aprender a gerenciar uma infraestrutura da maneira correta. Vão aprender as melhores práticas e usar o Puppet para escrever classes e módulos, além de utilizar módulos já existentes. O aprendizado é muito voltado a um workflow de produção de uma infraestrutura, utilizando controle de versão com Git ostensivamente.
+Ementa  Componentes fundamentais do Puppet Enterprise (e Puppet Open Source). Utilizando o Puppet em Linux e Windows.</description>
+    </item>
+    
+    <item>
+      <title>Mini Currículo</title>
+      <link>https://rafaeldutra.me/cv/mini/</link>
+      <pubDate>Sun, 05 Mar 2017 17:20:29 -0300</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/mini/</guid>
+      <description>Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código.
+Possui 14 anos de experiência atuando como SysAdmin em ambientes GNU/Linux.
+Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Software.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rafaeldutra.me/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/experience/</guid>
+      <description>Provedores de Cloud  Google Cloud AWS (Main) Digital Ocean  Infrastructure como código  Terraform  Integração contínua / Entrega  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx como Proxy reverso Squid Varnish  Domains  Samba LDAP - integração em alguns projetos.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL  Email  Postfix iRedMail  Monitoramento  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Métricas  InfluxDB Telegraf Grafana  Stack usando Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/cv/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/me/</guid>
+      <description>Brasileiro, solteiro.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Resumo Profissional Mais de 13 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
+Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Experiência Profissional Stefanini | IT Solutions and IT Staffing (https://stefanini.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/cv/resume-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/resume-full/</guid>
+      <description>Brasileiro, solteiro.
+Porto Alegre/RS
+Email: raffaeldutra@gmail.com
+Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux.
+Mais de 3 anos trabalhando com desenvolvimento PHP e Frameworks (Laravel e Codeigniter, Vagrant, Bower, Composer e Git.
+Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Experiência Profissional Stefanini | IT Solutions and IT Staffing (https://stefanini.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/cv/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/simple/</guid>
+      <description>Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
+https://www.linkedin.com/in/rafaeldutra
+Currículo completo: https://rafaeldutra.me/cv/me/
+raffaeldutra@gmail.com
++55 51 9 9972 7599
+Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
+Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Experiência Profissional Stefanini (https://stefanini.com) - DevOps Engineer Empresa de tecnologia - Porto Alegre - Rio Grande do Sul</description>
+    </item>
+    
+  </channel>
+</rss>
