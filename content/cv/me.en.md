@@ -7,20 +7,20 @@ Brazilian, single.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Personal Statement  
-More than 13 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
+More than 14 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
 More than 3 years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
 
 In the last 2 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
 Technology company - Porto Alegre/RS  
 Aug/2018 - Present
 
 The main goal is bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
 
-* Deployment and infrastructure automation using ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) and [Puppet](https://puppet.com)).
+* Deployment and infrastructure automation using ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) [Puppet](https://puppet.com)) and [Cloud-init](https://cloudinit.readthedocs.io).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Document internal tools used at [AWS](https://aws.amazon.com/).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Gitlab](https://gitlab.com))
@@ -119,7 +119,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2018/2 - [Docker Crash Course for busy DevOps and Developers](https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing) - Udemy
 * 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2018/2 - [AWS hands on](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
-* 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/page/cv/training/puppet/fundamentals).
+* 2017/1 - [Puppet Fundamentals](https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing) - Instruct - São Paulo/SP (24 hours) - [Agenda](/cv/training/puppet/fundamentals).
 * 2012/2 - Lean Software Development - WildTech - Porto Alegre/RS.
 * 2011/2 - Accessing the WAN - Cisco Networking Academy - Florianópolis/SC
 * 2011/1 - Lan Switching and Wireless - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
@@ -146,7 +146,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2018/2 - [Kinghost Connection](https://drive.google.com/file/d/1CMyjAoVbSve6IIxZTkk4C37LcD7hjFV-/view?usp=sharing) - Online.
 * 2018/2 - [1º FOSSDay Bento Gonçalves](https://drive.google.com/file/d/1u22kvoPh3vgHwgW9n57i8F2FyrXXPZHF/view?usp=sharing) - [Bento Gonçalves/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
 * 2018/2 - [DevOpsDay](https://drive.google.com/file/d/1dgjyaPCFP9aVfYyFGGUndQKm-oRrJhMu/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
-* 2018/1 - [Google Onboard](https://drive.google.com/file/d/1RGwZ10QQ7-DQuZz6t-mDRs09c9302lkj/view?usp=sharing) - [Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9) - [Agenda](/page/cv/training/google/cloud)
+* 2018/1 - [Google Onboard](https://drive.google.com/file/d/1RGwZ10QQ7-DQuZz6t-mDRs09c9302lkj/view?usp=sharing) - [Porto Alegre/RS](https://photos.app.goo.gl/5G582fzwfWN7s6FT9) - [Agenda](/cv/training/google/cloud)
 * 2018/1 - [1º FOSS Day Lajeado](https://drive.google.com/file/d/1cCh2VtTjxqU0JApey-68VaMeV5o9MmYH/view?usp=sharing) - [Lajeado/RS](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2).
 * 2017/2 - [The Developers Conference - DevOps](https://drive.google.com/open?id=1Y1-Y814ZAfiMFRvh3koKPRZNLqbEQJTi) - [Porto Alegre/RS](https://photos.app.goo.gl/Zb8twfRP5FriYZjA2).
 * 2017/2 - [The Developers Conference - Containers](https://drive.google.com/open?id=14E-KturDexfAsZz-RQUYKPMOHI2Ny6ZO) - Porto Alegre/RS.
