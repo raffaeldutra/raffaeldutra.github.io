@@ -1,13 +1,13 @@
 +++
 date = "2018-08-30"
-title = "Integração Contínua"
+title = "Continuous Integration"
 
 +++
 
-## Integração Contínua
-#### Stefanini Solutions - Porto Alegre - 30/08/2018
+## Continuous Integration
+#### Stefanini Solutions - Porto Alegre - 2018-08-30
 
-* O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.
+* What is it, how, the why and objectives to reach using Continuous Integration.
 
 ### Slides
 

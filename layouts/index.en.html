@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -53,7 +53,7 @@
 
     h1 {
       font-size: 5rem;
-      line-height: 5.0rem
+      line-height: 5.5rem
     }
 
     h2 {
@@ -93,7 +93,99 @@
       color: white
     }
 
-    @media (min-width:992px) {
+    @media only screen and (max-width:360px) {
+      #sideNav {
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        width: 17rem;
+        height: 100vh
+      }
+
+      #sideNav .navbar-brand {
+        display: flex;
+        margin: 80px auto 0;
+        padding: .5rem
+      }
+
+      #sideNav .navbar-brand .img-profile {
+        max-width: 10rem;
+        max-height: 10rem;
+        border: .5rem solid rgba(255, 255, 255, .2)
+      }
+
+      #sideNav .navbar-collapse {
+        display: flex;
+        align-items: flex-start;
+        flex-grow: 0;
+        width: 100%;
+        margin-bottom: auto
+      }
+
+      #sideNav .navbar-collapse .navbar-nav {
+        flex-direction: column;
+        width: 100%
+      }
+
+      #sideNav .navbar-collapse .navbar-nav .nav-item {
+        display: block
+      }
+
+      #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        display: block
+      }
+    }
+
+    @media (min-width:1000px) {
+      #sideNav {
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        width: 17rem;
+        height: 100vh
+      }
+
+      #sideNav .navbar-brand {
+        display: flex;
+        margin: 80px auto 0;
+        padding: .5rem
+      }
+
+      #sideNav .navbar-brand .img-profile {
+        max-width: 10rem;
+        max-height: 10rem;
+        border: .5rem solid rgba(255, 255, 255, .2)
+      }
+
+      #sideNav .navbar-collapse {
+        display: flex;
+        align-items: flex-start;
+        flex-grow: 0;
+        width: 100%;
+        margin-bottom: auto
+      }
+
+      #sideNav .navbar-collapse .navbar-nav {
+        flex-direction: column;
+        width: 100%
+      }
+
+      #sideNav .navbar-collapse .navbar-nav .nav-item {
+        display: block
+      }
+
+      #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        display: block
+      }
+    }
+
+    @media (min-width:1900px) {
       #sideNav {
         text-align: center;
         position: fixed;
@@ -160,7 +252,6 @@
 
     @media (min-width:992px) {
       section.resume-section {
-        min-height: 80vh;
         padding-top: 1rem !important;
         padding-bottom: 3rem !important
       }
@@ -205,10 +296,10 @@
           <a class="nav-link js-scroll-trigger" href="blog">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="page/cv/resume">Currículo</a>
+          <a class="nav-link js-scroll-trigger" href="cv/me">Resume</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="page/presentations/talks">Apresentações</a>
+          <a class="nav-link js-scroll-trigger" href="presentations/talks">Talks</a>
         </li>
       </ul>
     </div>
@@ -221,14 +312,14 @@
           <span class="text-primary">Dutra</span>
         </h1>
 
-        <p class="mb-5 text-center">Infraestrutura ágil e entusiasta DevOps
-          trabalhando para <a href="https://stefanini.com" target="_blank">Stefanini Global Solutions</a>.<a href="https://stefanini.com"
-            target="_blank"></a><br />Porto Alegre - Rio Grande do Sul - Brasil.</p>
+        <p class="mb-5 text-center">Agile Infrastructure and DevOps Enthusiast
+          working at <a href="https://stefanini.com" target="_blank">Stefanini Global Solutions</a> as independent
+          contractor.<a href="https://stefanini.com" target="_blank"></a><br />Porto Alegre - Rio Grande do Sul -
+          Brasil.</p>
 
-        <p class="mb-10 text-center">Anterior:
-          <a href="https://crossover.com" target="_blank">Crossover</a> como prestador de serviços independente
-          alocado no cliente <a href="https://jivesoftware.com">Jive
-            Software</a><br />Portland - Oregon - Estados Unidos.</p>
+        <p class="mb-3 text-center">Previous:
+          <a href="https://crossover.com" target="_blank">Crossover</a> as independent contractor working for <a href="https://jivesoftware.com">Jive
+            Software</a>.<br />Portland - Oregon - United States.</p>
         <ul class="list-inline list-social-icons mb-0 text-center">
           <li class="list-inline-item">
             <a href="https://twitter.com/raffaeldutra"><i class="fab fa-twitter fa-3x"></i></a>

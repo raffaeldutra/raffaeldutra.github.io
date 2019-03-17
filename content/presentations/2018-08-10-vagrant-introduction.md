@@ -1,13 +1,13 @@
 +++
 date = "2018-08-10T12:54:24-03:00"
-title = "Vagrant Introduction"
+title = "Introdução ao Vagrant"
 
 +++
 
-## Vagrant Introduction
+## Introdução ao Vagrant
 #### Stefanini Solutions - Porto Alegre - 2018/08/10
 
-* Just a Vagrant Introduction to explain how and where we will use it.
+* Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.
 
 ### Slides
 

@@ -4,25 +4,25 @@ title = "Puppet Fundamentals"
 
 +++
 
-In the training, the studens will learn to manage infrastructure in the right way. They will learn the best pratices and use Puppet to write classes and modules, in addition to using existents modules. The learning is to use a production environment workflow infrastructure, using source control management with git exhaustively.
+No treinamento, os alunos vão aprender a gerenciar uma infraestrutura da maneira correta. Vão aprender as melhores práticas e usar o Puppet para escrever classes e módulos, além de utilizar módulos já existentes. O aprendizado é muito voltado a um workflow de produção de uma infraestrutura, utilizando controle de versão com Git ostensivamente.
 
-### Agenda
-* Fundamental components of Puppet Enterprise (and Puppet Open Source).
-* Using Puppet on Linux and Windows.
-* Fundamental conceps of the language and modeling of Puppet, like:
-  * Modules and classes.
-  * Classification.
-  * Resources.
-  * Relantionships.
-* Language construction.
-* Nodes classifications.
-* Separation between logic and apresentation using Templates.
-* Model repetitives portions of your configuration using defined types (defined resource types).
-* The foundation to build more complex configurations using advanced concepts classes.
-  * Parametrized classes.
-  * Inheritance introduction.
-  * Introduction to separate data using Hiera.
-  * Classification using parametrized classes.
-* Using official Puppet Forge modules supported.
-* Introduction to the pattern Roles and Profiles.
-* Advance laboratory with module development that manage Apache, PHP, MySQL and Wordpress.
+### Ementa
+* Componentes fundamentais do Puppet Enterprise (e Puppet Open Source).
+* Utilizando o Puppet em Linux e Windows.
+* Conceitos fundamentais da linguagem de modelagem do Puppet, como:
+  * Módulos e Classes.
+  * Classificação.
+  * Resources
+  * Relacionamentos.
+* Construções da linguagem.
+* Classificação de nodes
+* Separação entre lógica e apresentação usando Templates.
+* Modelar porções repetitivas de sua configuração usando tipos definidos (defined resource types).
+* A fundação para a construção de configurações mais complexas usando conceitos avançados de classes:
+  * Classes parametrizadas.
+  * Introdução à herança.
+  * Introdução à separação de dados usando Hiera.
+  * Classificação usando classes parametrizadas.
+* Usando módulos do Puppet Forge e módulos oficiais suportados.
+* Introdução ao padrão Roles e Profiles.
+* Laboratório avançado com o desenvolvimento de um módulo que gerencie Apache, PHP, MySQL e WordPress.

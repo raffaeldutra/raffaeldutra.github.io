@@ -1,18 +1,20 @@
 +++
 date = "2017-03-01"
-title = "About me"
-subtitle = "Why I'm so great"
+title = "Um pouco sobre mim"
+subtitle = "Qual o motivo de ser um guri bom"
 +++
 
-My name is Rafael Dutra and I'm a nice guy. I was born at 29/01 from some year and I'm a Sysadmin and DevOps enthusiast.
+Me chamo Rafael Dutra e sou um cara legal. Nasci dia 29/01 de algum ano e sou Sysadmin e entusiasta DevOps.
 
-Currently I'm living at Porto Alegre/RS but I'm from Lajeado/RS and I lived my whole life at Estrela/RS, that is 120km far from Porto Alegre/RS.
+Atualmente moro em Porto Alegre/RS mas sou de Lajeado/RS, porém morei quase toda minha vida em uma cidade chamada Estrela/RS, que fica uns 120km de Porto Alegre.
 
-I'm single and really love video games, mainly RPG and FPS and I have some games that I bring with to me until this day, like Chrono Cross, Final Fantasy VIII e IX.
+Sou solteiro e realmente amo video games, principalmente RPG e FPS e tenho alguns games que levo comigo até hoje, como Chrono Cross, Final Fantasy VIII e IX.
 
-I've been working or I had been worked with that we called: a little bit from everything, but what I really enjoy is to automate e see things working with just a command or a mouse click.
+Trabalho ou trabalhei com um "pouco de tudo", portanto eu não sou especialista em nada, mas o que eu realmente gosto de fazer é automatizar e ver as coisas funcionando com um comando ou um clique do mouse.
 
-Here's my contacts:
+Vou tentar aqui colocar coisas variadas neste site/blog, mas pelo que me conheço, provavelmente será técnico.
+
+Segue meus contatos:
 
 - E-mail: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato via site">raffaeldutra@gmail.com</a>  
 - Twitter: <a href="https://twitter.com/raffaeldutra">https://twitter.com/raffaeldutra</a>  
@@ -22,8 +24,7 @@ Here's my contacts:
 - Gitlab: <a href="https://gitlab.com/raffaeldutra">Gitlab</a>
 - Linkedin: <a href="https://linkedin.com/in/rafaeldutra">Linkedin</a>
 - Youtube: <a href="https://youtube.com/raffaeldutra/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz">Youtube</a>
-- Speaker Deck - [https://speakerdeck.com/raffaeldutra/docker-workshop](https://speakerdeck.com/raffaeldutra/docker-workshop)
 
-Thank you.
+Obrigado.
 
 Rafael Dutra.

@@ -1,12 +1,12 @@
-## Provedores de Cloud
+## Cloud providers
 * Google Cloud
-* AWS (Main)
+* AWS (Principal)
 * Digital Ocean
 
-## Infrastructure como código
+## Infrastructure as code
 * Terraform
 
-## Integração contínua / Entrega
+## Continuous Integration / Delivery and Deployment
 * GitHub
 * Bitbucket
 * Jenkins
@@ -18,13 +18,13 @@
 * Docker Swarm
 
 ## Proxy
-* Nginx como Proxy reverso
+* Nginx as reverse Proxy
 * Squid
 * Varnish
 
 ## Domains
 * Samba
-* LDAP - integração em alguns projetos.
+* LDAP integration in some projects.
 
 ## DNS
 * Bind
@@ -32,30 +32,30 @@
 
 ## Databases
 * MYSQL/MariaDB
-* PostgreSQL
+* PostgreSQL.
 
 ## Email
 * Postfix
-* iRedMail
+* iRedMail.
 
-## Monitoramento
+## Monitoring
 * ELK (Elasticsearch, Logstash, Kibana)
 * Nagios
 * Cacti
 * SolarWinds
 
-## Métricas
+## Metrics
 * InfluxDB
 * Telegraf
 * Grafana
 
-Stack usando Docker Compose.
+Stack using Docker Compose.
 
-## Gerenciamento de configuração e orquestração
+## Management configuration and orchestration
 * Puppet
 * Ansible
 
-## Virtualização
+## Virtualization
 * VMWare Server
 * VMWare Esxi
 * VirtualBox
@@ -63,12 +63,12 @@ Stack usando Docker Compose.
 * XEN Server
 * OpenVirt
 
-## Linguagens
+## Languages
 * PHP - intermediate
 * Shell Script - advanced
 * Ruby - basic
 
-## Plataformas de Controle de Versão
+## System control management
 * Bitbucket
 * GitLab
 * Github

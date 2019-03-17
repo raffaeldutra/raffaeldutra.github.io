@@ -5,9 +5,9 @@ title = "Docker Workshop"
 +++
 
 ## Docker Workshop - FOSS Day 2018
-#### Fossday - Lajeado - 2018/05/05
+#### Fossday - Lajeado - 05/05/2018
 
-* First workshop presented about how to use Docker in a "minimum way"
+* Primeiro workshop apresentado sobre como usar Docker em uma "versão miníma"
 * Dockerfile
 * Volumes
 * Docker Compose

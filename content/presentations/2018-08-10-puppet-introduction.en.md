@@ -1,13 +1,13 @@
 +++
 date = "2018-08-10T12:54:24-03:00"
-title = "Introdução ao Puppet"
+title = "Puppet Introduction"
 
 +++
 
-## Introdução ao Puppet
-#### Stefanini Solutions - Porto Alegre- 10/08/2018
+## Puppet Introduction
+#### Stefanini Solutions - Porto Alegre - 2018/08/10
 
-* O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.
+* The main goal here is to present what is Puppet and what we can do to do our lives better.
 
 ### Slides
 

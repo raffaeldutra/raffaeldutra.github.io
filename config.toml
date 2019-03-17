@@ -1,6 +1,6 @@
 baseurl = "https://rafaeldutra.me"
-defaultContentLanguage = "en"
-languageCode = "en-us"
+defaultContentLanguage = "pt-br"
+languageCode = "pt-br"
 theme = "beautifulhugo"
 pygmentsUseClassic = false
 pygmentCodeFences = true
@@ -54,7 +54,7 @@ blog = "/blog/:year/:month/:day/:slug"
 
 [[Languages.en.menu.main]]
   name = "HOME"
-  url = "/blog"
+  url = "/en/blog"
   weight = 2
 
 [[Languages.en.menu.main]]
@@ -65,36 +65,36 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Downloads"
-  url = "/cv/downloads"
+  url = "/en/cv/downloads"
   weight = 30
 
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Resume"
-  url = "/cv/resume"
+  url = "/en/cv/resume"
   weight = 31
 
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Mini"
-  url = "/cv/mini"
+  url = "/en/cv/mini"
   weight = 32
 
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Experience"
-  url = "/cv/experience"
+  url = "/en/cv/experience"
   weight = 32
 
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Talks"
-  url = "/presentations/talks"
+  url = "/en/presentations/talks"
   weight = 33
 
 [[Languages.en.menu.main]]
   name = "ABOUT"
-  url = "/about/me"
+  url = "/en/about/me"
   weight = 5
 
 [[Languages.en.menu.main]]
@@ -103,12 +103,12 @@ blog = "/blog/:year/:month/:day/:slug"
   weight = 5
 
 [Languages.pt-br]
-  title = "#/share beer"
+  title = "#/share"
   languageName = "Português"
-  url = "/pt-br/blog"
+  url = "blog"
 
 [[Languages.pt-br.menu.main]]
-  url    = "/pt-br/blog"
+  url    = "blog"
   name   = "HOME"
   weight = 2
 
@@ -120,19 +120,19 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Downloads"
-  url = "/pt-br/cv/Downloads"
+  url = "cv/downloads"
   weight = 30
 
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Currículo"
-  url = "/pt-br/cv/resume"
+  url = "cv/resume"
   weight = 31
 
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Mini"
-  url = "/pt-br/cv/mini"
+  url = "cv/mini"
   weight = 32
 
 [[Languages.pt-br.menu.main]]
@@ -144,12 +144,12 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Palestras"
-  url = "/pt-br/presentations/talks"
+  url = "presentations/talks"
   weight = 33
 
 [[Languages.pt-br.menu.main]]
   name = "Sobre"
-  url = "/pt-br/about/me"
+  url = "about/me"
   weight = 5
 
 [[Languages.pt-br.menu.main]]

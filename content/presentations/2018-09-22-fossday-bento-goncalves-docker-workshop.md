@@ -7,13 +7,13 @@ title = "Docker Workshop"
 ## Docker Workshop - FOSSDay 2018
 #### Fossday - Bento Gonçalves - 2018/09/22
 
-Introduction to start using Docker containers.
+Introdução de como iniciar com containers Docker.
 
-* Basic commands
-* Dockerfile
-* Containers management
-* Running a CLI (Command Line Interface) "application" using PHP
-* Docker Compose
+- Comandos básicos
+- Dockerfile
+- Gerenciamento de containers
+- Rodando uma "aplicação" em CLI (Command Line Interface) com PHP
+- Docker Compose
 
 ### Slides
 

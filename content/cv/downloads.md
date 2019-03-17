@@ -1,21 +1,21 @@
 +++
 date = "2018-09-30T12:54:24-03:00"
-title = "Curriculum"
+title = "Currículo"
 
 +++
 
-I'm leaving here some pages and downloads to see what I do.
+Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
 
-You will see different page versions, each one of them with more or less informations due to the tools and links mentioned on the page.
+Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
 
-So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldutra@gmail.com>
+Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: <mailto:raffaeldutra@gmail.com>
 
-* English
-  * [Resume](/resume/rafael-dutra-full-resume.pdf)  
+* Português
+  * [Currículo](/resume/rafael-dutra-full-resume-pt-br.pdf)
+  * [Resume - Link de backup](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume.pdf)  
+  * [Mini Currículo](/pt-br/cv/mini)
+
+* Inglês
+  * [Currículo](/resume/rafael-dutra-full-resume.pdf)
   * [Resume - Backup Link](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume-pt-br.pdf)  
-  * [Short Resume](/page/cv/mini)  
-
-* Portuguese
-  * [Resume](/resume/rafael-dutra-full-resume-pt-br.pdf)  
-  * [Resume - Link de backup](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume.pdf)
-  * [Mini Currículum](/pt-br/page/cv/mini)  
+  * [Short Resume](/cv/mini)

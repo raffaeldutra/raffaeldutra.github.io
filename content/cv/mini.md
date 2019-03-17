@@ -1,11 +1,11 @@
 +++
 date = "2017-03-05T17:20:29-03:00"
-title = "Mini Curriculum"
+title = "Mini Currículo"
 
 +++
 
-DevOps culture enthusiast and IT specialist with infrastructure as code and automation focus.
+Entusiasta da cultura DevOps e especialista em TI com foco em infraestrutura como código.
 
-Has 13 years of IT experience acting as SysAdmin Linux.
+Possui 14 anos de experiência atuando como SysAdmin em ambientes GNU/Linux.
 
-Currently lives at Porto Alegre/RS and studies Security Information at UNISINOS.
+Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Software.
