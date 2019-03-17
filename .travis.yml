@@ -28,7 +28,12 @@ script:
     --form to=pdf
     --form other_files[]=@content/page/cv/css/resume.css
     http://c.docverter.com/convert > public/resume/rafael-dutra-full-resume-pt-br.pdf
-
+  - curl
+    --form input_files[]=@content/page/cv/simple.pt-br.md
+    --form from=markdown
+    --form to=pdf
+    --form other_files[]=@content/page/cv/css/resume.css
+    http://c.docverter.com/convert > public/resume/rafael-dutra-pt-br.pdf
 deploy:
   name: "rafaeldutra.me deployment"
   provider: pages
