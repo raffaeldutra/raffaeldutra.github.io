@@ -7,14 +7,14 @@ Brasileiro, solteiro.
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>  
 
 ### Resumo Profissional
-Mais de 13 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
+Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
 Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
 
 Nos últimos 2 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
 Ago/2018 - Presente
 
@@ -28,7 +28,7 @@ Objetivo principal é levar a célula em Porto Alegre para automação e Cloud C
 * [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
 
-#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect  
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Empresa de tecnologia - Portland - Oregon - United States.  
 Jan/2018 - Jul/2018

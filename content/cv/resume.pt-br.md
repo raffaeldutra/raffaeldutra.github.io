@@ -14,7 +14,7 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com)  
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
 Ago/2018 - Presente
 
@@ -28,7 +28,7 @@ Objetivo principal é levar a célula em Porto Alegre para automação e Cloud C
 * [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
 
-#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect  
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
 Empresa de tecnologia - Portland - Oregon - United States.  
 Jan/2018 - Jul/2018
@@ -47,13 +47,13 @@ Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.
 * Logs monitoramento de métricas ([Datadog](https://www.datadoghq.com/) e [Flapjack](http://flapjack.io/)).
 
 
-#### PoaTek IT Consulting (http://poatek.com)
+#### PoaTek IT Consulting (http://poatek.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre/RS  
 Out/2016 - Jan/2018
 
 Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
-###### AGCO - TI Especialista
+###### AGCO
 * Deploy e automação de infraestrutura ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com, [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Integração contínua ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
 * Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).

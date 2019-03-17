@@ -13,7 +13,7 @@ So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldu
 * English
   * [Resume](/resume/rafael-dutra-full-resume.pdf)  
   * [Resume - Backup Link](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume-pt-br.pdf)  
-  * [Mini Currículum](/page/cv/mini)  
+  * [Short Resume](/page/cv/mini)  
 
 * Portuguese
   * [Resume](/resume/rafael-dutra-full-resume-pt-br.pdf)  

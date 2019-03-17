@@ -18,4 +18,4 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
 * Inglês
   * [Currículo](/resume/rafael-dutra-full-resume.pdf)
   * [Resume - Backup Link](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume-pt-br.pdf)  
-  * [Mini Currículo](/page/cv/mini)
+  * [Short Resume](/page/cv/mini)
