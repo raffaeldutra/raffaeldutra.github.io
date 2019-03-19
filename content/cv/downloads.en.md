@@ -18,4 +18,4 @@ So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldu
 * Portuguese
   * [Resume](/resume/rafael-dutra-full-resume-pt-br.pdf)  
   * [Resume - Link de backup](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume.pdf)
-  * [Mini Currículum](/pt-br/cv/mini)  
+  * [Mini Currículum](/cv/mini)  
