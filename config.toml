@@ -71,7 +71,7 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.en.menu.main]]
   parent = "cv"
   name = "Resume"
-  url = "/en/cv/resume"
+  url = "/en/cv/me"
   weight = 31
 
 [[Languages.en.menu.main]]
@@ -126,7 +126,7 @@ blog = "/blog/:year/:month/:day/:slug"
 [[Languages.pt-br.menu.main]]
   parent = "cv"
   name = "Currículo"
-  url = "cv/resume"
+  url = "cv/me"
   weight = 31
 
 [[Languages.pt-br.menu.main]]
