@@ -205,16 +205,6 @@ Atualmente trabalha pros gringos remotamente como Arquiteto SaaS para a Jive Sof
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>https://rafaeldutra.me/presentations/talks/</link>
-      <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/presentations/talks/</guid>
-      <description>2018-09-22 - Docker Workshop 2018-08-30 - Continuous Integration 2018-08-10 - Vagrant Introduction 2018-08-10 - Puppet Introduction 2018-05-05 - Docker Workshop 2017-10-03 - Configuration Management 2017-09-02 - Introduction to Puppet 2017-09-02 - Puppet Administration 2017-04-29 - Docker Introduction 2017-02-22 - Docker Introduction  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
- Basic commands Dockerfile Containers management Running a CLI (Command Line Interface) &amp;ldquo;application&amp;rdquo; using PHP Docker Compose  Slides  Vagrant Introduction Stefanini Solutions - Porto Alegre - 2018/08/10  Just a Vagrant Introduction to explain how and where we will use it.</description>
-    </item>
-    
-    <item>
       <title>Um pouco sobre mim</title>
       <link>https://rafaeldutra.me/about/me/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
