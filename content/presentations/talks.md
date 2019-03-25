@@ -1,49 +1,59 @@
 +++
 date = "2017-03-04T12:54:24-03:00"
-title = "Talks"
+title = "Palestras"
 
 +++
 
-* [2018-09-22 - Docker Workshop](/page/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop)
-* [2018-08-30 - Continuous Integration](/page/presentations/2018-08-30-stefanini-solutions-continuous-integration)
-* [2018-08-10 - Vagrant Introduction](/page/presentations/2018-08-10-vagrant-introduction)
-* [2018-08-10 - Puppet Introduction](/page/presentations/2018-08-10-puppet-introduction)
-* [2018-05-05 - Docker Workshop](/page/presentations/2018-05-05-fossday-lajeado-docker-workshop)
-* [2017-10-03 - Configuration Management](/page/presentations/2017-10-03-poatek-configuration-management)
-* [2017-09-02 - Introduction to Puppet](/page/presentations/2017-09-02-agco-introduction-to-puppet)
-* [2017-09-02 - Puppet Administration](/page/presentations/2017-09-02-agco-puppet-administration)
-* [2017-04-29 - Docker Introduction](/page/presentations/2017-04-29-tchelinux-docker-introduction)
-* [2017-02-22 - Docker Introduction](/page/presentations/2017-02-22-poatek-docker-introduction)
+* [22/09/2018 - Docker Workshop](/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop)
+* [10/08/2018 - Integração Contínua](/presentations/2018-08-30-stefanini-solutions-continuous-integration)
+* [10/08/2018 - Introdução ao Vagrant](/presentations/2018-08-10-vagrant-introduction)
+* [10/08/2018 - Introdução ao Puppet](/presentations/2018-08-10-puppet-introduction)
+* [05/05/2018 - Docker Workshop](/presentations/2018-05-05-docker-workshop)
+* [03/10/2017 - Gerenciamento de configuração](/presentations/2017-10-03-poatek-configuration-management)
+* [02/09/2017 - Introdução ao Puppet](/presentations/2017-09-02-agco-introduction-to-puppet)
+* [02/09/2017 - Administrando Puppet](/presentations/20 17-09-02-agco-puppet-administration)
+* [29/04/2017 - Introdução ao Docker](/presentations/2017-04-29-tchelinux-docker-introduction)
+* [22/02/2017 - Introdução ao Docker](/presentations/2017-02-22-poatek-docker-introduction)
 
 ## Docker Workhop
 #### FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22
 
 Introduction to start using Docker containers.
 
-* Basic commands
+* Comandos báicos
 * Dockerfile
-* Containers management
-* Running a CLI (Command Line Interface) "application" using PHP
+* Gerenciamento de containers
+* Rodando container em CLI (Command Line Interface) com uma "aplicação" em PHP
 * Docker Compose
 
 ### Slides
 
 <iframe src="https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Vagrant Introduction
-#### Stefanini Solutions - Porto Alegre - 2018/08/10
+## Integração Contínua
+#### Stefanini Solutions - Porto Alegre - 30/08/2018
 
-* Just a Vagrant Introduction to explain how and where we will use it.
+* O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.
 
 ### Slides
 
 <iframe src="https://docs.google.com/presentation/d/18U44dKTgSk-8Mj0PMNPhDIGut-_zihknADPkA_WbHeg/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-## Puppet Introduction
-#### Stefanini Solutions - Porto Alegre - 2018/08/10
+## Introdução ao Vagrant
+#### Stefanini Solutions - Porto Alegre - 10/08/2018
 
-* The main goal here is to present what is Puppet and what we can do to do our lives better.
+* Uma pequena introdução do que é Vagrant e explicar onde e o motivo de utilizarmos.
+
+### Slides
+
+<iframe src="https://docs.google.com/presentation/d/1cMGxg5N4dReDJ8A6lxR22_vs8YLsP42UlmkQrSylSx0/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+## Introdução ao Puppet
+#### Stefanini Solutions - Porto Alegre- 10/08/2018
+
+* O Objetivo aqui é apresentar o que é Puppet e o que podemos fazer para melhorar nossas vidas.
 
 ### Slides
 
@@ -51,9 +61,9 @@ Introduction to start using Docker containers.
 
 
 ## Docker Workshop - FOSS Day 2018
-#### Fossday - Lajeado - 2018/05/05
+#### Fossday - Lajeado - 05/05/2018
 
-* First workshop presented about how to use Docker in a "minimum way"
+* Primeiro workshop apresentado sobre como usar Docker em uma "versão miníma"
 * Dockerfile
 * Volumes
 * Docker Compose
@@ -64,69 +74,68 @@ Introduction to start using Docker containers.
 
 
 
-## Configuration Management
-#### Poatek - Porto Alegre - 2017/10/03
-Brief introduction of how we can use Puppet to manage things.
+## Gerenciamento de configuração
+#### Poatek - Porto Alegre - 03/10/2017
+Breve introdução do que podemos gerenciar com Puppet.
 
-* Changing infrastrucure in a granular way
-* Imutable environment
-* What is the real motive to use configuration management
+* Mudança granular
+* Ambientes imutáveis
+* Qual o motivo real de utilizarmos gerência de configuração.
 
-### Slides
+### Slides utilizados
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPU4Foq_7_cVu4bpR_x7lRWLFfjN-BZ-Ou0ZHSJfT9Urw6FwkPRygu9zAAPdgFauhdnUshxbu7wJHi/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
-## Introduction to Puppet
-#### AGCO Canoas - Canoas - 2017/09/02
-The idea is to show how we can delivery better environments using patterns and same environment reproduction, having change management with confiability.
+## Introdução ao Puppet
+#### AGCO Canoas - 02/09/2017
+A ideia é mostrar como podemos entregar melhores ambientes utilizando padronização e reprodução fiel
+de ambientes, tendo como foco a mudança com confiabilidade.
 
-### Slides
+### Slides utilizados
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrBU9r28ng9suZu6YGPFLPJzdxSSLB65uJcCMTPaJuQ4Q53cY9EfR2zcx1qJYO5qhINI_mUQXDLKtS/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
-## Puppet Administration
-#### AGCO Canoas - Canoas - 2017/09/02
-In this apresentation we used the basics of "resources" statements, like packages, services and files.
-This apresentation was made for the infrastructure team.
 
-### Slides
+## Administrando Puppet
+#### AGCO Canoas - 02/09/2017
+Aqui nos atemos a como utilizar o básico de resources, como package, service and file.
+Apresentação realizada para o time de infraestrutra.
+
+### Slides utilizados
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTdxBe-hmKoo6KKpTPXHKzp8-SNUg6Qu-QGvA33tYU7YQF70Olau3TOaPRzHVRQgURrwZtWedw-I8j/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+## Introdução ao Docker
+#### Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 29/04/2017
 
-## Docker introduction
-#### Tchê Linux Lajeado - Lajeado/RS - UNIVATES - 2017/04/29
+### Resumo da palestra
+Docker mudou como criamos sistemas. Motivos para sua adoção são vários, mas segue alguns bons exemplos:
 
-### Summary of the lecture
-Docker changes how we create systems. Reasons for your adoption are many, but here is some good examples:
+* Aplicação auto contida
+* Ambientes iguais
+* Padronização com melhores práticas
+* Comunidade
 
-* Embedded application
-* Same environments
-* Patterns as best practices
-* Community
+Com poucos comandos podemos ter nossa aplicação online na maioria das grandes cloud providers, como: AWS, Google Cloud, Digital Ocean, OpenStack entre outros. Como temos uma aplicação auto contida, seu deploy fica simplificado.
 
-With just a few commands, we can have our application online on the most biggest cloud providers, like: AWS, Google Cloud, Digital Ocean, OpenStack and many others. We have an application embedded, so the deployment is very simplified.
+Durante a palestra, vamos utilizar os comandos básicos de gerenciamento de Docker.
 
-During the lecture, we'll use the basic commands to manage Docker.
-
-### Slides
-<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+### Slides utilizados
+<iframe src="https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-## Docker introduction
-#### Poatek - Porto Alegre - 2017/02/22
+## Introdução ao Docker
+#### Poatek - 22/02/2017
 
-### Summary
-* Community
-* Short history
-* What's Docker
-* Container is NOT VM
-* Why should used it
+### Resumo
+* Comunidade
+* Breve história
+* O que é?
+* Container não é VM
+* Por que utilizar
 * Demo
 
-
-### Slides
+### Slides utilizados
 <iframe src="https://docs.google.com/presentation/d/1-2StfxZVM5UChe2z4dqiPhtLZMDdzWPK18k5yJB62EA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
