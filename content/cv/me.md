@@ -67,7 +67,7 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 
 ##### Projetos na AGCO
 **Puppet - Gerenciamento de Configuração**
-Este projeto foi desenvolvido completamente do zero, desde criação de um ambiente funcional em localhost para que programadores e operadores pudessem recriar toda infraestrutra que é gerenciada via [Puppet](https://puppet.com) até o código que realmente é enviado para todos os ambientes, como desenvolvimento, staging e produção.
+Criação de um ambiente funcional em localhost para que o time de Desenvolvimento e Operações pudessem recriar toda infraestrutura que é gerenciada via [Puppet](https://puppet.com), como desenvolvimento, homologação e produção.
 
 Documentação de processos como:
 
