@@ -11,11 +11,11 @@ You will see different page versions, each one of them with more or less informa
 So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldutra@gmail.com>
 
 * English
-  * [Resume](/resume/rafael-dutra-full-resume.pdf)  
-  * [Resume - Backup Link](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume-pt-br.pdf)  
+  * [Resume](/resume/rafael-dutra-resume-en.pdf)  
+  * [Resume - Backup Link](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-resume-en.pdf)  
   * [Short Resume](/cv/mini)  
 
 * Portuguese
-  * [Resume](/resume/rafael-dutra-full-resume-pt-br.pdf)  
-  * [Resume - Link de backup](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-full-resume.pdf)
+  * [Resume](/resume/rafael-dutra-resume.pdf)  
+  * [Resume - Link de backup](https://s3-sa-east-1.amazonaws.com/rafaeldutra.me/resume/rafael-dutra-resume.pdf)
   * [Mini Currículum](/cv/mini)  
