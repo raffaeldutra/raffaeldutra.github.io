@@ -8,7 +8,6 @@ before_script:
   - apk update && apk add curl
 
 stages:
-  - environments
   - publishing
   - deploy-s3
   - deploy-page
@@ -56,9 +55,9 @@ publishing:
       - public
 
 deploy-s3-branches:
-  <<: *deploy-s3
   variables:
     BUCKET_NAME_STATIC: ${CI_COMMIT_REF_SLUG}.rafaeldutra.me
+  <<: *deploy-s3
   only:
     - branches
   except:
@@ -82,7 +81,23 @@ pages:
     paths:
       - public
 
-testing:
+.testing: &testing
   stage: testing
   script:
     - docker run --rm byrnedo/alpine-curl curl --silent ${BUCKET_NAME_STATIC} > /dev/null || exit 1
+
+testing-branches:
+  variables:
+    BUCKET_NAME_STATIC: ${CI_COMMIT_REF_SLUG}.rafaeldutra.me
+  <<: *testing
+  only:
+    - branches
+  except:
+    - develop
+
+testng-prod:
+  variables:
+    BUCKET_NAME_STATIC: www.rafaeldutra.me
+  <<: *testing
+  only:
+    - develop
