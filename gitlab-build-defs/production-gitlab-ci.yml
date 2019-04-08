@@ -1,18 +1,17 @@
+image: docker:latest
+
+services:
+  - docker:dind
+
 before_script:
   - mkdir -p public/resume
 
 stages:
   - environments
-  - job-definition
   - publishing
   - deploy-s3
   - deploy-page
   - testing
-
-.job-definition: &job-definition
-  image: docker:latest
-  services:
-    - docker:dind
 
 environments:
   stage: environments
@@ -25,7 +24,7 @@ environments:
       fi
 
 .publishing: &publishing
-  <<: *job-definition
+  image: docker:latest
   script:
     - |
       docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
