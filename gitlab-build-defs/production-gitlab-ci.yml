@@ -1,10 +1,17 @@
 variables:
   AWS_DEFAULT_REGION: sa-east-1
-  BUCKET_NAME_STATIC: www.rafaeldutra.me
 
 before_script:
   - mkdir -p public/resume
   - apk update && apk add curl
+
+script:
+  - |
+    if [ "${CI_COMMIT_REF_SLUG}" == "develop" ]; then
+        BUCKET_NAME_STATIC=www.rafaeldutra.me
+    else
+        BUCKET_NAME_STATIC=${CI_COMMIT_REF_SLUG}.rafaeldutra.me
+    fi
 
 stages:
   - build
@@ -43,6 +50,7 @@ pages:
     - public
   only:
     - develop
+  when: manual
 
 deploy-s3:
   image: python:latest
@@ -59,23 +67,10 @@ deploy-s3:
   environment:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
-    on_stop: stop_review
   only:
-    - develop
-  when: manual
+    - branches
 
 testing:
   stage: testing
   script:
     - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
-
-stop_review:
-  stage: deploy-s3
-  variables:
-    GIT_STRATEGY: none
-  script:
-    - echo "Remove review app"
-  when: manual
-  environment:
-    name: ${CI_COMMIT_REF_SLUG}
-    action: stop
