@@ -6,4 +6,3 @@ services:
 
 include:
   - 'gitlab-build-defs/production-gitlab-ci.yml'
-  - 'gitlab-build-defs/staging-gitlab-ci.yml'
