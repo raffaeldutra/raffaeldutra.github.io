@@ -5,5 +5,5 @@ services:
   - docker:dind
 
 include:
-  - '/gitlab-build-defs/production-gitlab-ci.yml'
-  - '/gitlab-build-defs/staging-gitlab-ci.yml'
+  - 'gitlab-build-defs/production-gitlab-ci.yml'
+  - 'gitlab-build-defs/staging-gitlab-ci.yml'
