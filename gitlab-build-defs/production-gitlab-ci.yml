@@ -25,6 +25,7 @@ environments:
 
 .publishing: &publishing
   image: docker:latest
+  stage: publishing
   script:
     - |
       docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
