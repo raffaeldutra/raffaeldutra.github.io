@@ -67,11 +67,17 @@ publishing:
 
 deploy-s3-branches:
   <<: *deploy-s3
+  variables:
+    BUCKET_NAME_STATIC: ${CI_COMMIT_REF_SLUG}.rafaeldutra.me
   only:
     - branches
+  except:
+    - develop
 
 deploy-s3-prod:
   <<: *deploy-s3
+  variables:
+    BUCKET_NAME_STATIC: www.rafaeldutra.me
   only:
     - develop
   when: manual
