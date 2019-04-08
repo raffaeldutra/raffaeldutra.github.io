@@ -15,6 +15,11 @@ resource "aws_s3_bucket" "staging-rafaeldutra-me" {
   lifecycle {
     prevent_destroy = false
   }
+  
+  website {
+    index_document = "index.html"
+    error_document = "error.html"
+  }
 
   tags {
     Name        = "Bucket Terraform staging.rafaeldutra.me"
