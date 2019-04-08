@@ -8,6 +8,11 @@ stages:
   - deploy-page
   - testing
 
+.job-definition: &job-definition
+  image: docker:latest
+  services:
+    - docker:dind
+
 environments:
   stage: environments
   script:
