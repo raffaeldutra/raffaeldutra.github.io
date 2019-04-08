@@ -60,9 +60,9 @@ deploy-s3:
   environment:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
+    on_stop: stop_review
   only:
     - develop
-  on_stop: stop_review
 
 testing:
   stage: testing
