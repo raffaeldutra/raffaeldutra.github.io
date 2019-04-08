@@ -1,0 +1,83 @@
+variables:
+  AWS_DEFAULT_REGION: sa-east-1
+  BUCKET_NAME_STATIC: www.rafaeldutra.me
+  BUCKET_NAME_STATIC_RESUME: ${BUCKET_NAME_STATIC}/resume
+
+before_script:
+  - mkdir -p public/resume
+  - apk update && apk add curl
+
+stages:
+  - build
+  - deploy-page
+  - deploy-s3
+  - testing
+
+build-hugo:
+  stage: build
+  script:
+    - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
+  artifacts:
+    paths:
+    - public
+  only:
+    - develop
+
+pages:
+  stage: deploy-page
+  script:
+    - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
+    - curl
+      --form input_files[]=@content/cv/me.en.md
+      --form from=markdown
+      --form to=pdf
+      --form other_files[]=@content/cv/css/resume.css
+      http://c.docverter.com/convert > public/resume/rafael-dutra-resume-en.pdf
+    - curl
+      --form input_files[]=@content/cv/me.md
+      --form from=markdown
+      --form to=pdf
+      --form other_files[]=@content/cv/css/resume.css
+      http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
+  artifacts:
+    paths:
+    - public
+  only:
+    - develop
+
+deploy-s3:
+  image: python:latest
+  stage: deploy-s3
+  tags:
+    - gitlab-org
+  before_script:
+    - pip install awscli
+  artifacts:
+    paths:
+    - public
+  script:
+    - aws s3 cp public s3://${BUCKET_NAME_STATIC} --recursive
+  environment:
+    name: ${CI_COMMIT_REF_SLUG}
+    url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
+  only:
+    - branches
+  except:
+    - develop
+  on_stop: stop_review
+
+testing:
+  stage: testing
+  script:
+    - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
+
+stop_review:
+  stage: deploy-page
+  variables:
+    GIT_STRATEGY: none
+  script:
+    - echo "Remove review app"
+  when: manual
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    action: stop
