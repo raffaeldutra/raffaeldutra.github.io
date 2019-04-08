@@ -6,7 +6,8 @@ services:
 
 variables:
   AWS_DEFAULT_REGION: sa-east-1
-  BUCKET_NAME_STATIC_RESUME: rafaeldutra.me/resume
+  BUCKET_NAME_STATIC: rafaeldutra.me
+  BUCKET_NAME_STATIC_RESUME: ${BUCKET_NAME_STATIC}/resume
 
 before_script:
   - mkdir -p public/resume
@@ -61,10 +62,10 @@ deploy-s3:
     paths:
     - public
   script:
-    - aws s3 cp public s3://${BUCKET_NAME_STATIC_RESUME} s3://${BUCKET_NAME_STATIC_RESUME} --recursive
+    - aws s3 cp public s3://${BUCKET_NAME_STATIC} s3://${BUCKET_NAME_STATIC_RESUME} --recursive
   environment:
     name: ${CI_COMMIT_REF_SLUG}
-    url: http://${BUCKET_NAME_STATIC_RESUME}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
+    url: http://${BUCKET_NAME_STATIC}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
   only:
     - develop
 
