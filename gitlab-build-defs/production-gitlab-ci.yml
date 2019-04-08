@@ -35,22 +35,23 @@ environments:
       --form to=pdf
       --form other_files[]=@content/cv/css/resume.css
       http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
+  artifacts:
+    paths:
+      - public
 
 .deploy-s3: &deploy-s3
   image: python:latest
   stage: deploy-s3
-  tags:
-    - gitlab-org
   before_script:
     - pip install awscli
-  artifacts:
-    paths:
-    - public
   script:
     - aws s3 cp public s3://${BUCKET_NAME_STATIC} --recursive
   environment:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
+  artifacts:
+    paths:
+      - public
 
 deploy-s3-branches:
   <<: *publishing
@@ -59,7 +60,6 @@ deploy-s3-branches:
     - branches
 
 deploy-s3-prod:
-  stage: deploy-s3-prod
   <<: *publishing
   <<: *deploy-s3
   only:
@@ -69,12 +69,12 @@ deploy-s3-prod:
 pages:
   stage: deploy-page
   <<: *publishing
-  artifacts:
-    paths:
-    - public
   only:
     - develop
   when: manual
+  artifacts:
+    paths:
+      - public
 
 testing:
   stage: testing
