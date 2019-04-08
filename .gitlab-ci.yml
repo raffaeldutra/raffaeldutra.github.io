@@ -1,5 +1,5 @@
 # Rafael Dutra
-.job_template: &job-definition
+.job-template: &job-definition
   image: docker:latest
   services:
     - docker:dind
