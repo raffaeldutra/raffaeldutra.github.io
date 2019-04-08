@@ -65,7 +65,7 @@ deploy-s3:
     - aws s3 cp public s3://${BUCKET_NAME_STATIC} --recursive
   environment:
     name: ${CI_COMMIT_REF_SLUG}
-    url: http://${BUCKET_NAME_STATIC}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
+    url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
   only:
     - develop
 
