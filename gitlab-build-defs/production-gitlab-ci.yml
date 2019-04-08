@@ -51,7 +51,6 @@ environments:
   stage: deploy-s3
   before_script:
     - pip install awscli
-  <<: *publishing
   script:
     - aws s3 cp public s3://${BUCKET_NAME_STATIC} --recursive
   environment:
