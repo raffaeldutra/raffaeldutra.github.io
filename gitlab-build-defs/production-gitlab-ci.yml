@@ -70,12 +70,12 @@ testing:
     - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
 
 stop_review:
-  stage: deploy-page
+  stage: deploy-s3
   variables:
     GIT_STRATEGY: none
   script:
     - echo "Remove review app"
   when: manual
   environment:
-    name: review/$CI_COMMIT_REF_NAME
+    name: ${CI_COMMIT_REF_SLUG}
     action: stop
