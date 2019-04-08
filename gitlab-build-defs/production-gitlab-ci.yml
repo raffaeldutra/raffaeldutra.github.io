@@ -63,12 +63,14 @@ pages:
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
     
 deploy-s3-branches:
-  <<: *deploy-s3  
+  <<: *publishing
+  <<: *deploy-s3
   only:
     - branches
 
 deploy-s3-prod:
-  <<: *deploy-s3  
+  <<: *publishing
+  <<: *deploy-s3
   only:
     - develop
   when: manual
