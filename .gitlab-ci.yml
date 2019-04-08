@@ -50,12 +50,7 @@ pages:
   only:
     - develop
 
-testing:
-  stage: testing
-  script:
-    - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
-
-deploy-resume-s3:
+deploy-s3:
   image: python:latest
   stage: deploy-s3
   tags:
@@ -66,10 +61,14 @@ deploy-resume-s3:
     paths:
     - public
   script:
-    - aws s3 cp public/resume/rafael-dutra-resume-en.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-resume-en.pdf
-    - aws s3 cp public/resume/rafael-dutra-resume.pdf s3://${BUCKET_NAME_STATIC_RESUME}/rafael-dutra-resume.pdf
+    - aws s3 cp public s3://${BUCKET_NAME_STATIC_RESUME} s3://${BUCKET_NAME_STATIC_RESUME} --recursive
   environment:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC_RESUME}.s3-${AWS_DEFAULT_REGION}.amazonaws.com
   only:
     - develop
+
+testing:
+  stage: testing
+  script:
+    - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
