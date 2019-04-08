@@ -23,7 +23,7 @@ environments:
           BUCKET_NAME_STATIC="${CI_COMMIT_REF_SLUG}.rafaeldutra.me"
       fi
 
-.publishing:
+.publishing: &publishing
   image: docker:latest
   stage: publishing
   script:
@@ -46,6 +46,10 @@ environments:
   artifacts:
     paths:
       - public
+
+publishing:
+  stage: publishing
+  <<: *publishing
 
 .deploy-s3: &deploy-s3
   image: python:latest
