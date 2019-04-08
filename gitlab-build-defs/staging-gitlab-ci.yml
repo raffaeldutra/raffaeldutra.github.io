@@ -65,4 +65,4 @@ deploy-s3:
 testing:
   stage: testing
   script:
-    - docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
+    - docker run --rm byrnedo/alpine-curl curl --silent staging.rafaeldutra.me > /dev/null || exit 1
