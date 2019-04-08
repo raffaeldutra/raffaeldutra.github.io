@@ -61,7 +61,6 @@ deploy-s3:
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
   only:
     - staging
-  on_stop: stop_review
 
 testing:
   stage: testing
