@@ -5,8 +5,8 @@ before_script:
 stages:
   - environments
   - publishing
-  - deploy-page
   - deploy-s3
+  - deploy-page
   - testing
 
 environments:
@@ -18,7 +18,6 @@ environments:
       else
           BUCKET_NAME_STATIC="${CI_COMMIT_REF_SLUG}.rafaeldutra.me"
       fi
-
 
 .publishing: &publishing
   stage: publishing
@@ -36,20 +35,6 @@ environments:
       --form to=pdf
       --form other_files[]=@content/cv/css/resume.css
       http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
-  artifacts:
-    paths:
-    - public
-
-
-pages:
-  stage: deploy-page
-  <<: *publishing
-  artifacts:
-    paths:
-    - public
-  only:
-    - develop
-  when: manual
 
 .deploy-s3: &deploy-s3
   image: python:latest
@@ -67,21 +52,29 @@ pages:
     name: ${CI_COMMIT_REF_SLUG}
     url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
 
-
 deploy-s3-branches:
   <<: *publishing
   <<: *deploy-s3
   only:
     - branches
 
-
 deploy-s3-prod:
+  stage: deploy-s3-prod
   <<: *publishing
   <<: *deploy-s3
   only:
     - develop
   when: manual
 
+pages:
+  stage: deploy-page
+  <<: *publishing
+  artifacts:
+    paths:
+    - public
+  only:
+    - develop
+  when: manual
 
 testing:
   stage: testing
