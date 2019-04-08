@@ -42,25 +42,23 @@ environments:
 .deploy-s3: &deploy-s3
   image: python:latest
   stage: deploy-s3
+  <<: *publishing
   before_script:
     - pip install awscli
   script:
     - aws s3 cp public s3://${BUCKET_NAME_STATIC} --recursive
   environment:
     name: ${CI_COMMIT_REF_SLUG}
-    url: http://${BUCKET_NAME_STATIC}.s3-website-${AWS_DEFAULT_REGION}.amazonaws.com
   artifacts:
     paths:
       - public
 
 deploy-s3-branches:
-  <<: *publishing
   <<: *deploy-s3
   only:
     - branches
 
 deploy-s3-prod:
-  <<: *publishing
   <<: *deploy-s3
   only:
     - develop
