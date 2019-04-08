@@ -14,16 +14,6 @@ stages:
   - deploy-page
   - testing
 
-environments:
-  stage: environments
-  script:
-    - |
-      if [ "${CI_ENVIRONMENT_SLUG}" == "develop" ]; then
-          BUCKET_NAME_STATIC="www.rafaeldutra.me"
-      else
-          BUCKET_NAME_STATIC="${CI_COMMIT_REF_SLUG}.rafaeldutra.me"
-      fi
-
 .publishing: &publishing
   image: docker:latest
   stage: publishing
