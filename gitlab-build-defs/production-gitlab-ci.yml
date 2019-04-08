@@ -1,7 +1,6 @@
 variables:
   AWS_DEFAULT_REGION: sa-east-1
   BUCKET_NAME_STATIC: www.rafaeldutra.me
-  BUCKET_NAME_STATIC_RESUME: ${BUCKET_NAME_STATIC}/resume
 
 before_script:
   - mkdir -p public/resume
@@ -63,6 +62,7 @@ deploy-s3:
     on_stop: stop_review
   only:
     - develop
+  when: manual
 
 testing:
   stage: testing
