@@ -5,6 +5,7 @@ services:
 
 before_script:
   - mkdir -p public/resume
+  - apk update && apk add curl
 
 stages:
   - environments
