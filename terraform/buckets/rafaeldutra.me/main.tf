@@ -3,8 +3,8 @@ provider "aws" {
   profile = "${var.provider["profile"]}"
 }
 
-resource "aws_s3_bucket" "rafaeldutra-me" {
-  bucket = "rafaeldutra.me"
+resource "aws_s3_bucket" "www-rafaeldutra-me" {
+  bucket = "www.rafaeldutra.me"
   acl    = "public-read"
   policy = "${file("policy-rafaeldutra.me.json")}"
 
@@ -14,6 +14,10 @@ resource "aws_s3_bucket" "rafaeldutra-me" {
 
   lifecycle {
     prevent_destroy = false
+  }
+
+  website {
+    redirect_all_requests_to = "https://rafaeldutra.me"
   }
 
   tags {
