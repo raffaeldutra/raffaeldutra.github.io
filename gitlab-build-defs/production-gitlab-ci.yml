@@ -23,7 +23,7 @@ environments:
           BUCKET_NAME_STATIC="${CI_COMMIT_REF_SLUG}.rafaeldutra.me"
       fi
 
-.publishing: &publishing
+.publishing:
   image: docker:latest
   stage: publishing
   script:
