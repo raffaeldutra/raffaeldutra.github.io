@@ -35,7 +35,7 @@ Jan/2018 - Jul/2018
 
 Trabalhando remotamente como pessoa juridica para a [Crossover](https://crossover.com).
 
-Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.com/) e para isso eu tive que aprender ferramentas internas para saber o que fazer.
+Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.com/) e suportar diversas ferramentas desenvolvidas interamente.
 
 * Automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Suportar ferramentas internas.
