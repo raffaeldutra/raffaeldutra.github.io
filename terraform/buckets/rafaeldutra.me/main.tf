@@ -3,11 +3,25 @@ provider "aws" {
   profile = "${var.provider["profile"]}"
 }
 
-terraform {
-  backend "s3" {
-    bucket  = "terraform-rafaeldutra-me"
-    key     = "terraform.tfstate"
-    region  = "sa-east-1"
-    profile = "rafaeldutra-me"
+resource "aws_s3_bucket" "www-rafaeldutra-me" {
+  bucket = "www.rafaeldutra.me"
+  acl    = "public-read"
+  policy = "${file("policy-rafaeldutra.me.json")}"
+
+  versioning {
+    enabled = true
+  }
+
+  lifecycle {
+    prevent_destroy = false
+  }
+
+  website {
+    redirect_all_requests_to = "https://rafaeldutra.me"
+  }
+
+  tags {
+    Name        = "Bucket Terraform rafaeldutra.me"
+    Environment = "prod"
   }
 }
