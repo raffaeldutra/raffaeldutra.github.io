@@ -116,6 +116,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * Advanced English for listening and reading.
 
 ### Courses
+* 2019/2 - [2º FOSSDay Lajeado](https://drive.google.com/file/d/1TU2R1TsuKaJQ04NjGRkt1I7fJUKeFROZ/view?usp=sharing) - Lajeado/RS.
 * 2018/2 - [Docker Crash Course for busy DevOps and Developers](https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing) - Udemy
 * 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2018/2 - [AWS hands on](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
