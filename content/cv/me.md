@@ -14,9 +14,22 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
+#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
+Jun/2019 - Presente
+
+Trabalhando alocado para o [Sicredo](http://www.sicredi.com.br).
+
+* Automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/).
+* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+
+###### Projetos realizados
+* Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
+
+
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
-Ago/2018 - Presente
+Ago/2018 - Mai/2019
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 

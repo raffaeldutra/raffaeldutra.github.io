@@ -14,9 +14,22 @@ More than 3 years working with [PHP](https://secure.php.net) development and fra
 In the last 3 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
+#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
 Technology company - Porto Alegre/RS  
 Aug/2018 - Present
+
+Working on site for [Sicredo](http://www.sicredi.com.br).
+
+* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/).
+* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+
+###### Projetos realizados
+* Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
+
+
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
+Technology company - Porto Alegre/RS  
+Aug/2018 - Mai/2019
 
 The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
 
