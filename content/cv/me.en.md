@@ -15,12 +15,12 @@ In the last 3 years, I've been working mainly on Infrastructure automation ([Inf
 
 ### Work Experience
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Aug/2018 - Present
 
-Working on site for [Sicredo](http://www.sicredi.com.br).
+Working on site for [Sicredi](http://www.sicredi.com.br).
 
-* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/).
+* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 
 ###### Projetos realizados
@@ -28,7 +28,7 @@ Working on site for [Sicredo](http://www.sicredi.com.br).
 
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Aug/2018 - Mai/2019
 
 The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
@@ -61,7 +61,7 @@ My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn inte
 
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Oct/2016 - Jan/2018
 
 Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
