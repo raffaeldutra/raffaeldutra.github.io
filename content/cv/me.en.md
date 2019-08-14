@@ -23,7 +23,7 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 
-###### Projetos realizados
+###### Projects
 * Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
 
 
