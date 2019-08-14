@@ -21,11 +21,11 @@ Maio/2019 - Presente
 Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 
 * Automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
-* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+* Outros projetos na [AWS](https://aws.amazon.com/) como CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 e muitos serviços utilizando Infraestrutura como código (IaC) com [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) usando Pipelines no Gitlab.
 
 ###### Projetos realizados
 * Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
-
+* Roles para Kubernetes.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.  
