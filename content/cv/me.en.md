@@ -147,6 +147,10 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 * [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
+### Terraform Modules
+* [Digital Ocean Droplet](https://registry.terraform.io/modules/raffaeldutra/droplet/digitalocean)
+* [Digital Ocean Project](https://registry.terraform.io/modules/raffaeldutra/project/digitalocean)
+
 ### Vagrant Boxes
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
 * [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
