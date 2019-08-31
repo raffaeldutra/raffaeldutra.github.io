@@ -1,7 +1,6 @@
 +++
 date = "2017-03-01"
 title = "Um pouco sobre mim"
-subtitle = "Qual o motivo de ser um guri bom"
 +++
 
 Contatos:

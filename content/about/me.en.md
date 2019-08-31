@@ -1,7 +1,6 @@
 +++
 date = "2017-03-01"
 title = "About me"
-subtitle = "Why I'm so great"
 +++
 
 Reach me at:
