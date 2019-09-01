@@ -11,24 +11,24 @@ More than 14 years of experience in Information Technology, Network Administrati
 
 More than 3 years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
 
-In the last 3 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
+In the last 4 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Aug/2018 - Present
 
-Working on site for [Sicredo](http://www.sicredi.com.br).
+Working on site for [Sicredi](http://www.sicredi.com.br).
 
-* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/).
-* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
+* Other projects at [AWS](https://aws.amazon.com/) like CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 and many others using Infrastructure as Code (IaC) with [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) using Pipelines on Gitlab.
 
-###### Projetos realizados
+###### Projects
 * Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
-
+* Ansible Roles for Kubernetes.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Aug/2018 - Mai/2019
 
 The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
@@ -61,7 +61,7 @@ My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn inte
 
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
-Technology company - Porto Alegre/RS  
+Technology company - Porto Alegre/RS.  
 Oct/2016 - Jan/2018
 
 Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
@@ -147,6 +147,10 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 * [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - beginner and intermediate](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
+### Terraform Modules
+* [Digital Ocean Droplet](https://registry.terraform.io/modules/raffaeldutra/droplet/digitalocean)
+* [Digital Ocean Project](https://registry.terraform.io/modules/raffaeldutra/project/digitalocean)
+
 ### Vagrant Boxes
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
 * [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
@@ -157,6 +161,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
 
 ### Events/Conferences
+* 2019/2 - [2º FOSSDay Lajeado](https://drive.google.com/file/d/1TU2R1TsuKaJQ04NjGRkt1I7fJUKeFROZ/view?usp=sharing) - Lajeado/RS.
 * 2018/2 - [Kinghost Connection](https://drive.google.com/file/d/1CMyjAoVbSve6IIxZTkk4C37LcD7hjFV-/view?usp=sharing) - Online.
 * 2018/2 - [1º FOSSDay Bento Gonçalves](https://drive.google.com/file/d/1u22kvoPh3vgHwgW9n57i8F2FyrXXPZHF/view?usp=sharing) - [Bento Gonçalves/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
 * 2018/2 - [DevOpsDay](https://drive.google.com/file/d/1dgjyaPCFP9aVfYyFGGUndQKm-oRrJhMu/view?usp=sharing) - [Agenda](http://poa.devopsdays.com.br/#programacao) - [Porto Alegre/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
@@ -175,6 +180,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
+* 2018/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - SENAC - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices and Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS

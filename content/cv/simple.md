@@ -11,7 +11,7 @@ Currículo completo: [https://rafaeldutra.me/cv/me/](https://rafaeldutra.me/cv/r
 ### Resumo Profissional  
 Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
 
-Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
 
 ### Experiência Profissional  
 #### Stefanini (https://stefanini.com) - DevOps Engineer  

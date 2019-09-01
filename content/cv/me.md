@@ -11,24 +11,24 @@ Mais de 14 anos de experiência em tecnologia da informação, administração d
 
 Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
 
-Nos últimos 3 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
+Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
-Jun/2019 - Presente
+Maio/2019 - Presente
 
-Trabalhando alocado para o [Sicredo](http://www.sicredi.com.br).
+Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 
-* Automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io, [Ansible](https://www.ansible.com/).
-* [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
+* Automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
+* Outros projetos na [AWS](https://aws.amazon.com/) como CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 e muitos serviços utilizando Infraestrutura como código (IaC) com [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) usando Pipelines no Gitlab.
 
 ###### Projetos realizados
 * Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
-
+* Roles para Kubernetes.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
-Empresa de tecnologia - Porto Alegre - Rio Grande do Sul -  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.  
 Ago/2018 - Mai/2019
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
@@ -145,6 +145,10 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - iniciante e intermediário](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 * [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - Iniciante e intermediário](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
+### Terraform Modules
+* [Digital Ocean Droplet](https://registry.terraform.io/modules/raffaeldutra/droplet/digitalocean)
+* [Digital Ocean Project](https://registry.terraform.io/modules/raffaeldutra/project/digitalocean)
+
 ### Vagrant Boxes
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
 * [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
@@ -174,6 +178,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
+* 2018/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - SENAC - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices e Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
