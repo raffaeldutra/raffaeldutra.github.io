@@ -7,9 +7,9 @@ categories = [
 ]
 +++
 
-Segue uma lista de podcasts que escuto atualmente. Aos poucos vou acrescentando outras áreas/segmentos.
+Here are the podcasts that I'm listening at this moment. I will add more from other segments/areas in the future.
 
-#### Tecnologia da informação
+#### Information technology
 * [Hipsters](https://hipsters.tech)
 * [AWS](https://aws.amazon.com/podcasts/aws-podcast/)
   * RSS: [https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss](https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss)
