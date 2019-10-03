@@ -160,6 +160,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
 
 ### Eventos/Conferências
+* 2019/2 - [2º FOSSDay Bento Gonçalves](https://drive.google.com/open?id=1RkiGnd2QIJMwsTqyFYDRXoD195i_p3Jb) - Bento Gonçalves/RS.
 * 2019/2 - [2º FOSSDay Lajeado](https://drive.google.com/file/d/1TU2R1TsuKaJQ04NjGRkt1I7fJUKeFROZ/view?usp=sharing) - Lajeado/RS.
 * 2018/2 - [Conexão Kinghost](https://drive.google.com/file/d/1CMyjAoVbSve6IIxZTkk4C37LcD7hjFV-/view?usp=sharing) - Online.
 * 2018/2 - [1º FOSSDay Bento Gonçalves](https://drive.google.com/file/d/1u22kvoPh3vgHwgW9n57i8F2FyrXXPZHF/view?usp=sharing) - [Bento Gonçalves/RS](https://photos.app.goo.gl/qcALHAakUKWiExr8A).
