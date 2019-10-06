@@ -8,4 +8,4 @@ DevOps culture enthusiast and IT specialist with infrastructure as code and auto
 
 Has 14 years of IT experience acting as SysAdmin Linux.
 
-Currently lives at Porto Alegre/RS and studies Security Information at UNISINOS.
+Currently lives at Porto Alegre/RS.
