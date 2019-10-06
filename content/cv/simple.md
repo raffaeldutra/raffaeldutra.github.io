@@ -14,9 +14,18 @@ Mais de 14 anos de experiência em tecnologia da informação, administração d
 Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
 
 ### Experiência Profissional  
+#### DBServer (https://dbserver.com.br) - DevOps Engineer  
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
+Maio/2019 - Presente
+
+Trabalhando alocado para o Sicredi.
+
+* Automação de infraestrutura com Packer, Terraform, Ansible.
+* Outros projetos na AWS utilizando Infraestrutura como código (IaC) com Terraform, Packer, Ansible usando Pipelines no Gitlab.
+
 #### Stefanini (https://stefanini.com) - DevOps Engineer  
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul  
-Ago/2018 - Presente
+Ago/2018 - Abr/2019
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
 

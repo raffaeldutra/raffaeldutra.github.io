@@ -150,14 +150,22 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * [Digital Ocean Droplet](https://registry.terraform.io/modules/raffaeldutra/droplet/digitalocean)
 * [Digital Ocean Project](https://registry.terraform.io/modules/raffaeldutra/project/digitalocean)
 
+### Ansible Galaxy
+* [Google Chrome Role](https://galaxy.ansible.com/raffaeldutra/ansible_role_google_chrome)
+  * [Github repositório](https://github.com/raffaeldutra/ansible-role-google-chrome)
+  * [Travis](https://travis-ci.org/raffaeldutra/ansible-role-google-chrome)
+
 ### Vagrant Boxes
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
 * [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
 
 ### Docker Hub images
-* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-ansible/)
-* [Docker Terraform](https://hub.docker.com/r/raffaeldutra/docker-terraform/)
-* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo/)
+* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-ansible)
+  * [Github repositório](https://github.com/raffaeldutra/docker-ansible)
+* [Docker Terraform](https://hub.docker.com/r/raffaeldutra/docker-terraform)
+  * [Github repositório](https://github.com/raffaeldutra/docker-terraform)
+* [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-gohugo)
+  * [Github repositório](https://github.com/raffaeldutra/docker-gohugo)
 
 ### Eventos/Conferências
 * 2019/2 - [2º FOSSDay Lajeado](https://drive.google.com/file/d/1TU2R1TsuKaJQ04NjGRkt1I7fJUKeFROZ/view?usp=sharing) - Lajeado/RS.
@@ -179,14 +187,17 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
-* 2018/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - SENAC - Porto Alegre/RS
+* 2018/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices e Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
 * 2017/06/20 - [10º Docker Meetup](https://goo.gl/photos/gDKB6pbEszNDwmXk9) - PUC - Porto Alegre/RS
 * 2017/02/09 - Novidades do Docker 1.13 - PUC - Porto Alegre/RS
 * 2017/01/16 - 12º Entrega Contínua - PUC - Porto Alegre/RS
 
+### Podcasts
+* [Opencast Reboot, FOSSDay e notícias](https://open.spotify.com/episode/5PxpxNNIjb4fG8WYTGnBmu?si=xzQr-QDcShOE8h4ghKij-Q)
+
 ### Videos no Youtube
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
-    * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
-    * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
+  * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
+  * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
