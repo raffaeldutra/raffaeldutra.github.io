@@ -514,22 +514,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/cv/resume-full/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/cv/resume-full/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/cv/resume-full/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/cv/simple/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
