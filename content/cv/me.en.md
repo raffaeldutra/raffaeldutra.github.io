@@ -44,6 +44,7 @@ The main goal is to bring new customers using automation (Continuous Integration
 
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)
+
 Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)
 Technology company - Portland - Oregon - United States.
 Jan/2018 - Jul/2018
@@ -63,6 +64,7 @@ My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn inte
 
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
+
 Technology company - Porto Alegre/RS.
 Oct/2016 - Jan/2018
 
