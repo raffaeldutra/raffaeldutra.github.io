@@ -29,6 +29,7 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Ansible Roles for Kubernetes.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
+
 Technology company - Porto Alegre/RS.
 Aug/2018 - Mai/2019
 
