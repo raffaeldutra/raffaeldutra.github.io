@@ -23,7 +23,8 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
 * Other projects at [AWS](https://aws.amazon.com/) like CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 and many others using Infrastructure as Code (IaC) with [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) using Pipelines on Gitlab.
 
-###### Projects
+##### Projects
+
 * Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
 * Ansible Roles for Kubernetes.
 
