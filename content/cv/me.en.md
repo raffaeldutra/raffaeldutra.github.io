@@ -2,9 +2,7 @@
 title: "Rafael Dutra"
 ---
 
-Brazilian, single.
-<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>
-Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>
+Brazilian, living at <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>, <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>
 
 ### Personal Statement
 
