@@ -15,6 +15,7 @@ More than 3 years working with [PHP](https://secure.php.net) development and fra
 In the last 4 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
+
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
 Technology company - Porto Alegre/RS.
 Aug/2018 - Present
