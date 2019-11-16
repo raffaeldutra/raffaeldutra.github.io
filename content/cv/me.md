@@ -1,6 +1,8 @@
-# Rafael Dutra
+---
+title: "Rafael Dutra"
+---
 
-Brasileiro, solteiro, morando em <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS, </a><a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>
+Brasileiro, solteiro, morando em <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>, <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>
 
 ### Resumo Profissional
 
@@ -12,7 +14,7 @@ Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraes
 
 ### Experiência Profissional
 
-#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
+#### [DBServer](https://dbserver.com.br) (<https://dbserver.com.br)> - DevOps Engineer
 
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Maio/2019 - Presente
