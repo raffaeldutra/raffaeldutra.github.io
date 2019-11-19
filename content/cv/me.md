@@ -4,9 +4,11 @@ title: "Rafael Dutra"
 
 Brasileiro, solteiro.
 <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>
+
 Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>
 
 ### Resumo Profissional
+
 Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
 Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks ([Laravel](https://laravel.com) e [Codeigniter](https://codeigniter.com), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) e [Git](https://git-scm.com).
@@ -14,7 +16,9 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
+
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
+
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Maio/2019 - Presente
 
@@ -23,11 +27,13 @@ Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 * Automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
 * Outros projetos na [AWS](https://aws.amazon.com/) como CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 e muitos serviços utilizando Infraestrutura como código (IaC) com [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) usando Pipelines no Gitlab.
 
-###### Projetos realizados
+##### Projetos realizados
+
 * Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
 * Roles para Kubernetes.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
+
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Ago/2018 - Mai/2019
 
@@ -42,6 +48,7 @@ Objetivo principal é levar a célula em Porto Alegre para automação e Cloud C
 
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect
+
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)
 Empresa de tecnologia - Portland - Oregon - United States.
 Jan/2018 - Jul/2018
@@ -61,12 +68,14 @@ Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.
 
 
 #### PoaTek IT Consulting (http://poatek.com) - DevOps Engineer
+
 Empresa de tecnologia - Porto Alegre/RS
 Out/2016 - Jan/2018
 
 Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
-###### AGCO
+##### AGCO
+
 * Deploy e automação de infraestrutura ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com, [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Integração contínua ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
 * Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana](https://www.elastic.co) + [Telegraf and InfluxDB](https://www.influxdata.com)).
@@ -79,6 +88,7 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
 ##### Projetos na AGCO
+
 **Puppet - Gerenciamento de Configuração**
 Criação de um ambiente funcional em localhost para que o time de Desenvolvimento e Operações pudessem recriar toda infraestrutura que é gerenciada via [Puppet](https://puppet.com), como desenvolvimento, homologação e produção.
 
@@ -111,6 +121,7 @@ Muitos dos nossos projetos foram utilizados com [Docker](https://www.docker.com)
 Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
 
 ### Educação
+
 * 2017/1 – Segurança da Tecnologia da Infomação
 UNISINOS - São Leopoldo/RS. Em andamento.
 
@@ -124,10 +135,12 @@ UNISINOS - São Leopoldo/RS. Não finalizado.
 Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 
 ### Idiomas
+
 * Inglês intermediário para escrita e conversação.
 * Inglês avançado para leitura e escuta.
 
 ### Cursos
+
 * 2018/2 - [Docker Crash Course for busy DevOps and Developers](https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing) - Udemy
 * 2018/2 - [DevOps Foundation](https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing) - Estabilis - São Paulo/SP.
 * 2018/2 - [AWS na prática](https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing) - Estabilis - São Paulo/SP.
@@ -139,28 +152,34 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2010/1 – Network Fundamentals, Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
 
 ### Palestras
+
 * 3º CloudUp - [Infraestrutura como código com Terraform](https://docs.google.com/presentation/d/1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
 * 2º FOSS Day Bento Gonçalves - [Infraestrutura como código - Terraform](https://docs.google.com/presentation/d/1wv802SW7prO4eNwOUAf6kC49SdJ2F04V31LHA4R3um4/edit?usp=sharing) - Bento Gonçalves/RS.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
 ### Workshops
+
 * [1º FOSSDay Lajeado](https://photos.app.goo.gl/FWk2jyLJqQA9FnIv2) - [Docker Workshop - iniciante e intermediário](https://docs.google.com/presentation/d/1Cni-MyFmhhb74Xco1KA1pO-aqwFVMuu7bOKvkjg1dZ4/edit?usp=sharing).
 * [1º FOSSDay Bento Gonçalves](https://photos.app.goo.gl/Jx4vbuLk9G3GXm8h9) - [Docker Workshop - Iniciante e intermediário](https://docs.google.com/presentation/d/1jBnlMO_hrv9ffRs6RQL08Z1zIPDs9OYAAU577D6RbNQ/edit?usp=sharing).
 
 ### Terraform Modules
+
 * [Digital Ocean Droplet](https://registry.terraform.io/modules/raffaeldutra/droplet/digitalocean)
 * [Digital Ocean Project](https://registry.terraform.io/modules/raffaeldutra/project/digitalocean)
 
 ### Ansible Galaxy
+
 * [Google Chrome Role](https://galaxy.ansible.com/raffaeldutra/ansible_role_google_chrome)
   * [Github repositório](https://github.com/raffaeldutra/ansible-role-google-chrome)
   * [Travis](https://travis-ci.org/raffaeldutra/ansible-role-google-chrome)
 
 ### Vagrant Boxes
+
 * [Debian 8.8.0 amd64 Docker CE](https://app.vagrantup.com/raffaeldutra/boxes/debian-8.8.0-amd64-docker-ce)
 * [Debian 8.6 amd64 Docker](https://app.vagrantup.com/raffaeldutra/boxes/debian-86-amd64-docker)
 
 ### Docker Hub images
+
 * [Docker Ansible](https://hub.docker.com/r/raffaeldutra/docker-ansible)
   * [Github repositório](https://github.com/raffaeldutra/docker-ansible)
 * [Docker Terraform](https://hub.docker.com/r/raffaeldutra/docker-terraform)
@@ -169,6 +188,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
   * [Github repositório](https://github.com/raffaeldutra/docker-gohugo)
 
 ### Eventos/Conferências
+
 * 2019/2 - [2º FOSSDay Bento Gonçalves](https://drive.google.com/open?id=1RkiGnd2QIJMwsTqyFYDRXoD195i_p3Jb) - Bento Gonçalves/RS.
 * 2019/2 - [2º FOSSDay Lajeado](https://drive.google.com/file/d/1TU2R1TsuKaJQ04NjGRkt1I7fJUKeFROZ/view?usp=sharing) - Lajeado/RS.
 * 2018/2 - [Conexão Kinghost](https://drive.google.com/file/d/1CMyjAoVbSve6IIxZTkk4C37LcD7hjFV-/view?usp=sharing) - Online.
@@ -189,6 +209,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
+
 * 2018/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
 * 2017/07/26 - [Microservices e Docker](https://goo.gl/photos/fVRhgNttZdAj5UPy9) - PUC - Porto Alegre/RS
@@ -197,9 +218,11 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2017/01/16 - 12º Entrega Contínua - PUC - Porto Alegre/RS
 
 ### Podcasts
+
 * [Opencast Reboot, FOSSDay e notícias](https://open.spotify.com/episode/5PxpxNNIjb4fG8WYTGnBmu?si=xzQr-QDcShOE8h4ghKij-Q)
 
 ### Videos no Youtube
+
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz)
   * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q)
   * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo)
