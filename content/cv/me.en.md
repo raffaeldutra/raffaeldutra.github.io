@@ -142,6 +142,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2010/1 - Network Fundamentals - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 
 ### Lectures
+* 3º CloudUp - [Infrastructure as Code using Terraform](https://drive.google.com/open?id=1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
 * 2º FOSS Day Bento Gonçalves - [Infrastructure as code - Terraform](https://docs.google.com/presentation/d/1wv802SW7prO4eNwOUAf6kC49SdJ2F04V31LHA4R3um4/edit?usp=sharing) - Bento Gonçalves/RS.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
