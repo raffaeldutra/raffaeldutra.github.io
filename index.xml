@@ -8,10 +8,20 @@
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform.me/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform.me/</guid>
+      <description> Terraform - FOSSDay 2019 Fossday - Bento Gonçalves - 2019/09/28 Nesta palestra foi abordado o uso de Infraestrutura como código com Terraform.
+Slides  </description>
+    </item>
     
     <item>
       <title>Currículo</title>
@@ -34,6 +44,16 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</guid>
+      <description> Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introdução de como iniciar com containers Docker.
+ Comandos básicos Dockerfile Gerenciamento de containers Rodando uma &amp;ldquo;aplicação&amp;rdquo; em CLI (Command Line Interface) com PHP Docker Compose  Slides  </description>
+    </item>
+    
+    <item>
+      <title>Docker Workshop</title>
+      <link>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform/</guid>
       <description> Docker Workshop - FOSSDay 2018 Fossday - Bento Gonçalves - 2018/09/22 Introdução de como iniciar com containers Docker.
  Comandos básicos Dockerfile Gerenciamento de containers Rodando uma &amp;ldquo;aplicação&amp;rdquo; em CLI (Command Line Interface) com PHP Docker Compose  Slides  </description>
     </item>
@@ -200,7 +220,7 @@ Atualmente trabalha para o Sicredi via DBServer.</description>
       <pubDate>Sat, 04 Mar 2017 12:54:24 -0300</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/presentations/talks/</guid>
-      <description>22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker 22/02/2017 - Introdução ao Docker  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
+      <description>28/09/2919 - Terraform 22/09/2018 - Docker Workshop 10/08/2018 - Integração Contínua 10/08/2018 - Introdução ao Vagrant 10/08/2018 - Introdução ao Puppet 05/05/2018 - Docker Workshop 03/10/2017 - Gerenciamento de configuração 02/09/2017 - Introdução ao Puppet 02/09/2017 - Administrando Puppet 29/04/2017 - Introdução ao Docker 22/02/2017 - Introdução ao Docker  Docker Workhop FOSSDay Bento Gonçalves - Bento Gonçalves - 2018/09/22 Introduction to start using Docker containers.
  Comandos báicos Dockerfile Gerenciamento de containers Rodando container em CLI (Command Line Interface) com uma &amp;ldquo;aplicação&amp;rdquo; em PHP Docker Compose  Slides  Integração Contínua Stefanini Solutions - Porto Alegre - 30/08/2018  O qué, como, o motivo e objetivos que podemos alcançar utilizando integração contínua.</description>
     </item>
     

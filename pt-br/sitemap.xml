@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform.me/</loc>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/cv/downloads/</loc>
     <lastmod>2018-09-30T12:54:24-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -34,6 +41,13 @@
                 hreflang="pt-br"
                 href="https://rafaeldutra.me/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -317,7 +331,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/</loc>
-    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -482,7 +496,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/presentations/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
