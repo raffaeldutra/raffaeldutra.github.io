@@ -4,6 +4,7 @@ title = "Talks"
 
 +++
 
+* [2018-09-28 - Terraform](/en/presentations/2019-09-28-fossday-bento-goncalves-terraform)
 * [2018-09-22 - Docker Workshop](/en/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop)
 * [2018-08-30 - Continuous Integration](/en/presentations/2018-08-30-stefanini-solutions-continuous-integration)
 * [2018-08-10 - Vagrant Introduction](/en/presentations/2018-08-10-vagrant-introduction)
