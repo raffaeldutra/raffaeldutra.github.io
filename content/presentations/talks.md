@@ -4,6 +4,7 @@ title = "Palestras"
 
 +++
 
+* [28/09/2919 - Terraform](/en/presentations/2019-09-28-fossday-bento-goncalves-terraform)
 * [22/09/2018 - Docker Workshop](/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop)
 * [10/08/2018 - Integração Contínua](/presentations/2018-08-30-stefanini-solutions-continuous-integration)
 * [10/08/2018 - Introdução ao Vagrant](/presentations/2018-08-10-vagrant-introduction)
