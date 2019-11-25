@@ -118,6 +118,7 @@ In some cases, we could not use some tools for configuration management, so I wr
 
 
 ### Education
+
 * 2017/1 – Information Technology Security
 UNISINOS - São Leopoldo/RS. Not completed.
 
