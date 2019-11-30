@@ -2,9 +2,9 @@
 title: "Rafael Dutra"
 ---
 
-Brasileiro, solteiro.  
-<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
-Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>  
+Brasileiro, solteiro.
+<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>
+Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contato%20via%20site" target="_blank">raffaeldutra@gmail.com</a>
 
 ### Resumo Profissional
 Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
@@ -14,7 +14,7 @@ Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e F
 Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
 ### Experiência Profissional
-#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
+#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Maio/2019 - Presente
 
@@ -27,8 +27,8 @@ Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 * Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
 * Roles para Kubernetes.
 
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
-Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.  
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Ago/2018 - Mai/2019
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
@@ -41,9 +41,9 @@ Objetivo principal é levar a célula em Porto Alegre para automação e Cloud C
 * [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
 
-#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect  
-Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)  
-Empresa de tecnologia - Portland - Oregon - United States.  
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect
+Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)
+Empresa de tecnologia - Portland - Oregon - United States.
 Jan/2018 - Jul/2018
 
 Trabalhando remotamente para a [Crossover](https://crossover.com).
@@ -60,8 +60,8 @@ Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.
 * Logs monitoramento de métricas ([Datadog](https://www.datadoghq.com/) e [Flapjack](http://flapjack.io/)).
 
 
-#### PoaTek IT Consulting (http://poatek.com) - DevOps Engineer  
-Empresa de tecnologia - Porto Alegre/RS  
+#### PoaTek IT Consulting (http://poatek.com) - DevOps Engineer
+Empresa de tecnologia - Porto Alegre/RS
 Out/2016 - Jan/2018
 
 Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
@@ -101,30 +101,30 @@ Ferramentas como Vagrant, Scripts em Shell e Ruby foram os grandes pilares para 
 Todo código desenvolvido para automação era pensado em como trazer benefícios tanto para o time de desenvolvimento como de
 operações pudessem realizar mais em menos tempo.
 
-**Automação para desenvolvimento em Oracle**  
+**Automação para desenvolvimento em Oracle**
 Neste caso, a demanda foi criar uma ferramenta para desenvolver scripts para Oracle, onde esses scripts passaram por pipelines de validação até chegar em produção.
 
-**[Bamboo](https://www.atlassian.com/software/bamboo) usando [Docker](https://www.docker.com)**  
+**[Bamboo](https://www.atlassian.com/software/bamboo) usando [Docker](https://www.docker.com)**
 Muitos dos nossos projetos foram utilizados com [Docker](https://www.docker.com) para fazer build da aplicação que foram desenvolvidas por outras empresas como plugins e dependência de pacotes.
 
-**Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**  
+**Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**
 Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
 
 ### Educação
-* 2017/1 – Segurança da Tecnologia da Infomação  
+* 2017/1 – Segurança da Tecnologia da Infomação
 UNISINOS - São Leopoldo/RS. Em andamento.
 
-* 2010/1 – 2011/2 – Redes de computadores  
+* 2010/1 – 2011/2 – Redes de computadores
 Centro de Tecnologia em Automação e Informática - Florianópolis/SC, SENAI/SC. Não finalizado.
 
-* 2008/1 – 2009/1 – Segurança da Tecnologia da Informação  
+* 2008/1 – 2009/1 – Segurança da Tecnologia da Informação
 UNISINOS - São Leopoldo/RS. Não finalizado.
 
-* 2004/1 – 2007/1 – Técnico em Redes de computadores  
+* 2004/1 – 2007/1 – Técnico em Redes de computadores
 Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 
 ### Idiomas
-* Inglês intermediário para escrita e conversação.  
+* Inglês intermediário para escrita e conversação.
 * Inglês avançado para leitura e escuta.
 
 ### Cursos
@@ -139,7 +139,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 * 2010/1 – Network Fundamentals, Cisco Networking Academy (carta de recomendação) - Florianópolis/SC.
 
 ### Palestras
-* 3º CloudUp - [Infraestrutura como código com Terraform](https://drive.google.com/open?id=1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
+* 3º CloudUp - [Infraestrutura como código com Terraform](https://docs.google.com/presentation/d/1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
 * 2º FOSS Day Bento Gonçalves - [Infraestrutura como código - Terraform](https://docs.google.com/presentation/d/1wv802SW7prO4eNwOUAf6kC49SdJ2F04V31LHA4R3um4/edit?usp=sharing) - Bento Gonçalves/RS.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 

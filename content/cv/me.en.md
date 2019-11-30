@@ -2,11 +2,11 @@
 title: "Rafael Dutra"
 ---
 
-Brazilian, single.  
-<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>  
-Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>  
+Brazilian, single.
+<a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>
+Email: <a href="mailto:raffaeldutra@gmail.com?Subject=Contact%20from%20site" target="_blank">raffaeldutra@gmail.com</a>
 
-### Personal Statement  
+### Personal Statement
 More than 14 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
 More than 3 years working with [PHP](https://secure.php.net) development and frameworks ([Laravel](https://laravel.com) and [Codeigniter](https://codeigniter.com/)), [Vagrant](https://www.vagrantup.com), [Bower](https://bower.io), [Composer](https://getcomposer.org) and [Git](https://git-scm.com).
@@ -14,8 +14,8 @@ More than 3 years working with [PHP](https://secure.php.net) development and fra
 In the last 4 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
 ### Work Experience
-#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer  
-Technology company - Porto Alegre/RS.  
+#### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
+Technology company - Porto Alegre/RS.
 Aug/2018 - Present
 
 Working on site for [Sicredi](http://www.sicredi.com.br).
@@ -27,8 +27,8 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
 * Ansible Roles for Kubernetes.
 
-#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer  
-Technology company - Porto Alegre/RS.  
+#### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
+Technology company - Porto Alegre/RS.
 Aug/2018 - Mai/2019
 
 The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
@@ -41,9 +41,9 @@ The main goal is to bring new customers using automation (Continuous Integration
 * [Created modules for Terraform to manage zones at AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
 
-#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)  
-Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)  
-Technology company - Portland - Oregon - United States.  
+#### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)
+Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)
+Technology company - Portland - Oregon - United States.
 Jan/2018 - Jul/2018
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
@@ -61,7 +61,7 @@ My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn inte
 
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
-Technology company - Porto Alegre/RS.  
+Technology company - Porto Alegre/RS.
 Oct/2016 - Jan/2018
 
 Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
@@ -76,7 +76,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Linux server administration ([Ubuntu Server](https://www.ubuntu.com/download/server)).
 * Documents processes and procedures required for developers.
 * Learns new applications and functionalities as required.
-* Participates in special projects, usually involving implementation of a new tool or application.  
+* Participates in special projects, usually involving implementation of a new tool or application.
 
 ##### AGCO Projects
 **Puppet - Configuration Management**
@@ -101,31 +101,31 @@ Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wik
 
 All the developed code to automate environment was thinked in how to bring benefits for operators and development team.
 
-**Oracle automation using Docker for development**  
+**Oracle automation using Docker for development**
 In this case, the demand was build a tool for developers creating scripts for Oracle, where those scripts had to pass for some pipelines until it get to production using Bamboo (Continuous integration tool).
 
-**Bamboo using Docker**  
+**Bamboo using Docker**
 Many of our projects used [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to create the same environment used in development to production like plugins and packages dependencies.
 
-**[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**  
-In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).  
+**[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**
+In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
 
 
 ### Education
-* 2017/1 – Information Technology Security  
+* 2017/1 – Information Technology Security
 UNISINOS - São Leopoldo/RS. Not completed.
 
-* 2010/1 – 2011/2 – Network Computers  
+* 2010/1 – 2011/2 – Network Computers
 Centro de Tecnologia em Automação e Informática, Florianópolis/SC, SENAI/SC. Not completed.
 
-* 2008/1 – 2009/1 – Information Technology Security  
+* 2008/1 – 2009/1 – Information Technology Security
 UNISINOS - São Leopoldo/RS. Not completed.
 
-* 2004/1 – 2007/1 – Network Computers Certificate  
+* 2004/1 – 2007/1 – Network Computers Certificate
 Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 
 ### Languages
-* Intermediate English for writing and speaking.  
+* Intermediate English for writing and speaking.
 * Advanced English for listening and reading.
 
 ### Courses
@@ -142,7 +142,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2010/1 - Network Fundamentals - Cisco Networking Academy (recommendation letter) - Florianópolis/SC.
 
 ### Lectures
-* 3º CloudUp - [Infrastructure as Code using Terraform](https://drive.google.com/open?id=1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
+* 3º CloudUp - [Infraestrutura como código com Terraform](https://docs.google.com/presentation/d/1AzBmnwwr6eU-pftN1NozsGuTHQm4YiIPs_IwpemEmHU/edit?usp=sharing) - Porto Alegre/RS.
 * 2º FOSS Day Bento Gonçalves - [Infrastructure as code - Terraform](https://docs.google.com/presentation/d/1wv802SW7prO4eNwOUAf6kC49SdJ2F04V31LHA4R3um4/edit?usp=sharing) - Bento Gonçalves/RS.
 * [2º TcheLinux Lajeado](https://photos.app.goo.gl/9Gq9lj3kG31GXsOf1) - [Introdução ao Docker](https://docs.google.com/presentation/d/18EOq9hOQa7EaxNA8B9iWXEpPbnfERFvvenFQW7dJ1Kw/edit?usp=sharing) - [Lajeado/RS](https://goo.gl/photos/asMU6zYa43cSgk3B6).
 
