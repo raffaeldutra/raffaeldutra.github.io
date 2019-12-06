@@ -15,6 +15,7 @@ In the last 4 years, I've been working mainly on Infrastructure automation ([Inf
 ### Work Experience
 
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
+
 Technology company - Porto Alegre/RS.
 Aug/2018 - Present
 
@@ -61,7 +62,6 @@ My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn inte
 * Job Scheduler ([Rundeck](http://rundeck.org)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
 * Logs and metrics monitoring ([Datadog](https://www.datadoghq.com/) and [Flapjack](http://flapjack.io/)).
-
 
 #### [PoaTek IT Consulting](http://poatek.com) (http://poatek.com)
 
@@ -116,7 +116,6 @@ Many of our projects used [Docker](https://www.docker.com) for build the applica
 **[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**
 In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
 
-
 ### Education
 
 * 2017/1 – Information Technology Security
@@ -132,6 +131,7 @@ UNISINOS - São Leopoldo/RS. Not completed.
 Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 
 ### Languages
+
 * Intermediate English for writing and speaking.
 * Advanced English for listening and reading.
 
