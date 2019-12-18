@@ -24,12 +24,15 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
 * Spring Boot development (beginner) for Consul metrics.
 * Continuous Integration e Continuous Deployment/Delivery com Gitlab.
-* Other projects at [AWS](https://aws.amazon.com/) like CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 and many others using Infrastructure as Code (IaC) with [Terraform](https://terraform.io), Packer, [Ansible](https://www.ansible.com/) using Pipelines on Gitlab.
+* Other projects at [AWS](https://aws.amazon.com/) like CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 and many others using Infrastructure as Code (IaC) with [Terraform](https://
+terraform.io), Packer, [Ansible](https://www.ansible.com/) using Pipelines on Gitlab.
 
-##### Projects
-
-* Blue/Green environments with [AWS](https://aws.amazon.com/) for the new website for the company.
-* Ansible Roles for Kubernetes.
+* Full cicle automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) for AWS with [Gitlab](https://gitlab.com)).
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) using [Gitlab](https://gitlab.com))
+* Blue/Green environments com [AWS](https://aws.amazon.com/).
+* Ansible Roles for multi master para Kubernetes cluster.
+* Hashicorp [Consul](https://consul.io) and [Vault](https://vaultproject.io)
+* Metric collection for Hashicorp [Consul](https://consul.io) using Spring Boot.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
 
