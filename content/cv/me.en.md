@@ -17,7 +17,7 @@ In the last 4 years, I've been working mainly on Infrastructure automation ([Inf
 #### [DBServer](https://dbserver.com.br) (https://dbserver.com.br) - DevOps Engineer
 
 Technology company - Porto Alegre/RS.
-Aug/2018 - Present
+May/2019 - current
 
 Working on site for [Sicredi](http://www.sicredi.com.br).
 
