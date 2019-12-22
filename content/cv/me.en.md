@@ -21,12 +21,6 @@ May/2019 - current
 
 Working on site for [Sicredi](http://www.sicredi.com.br).
 
-* Deployment and infrastructure automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/).
-* Spring Boot development (beginner) for Consul metrics.
-* Continuous Integration e Continuous Deployment/Delivery com Gitlab.
-* Other projects at [AWS](https://aws.amazon.com/) like CloudFront, ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2)(Load Balancer, Auto Scaling Groups), Route 53, S3 and many others using Infrastructure as Code (IaC) with [Terraform](https://
-terraform.io), Packer, [Ansible](https://www.ansible.com/) using Pipelines on Gitlab.
-
 * Full cicle automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) for AWS with [Gitlab](https://gitlab.com)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) using [Gitlab](https://gitlab.com))
 * Blue/Green environments com [AWS](https://aws.amazon.com/).
