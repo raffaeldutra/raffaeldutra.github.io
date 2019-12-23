@@ -27,6 +27,7 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Ansible Roles for multi master para Kubernetes cluster.
 * Hashicorp [Consul](https://consul.io) and [Vault](https://vaultproject.io)
 * Metric collection for Hashicorp [Consul](https://consul.io) using Spring Boot.
+* TDD (Test-driven development) for Ansible Roles.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
 
