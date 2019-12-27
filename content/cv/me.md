@@ -120,7 +120,7 @@ Em alguns casos, não era possível utilizar ferramentas de gerenciamento de con
 ### Educação
 
 * 2017/1 – Segurança da Tecnologia da Infomação
-UNISINOS - São Leopoldo/RS. Em andamento.
+UNISINOS - São Leopoldo/RS. Não finalizado.
 
 * 2010/1 – 2011/2 – Redes de computadores
 Centro de Tecnologia em Automação e Informática - Florianópolis/SC, SENAI/SC. Não finalizado.
@@ -207,6 +207,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 
 ### Meetups
 
+* 2019/11/15 - (1º Google Developers Group em Lajeado)[https://www.meetup.com/pt-BR/GDG-Lajeado/] - (https://gdglajeado.dev/)[https://gdglajeado.dev/]
 * 2019/12/04 - [Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2019/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
