@@ -27,11 +27,7 @@ Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 * Ansible Roles para automação de cluster multi master para Kubernetes.
 * Hashicorp [Consul](https://consul.io) e [Vault](https://vaultproject.io)
 * Coleta de métricas com Spring Boot para hashicorp Consul.
-
-##### Projetos realizados
-
-* Ambientes Blue/Green com [AWS](https://aws.amazon.com/) para o novo site Sicredi.
-* Roles para Kubernetes.
+* TDD (Test-driven development) para Roles Ansible.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
 
