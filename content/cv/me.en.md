@@ -198,6 +198,8 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2006/1 - 7º Fórum Internacional de Software Livre (FISL) - [Porto Alegre/RS](https://photos.app.goo.gl/NpqQjDqEZOVkeMKf1).
 
 ### Meetups
+
+* 2019/11/15 - (1º Google Developers Group em Lajeado)[https://www.meetup.com/pt-BR/GDG-Lajeado/] - (https://gdglajeado.dev/)[https://gdglajeado.dev/]
 * 2019/12/04 - [Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2019/05/30 - [Lançamento da Comunidade Cloud Native POA](https://www.meetup.com/pt-BR/Cloud-Native-Computing-Porto-Alegre) - Zenvia - Porto Alegre/RS
 * 2018/05/30 - [14° Docker Meetup](https://drive.google.com/file/d/0B51KxqHg_vABaWtPLXNBaWxPSnZ4cWduWVVILURweHFXeUZZ/view?usp=sharing) - SENAC - Porto Alegre/RS
