@@ -24,7 +24,7 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 * Full cicle automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) for AWS with [Gitlab](https://gitlab.com)).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) using [Gitlab](https://gitlab.com))
 * Blue/Green environments com [AWS](https://aws.amazon.com/).
-* Ansible Roles for multi master para Kubernetes cluster.
+* Ansible Roles for Kubernetes cluster multi master strategy.
 * Hashicorp [Consul](https://consul.io) and [Vault](https://vaultproject.io)
 * Metric collection for Hashicorp [Consul](https://consul.io) using Spring Boot.
 * TDD (Test-driven development) for Ansible Roles.
@@ -218,3 +218,13 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * [Playlist Docker](https://www.youtube.com/watch?v=jXqfY0Nn53Q&list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz) (Portuguese content)
     * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q) (Portuguese content)
     * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo) (Portuguese content)
+
+
+### Publicações
+
+* 2020/01/07 - [https://blog.4linux.com.br/introducao-ao-terraform/](https://blog.4linux.com.br/introducao-ao-terraform/)
+* 2020/01/16 - [https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/](https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/)
+* 2020/01/30 - [https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/](https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/)
+* 2020/02/29 - [https://blog.4linux.com.br/terraform-parte4-criando-modulos/](https://blog.4linux.com.br/terraform-parte4-criando-modulos/)
+* 2020/03/17 - [https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/](https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/)
+* 2020/03/24 - [https://blog.4linux.com.br/terraform-parte-6-utilizando-modulos-com-outros-modulos/](https://blog.4linux.com.br/terraform-parte6-utilizando-modulos-com-outros-modulos/)
