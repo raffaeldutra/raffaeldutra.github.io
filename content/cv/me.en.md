@@ -22,7 +22,7 @@ May/2019 - current
 Working on site for [Sicredi](http://www.sicredi.com.br).
 
 * Full cicle automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) for AWS with [Gitlab](https://gitlab.com)).
-* Blue/Green environments com [AWS](https://aws.amazon.com/).
+* Blue/Green environments on [AWS](https://aws.amazon.com/).
 * Ansible Roles for Kubernetes cluster multi master strategy.
 * Hashicorp [Consul](https://consul.io) and [Vault](https://vaultproject.io)
 * Metric collection for Hashicorp [Consul](https://consul.io) using Spring Boot.
