@@ -8,7 +8,7 @@ Brazilian, living at <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">P
 
 14+ years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
-3+ years working with [PHP](https://secure.php.net) development and frameworks [Laravel](https://laravel.com).
+3+ years working with [PHP](https://secure.php.net) development and [Laravel](https://laravel.com).
 
 In the last 5 years, I've been working mainly on Infrastructure automation ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) and containerization with [Docker](https://www.docker.com).
 
