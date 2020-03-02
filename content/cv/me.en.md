@@ -33,8 +33,6 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 Technology company - Porto Alegre/RS.
 Aug/2018 - May/2019
 
-The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
-
 * Deployment and infrastructure automation using ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) [Puppet](https://puppet.com)) and [Cloud-init](https://cloudinit.readthedocs.io).
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs), [Relational Database Service (RDS)](https://aws.amazon.com/rds)).
 * Document internal tools used at [AWS](https://aws.amazon.com/).
