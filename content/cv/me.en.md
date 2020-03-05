@@ -49,8 +49,6 @@ Jan/2018 - Jul/2018
 
 Working remotely as independent contractor for [Crossover](https://crossover.com).
 
-My main goal was to reduce cost at [AWS](https://aws.amazon.com/) and learn internal tools used in the company to provide support.
-
 * Deployment and infrastructure automation ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) and [Puppet](https://puppet.com)).
 * Internal support tools.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
