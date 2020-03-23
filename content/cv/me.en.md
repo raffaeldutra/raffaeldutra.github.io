@@ -43,7 +43,7 @@ Aug/2018 - May/2019
 
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)
 
-Jive Software is now a part of [Aurea Company](https://www.aurea.com) (https://aurea.com)
+[Aurea Company](https://www.aurea.com) (https://aurea.com)
 Technology company - Portland - Oregon - United States.
 Jan/2018 - Jul/2018
 
