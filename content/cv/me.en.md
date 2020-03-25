@@ -76,11 +76,6 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.
 
-##### AGCO Projects
-
-**Puppet - Configuration Management**
-This project was developed from scratch, since the creation of a functional environment in localhost to developers and operator could recreate the whole infrastructure managed using [Puppet](https://puppet.com), until it get to the environments, like development, staging and production.
-
 Documentation of process, like:
 
 * Mounting points
