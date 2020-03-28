@@ -76,16 +76,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.
 
-Documentation of process, like:
-
-* Mounting points
-* Create new environments
-* Code deployment by operators in production with puppet apply command, using [Continuous Delivery](https://continuousdelivery.com/)
-* Create new machines with specific modules
-* Code deployment with [r10k](https://puppet.com/docs/pe/2018.1/r10k.html)
-* How to create new [Puppet](https://puppet.com) servers using [Puppet](https://puppet.com)
-
-Developed codes:
+Codes:
 
 * [Spring Boot module (Java)](https://projects.spring.io/spring-boot).
 * Structural Scripts for nodes in format [YAML](https://en.wikipedia.org/wiki/YAML) written in [Ruby](https://www.ruby-lang.org/en/).
