@@ -76,15 +76,8 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.
 
-Codes:
-
-* [Spring Boot module (Java)](https://projects.spring.io/spring-boot).
-* Structural Scripts for nodes in format [YAML](https://en.wikipedia.org/wiki/YAML) written in [Ruby](https://www.ruby-lang.org/en/).
-* [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) to install agents and configure it.
-
 Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
-All the developed code to automate environment was thinked in how to bring benefits for operators and development team.
 
 **Oracle automation using Docker for development**
 In this case, the demand was build a tool for developers creating scripts for Oracle, where those scripts had to pass for some pipelines until it get to production using Bamboo (Continuous integration tool).
