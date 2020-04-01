@@ -78,10 +78,6 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
-
-**Oracle automation using Docker for development**
-In this case, the demand was build a tool for developers creating scripts for Oracle, where those scripts had to pass for some pipelines until it get to production using Bamboo (Continuous integration tool).
-
 **Bamboo using Docker**
 Many of our projects used [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to create the same environment used in development to production like plugins and packages dependencies.
 
