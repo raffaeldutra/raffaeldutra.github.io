@@ -78,9 +78,6 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
-**Bamboo using Docker**
-Many of our projects used [Docker](https://www.docker.com) for build the application developed by other companies. Our main problem was to create the same environment used in development to production like plugins and packages dependencies.
-
 **[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**
 In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
 
