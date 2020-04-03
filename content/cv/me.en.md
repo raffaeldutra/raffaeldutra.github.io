@@ -40,7 +40,6 @@ Aug/2018 - May/2019
 * [Created modules for Terraform to manage records at AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-records)
 * [Created modules for Terraform to manage zones at AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
-
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com)
 
 [Aurea Company](https://www.aurea.com) (https://aurea.com)
