@@ -77,9 +77,6 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 
 Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
 
-**[Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) environments**
-In some cases, we could not use some tools for configuration management, so I wrote scripts for environments to install and configure some tools, like: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Spring Boot module (Java)](https://projects.spring.io/spring-boot) environment, [ActiveMQ](http://activemq.apache.org).
-
 ### Education
 
 * 2017/1 – Information Technology Security
