@@ -74,8 +74,7 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Documents processes and procedures required for developers.
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.
-
-Tools like [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org) were the great pillars for the project become viable.
+* [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org).
 
 ### Education
 
