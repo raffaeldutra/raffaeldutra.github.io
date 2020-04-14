@@ -74,7 +74,9 @@ Working on site for [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
 * Documents processes and procedures required for developers.
 * Learns new applications and functionalities as required.
 * Participates in special projects, usually involving implementation of a new tool or application.
-* [Vagrant](https://www.vagrantup.com/), [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script) in [Ruby](https://www.ruby-lang.org).
+* [Vagrant](https://www.vagrantup.com/).
+* [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script).
+* [Ruby](https://www.ruby-lang.org).
 
 ### Education
 
@@ -88,7 +90,7 @@ Centro de Tecnologia em Automação e Informática, Florianópolis/SC, SENAI/SC.
 UNISINOS - São Leopoldo/RS. Not completed.
 
 * 2004/1 – 2007/1 – Network Computers Certificate
-Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
+Escola Estadual de Educação Profissional em Estrela, Estrela/RS.
 
 ### Languages
 
@@ -187,4 +189,4 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS. Finished.
 * 2020/01/30 - [https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/](https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/)
 * 2020/02/29 - [https://blog.4linux.com.br/terraform-parte4-criando-modulos/](https://blog.4linux.com.br/terraform-parte4-criando-modulos/)
 * 2020/03/17 - [https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/](https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/)
-* 2020/03/24 - [https://blog.4linux.com.br/terraform-parte-6-utilizando-modulos-com-outros-modulos/](https://blog.4linux.com.br/terraform-parte6-utilizando-modulos-com-outros-modulos/)
+* 2020/03/24 - [https://blog.4linux.com.br/terraform-parte6-utilizando-modulos-com-outros-modulos/](https://blog.4linux.com.br/terraform-parte6-utilizando-modulos-com-outros-modulos/)
