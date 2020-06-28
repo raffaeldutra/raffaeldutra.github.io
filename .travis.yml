@@ -15,9 +15,6 @@ before_script:
     cat config.toml | grep baseurl 2>/dev/null >/dev/null || exit 1
 
 script:
-  - terraform init
-  - terraform workspace new prd
-  - terraform apply -auto-approve
   - docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
   - curl
     --form input_files[]=@content/cv/me.en.md
