@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podcasts on #/share</title>
+    <title>podcasts on #/share</title>
     <link>https://rafaeldutra.me/tags/podcasts/</link>
-    <description>Recent content in Podcasts on #/share</description>
+    <description>Recent content in podcasts on #/share</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
@@ -29,7 +29,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;RSS: &lt;a href=&#34;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&#34;&gt;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Itunes: &lt;a href=&#34;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&#34;&gt;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&lt;/a&gt;</description>
+&lt;li&gt;Itunes: &lt;a href=&#34;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&#34;&gt;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -48,7 +51,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;RSS: &lt;a href=&#34;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&#34;&gt;https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Itunes: &lt;a href=&#34;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&#34;&gt;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&lt;/a&gt;</description>
+&lt;li&gt;Itunes: &lt;a href=&#34;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&#34;&gt;https://itunes.apple.com/au/podcast/aws-podcast/id1122785133?mt=2&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

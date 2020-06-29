@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on #/share</title>
@@ -8,12 +8,22 @@
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
+      <title>podcasts</title>
+      <link>https://rafaeldutra.me/categories/podcasts/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/categories/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
       <link>https://rafaeldutra.me/categories/development/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -22,7 +32,7 @@
     </item>
     
     <item>
-      <title>Docker</title>
+      <title>docker</title>
       <link>https://rafaeldutra.me/categories/docker/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -31,20 +41,11 @@
     </item>
     
     <item>
-      <title>Php</title>
+      <title>php</title>
       <link>https://rafaeldutra.me/categories/php/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/categories/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcasts</title>
-      <link>https://rafaeldutra.me/categories/podcasts/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/categories/podcasts/</guid>
       <description></description>
     </item>
     
