@@ -15,18 +15,6 @@ jobs:
       - name: Install and Build
         run: |
           docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo:v1.1
-          curl \
-          --form input_files[]=@content/cv/me.en.md \
-          --form from=markdown \
-          --form to=pdf \
-          --form other_files[]=@content/cv/css/resume.css \
-          http://c.docverter.com/convert > public/resume/rafael-dutra-resume-en.pdf
-          curl \
-          --form input_files[]=@content/cv/me.md \
-          --form from=markdown \
-          --form to=pdf \
-          --form other_files[]=@content/cv/css/resume.css \
-          http://c.docverter.com/convert > public/resume/rafael-dutra-resume.pdf
           docker run --rm byrnedo/alpine-curl curl --silent rafaeldutra.me > /dev/null || exit 1
 
       - name: Deploy
