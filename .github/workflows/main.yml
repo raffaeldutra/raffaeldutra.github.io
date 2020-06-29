@@ -14,7 +14,7 @@ jobs:
 
       - name: Install and Build
         run: |
-          docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo
+          docker run --rm -v $(pwd):/src -v $(pwd)/public:/src/public raffaeldutra/docker-gohugo:v1.1
           curl \
           --form input_files[]=@content/cv/me.en.md \
           --form from=markdown \
