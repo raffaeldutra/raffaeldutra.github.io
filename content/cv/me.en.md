@@ -32,7 +32,7 @@ Working on site for [Sicredi](http://www.sicredi.com.br).
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
 
 Technology company - Porto Alegre/RS.
-Aug/2018 - Mai/2019
+Aug/2018 - May/2019
 
 The main goal is to bring new customers using automation (Continuous Integration and Continuous Deployment/Delivery) and Cloud Computing.
 
