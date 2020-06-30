@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on #/share</title>
@@ -8,22 +8,22 @@
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Automacao</title>
-      <link>https://rafaeldutra.me/tags/automacao/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <title>podcasts</title>
+      <link>https://rafaeldutra.me/tags/podcasts/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/tags/automacao/</guid>
+      <guid>https://rafaeldutra.me/tags/podcasts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Automation</title>
+      <title>automation</title>
       <link>https://rafaeldutra.me/tags/automation/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -32,16 +32,7 @@
     </item>
     
     <item>
-      <title>Desenvolvimento</title>
-      <link>https://rafaeldutra.me/tags/desenvolvimento/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/tags/desenvolvimento/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
+      <title>development</title>
       <link>https://rafaeldutra.me/tags/development/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -50,7 +41,7 @@
     </item>
     
     <item>
-      <title>Docker</title>
+      <title>docker</title>
       <link>https://rafaeldutra.me/tags/docker/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -59,7 +50,7 @@
     </item>
     
     <item>
-      <title>Infraestructure</title>
+      <title>infraestructure</title>
       <link>https://rafaeldutra.me/tags/infraestructure/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -68,16 +59,7 @@
     </item>
     
     <item>
-      <title>Infraestrutura</title>
-      <link>https://rafaeldutra.me/tags/infraestrutura/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/tags/infraestrutura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Php</title>
+      <title>php</title>
       <link>https://rafaeldutra.me/tags/php/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
@@ -86,11 +68,29 @@
     </item>
     
     <item>
-      <title>Podcasts</title>
-      <link>https://rafaeldutra.me/tags/podcasts/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <title>automacao</title>
+      <link>https://rafaeldutra.me/tags/automacao/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/tags/podcasts/</guid>
+      <guid>https://rafaeldutra.me/tags/automacao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desenvolvimento</title>
+      <link>https://rafaeldutra.me/tags/desenvolvimento/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/desenvolvimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infraestrutura</title>
+      <link>https://rafaeldutra.me/tags/infraestrutura/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/tags/infraestrutura/</guid>
       <description></description>
     </item>
     
