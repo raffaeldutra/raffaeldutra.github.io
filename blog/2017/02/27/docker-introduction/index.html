@@ -5,31 +5,33 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Rafael Dutra</title>
-  <meta property="og:title" content="Rafael Dutra" />
-  <meta name="twitter:title" content="Rafael Dutra" />
-  <meta name="description" content="Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
-https://www.linkedin.com/in/rafaeldutra
-Currículo completo: https://rafaeldutra.me/cv/me/
-raffaeldutra@gmail.com
-&#43;55 51 9 9972 7599
-Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
-Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
-Experiência Profissional DBServer (https://dbserver.com.br) - DevOps Engineer Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.">
-  <meta property="og:description" content="Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
-https://www.linkedin.com/in/rafaeldutra
-Currículo completo: https://rafaeldutra.me/cv/me/
-raffaeldutra@gmail.com
-&#43;55 51 9 9972 7599
-Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
-Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
-Experiência Profissional DBServer (https://dbserver.com.br) - DevOps Engineer Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.">
-  <meta name="twitter:description" content="Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
-https://www.linkedin.com/in/rafaeldutra
-Currículo completo: https://rafaeldutra.me/cv/me/
-raffaeldutra@gmail.com
-&#43;55 51 9 9972 7599
-Resumo …">
+  <title>Docker Introduction</title>
+  <meta property="og:title" content="Docker Introduction" />
+  <meta name="twitter:title" content="Docker Introduction" />
+  <meta name="description" content="What&rsquo;s Docker?
+
+By definition on https://opensource.com/resources/what-docker:
+
+
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+
+
+">
+  <meta property="og:description" content="What&rsquo;s Docker?
+
+By definition on https://opensource.com/resources/what-docker:
+
+
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+
+
+">
+  <meta name="twitter:description" content="What&rsquo;s Docker?
+
+By definition on https://opensource.com/resources/what-docker:
+
+
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. …">
   <meta name="author" content="Rafael Dutra"/>
   <link href='https://rafaeldutra.me/images/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
@@ -37,12 +39,12 @@ Resumo …">
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@raffaeldutra" />
   <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/cv/simple/" />
+  <meta property="og:url" content="https://rafaeldutra.me/blog/2017/02/27/docker-introduction/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="#/share" />
 
   <meta name="generator" content="Hugo 0.46" />
-  <link rel="canonical" href="https://rafaeldutra.me/cv/simple/" />
+  <link rel="canonical" href="https://rafaeldutra.me/blog/2017/02/27/docker-introduction/" />
   <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -220,8 +222,8 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="cv-heading">
-              <h1>Rafael Dutra</h1>
+            <div class="blog-heading">
+              <h1>Docker Introduction</h1>
                 
                 
             </div>
@@ -237,115 +239,116 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
+        <h2 id="what-s-docker">What&rsquo;s Docker?</h2>
+
+<p>By definition on <a href="https://opensource.com/resources/what-docker">https://opensource.com/resources/what-docker</a>:</p>
+
+<blockquote>
+<p>Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.</p>
+</blockquote>
+
+<p></p>
+
+<p>Here is an image that represent the Docker &ldquo;stack&rdquo; technology.</p>
+
+<!--more-->
+
+<p><img src="http://19yw4b240vb03ws8qm25h366.wpengine.netdna-cdn.com/wp-content/uploads/Docker-API-infographic-container-devops-nordic-apis.png" alt="Docker" /></p>
+
+<p>So, that means you can put all the necessary technology into a container, at least you should, and why you should? Because that&rsquo;s on the &ldquo;pillars&rdquo; of containerization.</p>
+
+<h2 id="okay-but-how-it-works">Okay, but how it works?</h2>
+
+<p>Docker is nothing new in terms of containers, but the opposite, containers exists since the first release on August/2008, but before that (Kernel 2.6.27) LXC exists and it was full functional at Kernel 2.6.29. Okay, but we are talking about Docker, not LXC.</p>
+
+<p>Yeap, you are right! Now let&rsquo;s talks about LXC :-)</p>
+
+<h2 id="what-s-lxc">What&rsquo;s LXC?</h2>
+
+<p>LXC is about &ldquo;what resources you want to isolate&rdquo;, so let&rsquo;s take a look how we can isolate the SSHD service -  <a href="http://lxc.sourceforge.net/man/lxc.html">http://lxc.sourceforge.net/man/lxc.html</a>.</p>
+
+<blockquote>
+<p>The default configuration is to isolate the pids, the sysv ipc and the mount points. If you want to run a simple shell inside a container, a basic configuration is needed, especially if you want to share the rootfs. If you want to run an application like sshd, you should provide a new network stack and a new hostname. If you want to avoid conflicts with some files eg. /var/run/httpd.pid, you should remount /var/run with an empty directory. If you want to avoid the conflicts in all the cases, you can specify a rootfs for the container. The rootfs can be a directory tree, previously bind mounted with the initial rootfs, so you can still use your distro but with your own /etc and /home</p>
+</blockquote>
+
+<p>Here is an example of directory tree for sshd:</p>
+
+<pre class="prettyprint">
+[root@lxc sshd]$ tree -d rootfs
+|rootfs
+|-- bin
+|-- dev
+|   |-- pts
+|   `-- shm
+|       `-- network
+|-- etc
+|   `-- ssh
+|-- lib
+|-- proc
+|-- root
+|-- sbin
+|-- sys
+|-- usr
+`-- var
+    |-- empty
+    |   `-- sshd
+    |-- lib
+    |   `-- empty
+    |       `-- sshd
+    `-- run
+        `-- sshd
+</pre>
+
+<p>And here the mount points associate with it:</p>
+
+<pre class="prettyprint">
+[root@lxc sshd]$ cat fstab
+
+/lib /home/root/sshd/rootfs/lib none ro,bind 0 0
+/bin /home/root/sshd/rootfs/bin none ro,bind 0 0
+/usr /home/root/sshd/rootfs/usr none ro,bind 0 0
+/sbin /home/root/sshd/rootfs/sbin none ro,bind 0 0
+
+</pre>
+
+<h2 id="lxc-components">LXC components</h2>
+
+<p>LXC is currently made of a few separate components:</p>
+
+<ul>
+<li>The liblxc library:</li>
+<li>Several language bindings for the API:
+
+<ul>
+<li>python3</li>
+<li>lua</li>
+<li>Go</li>
+<li>ruby</li>
+<li>python2</li>
+<li>Haskell</li>
+</ul></li>
+<li>A set of standard tools to control the containers</li>
+<li>Distribution container templates</li>
+</ul>
+
+<p>Docker until version 0.9 has been used LXC as default driver to communicate with API Kernel, but since them, it is been using libcontainer, a pure Go library which was developed to access the Kernel’s container APIs directly, without any other dependencies.</p>
+
+<p>So, LXC is a Kernel &ldquo;component/module/technology&rdquo; that allow us to creat a virtual environment closed and limited. As LXC executes that process isolated, an &ldquo;abstraction&rdquo;, that process when need to runs again in other machine with LXC support, the process will be executed normally and behaving as same way as originally.</p>
+
+<p>Process is what we calling isolation whom we&rsquo;re talking about until now, like in the SSHD example before. SSH was isolated/closed like it was a process and it is independent (just dependent from LXC), so it could be execute from anywhere</p>
+
         
-
-<p>Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.<br />
-<a href="https://www.linkedin.com/in/rafaeldutra">https://www.linkedin.com/in/rafaeldutra</a><br />
-Currículo completo: <a href="https://rafaeldutra.me/cv/resume/">https://rafaeldutra.me/cv/me/</a><br />
-<a href="mailto:raffaeldutra@gmail.com" target="_blank">raffaeldutra@gmail.com</a><br />
-<a href="tel:+5551999727599">+55 51 9 9972 7599</a></p>
-
-<h3 id="resumo-profissional">Resumo Profissional</h3>
-
-<p>Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux</p>
-
-<p>Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.</p>
-
-<h3 id="experiência-profissional">Experiência Profissional</h3>
-
-<h4 id="dbserver-https-dbserver-com-br-devops-engineer">DBServer (<a href="https://dbserver.com.br">https://dbserver.com.br</a>) - DevOps Engineer</h4>
-
-<p>Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
-Maio/2019 - Presente</p>
-
-<p>Trabalhando alocado para o Sicredi.</p>
-
-<ul>
-<li>Automação de infraestrutura com Packer, Terraform, Ansible.</li>
-<li>Outros projetos na AWS utilizando Infraestrutura como código (IaC) com Terraform, Packer, Ansible usando Pipelines no Gitlab.</li>
-</ul>
-
-<h4 id="stefanini-https-stefanini-com-devops-engineer">Stefanini (<a href="https://stefanini.com">https://stefanini.com</a>) - DevOps Engineer</h4>
-
-<p>Empresa de tecnologia - Porto Alegre - Rio Grande do Sul<br />
-Ago/2018 - Abr/2019</p>
-
-<p>Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.</p>
-
-<ul>
-<li>Automação de infraestrutra com Docker, Docker Compose, Bash, Terraform, Ansible Puppet e Cloud-init.</li>
-<li>AWS (Elastic Cloud Computing (EC2), Elastic Block Storage (EBS), Relational Database Service (RDS).</li>
-<li>Documentar ferramentas internas usadas na AWS.</li>
-<li>Continuous Integration (Git com Gitlab).</li>
-<li>Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS).</li>
-<li>Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS).</li>
-</ul>
-
-<h4 id="jive-software-https-jivesoftware-com-saas-arquitect">Jive Software (<a href="https://jivesoftware.com">https://jivesoftware.com</a>) - SaaS Arquitect</h4>
-
-<p>Empresa de Tecnologia - Portland/OR/EUA<br />
-Jan/2018 - Jul/2018</p>
-
-<p>Trabalhando remotamente para a Crossover.</p>
-
-<p>Meu papel principal foi trabalhar em reduzir custos na AWS e suportar diversas ferramentas desenvolvidas interamente.</p>
-
-<ul>
-<li>Automação de infraestrutura (Docker, Docker Compose, Bash e Puppet).</li>
-<li>Suportar ferramentas internas.</li>
-<li>AWS (Elastic Cloud Computing (EC2), Elastic Block Storage (EBS)).</li>
-<li>Documentar ferramentas internas usadas na AWS.</li>
-<li>Documentar processos.</li>
-<li>Job Scheduler (Rundeck).</li>
-<li>Continuous Integration (Git, Bitbucket, Jenkins)</li>
-<li>Logs, monitoramento, métricas (Datadog e Flapjack).</li>
-</ul>
-
-<h4 id="poatek-https-poatek-com-devops-engineer">Poatek (<a href="https://poatek.com">https://poatek.com</a>) - DevOps Engineer</h4>
-
-<p>Empresa de Tecnologia - Porto Alegre/RS<br />
-Out/2016 - Jan/2018</p>
-
-<ul>
-<li>Automação de Infraestrutura e Deployment (Docker, Docker Compose, Bash and Puppet).</li>
-<li>Continuous integration (Git, Bitbucket, Bamboo).</li>
-<li>Logs e monitoramento de métricas (Elasticsearch, Logstash).</li>
-<li>Desenvolvimento de ambiente de automação (VirtualBox, Vagrant, Packer, Linux, Preseed).</li>
-<li>Job Scheduler (Rundeck).</li>
-<li>Ferramentas para build (Gradle e Apache Maven).</li>
-<li>Adminitração de servidores Linux.</li>
-<li>Documentação de processos e de ferramentas desenvolvidas.</li>
-<li>Aprender novas aplicações e funcionalidades quando requeridas.</li>
-<li>Participação em projetos, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.</li>
-</ul>
-
-<h3 id="educação">Educação</h3>
-
-<ul>
-<li><sup>2017</sup>&frasl;<sub>1</sub> - Segurança da Informação - UNISINOS - São Leopoldo/RS. Não finalizado.</li>
-<li><sup>2010</sup>&frasl;<sub>1</sub> - <sup>2011</sup>&frasl;<sub>2</sub> - Redes de Computadores - Centro de Tecnologia em Automação e Informática - Florianópolis/SC, SENAI/SC. Não finalizado.</li>
-<li><sup>2008</sup>&frasl;<sub>1</sub> - <sup>2009</sup>&frasl;<sub>1</sub> - Segurança da Informação - UNISINOS - São Leopoldo/RS. Não finalizado.</li>
-<li><sup>2004</sup>&frasl;<sub>1</sub> - <sup>2007</sup>&frasl;<sub>1</sub> - Técnico em Redes de Computadores - Escola Estadual de Educação Profissional em Estrela - Estrela/RS.</li>
-</ul>
-
-<h3 id="línguas">Línguas</h3>
-
-<p>Inglês intermediário para escrita e conversação, avançado para leitura e escuta.</p>
-
-<h3 id="palestras">Palestras</h3>
-
-<ul>
-<li>2º TcheLinux Lajeado - Introdução ao Docker - 29/04/2017 - Lajeado/RS.</li>
-</ul>
-
-<h3 id="workshops">Workshops</h3>
-
-<ul>
-<li>1º FOSS Day Bento Gonçalves - Docker Workshop - iniciante e intermediário - UCS - 22/09/2018 - Bento Gonçalves/RS.</li>
-<li>1º FOSS Day Lajeado - Docker Workshop - iniciante e intermediário - UNIVATES - Lajeado/RS.</li>
-</ul>
-
-
+          <div class="blog-tags">
+            
+              <a href="https://rafaeldutra.me/tags/docker/">docker</a>&nbsp;
+            
+              <a href="https://rafaeldutra.me/tags/infraestructure/">infraestructure</a>&nbsp;
+            
+              <a href="https://rafaeldutra.me/tags/automation/">automation</a>&nbsp;
+            
+              <a href="https://rafaeldutra.me/tags/development/">development</a>&nbsp;
+            
+          </div>
         
 
         
@@ -354,9 +357,13 @@ Out/2016 - Jan/2018</p>
       
         <ul class="pager blog-pager">
           
+            <li class="previous">
+              <a href="https://rafaeldutra.me/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/" data-toggle="tooltip" data-placement="top" title="Introdução ao Docker">&larr; </a>
+            </li>
+          
           
             <li class="next">
-              <a href="https://rafaeldutra.me/cv/me/" data-toggle="tooltip" data-placement="top" title="Rafael Dutra"> &rarr;</a>
+              <a href="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/" data-toggle="tooltip" data-placement="top" title="Configuração de ambiente PHP em Docker"> &rarr;</a>
             </li>
           
         </ul>
