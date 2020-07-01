@@ -1,23 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://rafaeldutra.me/en/</loc>
-    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/"
-                />
-  </url>
   
   <url>
     <loc>https://rafaeldutra.me/en/cv/downloads/</loc>
@@ -37,23 +20,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/en/cv/</loc>
-    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/cv/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/en/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,23 +33,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/en/presentations/2018-09-22-fossday-bento-goncalves-docker-workshop/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rafaeldutra.me/en/presentations/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/presentations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/presentations/"
                 />
   </url>
   
@@ -299,23 +248,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/en/about/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/en/presentations/2017-02-22-poatek-docker-introduction/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -334,7 +266,8 @@
   
   <url>
     <loc>https://rafaeldutra.me/en/cv/experience/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -348,9 +281,43 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/en/</loc>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/en/about/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/en/categories/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -360,6 +327,40 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rafaeldutra.me/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/en/cv/</loc>
+    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/en/presentations/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/presentations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/presentations/"
                 />
   </url>
   
@@ -382,7 +383,7 @@
   <url>
     <loc>https://rafaeldutra.me/en/tags/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"

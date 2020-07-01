@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>desenvolvimento on #/share</title>
+    <title>Desenvolvimento on #/share</title>
     <link>https://rafaeldutra.me/tags/desenvolvimento/</link>
-    <description>Recent content in desenvolvimento on #/share</description>
+    <description>Recent content in Desenvolvimento on #/share</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
@@ -25,7 +25,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;Docker é uma ferramenta feita para rapidamente, criar, fazer deploy e roda aplicações ussando containers. Containers deixam o desenvolvedor para fazer o pacote da aplicação com todas suas partes necessárias, como bibliotecas e outras dependências, e lançar tudo isso como um único pacote.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
