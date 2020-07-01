@@ -15,5 +15,5 @@ Então, sinta-se live para entrar em contato pelas redes sociais, or, diretament
   * [Mini Currículo](/cv/mini)
 
 * Inglês
-  * [Currículo](/resume/rafael-dutra-full-resume-en.pdf)
+  * [Currículo](/resume/rafael-dutra-resume-en.pdf)
   * [Short Resume](/cv/mini)
