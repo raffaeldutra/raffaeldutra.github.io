@@ -52,11 +52,6 @@ blog = "/blog/:year/:month/:day/:slug"
   languageName = "English"
 
 [[Languages.en.menu.main]]
-  name = "HOME"
-  url = "/en/blog"
-  weight = 2
-
-[[Languages.en.menu.main]]
   identifier = "cv"
   name = "CURRICULUM"
   weight = 3
@@ -104,12 +99,7 @@ blog = "/blog/:year/:month/:day/:slug"
 [Languages.pt-br]
   title = "#/share"
   languageName = "Português"
-  url = "blog"
-
-[[Languages.pt-br.menu.main]]
-  url    = "blog"
-  name   = "HOME"
-  weight = 2
+  url = "cv/me"
 
 [[Languages.pt-br.menu.main]]
   identifier = "cv"
