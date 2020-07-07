@@ -181,8 +181,7 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS.
     * [Docker Swarm](https://www.youtube.com/watch?v=jXqfY0Nn53Q) (Portuguese content)
     * [Docker Compose](https://www.youtube.com/watch?v=d6Z4jFSWVBo) (Portuguese content)
 
-
-### Publicações
+### Posts
 
 * 2020/01/07 - [https://blog.4linux.com.br/introducao-ao-terraform/](https://blog.4linux.com.br/introducao-ao-terraform/)
 * 2020/01/16 - [https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/](https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/)
