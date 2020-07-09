@@ -84,11 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-##### Projetos na AGCO
-
-**Puppet - Gerenciamento de Configuração**
-Criação de um ambiente funcional em localhost para que o time de Desenvolvimento e Operações pudessem recriar toda infraestrutura que é gerenciada via [Puppet](https://puppet.com), como desenvolvimento, homologação e produção.
-
 Documentação de processos como:
 
 * Novos pontos de montagem
