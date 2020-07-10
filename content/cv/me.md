@@ -84,15 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-Documentação de processos como:
-
-* Novos pontos de montagem
-* Criar novos ambientes para infraestrutura e desenvolvimento
-* Deploy de código por operadores em produção com puppet apply, utilizando [Continuous Delivery](https://continuousdelivery.com/)
-* Criar novas máquinas com módulos específicos
-* Deploy de código com [r10k](https://puppet.com/docs/pe/2018.1/r10k.html)
-* Como criar novos servidores [Puppet](https://puppet.com) utilizando [Puppet](https://puppet.com)
-
 Códigos desenvolvidos:
 
 * [Módulo para Spring Boot](https://projects.spring.io/spring-boot)
