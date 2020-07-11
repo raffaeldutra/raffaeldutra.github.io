@@ -84,11 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-Códigos desenvolvidos:
-
-* [Módulo para Spring Boot](https://projects.spring.io/spring-boot)
-* Estrutura de Scripts para nodes em formato [YAML](https://en.wikipedia.org/wiki/YAML) escritos em [Ruby](https://www.ruby-lang.org/en/)
-* Scripts em Shell para instaladores de agentes e configuração dos agentes
 
 Ferramentas como Vagrant, Scripts em Shell e Ruby foram os grandes pilares para que o projeto se tornasse viável.
 Todo código desenvolvido para automação era pensado em como trazer benefícios tanto para o time de desenvolvimento como de
