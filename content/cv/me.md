@@ -84,11 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-
-Ferramentas como Vagrant, Scripts em Shell e Ruby foram os grandes pilares para que o projeto se tornasse viável.
-Todo código desenvolvido para automação era pensado em como trazer benefícios tanto para o time de desenvolvimento como de
-operações pudessem realizar mais em menos tempo.
-
 **Automação para desenvolvimento em Oracle**
 Neste caso, a demanda foi criar uma ferramenta para desenvolver scripts para Oracle, onde esses scripts passaram por pipelines de validação até chegar em produção.
 
