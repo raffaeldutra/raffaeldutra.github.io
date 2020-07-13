@@ -84,12 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-**Automação para desenvolvimento em Oracle**
-Neste caso, a demanda foi criar uma ferramenta para desenvolver scripts para Oracle, onde esses scripts passaram por pipelines de validação até chegar em produção.
-
-**[Bamboo](https://www.atlassian.com/software/bamboo) usando [Docker](https://www.docker.com)**
-Muitos dos nossos projetos foram utilizados com [Docker](https://www.docker.com) para fazer build da aplicação que foram desenvolvidas por outras empresas como plugins e dependência de pacotes.
-
 **Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**
 Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
 
