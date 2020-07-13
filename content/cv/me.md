@@ -84,9 +84,6 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.co
 * Aprender novas aplicações e funcionalidades quando requiridas.
 * Participação em projetos especiais, normalmente envolvendo implementação de uma nova ferramenta ou aplicação.
 
-**Ambientes em [Shell Scripts](https://en.wikipedia.org/wiki/Shell_script)**
-Em alguns casos, não era possível utilizar ferramentas de gerenciamento de configuração, então, desenvolvi uma série de scripts para instalar e configurar algumas ferramentas, como: [Nginx](https://nginx.org), [CouchDB](http://couchdb.apache.org), [Módulo para Spring Boot (Java)](https://projects.spring.io/spring-boot), [ActiveMQ](http://activemq.apache.org).
-
 ### Educação
 
 * 2017/1 – Segurança da Tecnologia da Infomação
