@@ -8,7 +8,7 @@ Brasileiro, solteiro, morando em <a href="https://goo.gl/maps/La8zQp6nXjp" targe
 
 Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
 
-Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e Frameworks [Laravel](https://laravel.com).
+Mais de 3 anos trabalhando com desenvolvimento [PHP](https://secure.php.net) e [Laravel](https://laravel.com).
 
 Nos últimos 5 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)) e conteinerização com [Docker](https://www.docker.com).
 
