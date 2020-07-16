@@ -50,8 +50,6 @@ Jan/2018 - Jul/2018
 
 Trabalhando remotamente para a [Crossover](https://crossover.com).
 
-Meu papel principal foi trabalhar em reduzir custos na [AWS](https://aws.amazon.com/) e para isso eu tive que aprender ferramentas internas para saber o que fazer.
-
 * Automação de infraestrutra ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com), [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Suportar ferramentas internas.
 * [AWS](https://aws.amazon.com/) ([Elastic Cloud Computing (EC2)](https://aws.amazon.com/ec2), [Elastic Block Storage (EBS)](https://aws.amazon.com/ebs)).
