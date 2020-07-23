@@ -41,7 +41,6 @@ Ago/2018 - Mai/2019
 * [Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-records)
 * [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)](https://github.com/raffaeldutra/terraform-module-route53-zones)
 
-
 #### [Jive Software](https://jivesoftware.com) (https://jivesoftware.com) - SaaS Arquitect
 
 Jive Software é agora parte da [Aurea Company](https://www.aurea.com) (https://aurea.com)
@@ -59,15 +58,12 @@ Trabalhando remotamente para a [Crossover](https://crossover.com).
 * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com), [Bitbucket](https://bitbucket.org), [Jenkins](https://jenkins.io))
 * Logs monitoramento de métricas ([Datadog](https://www.datadoghq.com/) e [Flapjack](http://flapjack.io/)).
 
-
 #### PoaTek IT Consulting (http://poatek.com) - DevOps Engineer
 
 Empresa de tecnologia - Porto Alegre/RS
 Out/2016 - Jan/2018
 
 Trabalhando alocado para [AGCO (Agriculture Corporation)](http://www.agcocorp.com).
-
-##### AGCO
 
 * Deploy e automação de infraestrutura ([Docker](https://www.docker.com), [Docker Compose](https://www.docker.com, [Bash](https://www.gnu.org/software/bash/) e [Puppet](https://puppet.com)).
 * Integração contínua ([Git](https://git-scm.com/), [Bitbucket](https://bitbucket.org), [Bamboo](https://www.atlassian.com/software/bamboo)).
