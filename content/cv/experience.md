@@ -12,6 +12,7 @@
 * Jenkins
 * Travis
 * Bamboo
+* GitLab
 
 ## Containers
 * Docker
@@ -67,8 +68,3 @@ Stack usando Docker Compose.
 * PHP - intermediate
 * Shell Script - advanced
 * Ruby - basic
-
-## Plataformas de Controle de Versão
-* Bitbucket
-* GitLab
-* Github

@@ -12,6 +12,7 @@
 * Jenkins
 * Travis
 * Bamboo
+* GitLab
 
 ## Containers
 * Docker
@@ -68,7 +69,3 @@ Stack using Docker Compose.
 * Shell Script - advanced
 * Ruby - basic
 
-## System control management
-* Bitbucket
-* GitLab
-* Github
