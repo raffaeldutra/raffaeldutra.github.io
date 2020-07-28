@@ -178,7 +178,7 @@ Currently lives at Porto Alegre/RS.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/en/cv/experience/</guid>
-      <description>Cloud providers  Google Cloud AWS (Principal) Digital Ocean  Infrastructure as code  Terraform  Continuous Integration / Delivery and Deployment  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.  Monitoring  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Metrics  InfluxDB Telegraf Grafana  Stack using Docker Compose.</description>
+      <description>Cloud providers  Google Cloud AWS (Principal) Digital Ocean  Infrastructure as code  Terraform  Continuous Integration / Delivery and Deployment  GitHub Bitbucket Jenkins Travis Bamboo GitLab  Containers  Docker Docker Swarm  Proxy  Nginx as reverse Proxy Squid Varnish  Domains  Samba LDAP integration in some projects.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL.  Email  Postfix iRedMail.</description>
     </item>
     
     <item>

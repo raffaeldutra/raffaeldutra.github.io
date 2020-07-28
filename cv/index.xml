@@ -64,7 +64,7 @@ Atualmente trabalha para o Sicredi via DBServer.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/cv/experience/</guid>
-      <description>Provedores de Cloud  Google Cloud AWS (Main) Digital Ocean  Infrastructure como código  Terraform  Integração contínua / Entrega  GitHub Bitbucket Jenkins Travis Bamboo  Containers  Docker Docker Swarm  Proxy  Nginx como Proxy reverso Squid Varnish  Domains  Samba LDAP - integração em alguns projetos.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL  Email  Postfix iRedMail  Monitoramento  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Métricas  InfluxDB Telegraf Grafana  Stack usando Docker Compose.</description>
+      <description>Provedores de Cloud  Google Cloud AWS (Main) Digital Ocean  Infrastructure como código  Terraform  Integração contínua / Entrega  GitHub Bitbucket Jenkins Travis Bamboo GitLab  Containers  Docker Docker Swarm  Proxy  Nginx como Proxy reverso Squid Varnish  Domains  Samba LDAP - integração em alguns projetos.  DNS  Bind Route 53 (AWS)  Databases  MYSQL/MariaDB PostgreSQL  Email  Postfix iRedMail  Monitoramento  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Métricas  InfluxDB Telegraf Grafana  Stack usando Docker Compose.</description>
     </item>
     
     <item>
