@@ -17,6 +17,7 @@
 ## Containers
 * Docker
 * Docker Swarm
+* Kubernetes
 
 ## Proxy
 * Nginx as reverse Proxy
