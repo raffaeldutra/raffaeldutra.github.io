@@ -69,4 +69,4 @@ Stack using Docker Compose.
 * PHP - intermediate
 * Shell Script - advanced
 * Ruby - basic
-
+* Python - basic
