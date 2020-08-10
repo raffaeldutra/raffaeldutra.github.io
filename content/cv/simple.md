@@ -2,19 +2,19 @@
 title: "Rafael Dutra"
 ---
 
-Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.  
-[https://www.linkedin.com/in/rafaeldutra](https://www.linkedin.com/in/rafaeldutra)  
-Currículo completo: [https://rafaeldutra.me/cv/me/](https://rafaeldutra.me/cv/resume/)  
-<a href="mailto:raffaeldutra@gmail.com" target="_blank">raffaeldutra@gmail.com</a>  
-<a href="tel:+5551999727599">+55 51 9 9972 7599</a>  
+Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
+[https://www.linkedin.com/in/rafaeldutra](https://www.linkedin.com/in/rafaeldutra)
+Currículo completo: [https://rafaeldutra.me/cv/me/](https://rafaeldutra.me/cv/resume/)
+<a href="mailto:raffaeldutra@gmail.com" target="_blank">raffaeldutra@gmail.com</a>
+<a href="tel:+5551999727599">+55 51 9 9972 7599</a>
 
-### Resumo Profissional  
+### Resumo Profissional
 Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux
 
-Nos últimos 4 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
+Nos últimos 5 anos trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) e conteinerização com Docker.
 
-### Experiência Profissional  
-#### DBServer (https://dbserver.com.br) - DevOps Engineer  
+### Experiência Profissional
+#### DBServer (https://dbserver.com.br) - DevOps Engineer
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Maio/2019 - Presente
 
@@ -23,8 +23,8 @@ Trabalhando alocado para o Sicredi.
 * Automação de infraestrutura com Packer, Terraform, Ansible.
 * Outros projetos na AWS utilizando Infraestrutura como código (IaC) com Terraform, Packer, Ansible usando Pipelines no Gitlab.
 
-#### Stefanini (https://stefanini.com) - DevOps Engineer  
-Empresa de tecnologia - Porto Alegre - Rio Grande do Sul  
+#### Stefanini (https://stefanini.com) - DevOps Engineer
+Empresa de tecnologia - Porto Alegre - Rio Grande do Sul
 Ago/2018 - Abr/2019
 
 Objetivo principal é levar a célula em Porto Alegre para automação e Cloud Computing.
@@ -36,9 +36,9 @@ Objetivo principal é levar a célula em Porto Alegre para automação e Cloud C
 * Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS).
 * Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS).
 
-#### Jive Software (https://jivesoftware.com) - SaaS Arquitect  
-Empresa de Tecnologia - Portland/OR/EUA  
-Jan/2018 - Jul/2018  
+#### Jive Software (https://jivesoftware.com) - SaaS Arquitect
+Empresa de Tecnologia - Portland/OR/EUA
+Jan/2018 - Jul/2018
 
 Trabalhando remotamente para a Crossover.
 
@@ -53,9 +53,9 @@ Meu papel principal foi trabalhar em reduzir custos na AWS e suportar diversas f
 * Continuous Integration (Git, Bitbucket, Jenkins)
 * Logs, monitoramento, métricas (Datadog e Flapjack).
 
-#### Poatek (https://poatek.com) - DevOps Engineer  
-Empresa de Tecnologia - Porto Alegre/RS  
-Out/2016 - Jan/2018  
+#### Poatek (https://poatek.com) - DevOps Engineer
+Empresa de Tecnologia - Porto Alegre/RS
+Out/2016 - Jan/2018
 
 * Automação de Infraestrutura e Deployment (Docker, Docker Compose, Bash and Puppet).
 * Continuous integration (Git, Bitbucket, Bamboo).

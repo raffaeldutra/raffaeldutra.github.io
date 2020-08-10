@@ -184,6 +184,7 @@ Escola Estadual de Educação Profissional em Estrela - Estrela/RS. Finalizado.
 ### Podcasts
 
 * [Opencast Reboot, FOSSDay e notícias](https://open.spotify.com/episode/5PxpxNNIjb4fG8WYTGnBmu?si=xzQr-QDcShOE8h4ghKij-Q)
+* [Serverless + Azure Functions](https://drive.google.com/file/d/1hNMeXkaBOo4H90J7tg076EgWPVHQQrrL/view?usp=sharing).
 
 ### Videos no Youtube
 
