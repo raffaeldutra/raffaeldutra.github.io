@@ -173,6 +173,10 @@ Escola Estadual de Educação Profissional em Estrela, Estrela/RS.
 * 2017/02/09 - The news about Docker 1.13 - PUC - Porto Alegre/RS
 * 2017/01/16 - 12º Continuous Delivery - PUC - Porto Alegre/RS
 
+### Online events
+
+* [AWS Essentials Day](https://drive.google.com/file/d/1tifSK4Eoi3HbdeQoh0mk39GE64dyiyXt/view?usp=sharing).
+
 ### Podcasts (Portuguese)
 * [Opencast Reboot, FOSSDay e notícias](https://open.spotify.com/episode/5PxpxNNIjb4fG8WYTGnBmu?si=xzQr-QDcShOE8h4ghKij-Q)
 
