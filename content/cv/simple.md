@@ -2,7 +2,7 @@
 title: "Rafael Dutra"
 ---
 
-Brasileiro, solteiro, 32 anos, residindo em Porto Alegre/RS.
+Brasileiro, solteiro, 33 anos, residindo em Porto Alegre/RS.
 [https://www.linkedin.com/in/rafaeldutra](https://www.linkedin.com/in/rafaeldutra)
 Currículo completo: [https://rafaeldutra.me/cv/me/](https://rafaeldutra.me/cv/resume/)
 <a href="mailto:raffaeldutra@gmail.com" target="_blank">raffaeldutra@gmail.com</a>
