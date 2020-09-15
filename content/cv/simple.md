@@ -18,10 +18,16 @@ Nos últimos 5 anos trabalho principalmente nas áreas de automação de Infraes
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul.
 Maio/2019 - Presente
 
-Trabalhando alocado para o Sicredi.
+Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 
-* Automação de infraestrutura com Packer, Terraform, Ansible.
-* Outros projetos na AWS utilizando Infraestrutura como código (IaC) com Terraform, Packer, Ansible usando Pipelines no Gitlab.
+* Ciclo completo de automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) para AWS utilizando [Gitlab](https://gitlab.com)).
+* [Continuous Integration e Continuous Delivery/Deployment](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
+* Ambientes Blue/Green com [AWS](https://aws.amazon.com/).
+* Ansible Roles para automação de cluster multi-master para Kubernetes.
+* Hashicorp [Consul](https://consul.io) e [Vault](https://vaultproject.io)
+* Coleta de métricas com Spring Boot para hashicorp Consul.
+* TDD (Test-driven development) para Roles Ansible.
+* Python scripts com Boto3 para AWS.
 
 #### Stefanini (https://stefanini.com) - DevOps Engineer
 Empresa de tecnologia - Porto Alegre - Rio Grande do Sul
