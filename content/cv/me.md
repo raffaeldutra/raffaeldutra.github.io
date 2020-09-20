@@ -22,12 +22,13 @@ Maio/2019 - Presente
 Trabalhando alocado para o [Sicredi](http://www.sicredi.com.br).
 
 * Ciclo completo de automação de infraestrutura com [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) para AWS utilizando [Gitlab](https://gitlab.com)).
-* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
+* [Continuous Integration e Continuous Delivery/Deployment](https://en.wikipedia.org/wiki/Continuous_integration) ([Git](https://git-scm.com) com [Gitlab](https://gitlab.com))
 * Ambientes Blue/Green com [AWS](https://aws.amazon.com/).
-* Ansible Roles para automação de cluster multi master para Kubernetes.
+* Ansible Roles para automação de cluster multi-master para Kubernetes.
 * Hashicorp [Consul](https://consul.io) e [Vault](https://vaultproject.io)
 * Coleta de métricas com Spring Boot para hashicorp Consul.
 * TDD (Test-driven development) para Roles Ansible.
+* Python scripts com Boto3 para AWS.
 
 #### [Stefanini | IT Solutions and IT Staffing](https://stefanini.com) (https://stefanini.com) - DevOps Engineer
 
