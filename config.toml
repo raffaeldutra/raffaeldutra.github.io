@@ -8,7 +8,6 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 pygmentOptions = "linenos=table"
-googleAnalytics = "UA-92899338-1"
 publishDir = "public"
 layoutDir = "/src/layouts"
 defaultExtension = "html"
