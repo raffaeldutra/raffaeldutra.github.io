@@ -11,6 +11,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v1
+
+      - name: Start Docker registry
+        run: |
+          docker run -d -p 5000:5000 -v ${REGISTRY_PATH}:/var/lib/registry --name registry registry:2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+        with:
+          driver-opts: network=host
+
       - name: Testing Configuration
         run: |
           cat config.toml | grep baseurl 2>/dev/null >/dev/null || exit 1
@@ -44,4 +56,5 @@ jobs:
           context: ./public
           file: ./Dockerfile.prd
           push: true
+          platforms: linux/amd64
           tags: raffaeldutra/rafaeldutra-me:latest
