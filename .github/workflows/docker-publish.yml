@@ -1,9 +1,8 @@
 name: Docker push image for k8s
-
 on:
   push:
     branches:
-      - master
+      - develop
     tags:
       - v*
   pull_request:
