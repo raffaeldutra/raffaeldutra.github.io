@@ -35,7 +35,7 @@ jobs:
 
       - name: Log into registry
         run: |
-          docker login ${{ secrets.DOCKER_HUB_REGISTRY_URL }} -u ${{ secrets.DOCKER_HUB_USERNAME }} --password-string ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+          docker login ${{ secrets.DOCKER_HUB_REGISTRY_URL }} -u ${{ secrets.DOCKER_HUB_USERNAME }} -p ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
 
       - name: Push image
         run: |
