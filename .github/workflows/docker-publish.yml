@@ -1,4 +1,4 @@
-name: Docker
+name: Docker push image for k8s
 
 on:
   push:
