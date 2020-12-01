@@ -330,6 +330,22 @@
   </url>
   
   <url>
+    <loc>https://rafaeldutra.me/cv/me/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/cv/me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/cv/me/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -508,22 +524,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://rafaeldutra.me/presentations/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rafaeldutra.me/cv/me/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/cv/me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/cv/me/"
                 />
   </url>
   
