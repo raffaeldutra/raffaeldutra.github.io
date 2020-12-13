@@ -11,13 +11,13 @@ services:
 stages:
   - image-creation
 
-.image-creation: &image-creation
-  image: docker:latest
-  stage: image-creation
+.registry: &registry
   script:
     - |
       docker login ${HOST} -u ${GITLAB_USERNAME} -p ${GITLAB_TOKEN}
-      docker build -t ${HOST}/${NAMESPACE}/${IMAGE} .
+      docker build -t ${HOST}/${NAMESPACE}/${IMAGE}:${CI_COMMIT_REF_NAME} .
       docker push ${HOST}/${NAMESPACE}/${IMAGE}
-  only:
-    - master
+
+image-creation:
+  stage: image-creation
+  <<: *registry
