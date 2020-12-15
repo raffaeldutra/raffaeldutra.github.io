@@ -1,7 +1,7 @@
 image: docker:latest
 
 variables:
-  - HOST: registry.gitlab.com/
+  - HOST: registry.gitlab.com
   - NAMESPACE: raffaeldutra
   - IMAGE: raffaeldutra.github.io
 
@@ -9,7 +9,7 @@ services:
   - docker:dind
 
 stages:
-  - image-creation
+  - image
 
 .registry: &registry
   script:
@@ -18,6 +18,6 @@ stages:
       docker build -t ${HOST}/${NAMESPACE}/${IMAGE}:${CI_COMMIT_REF_NAME} .
       docker push ${HOST}/${NAMESPACE}/${IMAGE}
 
-image-creation:
-  stage: image-creation
+image:
+  stage: image
   <<: *registry
