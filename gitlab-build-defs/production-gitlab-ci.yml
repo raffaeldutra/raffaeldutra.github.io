@@ -18,6 +18,6 @@ stages:
       docker build -t ${HOST}/${NAMESPACE}/${IMAGE}:${CI_COMMIT_REF_NAME} .
       docker push ${HOST}/${NAMESPACE}/${IMAGE}
 
-image:
+image-creation:
   stage: image
   <<: *registry
