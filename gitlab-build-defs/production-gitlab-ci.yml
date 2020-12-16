@@ -1,9 +1,8 @@
 image: docker:latest
 
 variables:
-  HOST: registry.gitlab.com
-  NAMESPACE: raffaeldutra
-  PROJECT: raffaeldutra.github.io
+  variables:
+    IMAGE_TAG: ${CI_REGISTRY_IMAGE}:${CI_COMMIT_REF_SLUG}
 
 services:
   - docker:dind
@@ -14,8 +13,8 @@ stages:
 .registry: &registry
   script:
     - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} ${CI_REGISTRY}
-    - docker build -t ${CI_REGISTRY}/${NAMESPACE}/${PROJECT}/${PROJECT}:latest .
-    - docker push ${CI_REGISTRY}/${NAMESPACE}/${PROJECT}/${PROJECT}:latest
+    - docker build -t ${IMAGE_TAG} .
+    - docker push ${IMAGE_TAG}
 
 dev-image-creation:
   stage: image
