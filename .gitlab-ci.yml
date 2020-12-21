@@ -1,6 +1,57 @@
 # Rafael Dutra
-variables:
-  AWS_DEFAULT_REGION: sa-east-1
+image: docker:latest
 
-include:
-  - gitlab-build-defs/production-gitlab-ci.yml
+variables:
+  IMAGE_TAG: ${CI_REGISTRY_IMAGE}:${CI_COMMIT_REF_SLUG}
+
+services:
+  - docker:dind
+
+stages:
+  - image
+  - test
+
+.registry: &registry
+  script:
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} ${CI_REGISTRY}
+    - docker build -t ${IMAGE_TAG} -f ${DOCKERFILE} ${PATH}
+    - docker push ${IMAGE_TAG}
+
+# imagem com pagina gerada
+publish-image-creation:
+  variables:
+    DOCKERFILE: docker/Dockerfile.publish
+    IMAGE_TAG: ${IMAGE_TAG}-publish
+    PATH: .
+  stage: image
+  <<: *registry
+
+# cria imagem de desenvolvimeto
+dev-image-creation:
+  variables:
+    DOCKERFILE: docker/Dockerfile
+    PATH: docker
+  stage: image
+  <<: *registry
+
+test-image-creation:
+  stage: test
+  script:
+    - |
+      docker container run \
+      --rm \
+      ${IMAGE_TAG} --help
+
+test-image-publish:
+  stage: test
+  script:
+    - |
+      docker container run \
+      --name ${IMAGE_TAG} \
+      --port 8080:8080 \
+      ${IMAGE_TAG}-publish
+
+test-website-publish:
+  stage: test
+  script:
+    - curl $(docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'):8080
