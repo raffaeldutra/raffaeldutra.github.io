@@ -5,6 +5,7 @@
 
 ## Infrastructure como código
 * Terraform
+* Cloudformation
 
 ## Integração contínua / Entrega
 * GitHub
@@ -18,13 +19,14 @@
 * Docker
 * Docker Swarm
 * Kubernetes
+* Openshift
 
 ## Proxy
 * Nginx como Proxy reverso
 * Squid
 * Varnish
 
-## Domains
+## Domínios
 * Samba
 * LDAP - integração em alguns projetos.
 
@@ -32,7 +34,7 @@
 * Bind
 * Route 53 (AWS)
 
-## Databases
+## Banco de dados
 * MYSQL/MariaDB
 * PostgreSQL
 
@@ -70,3 +72,8 @@ Stack usando Docker Compose.
 * Shell Script - advanced
 * Ruby - basic
 * Python - básico
+
+## Languages frameworks
+* Laravel (PHP)
+* CodeIgniter (PHP)
+* Flask (Python)

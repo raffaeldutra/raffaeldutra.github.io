@@ -63,6 +63,10 @@
 [Elastic Cloud Computing (EC2)]: https://aws.amazon.com/ec2
 [Elastic Block Storage (EBS)]: https://aws.amazon.com/ebs
 [Relational Database Service (RDS)]: https://aws.amazon.com/rds
+[CloudFormation]: https://aws.amazon.com/cloudformation/
+[Lambda]: https://aws.amazon.com/lambda
+[CodeCommit]: https://aws.amazon.com/codecommit
+[CodePipeline]: https://aws.amazon.com/codepipeline
 
 <!-- Definitions -->
 [CI/CD]: https://en.wikipedia.org/wiki/Continuous_integration
@@ -133,13 +137,18 @@ Brasileiro, solteiro, morando em [Estrela/RS], <a href="mailto:raffaeldutra@gmai
 
 ### Resumo Profissional
 
-Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux].
-
-Mais de 3 anos trabalhando com desenvolvimento [PHP] e [Laravel].
-
-Nos últimos 5 anos trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code]) e conteinerização com [Docker].
+Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes [GNU/Linux] e desde 2015 trabalho principalmente nas áreas de automação de Infraestrutura ([Infra as Code]) com diversas ferramentas para diferentes tipos de cenários.
 
 ### Experiência Profissional
+
+#### [PoaTek IT Consulting] - DevOps Engineer
+
+Empresa de tecnologia - [Porto Alegre/RS] - Atual
+
+* [Continuous Integration e Continuous Delivery/Deployment] com [CodeCommit] e [CodePipeline].
+* [Infraestrutura como código] com [CloudFormation].
+* [Python] scripts com Boto3 para [AWS].
+
 
 #### [DBServer] - DevOps Engineer
 

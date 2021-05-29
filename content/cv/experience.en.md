@@ -5,6 +5,7 @@
 
 ## Infrastructure as code
 * Terraform
+* Cloudformation
 
 ## Continuous Integration / Delivery and Deployment
 * GitHub
@@ -18,6 +19,7 @@
 * Docker
 * Docker Swarm
 * Kubernetes
+* Openshift
 
 ## Proxy
 * Nginx as reverse Proxy
@@ -70,3 +72,9 @@ Stack using Docker Compose.
 * Shell Script - advanced
 * Ruby - basic
 * Python - basic
+* Angular - basic
+
+## Languages frameworks
+* Laravel (PHP)
+* CodeIgniter (PHP)
+* Flask (Python)
