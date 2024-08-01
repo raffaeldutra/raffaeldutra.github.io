@@ -141,18 +141,32 @@ Mais de 14 anos de experiência em tecnologia da informação, administração d
 
 ### Experiência Profissional
 
-#### [PoaTek IT Consulting] - DevOps Engineer
+#### [4ALL] - DevOps/SRE Engineer
 
 Empresa de tecnologia - [Porto Alegre/RS] - Atual
+
+* Ciclo completo de automação de infraestrutura com [Packer], [Terraform], [Ansible] para [AWS] utilizando [Gitlab].
+* [Continuous Integration e Continuous Delivery/Deployment] com [Git]/[Gitlab].
+* Ambientes Blue/Green com [AWS].
+* [Ansible] Roles para automação de cluster multi-master para [Kubernetes].
+* Hashicorp [Consul] e [Vault]
+* Coleta de métricas com Spring Boot para Hashicorp [Consul].
+* TDD (Test-driven development) para Roles [Ansible].
+* [Python] scripts com Boto3 para [AWS].
+
+
+#### [PoaTek IT Consulting] - DevOps Engineer
+
+Empresa de tecnologia - [Porto Alegre/RS] - Janeiro/2020 - Janeiro/2021
 
 * [Continuous Integration e Continuous Delivery/Deployment] com [CodeCommit] e [CodePipeline].
 * [Infraestrutura como código] com [CloudFormation].
 * [Python] scripts com Boto3 para [AWS].
 
 
-#### [DBServer] - DevOps Engineer
+#### [Sicredi] - DevOps Engineer
 
-Empresa de tecnologia - [Porto Alegre/RS] - Maio/2019 - Presente
+Empresa de tecnologia - [Porto Alegre/RS] - Maio/2019 - Janeiro/2020
 
 Trabalhando alocado para o [Sicredi].
 
