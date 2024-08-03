@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafaeldutra.me/cv/me/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rafaeldutra.me/en/cv/me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rafaeldutra.me/cv/me/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rafaeldutra.me/presentations/2019-09-28-fossday-bento-goncalves-terraform.me/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -330,24 +347,8 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/cv/me/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rafaeldutra.me/en/cv/me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rafaeldutra.me/cv/me/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -418,7 +419,7 @@
   
   <url>
     <loc>https://rafaeldutra.me/cv/</loc>
-    <lastmod>2018-09-30T12:54:24-03:00</lastmod>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link

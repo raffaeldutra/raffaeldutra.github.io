@@ -8,10 +8,22 @@
     <language>pt-br</language>
     <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
     <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    <lastBuildDate>Sun, 30 Sep 2018 12:54:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafaeldutra.me/cv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rafael Dutra</title>
+      <link>https://rafaeldutra.me/cv/me/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
+      <guid>https://rafaeldutra.me/cv/me/</guid>
+      <description>Brasileiro, solteiro, morando em Estrela/RS, raffaeldutra@gmail.com
+Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux e desde 2015 trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) com diversas ferramentas para diferentes tipos de cenários.
+Experiência Profissional [4ALL] - DevOps/SRE Engineer Empresa de tecnologia - Porto Alegre/RS - Atual
+ Ciclo completo de automação de infraestrutura com Packer, Terraform, Ansible para AWS utilizando Gitlab.</description>
+    </item>
     
     <item>
       <title>Currículo</title>
@@ -65,18 +77,6 @@ Atualmente trabalha para o Sicredi via DBServer.</description>
       <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
       <guid>https://rafaeldutra.me/cv/experience/</guid>
       <description>Provedores de Cloud  Google Cloud AWS (Main) Digital Ocean  Infrastructure como código  Terraform Cloudformation  Integração contínua / Entrega  GitHub Bitbucket Jenkins Travis Bamboo GitLab  Containers  Docker Docker Swarm Kubernetes Openshift  Proxy  Nginx como Proxy reverso Squid Varnish  Domínios  Samba LDAP - integração em alguns projetos.  DNS  Bind Route 53 (AWS)  Banco de dados  MYSQL/MariaDB PostgreSQL  Email  Postfix iRedMail  Monitoramento  ELK (Elasticsearch, Logstash, Kibana) Nagios Cacti SolarWinds  Métricas  InfluxDB Telegraf Grafana  Stack usando Docker Compose.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rafaeldutra.me/cv/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>raffaeldutra@gmail.com (Rafael Dutra)</author>
-      <guid>https://rafaeldutra.me/cv/me/</guid>
-      <description>Rafael Dutra Brasileiro, solteiro, morando em Estrela/RS, raffaeldutra@gmail.com
-Resumo Profissional Mais de 14 anos de experiência em tecnologia da informação, administração de redes e análise de infraestrutura, trabalhando especialmente em ambientes GNU/Linux e desde 2015 trabalho principalmente nas áreas de automação de Infraestrutura (Infra as Code) com diversas ferramentas para diferentes tipos de cenários.
-Experiência Profissional [4ALL] - DevOps/SRE Engineer Empresa de tecnologia - Porto Alegre/RS - Atual
- Ciclo completo de automação de infraestrutura com Packer, Terraform, Ansible para AWS utilizando Gitlab.</description>
     </item>
     
     <item>
