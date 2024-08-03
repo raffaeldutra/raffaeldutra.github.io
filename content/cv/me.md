@@ -77,13 +77,14 @@ date: 2024-08-02
 [Continuous Integration]: https://en.wikipedia.org/wiki/Continuous_integration
 [GNU/Linux]: https://www.gnu.org/gnu/linux-and-gnu.en.html
 [Infra as Code]: https://en.wikipedia.org/wiki/Infrastructure_as_Code
+[Infraestrutura como código]: https://aws.amazon.com/pt/what-is/iac/
 
 <!-- Terraform public modules -->
 [Criado módulo para Terraform para gerenciar registros do AWS Route 53 (DNS)]: https://github.com/raffaeldutra/terraform-module-route53-records
 [Criado módulo para Terraform para gerenciar zonas da AWS Route 53 (DNS)]: https://github.com/raffaeldutra/terraform-module-route53-zones
 
 <!-- Courses -->
-[Docker Crash Course for busy DevOps and Developers]: https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing)
+[Docker Crash Course for busy DevOps and Developers]: https://drive.google.com/file/d/1rmWzJta6l7Z-zEWbnsrQAN0IbY970-Iu/view?usp=sharing
 [DevOps Foundation]: https://drive.google.com/file/d/1pT1BJ8Se-tNH_C7iBYw059zeZLlxyVUN/view?usp=sharing
 [AWS na prática]: https://drive.google.com/file/d/1kYihTKGhoXJQCLYxeCuaZj4i-FF7krQF/view?usp=sharing
 [Puppet Fundamentals]: https://drive.google.com/file/d/0B51KxqHg_vABa1ZOWmZVX1loMjA/view?usp=sharing
@@ -218,7 +219,7 @@ Trabalhando alocado para [AGCO (Agriculture Corporation)].
 
 * Deploy e automação de infraestrutura ([Docker], [Docker Compose], [Bash] e [Puppet]).
 * Integração contínua ([Git], [Bitbucket], [Bamboo]).
-* Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana] + [Telegraf and InfluxDB].
+* Logs e métricas de monitoramento ([Elasticsearch, Logstash, Grafana] + [Telegraf and InfluxDB]).
 * Automação para ambientes de desenvolvimento ([VirtualBox], [Vagrant], [Packer], [Linux], [Preseed]).
 * Agendadores de Jobs ([Rundeck]).
 * Ferramentas para build ([Gradle] and [Apache Maven]).
