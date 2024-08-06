@@ -149,14 +149,17 @@ Mais de 14 anos de experiência em tecnologia da informação, administração d
 
 Empresa de tecnologia - [Porto Alegre/RS] - Atual
 
-* Ciclo completo de automação de infraestrutura com [Packer], [Terraform], [Ansible] para [AWS] utilizando [Gitlab].
+* Infraestrutura como código.
+Diversos projetos criados com Terrafom para ambientes AWS.
+* Implementação e administração de clusters Kubernetes (EKS). Clusters em diferentes contas da AWS com diversos componentes.
+* Automações para Operações em Plataforma em nível de Pipelines. Estas soluções foram desenvolvidas em Shell Script e Python.
+Porto Alegre/RS, Brasil
+Fev 2022 – Jun 2023
+* Observabilidade de sistemas e infraestrutura, como Prometheus, Grafana e Cloudwatch.
+Métricas de sistemas, como latência, erros 5xx e 4xx, uso de memória, quantidades de requests e etc.
+* [Docker] e [Docker Compose] para ambientes de desenvolvimento para infraestrutura. Desenvolvimento de ferramenta totalmente em Shell Script para aceleramos o desenvolvimento da Infraestrutura e disponibilizado como Open Source que pode ser encontrado em https://github.com/raffaeldutra/cid.
 * [Continuous Integration e Continuous Delivery/Deployment] com [Git]/[Gitlab].
-* Ambientes Blue/Green com [AWS].
-* [Ansible] Roles para automação de cluster multi-master para [Kubernetes].
-* Hashicorp [Consul] e [Vault]
-* Coleta de métricas com Spring Boot para Hashicorp [Consul].
-* TDD (Test-driven development) para Roles [Ansible].
-* [Python] scripts com Boto3 para [AWS].
+* Ciclo completo de automação de infraestrutura com [Packer], [Terraform], [Ansible] para [AWS] utilizando [Gitlab].
 
 
 #### [PoaTek IT Consulting] - DevOps Engineer
