@@ -442,13 +442,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/development/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/categories/development/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -456,7 +449,7 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/docker/</loc>
+    <loc>https://rafaeldutra.me/tags/development/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -464,6 +457,13 @@
   
   <url>
     <loc>https://rafaeldutra.me/categories/docker/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/tags/docker/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -484,13 +484,6 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/php/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rafaeldutra.me/categories/php/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -498,14 +491,21 @@
   </url>
   
   <url>
-    <loc>https://rafaeldutra.me/tags/podcasts/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>https://rafaeldutra.me/tags/php/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rafaeldutra.me/categories/podcasts/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rafaeldutra.me/tags/podcasts/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
