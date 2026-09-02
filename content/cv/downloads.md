@@ -1,19 +1,13 @@
-+++
-date = "2018-09-30T12:54:24-03:00"
-title = "Currículo"
+---
+title: "Downloads do currículo"
+date: 2024-08-02
+---
 
-+++
+O currículo completo fica em **[/cv](/cv)** — para gerar um PDF, use o botão de
+imprimir do navegador (Ctrl/Cmd + P). O tema já traz um layout de impressão
+enxuto.
 
-Estou deixando aqui algumas páginas e downloads para ver o que eu faço.
-
-Você irá ver diferente versões de páginas, cada uma delas com mais ou menos informações devido às ferramentas e links mencionados na página.
-
-Então, sinta-se live para entrar em contato pelas redes sociais, or, diretamente em: <mailto:raffaeldutra@gmail.com>
-
-* Português
-  * [Currículo](/resume/rafael-dutra-resume.pdf)
-  * [Mini Currículo](/cv/mini)
-
-* Inglês
-  * [Currículo](/resume/rafael-dutra-resume-en.pdf)
-  * [Short Resume](/cv/mini)
+Prefere conversar? [raffaeldutra@gmail.com](mailto:raffaeldutra@gmail.com) ou pelas
+redes: [GitHub](https://github.com/raffaeldutra) ·
+[GitLab](https://gitlab.com/raffaeldutra) ·
+[LinkedIn](https://www.linkedin.com/in/rafaeldutra).

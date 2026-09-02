@@ -1,0 +1,127 @@
+## Meta tags
+"meta_title": ""
+## Header
+
+"logo_alt": ""
+"logo_text1": ""
+"logo_text2": ""
+## General
+"home": "Home"
+"skipToMainContent": "Skip to main content"
+"toggle_navigation": "Toggle navigation"
+## Footer
+"footer_notice": ""
+"language": "Language"
+"toggle_theme": "Toggle theme"
+"theme_light": "☀️ Light"
+"theme_dark": "🌑 Dark"
+"theme_auto": "✨ Auto"
+## Color Scheme
+"color_scheme": "Color scheme"
+## Search
+"search_tags_label": "Tags"
+"search_categories_label": "Categories"
+"search_filter_by_tag": "Filter search results by tag"
+"search_filter_by_category": "Filter search results by category"
+"search_title": "Search the Site"
+"search_placeholder": "Type to search..."
+"search_results_heading": "Matching pages"
+"search_min_chars": "Please enter at least 2 characters to search"
+"search_no_matches": "No matches found"
+"search_loading": "Loading..."
+"search_error_generic": "There was a problem with search. Please try again later."
+"search_untitled": "Untitled"
+"search_no_preview": "No preview available"
+## Homepage head title
+"head_title": ""
+"head_description": "DevOps / SRE — infrastructure automation, Kubernetes, CI/CD and cloud. Porto Alegre/RS, Brazil."
+## Homepage showcase
+"showcase_title": ""
+"showcase_subtitle": ""
+"showcase_description": ""
+"showcase_button": "Contact"
+## Homepage about
+"about_title": "About me"
+"about_content": ""
+"about_button": "About Me"
+## Homepage education
+"education_title": "Education"
+## Homepage experience
+"experience_button": "LinkedIn"
+"experience_button_url": "https://www.linkedin.com/in/rafaeldutra"
+"experience_button2": "Full CV"
+"experience_button2_url": "/en/cv"
+"experience_button3": "View all"
+"experience_button3_url": "/en/experience"
+## Homepage client & work
+"client_work_title": "Clients & Work"
+## Homepage newsletter
+"newsletter_title": "Newsletter"
+"newsletter_button": "Subscribe"
+"newsletter_placeholder": "Your email"
+"newsletter_success_message": "Thank you for subscribing to my newsletter!"
+"newsletter_error_message": "An error occurred. Please try again."
+"newsletter_note": "We'll never share your email with anyone else."
+## Homepage testimonials
+"testimonials_title": "Testimonials"
+## Homepage contact
+"contact_title": "Contact"
+"contact_button": "Send message"
+"contact_form_name": "Full Name"
+"contact_form_email": "Email Address"
+"contact_form_message": "Type Your Message Here"
+"contact_phone_title": "Phone Number"
+"contact_email_title": "Email"
+"contact_address_title": "Address"
+## Blog
+"read_more": "Read more"
+"published_on": "Published on "
+"continue_reading": "Continue reading"
+## Blog Stats (for list-cards layout)
+"blog_stats_posts": "Posts"
+"blog_stats_last_updated": "Last updated"
+"blog_stats_first_post": "First post"
+"blog_stats_topics": "Topics"
+"blog_stats_latest_post": "Latest post"
+## 404 Page
+"404_title": "Page not found"
+"404_description": "Sorry, but the page you were looking for could not be found."
+"404_button": "Back to homepage"
+## Related Posts
+"related_posts": "Related Posts"
+## Social Sharing
+"share_this_post": "Share this post"
+"share_on_twitter": "Share on Twitter"
+"share_on_linkedin": "Share on LinkedIn"
+"share_on_facebook": "Share on Facebook"
+"share_via_email": "Share via Email"
+"share_twitter_label": "Twitter"
+"share_linkedin_label": "LinkedIn"
+"share_facebook_label": "Facebook"
+"share_email_label": "Email"
+"share_on_bluesky": "Share on Bluesky"
+"share_bluesky_label": "Bluesky"
+"share_on_mastodon": "Share on Mastodon"
+"share_mastodon_label": "Mastodon"
+## Table of Contents
+"table_of_contents": "Table of Contents"
+## Comments
+"comments": "Comments"
+## Reading time and metadata
+"min_read": "min read"
+"last_updated": "Updated"
+## Taxonomy
+"categories": "Categories"
+"post_singular": "post"
+"post_plural": "posts"
+"tags": "Tags"
+"authors": "Authors"
+"series": "Series"
+"author_posts": "Posts by this author"
+"series_posts": "Series posts"
+"series_part": "Part"
+"recent_posts": "Recent Posts"
+"popular_tags": "Popular Tags"
+"view_all_tags": "View all tags"
+"primary_navigation": "Primary navigation"
+"footer_navigation": "Footer navigation"

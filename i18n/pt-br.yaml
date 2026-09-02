@@ -1,0 +1,126 @@
+## Meta tags
+"meta_title": ""
+## Header
+"logo_alt": ""
+"logo_text1": ""
+"logo_text2": ""
+## General
+"home": "Início"
+"skipToMainContent": "Ir para o conteúdo principal"
+"toggle_navigation": "Alternar navegação"
+## Footer
+"footer_notice": ""
+"language": "Idioma"
+"toggle_theme": "Alternar tema"
+"theme_light": "☀️ Claro"
+"theme_dark": "🌑 Escuro"
+"theme_auto": "✨ Auto"
+## Homepage head title
+"head_title": ""
+"head_description": "DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud. Porto Alegre/RS, Brasil."
+## Homepage showcase
+"showcase_title": ""
+"showcase_subtitle": ""
+"showcase_description": ""
+"showcase_button": "Contato"
+## Homepage about
+"about_title": "Quem sou eu"
+"about_content": ""
+"about_button": "Sobre mim"
+## Homepage education
+"education_title": "Educação"
+## Homepage experience
+"experience_button": "LinkedIn"
+"experience_button_url": "https://www.linkedin.com/in/rafaeldutra"
+"experience_button2": "Currículo completo"
+"experience_button2_url": "/cv"
+"experience_button3": "Ver tudo"
+"experience_button3_url": "/experience"
+## Homepage client & work
+"client_work_title": "Clientes & Trabalho"
+## Homepage newsletter
+"newsletter_title": "Newsletter"
+"newsletter_button": "Subscrever"
+"newsletter_placeholder": "Seu e-mail"
+"newsletter_success_message": "Obrigado por subscrever a minha newsletter!"
+"newsletter_error_message": "Ocorreu um erro. Por favor, tente novamente."
+"newsletter_note": "Nunca partilharemos o seu e-mail com outros."
+## Homepage testimonials
+"testimonials_title": "Testemunhos"
+## Homepage contact
+"contact_title": "Contato"
+"contact_button": "Enviar mensagem"
+"contact_form_name": "Nome completo"
+"contact_form_email": "Endereço de e-mail"
+"contact_form_message": "Digite sua mensagem aqui"
+"contact_phone_title": "Número de telefone"
+"contact_email_title": "E-mail"
+"contact_address_title": "Endereço"
+## Blog
+"read_more": "Ler mais"
+"published_on": "Publicado em "
+"continue_reading": "Continuar a ler"
+## Blog Stats (for list-cards layout)
+"blog_stats_posts": "Publicações"
+"blog_stats_last_updated": "Última atualização"
+"blog_stats_first_post": "Primeira publicação"
+"blog_stats_topics": "Tópicos"
+"blog_stats_latest_post": "Última publicação"
+## 404 Page
+"404_title": "Página não encontrada"
+"404_description": "Desculpe, mas a página que você procurava não foi encontrada."
+"404_button": "Voltar à página inicial"
+## Related Posts
+"related_posts": "Artigos relacionados"
+## Social Sharing
+"share_this_post": "Partilhar este artigo"
+"share_on_twitter": "Partilhar no Twitter"
+"share_on_linkedin": "Partilhar no LinkedIn"
+"share_on_facebook": "Partilhar no Facebook"
+"share_via_email": "Partilhar por e-mail"
+"share_twitter_label": "Twitter"
+"share_linkedin_label": "LinkedIn"
+"share_facebook_label": "Facebook"
+"share_email_label": "E-mail"
+"share_on_bluesky": "Partilhar no Bluesky"
+"share_bluesky_label": "Bluesky"
+"share_on_mastodon": "Partilhar no Mastodon"
+"share_mastodon_label": "Mastodon"
+## Table of Contents
+"table_of_contents": "Índice"
+## Comments
+"comments": "Comentários"
+## Reading time and metadata
+"min_read": "min de leitura"
+"last_updated": "Atualizado"
+## Taxonomy
+"categories": "Categorias"
+"post_singular": "post"
+"post_plural": "posts"
+"tags": "Tags"
+"authors": "Autores"
+"series": "Séries"
+"author_posts": "Posts deste autor"
+"series_posts": "Posts da série"
+"series_part": "Parte"
+"recent_posts": "Artigos recentes"
+"popular_tags": "Tags populares"
+"view_all_tags": "Ver todas as tags"
+## Color Scheme
+"color_scheme": "Esquema de cores"
+## Search
+"search_tags_label": "Tags"
+"search_categories_label": "Categorias"
+"search_filter_by_tag": "Filtrar resultados de pesquisa por tag"
+"search_filter_by_category": "Filtrar resultados de pesquisa por categoria"
+"search_title": "Pesquisar no site"
+"search_placeholder": "Digite para pesquisar..."
+"search_results_heading": "Páginas correspondentes"
+"search_min_chars": "Digite pelo menos 2 caracteres para pesquisar"
+"search_no_matches": "Nenhum resultado encontrado"
+"search_loading": "Carregando..."
+"search_error_generic": "Houve um problema com a busca. Tente novamente mais tarde."
+"search_untitled": "Sem título"
+"search_no_preview": "Nenhuma prévia disponível"
+"primary_navigation": "Navegação principal"
+"footer_navigation": "Navegação do rodapé"

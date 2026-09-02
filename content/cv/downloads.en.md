@@ -1,19 +1,12 @@
-+++
-date = "2018-09-30T12:54:24-03:00"
-title = "Curriculum"
+---
+title: "CV downloads"
+date: 2024-08-02
+---
 
-+++
+The full CV lives at **[/en/cv](/en/cv)** — to generate a PDF, use your browser's
+print button (Ctrl/Cmd + P). The theme ships a lean print layout.
 
-Here are some pages and downloads to see what I do.
-
-You will see different page versions, each one of them with more or less informations, depends what you want to see.
-
-So, feel free to reach me at social networks, or, directly at: <mailto:raffaeldutra@gmail.com>
-
-* English
-  * [Resume](/resume/rafael-dutra-resume-en.pdf)
-  * [Short Resume](/cv/mini)
-
-* Portuguese
-  * [Resume](/resume/rafael-dutra-resume.pdf)
-  * [Mini Currículum](/cv/mini)
+Rather talk? [raffaeldutra@gmail.com](mailto:raffaeldutra@gmail.com) or via
+[GitHub](https://github.com/raffaeldutra) ·
+[GitLab](https://gitlab.com/raffaeldutra) ·
+[LinkedIn](https://www.linkedin.com/in/rafaeldutra).

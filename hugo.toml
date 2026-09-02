@@ -1,0 +1,391 @@
+baseURL = "https://rafaeldutra.me/"
+title = "Rafael Dutra"
+locale = "pt-BR"
+
+defaultContentLanguage = "pt-br"
+defaultContentLanguageInSubdir = false
+
+# Necessário para o layouts/robots.txt do tema ser renderizado.
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 6
+
+[permalinks]
+post = "/:year/:month/:day/:slug"
+blog = "/blog/:year/:month/:day/:slug"
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[outputs]
+page = ["HTML"]
+home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
+topic = "topics"
+
+[module]
+[[module.imports]]
+path = "github.com/zetxek/adritian-free-hugo-theme"
+
+## Mounts base — expõe os diretórios do site ao Hugo
+[[module.mounts]]
+source = "archetypes"
+target = "archetypes"
+[[module.mounts]]
+source = "assets"
+target = "assets"
+[[module.mounts]]
+source = "i18n"
+target = "i18n"
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
+[[module.mounts]]
+source = "static"
+target = "static"
+[[module.mounts]]
+source = "content"
+target = "content"
+[[module.mounts]]
+source = "data"
+target = "data"
+
+## Mounts do Bootstrap / busca — precisam de `npm install` na raiz
+[[module.mounts]]
+source = "node_modules/bootstrap/scss"
+target = "assets/scss/bootstrap"
+[[module.mounts]]
+source = "node_modules/bootstrap/dist/js"
+target = "assets/js/bootstrap"
+[[module.mounts]]
+source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+target = "assets/js/vendor/bootstrap.bundle.min.js"
+[[module.mounts]]
+source = "node_modules/bootstrap-print-css/css/bootstrap-print.css"
+target = "assets/css/bootstrap-print.css"
+
+## Busca (fuse.js) e sanitização (DOMPurify)
+[[module.mounts]]
+source = "node_modules/fuse.js/dist/fuse.min.js"
+target = "static/js/fuse.min.js"
+[[module.mounts]]
+source = "node_modules/dompurify/dist/purify.min.js"
+target = "static/js/purify.min.js"
+
+[params]
+title = "Rafael Dutra"
+description = "DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud. Porto Alegre/RS, Brasil."
+images = ["/img/avatar-icon.png"]
+
+# Texto do logo no header (duas partes)
+logo_text1 = "Rafael"
+logo_text2 = "Dutra"
+
+# Esquema de cor de marca (vermelho do site anterior)
+[params.primaryColor]
+light = "#e60000"
+dark = "#ff5a5a"
+
+# Seletor de múltiplos esquemas de cor — recurso de demo, desligado
+[params.colorSchemeSwitcher]
+enable = false
+[params.colorSchemeSwitcher.selector.disable]
+footer = true
+header = true
+
+# Quantos itens de experiência aparecem na home
+homepageExperienceCount = 6
+
+[params.seo]
+siteName = "Rafael Dutra"
+siteDescription = "DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud."
+siteImage = "/img/avatar-icon.png"
+
+[params.seo.person]
+name = "Rafael Dutra"
+url = "https://rafaeldutra.me"
+jobTitle = "DevOps / SRE Engineer"
+sameAs = [
+  "https://github.com/raffaeldutra",
+  "https://gitlab.com/raffaeldutra",
+  "https://www.linkedin.com/in/rafaeldutra",
+  "https://twitter.com/raffaeldutra",
+]
+sections = ["showcase", "about", "education", "experience", "client-and-work", "contact"]
+
+[params.social]
+twitter = "raffaeldutra"
+
+[params.favicons]
+source = "icons/favicon.png"
+
+[params.analytics]
+vercelPageInsights = false
+vercelAnalytics = false
+[params.analytics.googleAnalytics]
+# Universal Analytics (legado). Trocar por um ID GA4 "G-..." quando disponível.
+code = "UA-92899338-1"
+enabled = true
+[params.analytics.googleTagManager]
+code = "GTM-XXXXX"
+enabled = false
+
+[build]
+writeStats = true
+[build.buildStats]
+enabledFor = ["scss"]
+disableClasses = false
+disableIDs = false
+disableTags = false
+enable = true
+
+# Plugins (CSS/JS/SCSS carregados pelo tema)
+[params.plugins]
+[[params.plugins.css]]
+URL = "css/custom.css"
+[[params.plugins.css]]
+URL = "css/adritian-icons.css"
+[[params.plugins.css]]
+URL = "css/bootstrap-print.css"
+[[params.plugins.js]]
+URL = "js/rad-animations.js"
+[[params.plugins.js]]
+URL = "js/sticky-header.js"
+[[params.plugins.js]]
+URL = "js/library/fontfaceobserver.js"
+[[params.plugins.scss]]
+URL = "scss/adritian.scss"
+
+[params.colorTheme]
+[params.colorTheme.selector.disable]
+footer = false
+header = false
+mobileHeader = false
+
+[params.sharing]
+bluesky = true
+mastodon = true
+
+[params.blog]
+layout = "sidebar-right"
+sidebarWidth = "25"
+narrowContent = true
+showCategories = true
+showRecentPosts = true
+recentPostCount = 5
+listStyle = "summary"
+listLayout = "default"
+featured_sort_by_weight = true
+featured_sort_by_date = false
+
+[params.experience]
+showJobCard = true
+
+[params.navbarOverflow]
+mode = "dropdown"
+
+[params.languages.selector.disable]
+footer = false
+header = false
+mobileHeader = false
+
+# ---------------------------------------------------------------------------
+# Idiomas
+# ---------------------------------------------------------------------------
+[languages]
+
+[languages.pt-br]
+disabled = false
+locale = "pt-BR"
+direction = "ltr"
+label = "Português"
+weight = 0
+[languages.pt-br.params]
+description = "DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud. Porto Alegre/RS, Brasil."
+[languages.pt-br.params.seo]
+siteName = "Rafael Dutra"
+siteDescription = "DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud."
+siteImage = "/img/avatar-icon.png"
+[languages.pt-br.params.footer]
+notice = "© Rafael Dutra. Conteúdo sob CC BY 4.0."
+
+[languages.pt-br.menus]
+[[languages.pt-br.menus.header]]
+name = "Início"
+URL = "/"
+weight = 1
+[[languages.pt-br.menus.header]]
+name = "Sobre"
+URL = "#about"
+weight = 2
+[[languages.pt-br.menus.header]]
+name = "Skills"
+URL = "/skills"
+weight = 3
+[[languages.pt-br.menus.header]]
+name = "Experiência"
+URL = "/experience"
+weight = 4
+[[languages.pt-br.menus.header]]
+name = "Currículo"
+URL = "/cv"
+weight = 5
+[[languages.pt-br.menus.header]]
+name = "Blog"
+URL = "/blog"
+weight = 6
+[[languages.pt-br.menus.header]]
+name = "Palestras"
+URL = "/presentations"
+weight = 7
+[[languages.pt-br.menus.header]]
+name = "Docker"
+URL = "https://docker.rafaeldutra.me"
+weight = 8
+[[languages.pt-br.menus.header]]
+pre = "search"
+name = "Busca"
+URL = "/search"
+weight = 9
+
+[[languages.pt-br.menus.footer]]
+name = "Início"
+URL = "/"
+weight = 1
+[[languages.pt-br.menus.footer]]
+name = "Sobre"
+URL = "#about"
+weight = 2
+[[languages.pt-br.menus.footer]]
+name = "Experiência"
+URL = "/experience"
+weight = 3
+[[languages.pt-br.menus.footer]]
+name = "Contato"
+URL = "#contact"
+weight = 4
+
+[languages.en]
+disabled = false
+locale = "en"
+direction = "ltr"
+label = "English"
+weight = 1
+[languages.en.params]
+description = "DevOps / SRE — infrastructure automation, Kubernetes, CI/CD and cloud. Porto Alegre/RS, Brazil."
+[languages.en.params.seo]
+siteName = "Rafael Dutra"
+siteDescription = "DevOps / SRE — infrastructure automation, Kubernetes, CI/CD and cloud."
+siteImage = "/img/avatar-icon.png"
+[languages.en.params.footer]
+notice = "© Rafael Dutra. Content under CC BY 4.0."
+
+[languages.en.menus]
+[[languages.en.menus.header]]
+name = "Home"
+URL = "/en/"
+weight = 1
+[[languages.en.menus.header]]
+name = "About"
+URL = "/en/#about"
+weight = 2
+[[languages.en.menus.header]]
+name = "Skills"
+URL = "/en/skills"
+weight = 3
+[[languages.en.menus.header]]
+name = "Experience"
+URL = "/en/experience"
+weight = 4
+[[languages.en.menus.header]]
+name = "CV"
+URL = "/en/cv"
+weight = 5
+[[languages.en.menus.header]]
+name = "Blog"
+URL = "/en/blog"
+weight = 6
+[[languages.en.menus.header]]
+name = "Talks"
+URL = "/en/presentations"
+weight = 7
+[[languages.en.menus.header]]
+name = "Docker"
+URL = "https://docker.rafaeldutra.me"
+weight = 8
+[[languages.en.menus.header]]
+pre = "search"
+name = "Search"
+URL = "/en/search"
+weight = 9
+
+[[languages.en.menus.footer]]
+name = "Home"
+URL = "/en/"
+weight = 1
+[[languages.en.menus.footer]]
+name = "About"
+URL = "/en/#about"
+weight = 2
+[[languages.en.menus.footer]]
+name = "Experience"
+URL = "/en/experience"
+weight = 3
+[[languages.en.menus.footer]]
+name = "Contact"
+URL = "/en/#contact"
+weight = 4
+
+# ---------------------------------------------------------------------------
+# Markup / imagem / minificação
+# ---------------------------------------------------------------------------
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+lineNos = false
+noClasses = false
+style = "github"
+
+[imaging]
+resampleFilter = "Lanczos"
+quality = 85
+anchor = "Smart"
+
+[minify]
+disableCSS = false
+disableHTML = false
+disableJS = false
+disableJSON = false
+disableSVG = false
+disableXML = false
+minifyOutput = true
+[minify.tdewolff.html]
+keepDefaultAttrVals = true
+keepWhitespace = false
+[minify.tdewolff.css]
+precision = 0
+[minify.tdewolff.js]
+precision = 0
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+[[related.indices]]
+name = "tags"
+weight = 100
+[[related.indices]]
+name = "date"
+weight = 10

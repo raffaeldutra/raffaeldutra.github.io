@@ -1,0 +1,17 @@
+{
+  "name": "raffaeldutra-github-io",
+  "private": true,
+  "description": "rafaeldutra.me — Hugo site on the Adritian theme",
+  "workspaces": [
+    "packages/hugoautogen"
+  ],
+  "dependencies": {
+    "dompurify": "^3.4.14",
+    "fuse.js": "^6.6.2"
+  },
+  "scripts": {
+    "pack": "hugo mod npm pack",
+    "serve": "hugo server --bind 0.0.0.0",
+    "build": "hugo --gc --minify"
+  }
+}
