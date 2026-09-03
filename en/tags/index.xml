@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on #/share</title>
-    <link>https://rafaeldutra.me/en/tags/</link>
-    <description>Recent content in Tags on #/share</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <managingEditor>raffaeldutra@gmail.com (Rafael Dutra)</managingEditor>
-    <webMaster>raffaeldutra@gmail.com (Rafael Dutra)</webMaster>
-    
-	<atom:link href="https://rafaeldutra.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Rafael Dutra</title><link>https://rafaeldutra.me/en/tags/</link><description>Recent content in Tags on Rafael Dutra</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaeldutra.me/en/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcasts</title><link>https://rafaeldutra.me/en/tags/podcasts/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://rafaeldutra.me/en/tags/podcasts/</guid><description/></item><item><title>Automation</title><link>https://rafaeldutra.me/en/tags/automation/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><guid>https://rafaeldutra.me/en/tags/automation/</guid><description/></item><item><title>Development</title><link>https://rafaeldutra.me/en/tags/development/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><guid>https://rafaeldutra.me/en/tags/development/</guid><description/></item><item><title>Docker</title><link>https://rafaeldutra.me/en/tags/docker/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><guid>https://rafaeldutra.me/en/tags/docker/</guid><description/></item><item><title>Infraestructure</title><link>https://rafaeldutra.me/en/tags/infraestructure/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><guid>https://rafaeldutra.me/en/tags/infraestructure/</guid><description/></item></channel></rss>

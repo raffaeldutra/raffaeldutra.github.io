@@ -1,526 +1,91 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-  <title>Configuração de ambiente PHP em Docker</title>
-  <meta property="og:title" content="Configuração de ambiente PHP em Docker" />
-  <meta name="twitter:title" content="Configuração de ambiente PHP em Docker" />
-  <meta name="description" content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &ldquo;funciona na minha máquina&rdquo; não funciona naquele deploy em produção, não é mesmo?
-
-">
-  <meta property="og:description" content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &ldquo;funciona na minha máquina&rdquo; não funciona naquele deploy em produção, não é mesmo?
-
-">
-  <meta name="twitter:description" content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? …">
-  <meta name="author" content="Rafael Dutra"/>
-  <link href='https://rafaeldutra.me/images/favicon.ico' rel='icon' type='image/x-icon'/>
-  <meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
-  <meta name="twitter:image" content="https://rafaeldutra.me/img/avatar-icon.png" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@raffaeldutra" />
-  <meta name="twitter:creator" content="@raffaeldutra" />
-  <meta property="og:url" content="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="#/share" />
-
-  <meta name="generator" content="Hugo 0.46" />
-  <link rel="canonical" href="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/" />
-  <link rel="alternate" href="https://rafaeldutra.me/index.xml" type="application/rss+xml" title="#/share">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://rafaeldutra.me/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <link rel="stylesheet" href="https://rafaeldutra.me/css/highlight.min.css" /><link rel="stylesheet" href="https://rafaeldutra.me/css/codeblock.css" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6990614348596318" crossorigin="anonymous"></script>
-
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
-
-
-
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-
-<div class="pswp__bg"></div>
-
-<div class="pswp__scroll-wrap">
-    
-    <div class="pswp__container">
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-    </div>
-    
-    <div class="pswp__ui pswp__ui--hidden">
-    <div class="pswp__top-bar">
-      
-      <div class="pswp__counter"></div>
-      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-      <button class="pswp__button pswp__button--share" title="Share"></button>
-      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-      
-      
-      <div class="pswp__preloader">
-        <div class="pswp__preloader__icn">
-          <div class="pswp__preloader__cut">
-            <div class="pswp__preloader__donut"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-      <div class="pswp__share-tooltip"></div>
-    </div>
-    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-    </button>
-    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-    </button>
-    <div class="pswp__caption">
-      <div class="pswp__caption__center"></div>
-    </div>
-    </div>
-    </div>
-</div>
-
-</head>
-
-  <body>
-    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-        <span class="sr-only"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="https://rafaeldutra.me">#/share</a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
-        
-          
-            <li class="navlinks-container">
-              <a class="navlinks-parent" href="javascript:void(0)">Curriculo</a>
-              <div class="navlinks-children">
-                
-                  <a href="/cv/downloads">Downloads</a>
-                
-                  <a href="/cv/me">Currículo</a>
-                
-                  <a href="/cv/experience">Experiência</a>
-                
-                  <a href="/cv/mini">Mini</a>
-                
-                  <a href="/presentations/talks">Palestras</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li>
-              <a title="Docker" href="https://docker.rafaeldutra.me">Docker</a>
-            </li>
-          
-        
-          
-            <li>
-              <a title="Sobre" href="/about/me">Sobre</a>
-            </li>
-          
-        
-
-        
-          
-            <li>
-              
-                
-                  <a href="/en" lang="en">English</a>
-                
-              
-                
-              
-            </li>
-          
-        
-
-        
-      </ul>
-    </div>
-
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        
-          <a title="#/share" href="https://rafaeldutra.me">
-            <img class="avatar-img" src="https://rafaeldutra.me/img/avatar-icon.png" alt="#/share" />
-          </a>
-        
-      </div>
-    </div>
-
-  </div>
-</nav>
-
-
-
-
-    
-  
-  
-  
-
-
-
-
-  
-
-  <header class="header-section ">
-    
-    <div class="intro-header no-img">
-      
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="blog-heading">
-              <h1>Configuração de ambiente PHP em Docker</h1>
-                
-                
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-
-    
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
-        <p>Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &ldquo;funciona na minha máquina&rdquo; não funciona naquele deploy em produção, não é mesmo?</p>
-
-<p></p>
-
-<p>O amanhã é importante para que possamos evoluir o sistema junto com a infraestrutura e é claro, ter certeza absoluta que o sistema que está funcionando em sua máquina, funcionará no no deploy em produção e assim você poderá progredir &ldquo;coisas&rdquo; de forma granular.</p>
-
-<h3 id="objetivo">Objetivo</h3>
-
-<p>Vamos iniciar em como montar o lego com Docker, ou seja, teremos alguns serviços rodando ao mesmo tempo.</p>
-
-<p>Primeiramente faremos tudo manual e ver o PHP FPM funcionando juntamente com um Webserver em dois containers isolados, após isso (em outro post) vamos escrever código para o Docker Compose e desenvolver código através dele.</p>
-
-<p>Resumindo:</p>
-
-<ul>
-<li>Criamos arquivos de configuração que serão utilizados nos containers</li>
-<li>Criaremos um container para PHP FPM</li>
-<li>Criaremos um container para o Webserver</li>
-<li>Vamos linkar dos dois containers</li>
-<li>Acessaremos em uma url e veremos o PHP funcionando</li>
-</ul>
-
-<h3 id="php">PHP</h3>
-
-<p>Quando se trata de containers, a ideia é que eles sejam mais leves possíveis e simples de utilizar. Com essa ideia em mente, poderíamos baixar uma infinidade de imagens baseadas em PHP, porém a que eu recomendo sempre são as imagens baseadas em alpine.</p>
-
-<p>Então vamos iniciar baixando a imagem para PHP 7.2 trabalhando em modo FPM, com o comando:</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">docker pull php:7.2-fpm-alpine3.6</code></pre></div>
-
-<p>As imagens para PHP você poderá visualizar neste endereço: <a href="https://hub.docker.com/_/php">https://hub.docker.com/_/php</a></p>
-
-<h3 id="nginx">Nginx</h3>
-
-<p>Como nossa ideia é trabalhar com web, nada mais justo de que termos um servidor Web, certo? existem inúmeras soluções para web, desde o mais conhecido mundialmente como o Apache, LightHTTPD, Cherokee, Caddy e etc.</p>
-
-<p>Para nossa solução, iremos utilizar o também conhecido mundialmente Nginx.</p>
-
-<p>Nginx tem um footprint super baixo e funciona em qualquer máquina simples. Primeiramente vamos baixar a imagem Docker do serviço.</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">docker pull nginx:1.13.7-alpine</code></pre></div>
-
-<h3 id="criando-arquivos">Criando arquivos</h3>
-
-<p>Vamos primeiramente criar um estrutura de diretórios para mantermos uma organização e depois passaremos para o arquivo php e depois o arquivo com a configuração para o Nginx, isso apenas para testarmos o funcionamento do processo.</p>
-
-<p>Crie a seguinte estrutura de diretórios em sua máquina</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">mkdir -p <span class="o">{</span>php,nginx/conf.d<span class="o">}</span></code></pre></div>
-
-<p>O comando acima irá resultar na seguinte estrutura:</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ tree
-.
-├── nginx
-│   └── conf.d
-└── php
-
-<span class="m">3</span> directories, <span class="m">0</span> files</code></pre></div>
-
-<h4 id="arquivo-php">arquivo.php</h4>
-
-<p>Vamos criar o arquivo.php com o conteúdo</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
-<span class="nx">phpinfo</span><span class="p">();</span>
-</code></pre></div>
-
-<p>e salvar em php/arquivo.php</p>
-
-<h4 id="php-conf">php.conf</h4>
-
-<p>Arquivo de configuração necessário para o PHP rodar no nginx.
-Salve este arquivo em nginx/php/php.conf</p>
-
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">server <span class="o">{</span>
-    listen       <span class="m">80</span><span class="p">;</span>
-    server_name  localhost<span class="p">;</span>
-
-    root   /usr/share/nginx/html<span class="p">;</span>
-    index  index.php index.html index.htm<span class="p">;</span>
-
-    location / <span class="o">{</span>
-        try_files <span class="nv">$uri</span> <span class="nv">$uri</span>/ /index.php?<span class="nv">$query_string</span><span class="p">;</span>
-    <span class="o">}</span>
-
-    error_page   <span class="m">500</span> <span class="m">502</span> <span class="m">503</span> <span class="m">504</span>  /50x.html<span class="p">;</span>
-    <span class="nv">location</span> <span class="o">=</span> /50x.html <span class="o">{</span>
-        root   /usr/share/nginx/html<span class="p">;</span>
-    <span class="o">}</span>
-
-    location ~ <span class="se">\.</span>php$ <span class="o">{</span>
-        try_files <span class="nv">$uri</span> /index.php <span class="o">=</span><span class="m">404</span><span class="p">;</span>
-        fastcgi_split_path_info ^<span class="o">(</span>.+<span class="se">\.</span>php<span class="o">)(</span>/.+<span class="o">)</span>$<span class="p">;</span>
-        fastcgi_pass php72:9000<span class="p">;</span>
-        fastcgi_index index.php<span class="p">;</span>
-        fastcgi_param SCRIPT_FILENAME <span class="nv">$document_root$fastcgi_script_name</span><span class="p">;</span>
-        include fastcgi_params<span class="p">;</span>
-    <span class="o">}</span>
-<span class="o">}</span></code></pre></div>
-
-<h3 id="rodando-a-stack">Rodando a Stack</h3>
-
-<p>Para um primeiro momento, iremos executar a stack manualmente.</p>
-
-<p>O comando abaixo irá rodar PHP 7.2 em modo FPM adicionando o arquivo.php que criamos anteriormente.
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="ln">1</span>docker run   <span class="se">\
-</span><span class="ln">2</span><span class="se"></span>--detach     <span class="se">\
-</span><span class="ln">3</span><span class="se"></span>--name php72 <span class="se">\
-</span><span class="ln">4</span><span class="se"></span>--volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\
-</span><span class="ln">5</span><span class="se"></span>php:7.2-fpm-alpine3.6</code></pre></div></p>
-
-<ul>
-<li>Linha 2: modo detach permite que o container execute em background</li>
-<li>Linha 3: nome que queremos dar para o container</li>
-<li>Linha 4: aqui montamos o arquivo.php para <strong>/usr/share/nginx/html/index.php</strong> dentro do container</li>
-<li>Linha 5: nome da imagem php que vamos utilizar</li>
-</ul>
-
-<p>O comando abaixo irá levantar outro container com um Webserver Nginx.
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="ln">1</span>  docker run <span class="se">\
-</span><span class="ln">2</span><span class="se"></span>  --detach <span class="se">\
-</span><span class="ln">3</span><span class="se"></span>  --name nginx <span class="se">\
-</span><span class="ln">4</span><span class="se"></span>  --link<span class="o">=</span>php72:php72 <span class="se">\
-</span><span class="ln">5</span><span class="se"></span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/nginx/conf.d/php.conf:/etc/nginx/conf.d/default.conf <span class="se">\
-</span><span class="ln">6</span><span class="se"></span>  --volume <span class="k">$(</span><span class="nb">pwd</span><span class="k">)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class="se">\
-</span><span class="ln">7</span><span class="se"></span>  --publish <span class="m">20000</span>:80 <span class="se">\
-</span><span class="ln">8</span><span class="se"></span>  nginx:1.13.7-alpine</code></pre></div></p>
-
-<ul>
-<li>Linha 2: modo detach permite que o container execute em background</li>
-<li>Linha 3: nome que queremos dar para o container</li>
-<li>Linha 4: aqui fazemos um link com o container chamado de php72</li>
-<li>Linha 5: aqui montamos o php.conf para <strong>/etc/nginx/conf.d/default.php</strong> dentro do container</li>
-<li>Linha 6: aqui montamos o arquivo.php para <strong>/usr/share/nginx/html/index.php</strong> dentro do container</li>
-<li>Linha 7: publicamos a porta 20000, com esta porta que conseguimos conectar em <a href="http://localhost:20000">http://localhost:20000</a>, e ela envia requisições para a porta 80 (container Nginx)</li>
-<li>Linha 8: nome da imagem nginx que vamos utilizar</li>
-</ul>
-
-<p>Agora acesse no seu browser <a href="http://localhost:20000">http://localhost:20000</a> e verifique o phpinfo.</p>
-
-<h3 id="problemas">Problemas</h3>
-
-<p>O nosso ambiente funcionou, porém temos alguns problemas usando este método:</p>
-
-<ul>
-<li>Atualizações dos containers começam a ficar trabalhosas</li>
-<li>Vários comandos são repetidos durante o uso de linha de comando.</li>
-<li>Rastreio de código, pois o código da nossa &ldquo;infraestrutura&rdquo; está baseada em comandos.</li>
-</ul>
-
-<h3 id="solução">Solução</h3>
-
-<p>Quem sabe agora podemos avançar um pouco na nossa solução?</p>
-
-<p>Temos que resolver os problemas mencionados acima e vamos resolver utilizando outro componente do Docker, vamos utilizar o Docker Compose.</p>
-
-        
-          <div class="blog-tags">
-            
-              <a href="https://rafaeldutra.me/tags/docker/">docker</a>&nbsp;
-            
-              <a href="https://rafaeldutra.me/tags/infraestructure/">infraestructure</a>&nbsp;
-            
-              <a href="https://rafaeldutra.me/tags/automation/">automation</a>&nbsp;
-            
-              <a href="https://rafaeldutra.me/tags/development/">development</a>&nbsp;
-            
-              <a href="https://rafaeldutra.me/tags/php/">php</a>&nbsp;
-            
-          </div>
-        
-
-        
-      </article>
-
-      
-        <ul class="pager blog-pager">
-          
-            <li class="previous">
-              <a href="https://rafaeldutra.me/blog/2017/02/27/docker-introduction/" data-toggle="tooltip" data-placement="top" title="Docker Introduction">&larr; </a>
-            </li>
-          
-          
-            <li class="next">
-              <a href="https://rafaeldutra.me/blog/2018/07/18/podcasts/" data-toggle="tooltip" data-placement="top" title="Podcasts"> &rarr;</a>
-            </li>
-          
-        </ul>
-      
-
-
-      
-
-    </div>
-  </div>
-</div>
-
-    <footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          
-              <li>
-                <a href="mailto:raffaeldutra@gmail.com" title="Email me">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://github.com/raffaeldutra" title="GitHub">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://gitlab.com/raffaeldutra" title="GitLab">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-gitlab fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://twitter.com/raffaeldutra" title="Twitter">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://linkedin.com/in/rafaeldutra" title="LinkedIn">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.youtube.com/watch?v=jXqfY0Nn53Q&amp;list=PLZJThJjvPpHlgV4AjZDstipTZhEuV_OIz" title="Youtube">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://telegram.me/raffaeldutra" title="Telegram">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-telegram fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-          
-          <li>
-            
-            <a href="https://rafaeldutra.me/index.xml" title="RSS">
-            
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-        </ul>
-        <p class="credits copyright text-muted">
-          
-            
-              <a href="rafaeldutra.me">Rafael Dutra</a>
-            
-          
-
-          &nbsp;&bull;&nbsp;
-          2024
-
-          
-            &nbsp;&bull;&nbsp;
-            <a href="https://rafaeldutra.me">#/share</a>
-          
-        </p>
-        
-        <p class="credits theme-by text-muted">
-          
-          
-        </p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://rafaeldutra.me/js/main.js"></script>
-<script src="https://rafaeldutra.me/js/highlight.min.js"></script>
-<script> hljs.initHighlightingOnLoad(); </script>
-<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
-<script src="https://rafaeldutra.me/js/load-photoswipe.js"></script>
-
-
-
-
-
-
-  </body>
-</html>
-
+<!doctype html><html lang=pt-br dir=ltr><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="ie=edge"><meta name=theme-color content="#e60000"><link rel=icon href=https://rafaeldutra.me/favicon.ico><link rel=icon type=image/png sizes=16x16 href=https://rafaeldutra.me/icons/icon-16.png><link rel=icon type=image/png sizes=32x32 href=https://rafaeldutra.me/icons/icon-32.png><link rel=apple-touch-icon sizes=180x180 href=https://rafaeldutra.me/icons/apple-touch-icon.png><link rel=manifest href=https://rafaeldutra.me/site.webmanifest><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","UA-92899338-1")</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-92899338-1"></script><title>Configuração de ambiente PHP em Docker | Rafael Dutra</title><meta name=description content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se …"><link rel=canonical href=https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/><link rel=alternate type=application/rss+xml href=https://rafaeldutra.me/index.xml title="Rafael Dutra"><meta name=generator-mode content="production"><style data-generator=critical-css></style><link rel=preload href="/css/bundle.min.b6ae86ec251fe28f1ca5d2b140e3ae4d27f9eac0540a2393286d9b491459617e.css" as=style onload='this.onload=null,this.rel="stylesheet"' integrity="sha256-tq6G7CUf4o8cpdKxQOOuTSf56sBUCiOTKG2bSRRZYX4=" crossorigin=anonymous><noscript><link rel=stylesheet href="/css/bundle.min.b6ae86ec251fe28f1ca5d2b140e3ae4d27f9eac0540a2393286d9b491459617e.css" integrity="sha256-tq6G7CUf4o8cpdKxQOOuTSf56sBUCiOTKG2bSRRZYX4=" crossorigin=anonymous></noscript><link rel=stylesheet href=/scss/custom-adritian.min.89d83d3127fb107363ca5c39b820bbb68574e1fbadea63ca905fa39bdf560491.css integrity="sha256-idg9MSf7EHNjylw5uCC7toV04fut6mPKkF+jm99WBJE=" crossorigin=anonymous><script>(function(){const e=localStorage.getItem("theme");if(e)if(e==="auto"){const e=window.matchMedia("(prefers-color-scheme: dark)").matches;document.documentElement.setAttribute("data-bs-theme",e?"dark":"light"),document.documentElement.setAttribute("data-theme-auto","true")}else document.documentElement.setAttribute("data-bs-theme",e);else{const e=window.matchMedia("(prefers-color-scheme: dark)").matches;document.documentElement.setAttribute("data-bs-theme",e?"dark":"light"),document.documentElement.setAttribute("data-theme-auto","true")}})()</script><script defer src=/js/color-modes.min.84082362b66e0b7eb747585dca632fdf5f2b5ae6482cebeed067d3681cdfe255.js></script><script defer src=/js/navbar-overflow.min.23d72ee1536b063e5153e662578c21e3b7e6d2242215e12fbad0b028728496ec.js data-navbar-overflow-mode=dropdown></script><link rel=preload href=https://rafaeldutra.me/js/library/lozad.min.js as=script><script async src=https://rafaeldutra.me/js/library/lozad.min.js></script><meta property="og:url" content="https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/"><meta property="og:site_name" content="Rafael Dutra"><meta property="og:title" content="Configuração de ambiente PHP em Docker"><meta property="og:description" content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema “funciona na minha máquina” não funciona naquele deploy em produção, não é mesmo?"><meta property="og:locale" content="pt_BR"><meta property="og:type" content="article"><meta property="article:section" content="blog"><meta property="article:published_time" content="2017-12-05T00:00:00+00:00"><meta property="article:modified_time" content="2017-12-05T00:00:00+00:00"><meta property="article:tag" content="Docker"><meta property="article:tag" content="Infraestructure"><meta property="article:tag" content="Automation"><meta property="article:tag" content="Development"><meta property="article:tag" content="Php"><meta property="og:image" content="https://rafaeldutra.me/img/avatar-icon.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://rafaeldutra.me/img/avatar-icon.png"><meta name=twitter:title content="Configuração de ambiente PHP em Docker"><meta name=twitter:description content="Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema “funciona na minha máquina” não funciona naquele deploy em produção, não é mesmo?"><meta name=twitter:site content="@raffaeldutra"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","description":"DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud.","image":["https://rafaeldutra.me/img/avatar-icon.png"],"inLanguage":"pt-BR","name":"Rafael Dutra","publisher":{"@type":"Person","name":"Rafael Dutra","sameAs":["https://github.com/raffaeldutra","https://gitlab.com/raffaeldutra","https://www.linkedin.com/in/rafaeldutra","https://twitter.com/raffaeldutra"],"url":"https://rafaeldutra.me"},"url":"https://rafaeldutra.me/"}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"Person","name":"Rafael Dutra","sameAs":["https://github.com/raffaeldutra","https://gitlab.com/raffaeldutra","https://www.linkedin.com/in/rafaeldutra","https://twitter.com/raffaeldutra"],"url":"https://rafaeldutra.me"}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Rafael Dutra","sameAs":["https://github.com/raffaeldutra","https://gitlab.com/raffaeldutra","https://www.linkedin.com/in/rafaeldutra","https://twitter.com/raffaeldutra"],"url":"https://rafaeldutra.me"},"dateModified":"2017-12-05T00:00:00Z","datePublished":"2017-12-05T00:00:00Z","description":"DevOps / SRE — automação de infraestrutura, Kubernetes, CI/CD e cloud.","headline":"Configuração de ambiente PHP em Docker","image":["https://rafaeldutra.me/img/avatar-icon.png"],"mainEntityOfPage":{"@id":"https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/","@type":"WebPage"},"publisher":{"@type":"Person","name":"Rafael Dutra","sameAs":["https://github.com/raffaeldutra","https://gitlab.com/raffaeldutra","https://www.linkedin.com/in/rafaeldutra","https://twitter.com/raffaeldutra"],"url":"https://rafaeldutra.me"},"url":"https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/"}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://rafaeldutra.me/","name":"Home","position":1},{"@type":"ListItem","item":"https://rafaeldutra.me/blog/","name":"Blog","position":2},{"@type":"ListItem","item":"https://rafaeldutra.me/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/","name":"Configuração de ambiente PHP em Docker","position":3}]}</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6990614348596318" crossorigin=anonymous></script><meta name=view-transition content="same-origin"></head><body class=page-2017-12-05-php-docker-environment><div class=reading-progress-bar aria-hidden=true><div class=reading-progress-fill id=reading-progress></div></div><script>document.addEventListener("DOMContentLoaded",function(){var e,n,t=document.getElementById("reading-progress");if(!t)return;if(n=document.getElementById("main-content"),!n)return;function s(){var o,e=n.getBoundingClientRect(),s=e.height-window.innerHeight;if(s<=0){t.style.width="100%";return}o=Math.min(Math.max(-e.top/s,0),1),t.style.width=o*100+"%"}e=!1;function o(){e||(requestAnimationFrame(function(){s(),e=!1}),e=!0)}window.addEventListener("scroll",o,{passive:!0}),window.addEventListener("resize",o),s()})</script><a href=#main-content class=skip-to-content-link aria-label='Ir para o conteúdo principal'>Ir para o conteúdo principal</a><header class="header fixed-top" id=header><div class=container><nav class="navbar bd-navbar navbar-expand-lg navbar-light p-0" aria-label='Navegação principal'><div class=container-fluid><a class="navbar-brand mx-auto" href=/><span>Rafael</span>
+<span>Dutra</span>
+</a><button class="navbar-toggler collapsed" type=button data-bs-toggle=collapse data-bs-target="#navbarSupportedContent, #header" aria-controls="navbarSupportedContent header" aria-expanded=false aria-label='Alternar navegação'>
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" id=navbarSupportedContent><ul class="navbar-nav ml-lg-auto"><li class=nav-item><a data-scroll class=nav-link href=/#about>SOBRE</a></li><li class=nav-item><a data-scroll class=nav-link href=/skills>SKILLS</a></li><li class=nav-item><a data-scroll class=nav-link href=/cv>CURRÍCULO</a></li><li class=nav-item><a data-scroll class=nav-link href=/presentations>PALESTRAS</a></li><li class=nav-item><a data-scroll class=nav-link href=/search><i class=icon-search aria-hidden=true></i>
+<span class=visually-hidden>Busca</span></a></li><li class="dropdown language-selector nav-item"><div id=header-language-selector class='d-grid gap-2 col-6 mx-auto nav-link dropdown'><button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show" id=btn-select-language-header type=button aria-expanded=false aria-controls=languages-dropdown-header aria-haspopup=true data-bs-toggle=dropdown data-bs-display=static aria-label=Idioma>
+<span class=label>Idioma</span></button><ul class='dropdown-menu dropdown-menu-end' id=languages-dropdown-header data-bs-popper=static><li class="dropdown-item current selected"><span>✔️ Português</span></li></ul></div></li><li class="dropdown theme-selector nav-item"><div id=header-color-selector class='d-grid gap-2 col-6 mx-auto nav-link dropdown'><button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show bd-theme-selector" id=bd-theme-header type=button aria-expanded=false aria-controls=theme-dropdown-header aria-haspopup=true data-bs-toggle=dropdown data-bs-display=static aria-label='Alternar tema'>
+<span class="theme-icon auto d-none" aria-hidden=true></span>
+<span class=current-theme>✨ Auto</span>
+<span class="d-lg-none ms-2 visually-hidden bd-theme-text" id=bd-theme-text-header>Alternar tema</span></button><ul id=theme-dropdown-header class="dropdown-menu dropdown-menu-end" aria-labelledby=bd-theme-text-header data-bs-popper=static><li><button type=button class="dropdown-item d-flex align-items-center active" data-bs-theme-value=light aria-pressed=true>
+☀️ Claro</button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=dark aria-pressed=false>
+🌑 Escuro
+<span class="theme-icon dark d-none" aria-hidden=true></span></button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=auto aria-pressed=false>
+✨ Auto
+<span class="theme-icon light d-none" aria-hidden=true></span></button></li></ul></div></li></ul></div></div></nav></div></header><section id=breadcrumb-bar class="breadcrumb-bar container"><nav aria-label=breadcrumb class=d-print-none><ol class=breadcrumbs><li class=breadcrumb-item><a href=/ class=breadcrumb-link><span class=breadcrumb-icon aria-hidden=true>🏠</span>
+<span class=breadcrumb-text>Início</span></a></li><li class=breadcrumb-item><a href=/blog/ class=breadcrumb-link><span class=breadcrumb-text>Blog</span></a></li><li class="breadcrumb-item active" aria-current=page><span class=breadcrumb-text>Configuração de ambiente PHP em Docker</span></li></ol></nav></section><main class=container><section id=blog-single class="blog blog-single section section--border-bottom rad-animation-group flex-grow-1"><article id=main-content tabindex=-1 class=blog-post aria-labelledby=blog-post-title><header class=post-header><h1 id=blog-post-title><a href=/blog/2017/12/05/configura%C3%A7%C3%A3o-de-ambiente-php-em-docker/>Configuração de ambiente PHP em Docker</a></h1><div id=meta class=light-border-bottom><div class=post-meta><div class=post-meta-info><span class=published-label>Publicado em </span><time id=date class=date datetime=2017-12-05>Tue Dec 5, 2017</time>
+<span class=meta-separator aria-hidden=true>·</span>
+<span id=wordcount class=wordcount>777 Words</span>
+<span class=meta-separator aria-hidden=true>·</span>
+<span id=reading-time class=reading-time>3 min de leitura</span>
+<span class=meta-separator aria-hidden=true>·</span>
+<span id=last-modified class=last-modified>Atualizado: Dec 5, 2017</span></div><ul class=tags><li><a href=/tags/docker/>Docker</a></li><li><a href=/tags/infraestructure/>Infraestructure</a></li><li><a href=/tags/automation/>Automation</a></li><li><a href=/tags/development/>Development</a></li><li><a href=/tags/php/>Php</a></li></ul></div></div></header><div class="row flex-column-reverse flex-md-row rad-fade-down"><div class="col-12 post-content"><p>Quando pensamos em ambientes de configuração para desenvolvimento, o que nós pensamos? em nada! digo, a maioria pensa em codificar e apenas isso. Não se pensa no amanhã e o primeiro a reclamar quem é? você mesmo quando o seu sistema &ldquo;funciona na minha máquina&rdquo; não funciona naquele deploy em produção, não é mesmo?</p><p>O amanhã é importante para que possamos evoluir o sistema junto com a infraestrutura e é claro, ter certeza absoluta que o sistema que está funcionando em sua máquina, funcionará no no deploy em produção e assim você poderá progredir &ldquo;coisas&rdquo; de forma granular.</p><h3 id=objetivo>Objetivo</h3><p>Vamos iniciar em como montar o lego com Docker, ou seja, teremos alguns serviços rodando ao mesmo tempo.</p><p>Primeiramente faremos tudo manual e ver o PHP FPM funcionando juntamente com um Webserver em dois containers isolados, após isso (em outro post) vamos escrever código para o Docker Compose e desenvolver código através dele.</p><p>Resumindo:</p><ul><li>Criamos arquivos de configuração que serão utilizados nos containers</li><li>Criaremos um container para PHP FPM</li><li>Criaremos um container para o Webserver</li><li>Vamos linkar dos dois containers</li><li>Acessaremos em uma url e veremos o PHP funcionando</li></ul><h3 id=php>PHP</h3><p>Quando se trata de containers, a ideia é que eles sejam mais leves possíveis e simples de utilizar. Com essa ideia em mente, poderíamos baixar uma infinidade de imagens baseadas em PHP, porém a que eu recomendo sempre são as imagens baseadas em alpine.</p><p>Então vamos iniciar baixando a imagem para PHP 7.2 trabalhando em modo FPM, com o comando:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>docker pull php:7.2-fpm-alpine3.6</span></span></code></pre></div><p>As imagens para PHP você poderá visualizar neste endereço: <a href=https://hub.docker.com/_/php>https://hub.docker.com/_/php</a></p><h3 id=nginx>Nginx</h3><p>Como nossa ideia é trabalhar com web, nada mais justo de que termos um servidor Web, certo? existem inúmeras soluções para web, desde o mais conhecido mundialmente como o Apache, LightHTTPD, Cherokee, Caddy e etc.</p><p>Para nossa solução, iremos utilizar o também conhecido mundialmente Nginx.</p><p>Nginx tem um footprint super baixo e funciona em qualquer máquina simples. Primeiramente vamos baixar a imagem Docker do serviço.</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>docker pull nginx:1.13.7-alpine</span></span></code></pre></div><h3 id=criando-arquivos>Criando arquivos</h3><p>Vamos primeiramente criar um estrutura de diretórios para mantermos uma organização e depois passaremos para o arquivo php e depois o arquivo com a configuração para o Nginx, isso apenas para testarmos o funcionamento do processo.</p><p>Crie a seguinte estrutura de diretórios em sua máquina</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>mkdir -p <span class=o>{</span>php,nginx/conf.d<span class=o>}</span></span></span></code></pre></div><p>O comando acima irá resultar na seguinte estrutura:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>$ tree
+</span></span><span class=line><span class=cl>.
+</span></span><span class=line><span class=cl>├── nginx
+</span></span><span class=line><span class=cl>│   └── conf.d
+</span></span><span class=line><span class=cl>└── php
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=m>3</span> directories, <span class=m>0</span> files</span></span></code></pre></div><h4 id=arquivophp>arquivo.php</h4><p>Vamos criar o arquivo.php com o conteúdo</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-php data-lang=php><span class=line><span class=cl><span class=o>&lt;?</span><span class=nx>php</span>
+</span></span><span class=line><span class=cl><span class=nx>phpinfo</span><span class=p>();</span></span></span></code></pre></div><p>e salvar em php/arquivo.php</p><h4 id=phpconf>php.conf</h4><p>Arquivo de configuração necessário para o PHP rodar no nginx.
+Salve este arquivo em nginx/php/php.conf</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>server <span class=o>{</span>
+</span></span><span class=line><span class=cl>    listen       80<span class=p>;</span>
+</span></span><span class=line><span class=cl>    server_name  localhost<span class=p>;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    root   /usr/share/nginx/html<span class=p>;</span>
+</span></span><span class=line><span class=cl>    index  index.php index.html index.htm<span class=p>;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    location / <span class=o>{</span>
+</span></span><span class=line><span class=cl>        try_files <span class=nv>$uri</span> <span class=nv>$uri</span>/ /index.php?<span class=nv>$query_string</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=o>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    error_page   <span class=m>500</span> <span class=m>502</span> <span class=m>503</span> <span class=m>504</span>  /50x.html<span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=nv>location</span> <span class=o>=</span> /50x.html <span class=o>{</span>
+</span></span><span class=line><span class=cl>        root   /usr/share/nginx/html<span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=o>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    location ~ <span class=se>\.</span>php$ <span class=o>{</span>
+</span></span><span class=line><span class=cl>        try_files <span class=nv>$uri</span> /index.php <span class=o>=</span>404<span class=p>;</span>
+</span></span><span class=line><span class=cl>        fastcgi_split_path_info ^<span class=o>(</span>.+<span class=se>\.</span>php<span class=o>)(</span>/.+<span class=o>)</span>$<span class=p>;</span>
+</span></span><span class=line><span class=cl>        fastcgi_pass php72:9000<span class=p>;</span>
+</span></span><span class=line><span class=cl>        fastcgi_index index.php<span class=p>;</span>
+</span></span><span class=line><span class=cl>        fastcgi_param SCRIPT_FILENAME <span class=nv>$document_root$fastcgi_script_name</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>        include fastcgi_params<span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=o>}</span>
+</span></span><span class=line><span class=cl><span class=o>}</span></span></span></code></pre></div><h3 id=rodando-a-stack>Rodando a Stack</h3><p>Para um primeiro momento, iremos executar a stack manualmente.</p><p>O comando abaixo irá rodar PHP 7.2 em modo FPM adicionando o arquivo.php que criamos anteriormente.<div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=ln>1</span><span class=cl>docker run   <span class=se>\
+</span></span></span><span class=line><span class=ln>2</span><span class=cl>--detach     <span class=se>\
+</span></span></span><span class=line><span class=ln>3</span><span class=cl>--name php72 <span class=se>\
+</span></span></span><span class=line><span class=ln>4</span><span class=cl>--volume <span class=k>$(</span><span class=nb>pwd</span><span class=k>)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class=se>\
+</span></span></span><span class=line><span class=ln>5</span><span class=cl>php:7.2-fpm-alpine3.6</span></span></code></pre></div></p><ul><li>Linha 2: modo detach permite que o container execute em background</li><li>Linha 3: nome que queremos dar para o container</li><li>Linha 4: aqui montamos o arquivo.php para <strong>/usr/share/nginx/html/index.php</strong> dentro do container</li><li>Linha 5: nome da imagem php que vamos utilizar</li></ul><p>O comando abaixo irá levantar outro container com um Webserver Nginx.<div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=ln>1</span><span class=cl>  docker run <span class=se>\
+</span></span></span><span class=line><span class=ln>2</span><span class=cl>  --detach <span class=se>\
+</span></span></span><span class=line><span class=ln>3</span><span class=cl>  --name nginx <span class=se>\
+</span></span></span><span class=line><span class=ln>4</span><span class=cl>  --link<span class=o>=</span>php72:php72 <span class=se>\
+</span></span></span><span class=line><span class=ln>5</span><span class=cl>  --volume <span class=k>$(</span><span class=nb>pwd</span><span class=k>)</span>/nginx/conf.d/php.conf:/etc/nginx/conf.d/default.conf <span class=se>\
+</span></span></span><span class=line><span class=ln>6</span><span class=cl>  --volume <span class=k>$(</span><span class=nb>pwd</span><span class=k>)</span>/php/arquivo.php:/usr/share/nginx/html/index.php <span class=se>\
+</span></span></span><span class=line><span class=ln>7</span><span class=cl>  --publish 20000:80 <span class=se>\
+</span></span></span><span class=line><span class=ln>8</span><span class=cl>  nginx:1.13.7-alpine</span></span></code></pre></div></p><ul><li>Linha 2: modo detach permite que o container execute em background</li><li>Linha 3: nome que queremos dar para o container</li><li>Linha 4: aqui fazemos um link com o container chamado de php72</li><li>Linha 5: aqui montamos o php.conf para <strong>/etc/nginx/conf.d/default.php</strong> dentro do container</li><li>Linha 6: aqui montamos o arquivo.php para <strong>/usr/share/nginx/html/index.php</strong> dentro do container</li><li>Linha 7: publicamos a porta 20000, com esta porta que conseguimos conectar em http://localhost:20000, e ela envia requisições para a porta 80 (container Nginx)</li><li>Linha 8: nome da imagem nginx que vamos utilizar</li></ul><p>Agora acesse no seu browser http://localhost:20000 e verifique o phpinfo.</p><h3 id=problemas>Problemas</h3><p>O nosso ambiente funcionou, porém temos alguns problemas usando este método:</p><ul><li>Atualizações dos containers começam a ficar trabalhosas</li><li>Vários comandos são repetidos durante o uso de linha de comando.</li><li>Rastreio de código, pois o código da nossa &ldquo;infraestrutura&rdquo; está baseada em comandos.</li></ul><h3 id=solução>Solução</h3><p>Quem sabe agora podemos avançar um pouco na nossa solução?</p><p>Temos que resolver os problemas mencionados acima e vamos resolver utilizando outro componente do Docker, vamos utilizar o Docker Compose.</p></div></div><aside class="social-sharing light-border-top" aria-labelledby=social-sharing-title><h3 id=social-sharing-title>Partilhar este artigo</h3><div class=share-buttons><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Frafaeldutra.me%2Fblog%2F2017%2F12%2F05%2Fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2F&text=Configura%C3%A7%C3%A3o+de+ambiente+PHP+em+Docker" target=_blank rel="noopener noreferrer" aria-label="Partilhar no Twitter" class="share-button share-twitter"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+<span>Twitter</span>
+</a><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Frafaeldutra.me%2Fblog%2F2017%2F12%2F05%2Fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2F" target=_blank rel="noopener noreferrer" aria-label="Partilhar no LinkedIn" class="share-button share-linkedin"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853.0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601.0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144.0-2.063-.926-2.063-2.065.0-1.138.92-2.063 2.063-2.063 1.14.0 2.064.925 2.064 2.063.0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225.0H1.771C.792.0.0.774.0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2.0 22.222.0h.003z"/></svg>
+<span>LinkedIn</span>
+</a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2frafaeldutra.me%2fblog%2f2017%2f12%2f05%2fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2f" target=_blank rel="noopener noreferrer" aria-label="Partilhar no Facebook" class="share-button share-facebook"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312.0 2.686.235 2.686.235v2.953H15.83c-1.491.0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+<span>Facebook</span>
+</a><a href="https://bsky.app/intent/compose?text=Configura%C3%A7%C3%A3o+de+ambiente+PHP+em+Docker%20https%3A%2F%2Frafaeldutra.me%2Fblog%2F2017%2F12%2F05%2Fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2F" target=_blank rel="noopener noreferrer" aria-label="Partilhar no Bluesky" class="share-button share-bluesky"><svg width="22" height="20" viewBox="0 0 568 501" fill="currentColor"><path d="M123.121 33.664C188.241 82.553 258.281 181.681 284 234.873c25.719-53.192 95.759-152.32 160.879-201.209C491.866-1.611 568-28.906 568 57.947 568 75.292 558.055 203.659 552.222 224.501c-20.275 72.453-94.155 90.933-159.875 79.748C507.222 323.8 536.444 388.56 473.333 453.32c-119.86 122.992-172.272-30.859-185.702-70.281C285.169 375.812 284.017 372.431 284 375.306 283.983 372.431 282.831 375.812 280.369 383.039c-13.43 39.422-65.842 193.273-185.702 70.281-63.111-64.76-33.889-129.52 80.986-149.071C109.933 315.434 36.053 296.954 15.778 224.501 9.945 203.659.0 75.292.0 57.947.0-28.906 76.135-1.611 123.121 33.664z"/></svg>
+<span>Bluesky</span>
+</a><a href="https://mastodonshare.com/?text=Configura%C3%A7%C3%A3o+de+ambiente+PHP+em+Docker%20https%3A%2F%2Frafaeldutra.me%2Fblog%2F2017%2F12%2F05%2Fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2F" target=_blank rel="noopener noreferrer" aria-label="Partilhar no Mastodon" class="share-button share-mastodon"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792.0 11.813.0h-.03c-3.98.0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057.0 00.023-.043v-1.809a.052.052.0 00-.02-.041.053.053.0 00-.046-.01 20.282 20.282.0 01-4.709.545c-2.73.0-3.463-1.284-3.674-1.818a5.593 5.593.0 01-.319-1.433.053.053.0 01.066-.054 19.648 19.648.0 004.581.564h.344c1.926.0 3.867-.15 5.75-.592.056-.013.11-.03.163-.05 2.34-.604 4.568-2.497 4.8-4.616.034-.31.063-.622.082-.937.06-.96.04-1.92.04-2.878a46.726 46.726.0 00-.062-1.656zM19.08 14.14h-2.433V8.218c0-1.245-.527-1.879-1.567-1.879-1.155.0-1.734.75-1.734 2.236v3.23h-2.42V8.575c0-1.486-.58-2.236-1.735-2.236-1.04.0-1.567.634-1.567 1.879v5.922H5.192V8.048c0-1.244.318-2.235.953-2.975.657-.74 1.515-1.12 2.583-1.12 1.235.0 2.17.474 2.777 1.42l.599.997.598-.997c.607-.946 1.542-1.42 2.778-1.42 1.067.0 1.925.38 2.582 1.12.636.74.953 1.731.953 2.975v6.092h.065z"/></svg>
+<span>Mastodon</span>
+</a><a href="mailto:?subject=Configura%c3%a7%c3%a3o%20de%20ambiente%20PHP%20em%20Docker&body=%3cp%3eQuando%20pensamos%20em%20ambientes%20de%20configura%c3%a7%c3%a3o%20para%20desenvolvimento%2c%20o%20que%20n%c3%b3s%20pensamos%3f%20em%20nada%21%20digo%2c%20a%20maioria%20pensa%20em%20codificar%20e%20apenas%20isso.%20N%c3%a3o%20se%20pensa%20no%20amanh%c3%a3%20e%20o%20primeiro%20a%20reclamar%20quem%20%c3%a9%3f%20voc%c3%aa%20mesmo%20quando%20o%20seu%20sistema%20%26ldquo%3bfunciona%20na%20minha%20m%c3%a1quina%26rdquo%3b%20n%c3%a3o%20funciona%20naquele%20deploy%20em%20produ%c3%a7%c3%a3o%2c%20n%c3%a3o%20%c3%a9%20mesmo%3f%3c%2fp%3e%0A%0Ahttps%3a%2f%2frafaeldutra.me%2fblog%2f2017%2f12%2f05%2fconfigura%25C3%25A7%25C3%25A3o-de-ambiente-php-em-docker%2f" aria-label="Partilhar por e-mail" class="share-button share-email"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+<span>E-mail</span></a></div></aside><aside class="related-posts light-border-top" aria-labelledby=related-posts-title><h3 id=related-posts-title>Artigos relacionados</h3><ul class=related-posts-list><li class=related-post-item><a href=/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/><h4>Introdução ao Docker</h4><p class=related-post-excerpt>O que é Docker? Por definição em https://opensource.com/resources/what-docker:
+Docker é uma ferramenta feita para …</p><div class=related-post-meta><span class=post-date>Feb 27, 2017</span>
+<span class=post-tags><span class=tag>Docker</span>
+<span class=tag>Infraestrutura</span></span></div></a></li></ul></aside><aside class="content-browser light-border-top">Continuar a ler<div><a class=previous href=/blog/2017/02/27/introdu%C3%A7%C3%A3o-ao-docker/>↩ Introdução ao Docker</a>
+■
+<a class=next href=/blog/2018/07/18/podcasts/>Podcasts ↪</a></div></aside></article></section></main><div class=d-print-none><footer class="footer w-100 d-print-none"><section id=contact class="section section--border-bottom rad-animation-group section--padding"><div class="container d-flex justify-content-center align-items-center"><div class="row rad-fade-down"><div class="col-12 text-center"><h2 class=section__title>Fale comigo</h2><div class=text-section__content><p><a href=mailto:raffaeldutra@gmail.com>raffaeldutra@gmail.com</a> · 🇧🇷 Porto Alegre/RS, Brasil</p><p><a href=https://github.com/raffaeldutra>GitHub</a> ·
+<a href=https://gitlab.com/raffaeldutra>GitLab</a> ·
+<a href=https://www.linkedin.com/in/rafaeldutra>LinkedIn</a></p></div></div></div></div></section><div class="container items"><div class=container><div class="row w-100 align-items-center"><div class="footer_left col-12 col-lg-4 mb-3 mb-lg-0 text-center text-lg-start"><div class=footer__copy><span>© Rafael Dutra. Conteúdo sob CC BY 4.0.</span></div></div><nav class="footer_links col-12 col-lg-6 mb-3 mb-lg-0 text-center text-lg-start" aria-label='Navegação do rodapé'><ul class="navbar-nav w-100 align-items-center justify-content-center justify-content-lg-start d-flex flex-wrap gap-2"><li class=nav-item><a class=nav-link href=/#about>SOBRE</a></li><li class=nav-item><a class=nav-link href=/#contact>CONTATO</a></li></ul></nav><div class="footer_right col-12 col-lg-2 mb-3 mb-lg-0 text-center text-lg-end"><div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-2 d-grid col-12"><div id=footer-language-selector class='d-grid gap-2 col-6 mx-auto nav-link dropdown dropup'><button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show" id=btn-select-language-footer type=button aria-expanded=false aria-controls=languages-dropdown-footer aria-haspopup=true data-bs-toggle=dropdown data-bs-display=static aria-label=Idioma>
+<span class=label>Idioma</span></button><ul class='dropdown-menu dropdown-menu-end dropup' id=languages-dropdown-footer data-bs-popper=static><li class="dropdown-item current selected"><span>✔️ Português</span></li></ul></div><div id=footer-color-selector class='d-grid gap-2 col-6 mx-auto nav-link dropdown dropup'><button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show bd-theme-selector" id=bd-theme-footer type=button aria-expanded=false aria-controls=theme-dropdown-footer aria-haspopup=true data-bs-toggle=dropdown data-bs-display=static aria-label='Alternar tema'>
+<span class="theme-icon auto d-none" aria-hidden=true></span>
+<span class=current-theme>✨ Auto</span>
+<span class="d-lg-none ms-2 visually-hidden bd-theme-text" id=bd-theme-text-footer>Alternar tema</span></button><ul id=theme-dropdown-footer class="dropdown-menu dropdown-menu-end" aria-labelledby=bd-theme-text-footer data-bs-popper=static><li><button type=button class="dropdown-item d-flex align-items-center active" data-bs-theme-value=light aria-pressed=true>
+☀️ Claro</button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=dark aria-pressed=false>
+🌑 Escuro
+<span class="theme-icon dark d-none" aria-hidden=true></span></button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=auto aria-pressed=false>
+✨ Auto
+<span class="theme-icon light d-none" aria-hidden=true></span></button></li></ul></div></div></div></div></div></div></footer></div><script>window.addEventListener("load",function(){if(typeof lozad!="undefined")try{var e=window.lozad(".lozad",{rootMargin:window.innerHeight/2+"px 0px",threshold:.01,loaded:function(e){e.setAttribute("data-loaded","true")}});e.observe()}catch(e){console.error("Lozad initialization error:",e)}})</script><script defer src=https://rafaeldutra.me/js/rad-animations.js></script><script defer src=https://rafaeldutra.me/js/library/smooth-scroll.polyfills.min.js></script><script defer src=https://rafaeldutra.me/js/sticky-header.js></script><script defer src=https://rafaeldutra.me/js/smooth-scroll-init.js></script><script defer src=https://rafaeldutra.me/js/copy-code.js></script><script defer src=https://rafaeldutra.me/js/lightbox.js></script><script defer src=/assets/js/vendor/bootstrap.bundle.min.e4fd49181388c48ec5040bd3fe66f57c29c8e67fcd8502b3354b96ec7ab47cc7.js></script><script>window.si=window.si||function(){(window.siq=window.siq||[]).push(arguments)}</script></body></html>
