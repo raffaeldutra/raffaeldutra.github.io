@@ -222,6 +222,10 @@ notice = "© Rafael Dutra. Conteúdo sob CC BY 4.0."
 
 [languages.pt-br.menus]
 [[languages.pt-br.menus.header]]
+name = "Início"
+URL = "/"
+weight = 1
+[[languages.pt-br.menus.header]]
 name = "Sobre"
 URL = "#about"
 weight = 2
@@ -230,13 +234,25 @@ name = "Skills"
 URL = "/skills"
 weight = 3
 [[languages.pt-br.menus.header]]
+name = "Experiência"
+URL = "/experience"
+weight = 4
+[[languages.pt-br.menus.header]]
 name = "Currículo"
 URL = "/cv"
 weight = 5
 [[languages.pt-br.menus.header]]
+name = "Blog"
+URL = "/blog"
+weight = 6
+[[languages.pt-br.menus.header]]
 name = "Palestras"
 URL = "/presentations"
 weight = 7
+[[languages.pt-br.menus.header]]
+name = "Docker"
+URL = "https://docker.rafaeldutra.me"
+weight = 8
 [[languages.pt-br.menus.header]]
 pre = "search"
 name = "Busca"
@@ -244,9 +260,17 @@ URL = "/search"
 weight = 9
 
 [[languages.pt-br.menus.footer]]
+name = "Início"
+URL = "/"
+weight = 1
+[[languages.pt-br.menus.footer]]
 name = "Sobre"
 URL = "#about"
 weight = 2
+[[languages.pt-br.menus.footer]]
+name = "Experiência"
+URL = "/experience"
+weight = 3
 [[languages.pt-br.menus.footer]]
 name = "Contato"
 URL = "#contact"
@@ -269,6 +293,10 @@ notice = "© Rafael Dutra. Content under CC BY 4.0."
 
 [languages.en.menus]
 [[languages.en.menus.header]]
+name = "Home"
+URL = "/en/"
+weight = 1
+[[languages.en.menus.header]]
 name = "About"
 URL = "/en/#about"
 weight = 2
@@ -277,13 +305,25 @@ name = "Skills"
 URL = "/en/skills"
 weight = 3
 [[languages.en.menus.header]]
+name = "Experience"
+URL = "/en/experience"
+weight = 4
+[[languages.en.menus.header]]
 name = "CV"
 URL = "/en/cv"
 weight = 5
 [[languages.en.menus.header]]
+name = "Blog"
+URL = "/en/blog"
+weight = 6
+[[languages.en.menus.header]]
 name = "Talks"
 URL = "/en/presentations"
 weight = 7
+[[languages.en.menus.header]]
+name = "Docker"
+URL = "https://docker.rafaeldutra.me"
+weight = 8
 [[languages.en.menus.header]]
 pre = "search"
 name = "Search"
@@ -291,9 +331,17 @@ URL = "/en/search"
 weight = 9
 
 [[languages.en.menus.footer]]
+name = "Home"
+URL = "/en/"
+weight = 1
+[[languages.en.menus.footer]]
 name = "About"
 URL = "/en/#about"
 weight = 2
+[[languages.en.menus.footer]]
+name = "Experience"
+URL = "/en/experience"
+weight = 3
 [[languages.en.menus.footer]]
 name = "Contact"
 URL = "/en/#contact"
