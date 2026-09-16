@@ -134,8 +134,7 @@ source = "icons/favicon.png"
 vercelPageInsights = false
 vercelAnalytics = false
 [params.analytics.googleAnalytics]
-# Universal Analytics (legado). Trocar por um ID GA4 "G-..." quando disponível.
-code = "UA-92899338-1"
+code = "G-YH3GT3BY4Y"
 enabled = true
 [params.analytics.googleTagManager]
 code = "GTM-XXXXX"

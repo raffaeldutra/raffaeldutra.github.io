@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+<head>
+  <title>{{ .Permalink }}</title>
+  <link rel="canonical" href="{{ .Permalink }}"/>
+  <meta name="robots" content="noindex">
+  <meta charset="utf-8" />
+  <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
+  {{ with .Site.Params.analytics.googleAnalytics }}
+    {{ if .enabled }}
+      <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","{{ .code }}")</script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ .code }}"></script>
+    {{ end }}
+  {{ end }}
+</head>
+</html>
