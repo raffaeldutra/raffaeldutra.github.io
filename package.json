@@ -6,7 +6,7 @@
     "packages/hugoautogen"
   ],
   "dependencies": {
-    "dompurify": "^3.4.14",
+    "dompurify": "^3.4.17",
     "fuse.js": "^6.6.2"
   },
   "scripts": {
